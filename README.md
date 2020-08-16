@@ -13,9 +13,9 @@ Static files being served from a server to a user's browser.
  - **Web 2.0**
 Dynamic pages that took user's information and desires into account. Asynchronous requests allow single page applications to thrive. Applications are still served from a central (federated) server.
  - **Web 3.0**
-Decentralized web. Applications exist in distributed networks instead of a central server
+Decentralized web. Applications exist in distributed networks instead of a central server. This unfederated model trades control and censorship ability for freedom and lack of 
 
-Today, the top 100 websites by traffic are [all](https://www.alexa.com/topsites) web 2.0 websites. The web 2.0 paradigm fits closely with the wider environment of large corporations saturating the economy. M
+Today, the top 100 websites by traffic are [all](https://www.alexa.com/topsites) web 2.0 websites. The web 2.0 paradigm fits closely with the wider environment of large corporations saturating the economy. More web 2.0 and 
 
 ## Defining Web 4.0
 
@@ -32,6 +32,6 @@ We will discuss these foundations one at a time
 Time tokens are distributed 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNDczMDAwNywzNjgyMTQ2NzUsNzY5MD
-kzMzIwXX0=
+eyJoaXN0b3J5IjpbNTA4OTQyMjM1LDM2ODIxNDY3NSw3NjkwOT
+MzMjBdfQ==
 -->
