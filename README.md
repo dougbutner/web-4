@@ -11,8 +11,9 @@ Before we define web 4.0, we must look briefly at the concepts of web 1.0, web 2
  - Web 1.0
 Static files being served from a server to a user's browser.
  - Web 2.0
-Dynamic pages that took user's information and desires into account. Asyncronous requests allows sin
+Dynamic pages that took user's information and desires into account. Asynchronous requests allow single page applications to thrive. Applications are still served from a central (federated) server.
  - Web 3.0
+Decentralized web. Applications exist in distributes
 
 ## Defining Web 4.0
 
@@ -29,6 +30,6 @@ We will discuss these foundations one at a time
 Time tokens are distributed 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MjE4Nzk3LDM2ODIxNDY3NSw3NjkwOT
+eyJoaXN0b3J5IjpbNjQxNTAzNzg4LDM2ODIxNDY3NSw3NjkwOT
 MzMjBdfQ==
 -->
