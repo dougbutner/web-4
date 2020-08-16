@@ -2,7 +2,7 @@
 
 ## About This Repo 
 
-This repo features a description of the next evolution of the web, web 4.0. As the technologies emerge, this repo will also feature links to the technology associated with the web
+This repo features a description of the next evolution of the web, web 4.0. As the technologies emerge, this repo will also feature links to the  associated technologies.
 
 ## What is Web 4.0?
 
@@ -34,6 +34,6 @@ We will discuss these foundations one at a time
 Time tokens are distributed to users based on teh amount of time passes. This can be a active faucet, requiring some action by the recipient, or a passive faucet, automatically sending the cryptocurrency to the user. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU1MzExNzUwLDUwODk0MjIzNSwzNjgyMT
+eyJoaXN0b3J5IjpbNTI2NzA0NTc5LDUwODk0MjIzNSwzNjgyMT
 Q2NzUsNzY5MDkzMzIwXX0=
 -->
