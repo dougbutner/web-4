@@ -15,13 +15,13 @@ Dynamic pages that took user's information and desires into account. Asynchronou
  - **Web 3**
 Decentralized web. Applications exist in distributed networks instead of a central server. This unfederated model trades control and censorship ability for freedom and lack of opinion. 
 
-Today, the top 100 websites by traffic are [all](https://www.alexa.com/topsites) web 2.0 websites. The web 2.0 paradigm fits closely with the wider environment of large corporations saturating the economy. 
+Today, the top 100 websites by traffic are [all](https://www.alexa.com/topsites) web 2 websites. The web 2 paradigm fits closely with the wider environment of large corporations saturating the economy. 
 
 A growing portion of websites and applications today have elements of web 3 
 
 ## Defining Web 4
 
-There are 3 foundational underpinnings of web 4.0
+There are 3 foundational underpinnings of web 4
 
  1. Time-issued cryptocurrency 
  2. Biocryptographic signatures
@@ -29,11 +29,11 @@ There are 3 foundational underpinnings of web 4.0
 
 We will discuss these foundations one at a time
 
-# Time-issued cryprocurrency
+# Time-issued cryptocurrency
 
-Time tokens are distributed 
+Time tokens are distributed to users based on teh amount of time passes. This can be a active faucet, requiring some action by the recipient, or a passive faucet, automatically sending the cryptocurrency to the user. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUxOTQ4Njc0LDUwODk0MjIzNSwzNjgyMT
+eyJoaXN0b3J5IjpbOTU1MzExNzUwLDUwODk0MjIzNSwzNjgyMT
 Q2NzUsNzY5MDkzMzIwXX0=
 -->
