@@ -17,9 +17,9 @@ Decentralized web. Applications exist in distributed networks instead of a centr
 
 Today, the top 100 websites by traffic are [all](https://www.alexa.com/topsites) web 2.0 websites. The web 2.0 paradigm fits closely with the wider environment of large corporations saturating the economy. 
 
-A growing portion of websites and applications today have elements of 
+A growing portion of websites and applications today have elements of web 3 
 
-## Defining Web 4.0
+## Defining Web 4
 
 There are 3 foundational underpinnings of web 4.0
 
@@ -34,6 +34,6 @@ We will discuss these foundations one at a time
 Time tokens are distributed 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTE4MTc2MDAsNTA4OTQyMjM1LDM2OD
-IxNDY3NSw3NjkwOTMzMjBdfQ==
+eyJoaXN0b3J5IjpbMTU3MzQ1MjgyNyw1MDg5NDIyMzUsMzY4Mj
+E0Njc1LDc2OTA5MzMyMF19
 -->
