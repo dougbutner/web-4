@@ -41,7 +41,7 @@ Time tokens allow web 2 and web 3 applications to offer a provably democratic mo
 
 Time tokens
 
- 1. Time Unit
+ 1. **Time Unit**
 A time unit MUST be a superset of a timestamp. This means that a time unit is some amount (or fraction) of a second
 
 For a full description of Time Tokens, visit the  [Time Token repository](https://github.com/dougbutner/time-token). 
@@ -52,7 +52,7 @@ Provable democracy cannot be fully achieved in web 3.0, because there is no cont
 These paradigms of democracy are used primarily to determine which chain of transaction blocks is considered valid, securing a blockchain. POS and DOPS are also used to in applications like Hive to allow users to declare 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg1NDI4NjIyLDE5NTI3MjM1NTgsMTcwNT
-A2NTg1LDUwODk0MjIzNSwzNjgyMTQ2NzUsNzY5MDkzMzIwXX0=
-
+eyJoaXN0b3J5IjpbLTE2OTIzMzE2OTgsMTk1MjcyMzU1OCwxNz
+A1MDY1ODUsNTA4OTQyMjM1LDM2ODIxNDY3NSw3NjkwOTMzMjBd
+fQ==
 -->
