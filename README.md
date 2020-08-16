@@ -8,12 +8,14 @@ This repo features a description of the next evolution of the web, web 4.0. As t
 
 Before we define web 4.0, we must look briefly at the concepts of web 1.0, web 2.0, and web 3.0
 
- - Web 1.0
+ - **Web 1.0**
 Static files being served from a server to a user's browser.
- - Web 2.0
+ - **Web 2.0**
 Dynamic pages that took user's information and desires into account. Asynchronous requests allow single page applications to thrive. Applications are still served from a central (federated) server.
- - Web 3.0
-Decentralized web. Applications exist in distributes
+ - **Web 3.0**
+Decentralized web. Applications exist in distributed networks instead of a central server
+
+Today, the biggest websites by traffic are all web 2.0 websites 
 
 ## Defining Web 4.0
 
@@ -30,6 +32,6 @@ We will discuss these foundations one at a time
 Time tokens are distributed 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQxNTAzNzg4LDM2ODIxNDY3NSw3NjkwOT
+eyJoaXN0b3J5IjpbMzE2ODEzODI4LDM2ODIxNDY3NSw3NjkwOT
 MzMjBdfQ==
 -->
