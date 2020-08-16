@@ -9,6 +9,8 @@ This repo features a description of the next evolution of the web, web 4.0. As t
 Before we define web 4.0, we must look briefly at the concepts of web 1.0, web 2.0, and web 3.0
 
 
+
+
 ## Defining Web 4.0
 
 There are [3] underpinnings of web 4.0
@@ -18,5 +20,6 @@ There are [3] underpinnings of web 4.0
  3. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY4MjE0Njc1LDc2OTA5MzMyMF19
+eyJoaXN0b3J5IjpbLTExNDc2NDExNjEsMzY4MjE0Njc1LDc2OT
+A5MzMyMF19
 -->
