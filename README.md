@@ -45,8 +45,6 @@ Time tokens rely on the following concepts
 A time unit MUST be a superset of a timestamp. This means that a time unit is some amount (or fraction) of a second
  2. **Time Faucet**
 A time faucet provides any verified user with EXACTLY one time token per unit of time passed since their last faucet. A
-
-
  3. **Verified Users**
 
 
@@ -58,7 +56,7 @@ Provable democracy cannot be fully achieved in web 3.0, because there is no cont
 These paradigms of democracy are used primarily to determine which chain of transaction blocks is considered valid, securing a blockchain. POS and DOPS are also used to in applications like Hive to allow users to declare 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTEwOTQyNjUsMTk1MjcyMzU1OCwxNz
-A1MDY1ODUsNTA4OTQyMjM1LDM2ODIxNDY3NSw3NjkwOTMzMjBd
-fQ==
+eyJoaXN0b3J5IjpbLTEwODQ3NDQwOTMsLTE1NTEwOTQyNjUsMT
+k1MjcyMzU1OCwxNzA1MDY1ODUsNTA4OTQyMjM1LDM2ODIxNDY3
+NSw3NjkwOTMzMjBdfQ==
 -->
