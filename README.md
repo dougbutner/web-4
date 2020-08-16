@@ -33,14 +33,16 @@ We will discuss these concepts one at a time.
 
 # Time-issued cryptocurrency (Time Tokens) 
 
-Time tokens are distributed to users based on the amount of time passes. This can be an active faucet, requiring some action by the recipient, or a passive faucet, automatically sending the cryptocurrency to the user. 
+Time tokens are distributed to users based on the amount of time passes. This can be an active faucet; requiring some action by the recipient, or a passive faucet; automatically sending the cryptocurrency to the user. 
 
 Time tokens allow web 2 and web 3 applications to offer a provably democratic model to their users. 
 
 ## How do Time Tokens work
 
-
 Time tokens
+
+ 1. Time Unit
+A time unit MUST be 
 
 For a full description of Time Tokens, visit the  [Time Token repository](https://github.com/dougbutner/time-token). 
 
@@ -50,7 +52,7 @@ Provable democracy cannot be fully achieved in web 3.0, because there is no cont
 These paradigms of democracy are used primarily to determine which chain of transaction blocks is considered valid, securing a blockchain. POS and DOPS are also used to in applications like Hive to allow users to declare 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTA0OTc1MSwxOTUyNzIzNTU4LDE3MD
-UwNjU4NSw1MDg5NDIyMzUsMzY4MjE0Njc1LDc2OTA5MzMyMF19
-
+eyJoaXN0b3J5IjpbLTE0NjA1NDkxODMsMTk1MjcyMzU1OCwxNz
+A1MDY1ODUsNTA4OTQyMjM1LDM2ODIxNDY3NSw3NjkwOTMzMjBd
+fQ==
 -->
