@@ -23,13 +23,13 @@ A growing portion of websites and applications today have elements of web 3
 
 ## Defining Web 4
 
-There are 3 foundational underpinnings of web 4
+There are 3 conceptual underpinnings of web 4
 
  1. Time-issued cryptocurrency 
  2. Biocryptographic signatures
  3. Socioeconomic applications
 
-We will discuss these foundations one at a time
+We will discuss these concepts one at a time.
 
 # Time-issued cryptocurrency (Time Tokens) 
 
@@ -50,7 +50,7 @@ Provable democracy cannot be fully achieved in web 3.0, because there is no cont
 These paradigms of democracy are used primarily to determine which chain of transaction blocks is considered valid, securing a blockchain. POS and DOPS are also used to in applications like Hive to allow users to declare 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk2MTc2MTAsMTk1MjcyMzU1OCwxNzA1MD
-Y1ODUsNTA4OTQyMjM1LDM2ODIxNDY3NSw3NjkwOTMzMjBdfQ==
+eyJoaXN0b3J5IjpbLTE2OTA0OTc1MSwxOTUyNzIzNTU4LDE3MD
+UwNjU4NSw1MDg5NDIyMzUsMzY4MjE0Njc1LDc2OTA5MzMyMF19
 
 -->
