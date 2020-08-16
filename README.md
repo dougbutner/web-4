@@ -39,9 +39,9 @@ Time tokens allow web 2 and web 3 applications to offer a provably democratic mo
 
 Provable democracy cannot be fully achieved in web 3.0, because there is no control over how many accounts a user may control. Instead, many different models have been developed to deal with this issue, most notably, proof of work, proof of stake, and delegated proof of stake. 
 
-While these paradigms of democracy are used to determine which chain of transaction blocks is considered valid, they are also used to in applications like Hive to  
+These paradigms of democracy are used primarily to determine which chain of transaction blocks is considered valid, securing a blockchain. POS and DOPS are also used to in applications like Hive to allow users to declare 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzODgzMTIwNSw1MDg5NDIyMzUsMzY4Mj
-E0Njc1LDc2OTA5MzMyMF19
+eyJoaXN0b3J5IjpbMTcwNTA2NTg1LDUwODk0MjIzNSwzNjgyMT
+Q2NzUsNzY5MDkzMzIwXX0=
 -->
