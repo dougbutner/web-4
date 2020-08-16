@@ -13,13 +13,19 @@ Before we define web 4.0, we must look briefly at the concepts of web 1.0, web 2
 
 ## Defining Web 4.0
 
-There are [3] underpinnings of web 4.0
+There are 3 foundational underpinnings of web 4.0
 
- 1. Time-issued currency 
+ 1. Time-issued cryptocurrency 
  2. Biocryptographic signatures
- 3. 
+ 3. Socioeconomic applications
+
+We will discuss these foundations one at a time
+
+# Time-issued cryprocurrency
+
+Time 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDc2NDExNjEsMzY4MjE0Njc1LDc2OT
-A5MzMyMF19
+eyJoaXN0b3J5IjpbMTIxNTczMDYxMCwzNjgyMTQ2NzUsNzY5MD
+kzMzIwXX0=
 -->
