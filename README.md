@@ -31,15 +31,15 @@ There are 3 foundational underpinnings of web 4
 
 We will discuss these foundations one at a time
 
-# Time-issued cryptocurrency
+# Time-issued cryptocurrency (Time Tokens) 
 
 Time tokens are distributed to users based on the amount of time passes. This can be an active faucet, requiring some action by the recipient, or a passive faucet, automatically sending the cryptocurrency to the user. 
 
 Time tokens allow web 2 and web 3 applications to offer a provably democratic model to their users. 
 
-Provable democracy c in web 3.0, because there is often no control over how many account a user may c
+Provable democracy cannot be fully achieved in web 3.0, because there is no control over how many accounts a user may control. Instead, many different models of of 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MjQ1Njk1Nyw1MDg5NDIyMzUsMzY4Mj
-E0Njc1LDc2OTA5MzMyMF19
+eyJoaXN0b3J5IjpbLTE2MzEwMDAxOTgsNTA4OTQyMjM1LDM2OD
+IxNDY3NSw3NjkwOTMzMjBdfQ==
 -->
