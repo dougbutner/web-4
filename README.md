@@ -15,7 +15,7 @@ Dynamic pages that took user's information and desires into account. Asynchronou
  - **Web 3.0**
 Decentralized web. Applications exist in distributed networks instead of a central server
 
-Today, the biggest websites by traffic are all web 2.0 websites .
+Today, the top 100 websites by traffic are all web 2.0 websites .
 
 ## Defining Web 4.0
 
@@ -32,6 +32,6 @@ We will discuss these foundations one at a time
 Time tokens are distributed 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzgyMjgwMiwzNjgyMTQ2NzUsNzY5MD
-kzMzIwXX0=
+eyJoaXN0b3J5IjpbLTIwOTE1Njg2MDEsMzY4MjE0Njc1LDc2OT
+A5MzMyMF19
 -->
