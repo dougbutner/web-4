@@ -15,7 +15,9 @@ Dynamic pages that took user's information and desires into account. Asynchronou
  - **Web 3**
 Decentralized web. Applications exist in distributed networks instead of a central server. This unfederated model trades control and censorship ability for freedom and lack of opinion. 
 
-Today, the top 100 websites by traffic are [all](https://www.alexa.com/topsites) web 2 websites. The web 2 paradigm fits closely with the wider environment of large corporations saturating the economy. 
+Today, the top 100 websites by traffic are [all](https://www.alexa.com/topsites) web 2 websites. The web 2 paradigm fits closely with the wider environment of capitalism. 
+
+As more and more individuals and societies are reconsidering the place of government, censorship, and capitalism,  web 3 a
 
 A growing portion of websites and applications today have elements of web 3 
 
@@ -31,9 +33,11 @@ We will discuss these foundations one at a time
 
 # Time-issued cryptocurrency
 
-Time tokens are distributed to users based on teh amount of time passes. This can be a active faucet, requiring some action by the recipient, or a passive faucet, automatically sending the cryptocurrency to the user. 
+Time tokens are distributed to users based on the amount of time passes. This can be an active faucet, requiring some action by the recipient, or a passive faucet, automatically sending the cryptocurrency to the user. 
+
+Time tokens allow a user t
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI2NzA0NTc5LDUwODk0MjIzNSwzNjgyMT
-Q2NzUsNzY5MDkzMzIwXX0=
+eyJoaXN0b3J5IjpbLTEyOTAzMTEwMjUsNTA4OTQyMjM1LDM2OD
+IxNDY3NSw3NjkwOTMzMjBdfQ==
 -->
