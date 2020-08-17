@@ -106,11 +106,11 @@ Our job is to present the ideas that are crucial for this system to be different
 
 
 **Key Aspects** 
-1. Biometric Identification: A user is presented with an option of different biometric options used to generate a hash that can only belong to this person. 
-User can choose to either trust to perform a chosen biometric task to receive their hashed biosecret or generate it at any time from a third party provider. Any third party provider will generate the same hash by a set or open-source algorithms. 
+1. **Biometric Identification**: A user is presented with an option of different biometric options used to generate a hash that can only belong to this person. 
+User can choose to either perform a chosen biometric task to receive their hashed biosecret (trustless) or generate it at any time from a third party provide (trust). Any third party provider will generate the same hash by a set or open-source algorithms. 
 
 2. User's sensitive information and generated algorithmic results are destroyed at the layer of hashing, and not stored in any way, public or private, as the user runs the software on their local machine. 
-3. Time-psudeographic
+3. **Time-psudeographic**
 
 4. **Degradation of information**:  In systems that store high-fidelity information about the  becomes increasingly difficult to know something after it happens
 
@@ -132,11 +132,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUxNDE0NDY2LDEzNzA5MzI3NDgsLTE1MD
-UyODM3MDgsLTE5NDY5MTc2NzksLTk0OTc3MDkxMSwtMTA5ODQ1
-MjgzMCwyMDcyNDk3ODUsLTgzNTUxNzY3OCw5OTM0OTE0MTAsLT
-E4OTU4MDQ0MzcsMTU5ODMyMDQzLC0zNDU4NzY5MTMsMTY3NTQw
-MzIyMiwtMTA4ODg1MjYyMSwtNjE4MzYzMTk4LDM2MzQ3NjQyMS
-wtMTU1MTA5NDI2NSwxOTUyNzIzNTU4LDE3MDUwNjU4NSw1MDg5
-NDIyMzVdfQ==
+eyJoaXN0b3J5IjpbLTE0NzI1MjMzOTIsMTM3MDkzMjc0OCwtMT
+UwNTI4MzcwOCwtMTk0NjkxNzY3OSwtOTQ5NzcwOTExLC0xMDk4
+NDUyODMwLDIwNzI0OTc4NSwtODM1NTE3Njc4LDk5MzQ5MTQxMC
+wtMTg5NTgwNDQzNywxNTk4MzIwNDMsLTM0NTg3NjkxMywxNjc1
+NDAzMjIyLC0xMDg4ODUyNjIxLC02MTgzNjMxOTgsMzYzNDc2ND
+IxLC0xNTUxMDk0MjY1LDE5NTI3MjM1NTgsMTcwNTA2NTg1LDUw
+ODk0MjIzNV19
 -->
