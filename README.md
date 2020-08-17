@@ -46,7 +46,7 @@ A time unit MUST be a superset of a timestamp. This means that a time unit is so
  2. **Time Faucet**
 A time faucet provides any verified user with EXACTLY one time token per unit of time passed since their last faucet. This can be an active faucet; requiring some action by the recipient, or a passive faucet; automatically sending the cryptocurrency to the user.
  3. **Verified Users**
-
+Recipients of the system must be verified to be an actual human in order to receive time tokend fe
 
 
 For a full description of Time Tokens, visit the  [Time Token repository](https://github.com/dougbutner/time-token). 
@@ -57,7 +57,7 @@ Provable democracy cannot be fully achieved in web 3.0, because there is no cont
 These paradigms of democracy are used primarily to determine which chain of transaction blocks is considered valid, securing a blockchain. POS and DOPS are also used to in applications like Hive to allow users to declare 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA0NTQ3ODMsMzYzNDc2NDIxLC0xNTUxMD
-k0MjY1LDE5NTI3MjM1NTgsMTcwNTA2NTg1LDUwODk0MjIzNSwz
-NjgyMTQ2NzUsNzY5MDkzMzIwXX0=
+eyJoaXN0b3J5IjpbLTU1MjQ5NTMxMCwzNjM0NzY0MjEsLTE1NT
+EwOTQyNjUsMTk1MjcyMzU1OCwxNzA1MDY1ODUsNTA4OTQyMjM1
+LDM2ODIxNDY3NSw3NjkwOTMzMjBdfQ==
 -->
