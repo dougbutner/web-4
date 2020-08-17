@@ -91,11 +91,10 @@ It could be said that this system could be built without verification. It certai
 Our job is to present the ideas that are crucial for this system to be different, and represent true growth into web 4. 
 
 
-Key Aspects 
-Biometric Identification resonance
-Open Source - 
-Time-psudeographic
-**Degradation of information**: becomes increasingly difficult to know something after it happens
+**Key Aspects** 
+1. Biometric Identification resonance
+2. Time-psudeographic
+5. **Degradation of information**: becomes increasingly difficult to know something after it happens
 
 
 The biggest issue with biometrics is the lack of trust. The lack of trust is almost always associated with an individuals's lack of consent, not the technology itself. 
@@ -115,11 +114,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDUyODM3MDgsLTE5NDY5MTc2NzksLT
-k0OTc3MDkxMSwtMTA5ODQ1MjgzMCwyMDcyNDk3ODUsLTgzNTUx
-NzY3OCw5OTM0OTE0MTAsLTE4OTU4MDQ0MzcsMTU5ODMyMDQzLC
-0zNDU4NzY5MTMsMTY3NTQwMzIyMiwtMTA4ODg1MjYyMSwtNjE4
-MzYzMTk4LDM2MzQ3NjQyMSwtMTU1MTA5NDI2NSwxOTUyNzIzNT
-U4LDE3MDUwNjU4NSw1MDg5NDIyMzUsMzY4MjE0Njc1LDc2OTA5
-MzMyMF19
+eyJoaXN0b3J5IjpbMTA5NDc2MTA1NCwtMTUwNTI4MzcwOCwtMT
+k0NjkxNzY3OSwtOTQ5NzcwOTExLC0xMDk4NDUyODMwLDIwNzI0
+OTc4NSwtODM1NTE3Njc4LDk5MzQ5MTQxMCwtMTg5NTgwNDQzNy
+wxNTk4MzIwNDMsLTM0NTg3NjkxMywxNjc1NDAzMjIyLC0xMDg4
+ODUyNjIxLC02MTgzNjMxOTgsMzYzNDc2NDIxLC0xNTUxMDk0Mj
+Y1LDE5NTI3MjM1NTgsMTcwNTA2NTg1LDUwODk0MjIzNSwzNjgy
+MTQ2NzVdfQ==
 -->
