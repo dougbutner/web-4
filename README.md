@@ -53,7 +53,9 @@ For a full description of Time Tokens, visit the  [Time Token repository](https:
 
 ## How do Time Tokens work?
 
-Time tokens store a time unit (integer) with a unique user identifier (string), i
+Time tokens store a time unit (integer) with a unique user identifier (string) in a hash signed by the user's biocryptographic signature.
+
+
 
 
 
@@ -63,7 +65,7 @@ Provable democracy cannot be fully achieved in web 3.0, because there is no cont
 These paradigms of democracy are used primarily to determine which chain of transaction blocks is considered valid, securing a blockchain. POS and DOPS are also used to in applications like Hive to allow users to declare 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NTQwNTM0MywtMzQ1ODc2OTEzLDE2Nz
+eyJoaXN0b3J5IjpbLTUyNjIxODQwOCwtMzQ1ODc2OTEzLDE2Nz
 U0MDMyMjIsLTEwODg4NTI2MjEsLTYxODM2MzE5OCwzNjM0NzY0
 MjEsLTE1NTEwOTQyNjUsMTk1MjcyMzU1OCwxNzA1MDY1ODUsNT
 A4OTQyMjM1LDM2ODIxNDY3NSw3NjkwOTMzMjBdfQ==
