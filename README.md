@@ -84,9 +84,9 @@ These paradigms of democracy are used primarily to determine which chain of tran
 **Notes + References**
 ___
 
-[1] - Solutions like Civic have p
+[1] - Solutions like Civic have proved to be effective in verifying individuality. These services rely on government-issued Identification, and therefore pre
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1Njk5MDQ4OSw5OTM0OTE0MTAsLTE4OT
+eyJoaXN0b3J5IjpbLTgzNTUxNzY3OCw5OTM0OTE0MTAsLTE4OT
 U4MDQ0MzcsMTU5ODMyMDQzLC0zNDU4NzY5MTMsMTY3NTQwMzIy
 MiwtMTA4ODg1MjYyMSwtNjE4MzYzMTk4LDM2MzQ3NjQyMSwtMT
 U1MTA5NDI2NSwxOTUyNzIzNTU4LDE3MDUwNjU4NSw1MDg5NDIy
