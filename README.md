@@ -113,7 +113,7 @@ Provable democracy cannot be fully achieved in web 3, because there is no contro
 
 These paradigms of democracy are used primarily to determine which chain of transaction blocks is considered valid, securing a blockchain. POS and DPOS is also used to in projects like Hive to allow users to "vote" on valuable content, an early example of the democratic web. DPOS is also used for networks to determine who can access resources.
 
-However, both of these applications are not democratic in the sense that each account is not equal. In both cases, the root of democracy is in the token, not the individual, and the ownership of tokens determines the
+However, both of these applications are not democratic in the sense that each account is not equal. In both cases, the root of democracy is in the token, not the individual, and the ownership of tokens determines the voting power or processing power of an individual. 
 
 
 ## **3. Verified Recipients**
@@ -149,7 +149,7 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition. Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MTM4MDUzMywtNzYwODE1MTIsLTE3MT
+eyJoaXN0b3J5IjpbLTUzNjY1MzE4MywtNzYwODE1MTIsLTE3MT
 k4Mzc5MDIsNzM1MjUxNDUxLC0xMzUwNzc2NDIyLDEzNzA5MzI3
 NDgsLTE1MDUyODM3MDgsLTE5NDY5MTc2NzksLTk0OTc3MDkxMS
 wtMTA5ODQ1MjgzMCwyMDcyNDk3ODUsLTgzNTUxNzY3OCw5OTM0
