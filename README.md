@@ -6,7 +6,7 @@ This repo features a description of the next evolution of the web, web 4.0. As t
 
 ## What is Web 4.0?
 
-Before we define web 4.0, we must look briefly at the concepts of web 1.0, web 2.0, and web 3.0. We will remove the ".0" for the rest of this document, because it's sooo web 2.0.
+Before we define web 4.0, we must look briefly at the concepts of web 1.0, web 2.0, and web 3.0. We will remove the ".0" for the rest of this document, because it's sooo web 2.
 
  - **Web 1**
 Static files being served from a server to a user's browser.
@@ -15,9 +15,9 @@ Dynamic pages that took user's information and desires into account. Asynchronou
  - **Web 3**
 Decentralized web. Applications exist in distributed networks instead of a central server. This unfederated model trades control and censorship ability for freedom and lack of opinion. 
 
-Today, the top 100 websites by traffic are [all](https://www.alexa.com/topsites) web 2 websites. The web 2 paradigm fits closely with the wider environment of capitalism. 
+Today, the top 100 websites by traffic are [all](https://www.alexa.com/topsites) web 2 websites. The web 2 paradigm fits closely with the wider environment of corporate-owned information federation. 
 
-As more and more individuals and societies are reconsidering the place of government, censorship, and capitalism,  web 3 a
+As more and more individuals and societies are reconsidering the place of government, censorship,  federated vs unfederated power web 3 a
 
 A growing portion of websites and applications today have elements of web 3 
 
@@ -61,8 +61,8 @@ Provable democracy cannot be fully achieved in web 3.0, because there is no cont
 These paradigms of democracy are used primarily to determine which chain of transaction blocks is considered valid, securing a blockchain. POS and DOPS are also used to in applications like Hive to allow users to declare 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTMwNzkzODIsLTEwODg4NTI2MjEsLT
-YxODM2MzE5OCwzNjM0NzY0MjEsLTE1NTEwOTQyNjUsMTk1Mjcy
-MzU1OCwxNzA1MDY1ODUsNTA4OTQyMjM1LDM2ODIxNDY3NSw3Nj
-kwOTMzMjBdfQ==
+eyJoaXN0b3J5IjpbMTY3NTQwMzIyMiwtMTA4ODg1MjYyMSwtNj
+E4MzYzMTk4LDM2MzQ3NjQyMSwtMTU1MTA5NDI2NSwxOTUyNzIz
+NTU4LDE3MDUwNjU4NSw1MDg5NDIyMzUsMzY4MjE0Njc1LDc2OT
+A5MzMyMF19
 -->
