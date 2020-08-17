@@ -65,19 +65,19 @@ Time tokens store a time unit (integer) with a unique user identifier (string) i
 Time tokens are platform independent, and can be implemented on any blockchain that allows storage of small data.
 
 Here is the minimum information stored in a time token, using [JWT](https://jwt.io/introduction/) as an example
-
-    {
-      "header": {
-        "typ": "JWT",
-        "alg": "HS256"
-      },
-      "body": {
-        "time-unit": 294957,
-        "userid": "7f3e873a2c3d"
-      }
-    }
-
-And an 
+```
+{
+  "header": {
+    "typ": "JWT",
+    "alg": "HS256"
+  },
+  "body": {
+    "time-unit": 294957,
+    "userid": "7f3e873a2c3d"
+  }
+}
+```
+And an example signed JWT Time Token
 
 ```
 const header" = {
@@ -85,23 +85,20 @@ const header" = {
         "alg": "HS256"
       }
 
-const signingKey = bioKeyGenerator();//boimetric provider's key or one generated direcly by user
-
 const payloadData = {
 	"time-unit": "294957", 
 	"userid": "7f3e873a2c3d", 
 	"appData": "Lots of things"
 }
 
+const signingSecret = bioKeyGenerator();//boimetric provider's key or one generated direcly by user
 
 
 HMACSHA256(
 	base64UrlEncode(header) + "."+
 	base64UrlEncode(payloadData), 
-	secret
+	signingSecret
 )
-
-
 ```
 
 
@@ -145,11 +142,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition. Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5ODg0NzI1MSw3MzUyNTE0NTEsLTEzNT
-A3NzY0MjIsMTM3MDkzMjc0OCwtMTUwNTI4MzcwOCwtMTk0Njkx
-NzY3OSwtOTQ5NzcwOTExLC0xMDk4NDUyODMwLDIwNzI0OTc4NS
-wtODM1NTE3Njc4LDk5MzQ5MTQxMCwtMTg5NTgwNDQzNywxNTk4
-MzIwNDMsLTM0NTg3NjkxMywxNjc1NDAzMjIyLC0xMDg4ODUyNj
-IxLC02MTgzNjMxOTgsMzYzNDc2NDIxLC0xNTUxMDk0MjY1LDE5
-NTI3MjM1NThdfQ==
+eyJoaXN0b3J5IjpbNTk1ODU5MTgwLDczNTI1MTQ1MSwtMTM1MD
+c3NjQyMiwxMzcwOTMyNzQ4LC0xNTA1MjgzNzA4LC0xOTQ2OTE3
+Njc5LC05NDk3NzA5MTEsLTEwOTg0NTI4MzAsMjA3MjQ5Nzg1LC
+04MzU1MTc2NzgsOTkzNDkxNDEwLC0xODk1ODA0NDM3LDE1OTgz
+MjA0MywtMzQ1ODc2OTEzLDE2NzU0MDMyMjIsLTEwODg4NTI2Mj
+EsLTYxODM2MzE5OCwzNjM0NzY0MjEsLTE1NTEwOTQyNjUsMTk1
+MjcyMzU1OF19
 -->
