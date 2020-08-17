@@ -148,7 +148,9 @@ communicable
 # Author notes
 It is my belief that each version of the web, if we accept the "web 1, 2, 3, 4" premise, must be 1) fundamentally different than the previous, 2) be built on top of the previous version, and 3) have meaningful impact on society. 
 
-These ideas are being published in an effort to both expand and shift the path of information sciences in a . I believe that the direction presented here does two main things: 1) 
+These ideas are being published in an effort to both expand and shift the path of information science in a direction where the meaningful impact of society involves 1) equality and empowerment of each individual, which serve as the basis for social, econimic, and novel applications 2). 
+
+I believe that the direction presented here does two main things: 1) 
 
 While an argument could easily be made that DeFi is Web 4, or another emerging tech, like layers on top of blockchains (sidechains) are web 4, both of these are not new. DeFi mimics the systems of the past in a better way. Sidechains are meerly making web 3 more efficient. 
 
@@ -160,11 +162,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition. Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExODM1NDA0NCwtODM2NzI3MjA1LC01Mz
-Y2NTMxODMsLTc2MDgxNTEyLC0xNzE5ODM3OTAyLDczNTI1MTQ1
-MSwtMTM1MDc3NjQyMiwxMzcwOTMyNzQ4LC0xNTA1MjgzNzA4LC
-0xOTQ2OTE3Njc5LC05NDk3NzA5MTEsLTEwOTg0NTI4MzAsMjA3
-MjQ5Nzg1LC04MzU1MTc2NzgsOTkzNDkxNDEwLC0xODk1ODA0ND
-M3LDE1OTgzMjA0MywtMzQ1ODc2OTEzLDE2NzU0MDMyMjIsLTEw
-ODg4NTI2MjFdfQ==
+eyJoaXN0b3J5IjpbLTg1MzY5NTcsLTgzNjcyNzIwNSwtNTM2Nj
+UzMTgzLC03NjA4MTUxMiwtMTcxOTgzNzkwMiw3MzUyNTE0NTEs
+LTEzNTA3NzY0MjIsMTM3MDkzMjc0OCwtMTUwNTI4MzcwOCwtMT
+k0NjkxNzY3OSwtOTQ5NzcwOTExLC0xMDk4NDUyODMwLDIwNzI0
+OTc4NSwtODM1NTE3Njc4LDk5MzQ5MTQxMCwtMTg5NTgwNDQzNy
+wxNTk4MzIwNDMsLTM0NTg3NjkxMywxNjc1NDAzMjIyLC0xMDg4
+ODUyNjIxXX0=
 -->
