@@ -17,13 +17,15 @@ Dynamic pages that took user's information and desires into account. Asynchronou
 Decentralized web. Applications exist in distributed networks instead of a central server. This unfederated model trades control and censorship ability for freedom and lack of opinion. 
 
  - **Web 4**
-Democratic web. Enabling meaningful layers on top of current socioeconomic systems built on time-minted crypto versitiele which gains utility in how it is spent. 
+Democratic web. Enabling meaningful layers on top of current socioeconomic systems built on time-minted crypto versatile which gains utility in how it is spent. 
 
 Today, the top 100 websites by traffic are [all](https://www.alexa.com/topsites) web 2 websites. The web 2 paradigm fits closely with the wider environment of corporate-owned information federation. 
 
 As more and more individuals and societies are reconsidering the place of government, censorship,   and federated vs unfederated power, web 3 is emerging as a powerful, provable option to shape the evolution of society on planet Earth. 
 
-A growing portion of websites and applications today have elements of web 3 
+A growing portion of websites and applications today have elements of web 3, though t
+
+This may be the case indefinitely, as each layer is buylt
 
 ## Defining Web 4
 Web 4 introduces provably democratic systems built on top of web 3's open-source decentralized networks. 
@@ -113,10 +115,10 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDI1NzY0ODksLTEwOTg0NTI4MzAsMj
-A3MjQ5Nzg1LC04MzU1MTc2NzgsOTkzNDkxNDEwLC0xODk1ODA0
-NDM3LDE1OTgzMjA0MywtMzQ1ODc2OTEzLDE2NzU0MDMyMjIsLT
-EwODg4NTI2MjEsLTYxODM2MzE5OCwzNjM0NzY0MjEsLTE1NTEw
-OTQyNjUsMTk1MjcyMzU1OCwxNzA1MDY1ODUsNTA4OTQyMjM1LD
-M2ODIxNDY3NSw3NjkwOTMzMjBdfQ==
+eyJoaXN0b3J5IjpbMTMxMDI4Njk3MCwtMTA5ODQ1MjgzMCwyMD
+cyNDk3ODUsLTgzNTUxNzY3OCw5OTM0OTE0MTAsLTE4OTU4MDQ0
+MzcsMTU5ODMyMDQzLC0zNDU4NzY5MTMsMTY3NTQwMzIyMiwtMT
+A4ODg1MjYyMSwtNjE4MzYzMTk4LDM2MzQ3NjQyMSwtMTU1MTA5
+NDI2NSwxOTUyNzIzNTU4LDE3MDUwNjU4NSw1MDg5NDIyMzUsMz
+Y4MjE0Njc1LDc2OTA5MzMyMF19
 -->
