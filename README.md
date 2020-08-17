@@ -126,7 +126,7 @@ Our job is to present the ideas that are crucial for this system to be different
 1. **Biometric Identification**: A user is presented with an option of different biometric options used to generate a hash that can only belong to this person. 
 User can choose to either perform a chosen biometric task to receive their hashed biosecret (trustless) or generate it at any time from a third party provide (trust). Any third party provider will generate the same hash by a set or open-source algorithms. 
 
-2. **Trustless Trustfulness** User's sensitive bo information and generated algorithmic results are destroyed at the layer of hashing, and not stored in any way, public or private, as the user runs the software on their local machine. 
+2. **Trustless Trustfulness** User's sensitive biological information and generated algorithmic results are destroyed (made impossible to reconstruct) at the layer of hashing, and data not stored in any way, public or private, as the user runs the software on their local machine (assuming they choose the open-source API).
 3. **Time-psudeoanonymous**
 
 4. **Degradation of information**:  In systems that store high-fidelity information about the  becomes increasingly difficult to know something after it happens
@@ -147,6 +147,8 @@ communicable
 Notable differences in M
 
 
+# Roadmap 
+
 
 # Author notes
 It is my belief that each version of the web must be 1) fundamentally different than the previous, 2) be built on top of the previous version, and 3) have meaningful impact on society. 
@@ -162,11 +164,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition. Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDMwMTY1NzEsLTcyMzg5OTM1MCwtMT
-kyNzMzNDA2MiwtODM2NzI3MjA1LC01MzY2NTMxODMsLTc2MDgx
-NTEyLC0xNzE5ODM3OTAyLDczNTI1MTQ1MSwtMTM1MDc3NjQyMi
-wxMzcwOTMyNzQ4LC0xNTA1MjgzNzA4LC0xOTQ2OTE3Njc5LC05
-NDk3NzA5MTEsLTEwOTg0NTI4MzAsMjA3MjQ5Nzg1LC04MzU1MT
-c2NzgsOTkzNDkxNDEwLC0xODk1ODA0NDM3LDE1OTgzMjA0Mywt
-MzQ1ODc2OTEzXX0=
+eyJoaXN0b3J5IjpbMTc4NjcxNDM5OCwtNzIzODk5MzUwLC0xOT
+I3MzM0MDYyLC04MzY3MjcyMDUsLTUzNjY1MzE4MywtNzYwODE1
+MTIsLTE3MTk4Mzc5MDIsNzM1MjUxNDUxLC0xMzUwNzc2NDIyLD
+EzNzA5MzI3NDgsLTE1MDUyODM3MDgsLTE5NDY5MTc2NzksLTk0
+OTc3MDkxMSwtMTA5ODQ1MjgzMCwyMDcyNDk3ODUsLTgzNTUxNz
+Y3OCw5OTM0OTE0MTAsLTE4OTU4MDQ0MzcsMTU5ODMyMDQzLC0z
+NDU4NzY5MTNdfQ==
 -->
