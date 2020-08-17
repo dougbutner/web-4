@@ -26,9 +26,9 @@ Web 4 introduces provably democratic systems built on top of web 3's decentraliz
 
 There are 3 conceptual underpinnings of web 4
 
- 1. Time-issued cryptocurrency 
- 2. Biocryptographic signatures
- 3. Socioeconomic applications
+ 1. **Time-issued cryptocurrency** 
+ 2. **Biocryptographic signatures**
+ 3. **Socioeconomic applications**
 
 We will discuss these concepts one at a time.
 
@@ -78,8 +78,9 @@ Provable democracy cannot be fully achieved in web 3.0, because there is no cont
 These paradigms of democracy are used primarily to determine which chain of transaction blocks is considered valid, securing a blockchain. POS and DOPS are also used to in applications like Hive to allow users to declare 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5ODMyMDQzLC0zNDU4NzY5MTMsMTY3NT
-QwMzIyMiwtMTA4ODg1MjYyMSwtNjE4MzYzMTk4LDM2MzQ3NjQy
-MSwtMTU1MTA5NDI2NSwxOTUyNzIzNTU4LDE3MDUwNjU4NSw1MD
-g5NDIyMzUsMzY4MjE0Njc1LDc2OTA5MzMyMF19
+eyJoaXN0b3J5IjpbLTE4OTU4MDQ0MzcsMTU5ODMyMDQzLC0zND
+U4NzY5MTMsMTY3NTQwMzIyMiwtMTA4ODg1MjYyMSwtNjE4MzYz
+MTk4LDM2MzQ3NjQyMSwtMTU1MTA5NDI2NSwxOTUyNzIzNTU4LD
+E3MDUwNjU4NSw1MDg5NDIyMzUsMzY4MjE0Njc1LDc2OTA5MzMy
+MF19
 -->
