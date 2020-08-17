@@ -2,11 +2,11 @@
 
 ## About This Repo 
 
-This repo features a description of the next evolution of the web, web 4.0. As the technologies emerge, this repo will also feature links to the  associated technologies.
+This README features a description of the next evolution of the web, web 4.0. As the technologies emerge, this repo will also feature code and links to the  associated technologies.
 
 ## What is Web 4.0?
 
-Before we define web 4.0, we must look briefly at the concepts of web 1.0, web 2.0, and web 3.0. We will remove the ".0" for the rest of this document, because it's sooo web 2.
+Before we define web 4.0, we must look briefly at the concepts of web 1.0, web 2.0, and web 3.0. We will remove the ".0" for the rest of this document, because that's sooo web 2.
 
  - **Web 1**
 Static files being served from a server to a user's browser.
@@ -28,7 +28,7 @@ There are 3 conceptual underpinnings of web 4
 
  1. **Time-issued cryptocurrency** 
  2. **Biocryptographic signatures**
- 3. **Socioeconomic applications**
+ 3. **Socioeconomic Layers**
 
 We will discuss these concepts one at a time.
 
@@ -78,9 +78,9 @@ Provable democracy cannot be fully achieved in web 3.0, because there is no cont
 These paradigms of democracy are used primarily to determine which chain of transaction blocks is considered valid, securing a blockchain. POS and DOPS are also used to in applications like Hive to allow users to declare 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTU4MDQ0MzcsMTU5ODMyMDQzLC0zND
-U4NzY5MTMsMTY3NTQwMzIyMiwtMTA4ODg1MjYyMSwtNjE4MzYz
-MTk4LDM2MzQ3NjQyMSwtMTU1MTA5NDI2NSwxOTUyNzIzNTU4LD
-E3MDUwNjU4NSw1MDg5NDIyMzUsMzY4MjE0Njc1LDc2OTA5MzMy
-MF19
+eyJoaXN0b3J5IjpbOTkzNDkxNDEwLC0xODk1ODA0NDM3LDE1OT
+gzMjA0MywtMzQ1ODc2OTEzLDE2NzU0MDMyMjIsLTEwODg4NTI2
+MjEsLTYxODM2MzE5OCwzNjM0NzY0MjEsLTE1NTEwOTQyNjUsMT
+k1MjcyMzU1OCwxNzA1MDY1ODUsNTA4OTQyMjM1LDM2ODIxNDY3
+NSw3NjkwOTMzMjBdfQ==
 -->
