@@ -17,7 +17,7 @@ Dynamic pages that took user's information and desires into account. Asynchronou
 Decentralized web. Applications exist in distributed networks instead of a central server. This unfederated model trades control and censorship ability for freedom and lack of opinion. 
 
  - **Web 4**
-Time web. Layers on top of current socioeconomic systems built on time-limited currency that is given freely to recipients. 
+Democratic web. Enabling meaningful layers on top of current socioeconomic systems built on time-limited cryptocurrency that is given freely to recipients. 
 
 Today, the top 100 websites by traffic are [all](https://www.alexa.com/topsites) web 2 websites. The web 2 paradigm fits closely with the wider environment of corporate-owned information federation. 
 
@@ -106,10 +106,10 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjkyMDcxNDMsMjA3MjQ5Nzg1LC04Mz
-U1MTc2NzgsOTkzNDkxNDEwLC0xODk1ODA0NDM3LDE1OTgzMjA0
-MywtMzQ1ODc2OTEzLDE2NzU0MDMyMjIsLTEwODg4NTI2MjEsLT
-YxODM2MzE5OCwzNjM0NzY0MjEsLTE1NTEwOTQyNjUsMTk1Mjcy
-MzU1OCwxNzA1MDY1ODUsNTA4OTQyMjM1LDM2ODIxNDY3NSw3Nj
-kwOTMzMjBdfQ==
+eyJoaXN0b3J5IjpbLTQ2NjM0MDgyNCwyMDcyNDk3ODUsLTgzNT
+UxNzY3OCw5OTM0OTE0MTAsLTE4OTU4MDQ0MzcsMTU5ODMyMDQz
+LC0zNDU4NzY5MTMsMTY3NTQwMzIyMiwtMTA4ODg1MjYyMSwtNj
+E4MzYzMTk4LDM2MzQ3NjQyMSwtMTU1MTA5NDI2NSwxOTUyNzIz
+NTU4LDE3MDUwNjU4NSw1MDg5NDIyMzUsMzY4MjE0Njc1LDc2OT
+A5MzMyMF19
 -->
