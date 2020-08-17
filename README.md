@@ -152,15 +152,14 @@ This proposal for the next iteration of the web is an effort to both expand and 
 
 While an argument could easily be made that DeFi is Web 4, or another emerging tech, like layers on top of blockchains (sidechains) are web 4, both of these are not new. DeFi mimics the systems of the past in a better way. Sidechains are merely making web 3 more efficient. 
 
-
-
+It is my hope that the information presented here will be expanded on and implemented by many developers and systems in the coming years, not for the benefit of the few, but for the empowerment of each individual and the harmony of the human collective. 
 
 **Notes + References**
 ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition. Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ5MzI3ODEyLC0xOTI3MzM0MDYyLC04Mz
+eyJoaXN0b3J5IjpbMzg0MDAzMDYwLC0xOTI3MzM0MDYyLC04Mz
 Y3MjcyMDUsLTUzNjY1MzE4MywtNzYwODE1MTIsLTE3MTk4Mzc5
 MDIsNzM1MjUxNDUxLC0xMzUwNzc2NDIyLDEzNzA5MzI3NDgsLT
 E1MDUyODM3MDgsLTE5NDY5MTc2NzksLTk0OTc3MDkxMSwtMTA5
