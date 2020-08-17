@@ -52,10 +52,11 @@ For a full description of Time Tokens, visit the  [Time Token repository](https:
 
 
 ## How do Time Tokens work?
-
 Time tokens store a time unit (integer) with a unique user identifier (string) in a hash signed by the user's biocryptographic signature.
 
-Here i
+Time tokens are platform independent, and can be implemented on any blockchain that allows storage of small data.
+
+Here is the minimum information stored in a time token, using JWT as an example
 
     {
       "header": {
@@ -76,7 +77,7 @@ Provable democracy cannot be fully achieved in web 3.0, because there is no cont
 These paradigms of democracy are used primarily to determine which chain of transaction blocks is considered valid, securing a blockchain. POS and DOPS are also used to in applications like Hive to allow users to declare 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDEwMzk4MzIsLTM0NTg3NjkxMywxNj
+eyJoaXN0b3J5IjpbLTE0NzMxNTY1NTgsLTM0NTg3NjkxMywxNj
 c1NDAzMjIyLC0xMDg4ODUyNjIxLC02MTgzNjMxOTgsMzYzNDc2
 NDIxLC0xNTUxMDk0MjY1LDE5NTI3MjM1NTgsMTcwNTA2NTg1LD
 UwODk0MjIzNSwzNjgyMTQ2NzUsNzY5MDkzMzIwXX0=
