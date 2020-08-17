@@ -94,18 +94,17 @@ const payloadData = {
 const signingSecret = bioKeyGenerator();//boimetric provider's key or one generated direcly by user
 
 
-yourSignedTiTo = HMACSHA256(
+signature = HMACSHA256(
 	base64UrlEncode(header) + "."+
 	base64UrlEncode(payloadData), 
 	signingSecret
 )
 ```
 
-You can see that this example used only web 2 technology, as JWT doesn't imply decentralized use 
+You can see that this example used only web 2 technology, as JWT doesn't imply decentralized use. Which begs the question:
 
 
 ## Why can't web 3 do this?
-
 
 Provable democracy cannot be fully achieved in web 3.0, because there is no control over how many accounts a user may open.[2] Instead, many different models have been developed to deal with this issue, most notably, proof of work, proof of stake, and delegated proof of stake. 
 
@@ -145,11 +144,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition. Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MDgxNTEyLC0xNzE5ODM3OTAyLDczNT
-I1MTQ1MSwtMTM1MDc3NjQyMiwxMzcwOTMyNzQ4LC0xNTA1Mjgz
-NzA4LC0xOTQ2OTE3Njc5LC05NDk3NzA5MTEsLTEwOTg0NTI4Mz
-AsMjA3MjQ5Nzg1LC04MzU1MTc2NzgsOTkzNDkxNDEwLC0xODk1
-ODA0NDM3LDE1OTgzMjA0MywtMzQ1ODc2OTEzLDE2NzU0MDMyMj
-IsLTEwODg4NTI2MjEsLTYxODM2MzE5OCwzNjM0NzY0MjEsLTE1
-NTEwOTQyNjVdfQ==
+eyJoaXN0b3J5IjpbOTM4NDIwMzk4LC03NjA4MTUxMiwtMTcxOT
+gzNzkwMiw3MzUyNTE0NTEsLTEzNTA3NzY0MjIsMTM3MDkzMjc0
+OCwtMTUwNTI4MzcwOCwtMTk0NjkxNzY3OSwtOTQ5NzcwOTExLC
+0xMDk4NDUyODMwLDIwNzI0OTc4NSwtODM1NTE3Njc4LDk5MzQ5
+MTQxMCwtMTg5NTgwNDQzNywxNTk4MzIwNDMsLTM0NTg3NjkxMy
+wxNjc1NDAzMjIyLC0xMDg4ODUyNjIxLC02MTgzNjMxOTgsMzYz
+NDc2NDIxXX0=
 -->
