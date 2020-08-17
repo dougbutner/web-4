@@ -83,16 +83,24 @@ var nJwt = require('njwt');
 
 var signingKey = bioKeyGenerator();//boimetric provider's key or one generated direcly by user
 
-var tito = {
+const payloadData = {
 	"time-unit": "294957", 
 	"userid": "7f3e873a2c3d", 
 	"appData": "Lots of things"
 }
 
-var jwt = nJwt.create(tito,signingKey);
+
+
+HMACSHA256(
+	base64UrlEncode(header) + "."+
+	base64UrlEncode(payloadData), 
+	secret
+)
+
+
 ```
 
-HMACSHA256( base64UrlEncode(header) + "." + base64UrlEncode(payload), secret)
+
 
 ## Why can't web 3 do this?
 Provable democracy cannot be fully achieved in web 3.0, because there is no control over how many accounts a user may open.[2] Instead, many different models have been developed to deal with this issue, most notably, proof of work, proof of stake, and delegated proof of stake. 
@@ -133,7 +141,7 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition. Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5ODgyMTc3LDczNTI1MTQ1MSwtMTM1MD
+eyJoaXN0b3J5IjpbNTE3NDM2MzE1LDczNTI1MTQ1MSwtMTM1MD
 c3NjQyMiwxMzcwOTMyNzQ4LC0xNTA1MjgzNzA4LC0xOTQ2OTE3
 Njc5LC05NDk3NzA5MTEsLTEwOTg0NTI4MzAsMjA3MjQ5Nzg1LC
 04MzU1MTc2NzgsOTkzNDkxNDEwLC0xODk1ODA0NDM3LDE1OTgz
