@@ -83,7 +83,7 @@ These paradigms of democracy are used primarily to determine which chain of tran
 
 
 ## **3. Verified Recipients**
-It could be said that this system could be built without verification. It certainly could. This will no-doubt happen, as different pe
+It could be said that this system could be built without verification. It certainly could. This will no-doubt happen, as different people implement this 
 
 
 
@@ -106,10 +106,10 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNTU4NzIyOSwyMDcyNDk3ODUsLTgzNT
-UxNzY3OCw5OTM0OTE0MTAsLTE4OTU4MDQ0MzcsMTU5ODMyMDQz
-LC0zNDU4NzY5MTMsMTY3NTQwMzIyMiwtMTA4ODg1MjYyMSwtNj
-E4MzYzMTk4LDM2MzQ3NjQyMSwtMTU1MTA5NDI2NSwxOTUyNzIz
-NTU4LDE3MDUwNjU4NSw1MDg5NDIyMzUsMzY4MjE0Njc1LDc2OT
-A5MzMyMF19
+eyJoaXN0b3J5IjpbLTEwOTg0NTI4MzAsMjA3MjQ5Nzg1LC04Mz
+U1MTc2NzgsOTkzNDkxNDEwLC0xODk1ODA0NDM3LDE1OTgzMjA0
+MywtMzQ1ODc2OTEzLDE2NzU0MDMyMjIsLTEwODg4NTI2MjEsLT
+YxODM2MzE5OCwzNjM0NzY0MjEsLTE1NTEwOTQyNjUsMTk1Mjcy
+MzU1OCwxNzA1MDY1ODUsNTA4OTQyMjM1LDM2ODIxNDY3NSw3Nj
+kwOTMzMjBdfQ==
 -->
