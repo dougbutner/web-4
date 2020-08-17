@@ -23,9 +23,7 @@ Today, the top 100 websites by traffic are [all](https://www.alexa.com/topsites)
 
 As more and more individuals and societies are reconsidering the place of government, censorship,   and federated vs unfederated power, web 3 is emerging as a powerful, provable option to shape the evolution of society on planet Earth. 
 
-A growing portion of websites and applications today have elements of web 3, though t
-
-This may be the case indefinitely, as each layer is buylt
+A growing portion of web 2 websites and applications today have elements of web 3, like [cryptoblogs](https://peakd.com) and [games], web 2. While web 2 and web 3 can operate independently
 
 ## Defining Web 4
 Web 4 introduces provably democratic systems built on top of web 3's open-source decentralized networks. 
@@ -115,7 +113,7 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMDI4Njk3MCwtMTA5ODQ1MjgzMCwyMD
+eyJoaXN0b3J5IjpbMTQ1MzY3NTUwMSwtMTA5ODQ1MjgzMCwyMD
 cyNDk3ODUsLTgzNTUxNzY3OCw5OTM0OTE0MTAsLTE4OTU4MDQ0
 MzcsMTU5ODMyMDQzLC0zNDU4NzY5MTMsMTY3NTQwMzIyMiwtMT
 A4ODg1MjYyMSwtNjE4MzYzMTk4LDM2MzQ3NjQyMSwtMTU1MTA5
