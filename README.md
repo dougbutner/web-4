@@ -126,7 +126,7 @@ Our job is to present the ideas that are crucial for this system to be different
 1. **Biometric Identification**: A user is presented with an option of different biometric options used to generate a hash that can only belong to this person. 
 User can choose to either perform a chosen biometric task to receive their hashed biosecret (trustless) or generate it at any time from a third party provide (trust). Any third party provider will generate the same hash by a set or open-source algorithms. 
 
-2. **Trustless Trustfulness** User's sensitive information and generated algorithmic results are destroyed at the layer of hashing, and not stored in any way, public or private, as the user runs the software on their local machine. 
+2. **Trustless Trustfulness** User's sensitive bo information and generated algorithmic results are destroyed at the layer of hashing, and not stored in any way, public or private, as the user runs the software on their local machine. 
 3. **Time-psudeoanonymous**
 
 4. **Degradation of information**:  In systems that store high-fidelity information about the  becomes increasingly difficult to know something after it happens
@@ -162,11 +162,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition. Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMzg5OTM1MCwtMTkyNzMzNDA2MiwtOD
-M2NzI3MjA1LC01MzY2NTMxODMsLTc2MDgxNTEyLC0xNzE5ODM3
-OTAyLDczNTI1MTQ1MSwtMTM1MDc3NjQyMiwxMzcwOTMyNzQ4LC
-0xNTA1MjgzNzA4LC0xOTQ2OTE3Njc5LC05NDk3NzA5MTEsLTEw
-OTg0NTI4MzAsMjA3MjQ5Nzg1LC04MzU1MTc2NzgsOTkzNDkxND
-EwLC0xODk1ODA0NDM3LDE1OTgzMjA0MywtMzQ1ODc2OTEzLDE2
-NzU0MDMyMjJdfQ==
+eyJoaXN0b3J5IjpbLTIwMDMwMTY1NzEsLTcyMzg5OTM1MCwtMT
+kyNzMzNDA2MiwtODM2NzI3MjA1LC01MzY2NTMxODMsLTc2MDgx
+NTEyLC0xNzE5ODM3OTAyLDczNTI1MTQ1MSwtMTM1MDc3NjQyMi
+wxMzcwOTMyNzQ4LC0xNTA1MjgzNzA4LC0xOTQ2OTE3Njc5LC05
+NDk3NzA5MTEsLTEwOTg0NTI4MzAsMjA3MjQ5Nzg1LC04MzU1MT
+c2NzgsOTkzNDkxNDEwLC0xODk1ODA0NDM3LDE1OTgzMjA0Mywt
+MzQ1ODc2OTEzXX0=
 -->
