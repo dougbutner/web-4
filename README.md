@@ -105,6 +105,8 @@ You can see that the only new information provided is the time unit ide
 
 
 ## Why can't web 3 do this?
+
+
 Provable democracy cannot be fully achieved in web 3.0, because there is no control over how many accounts a user may open.[2] Instead, many different models have been developed to deal with this issue, most notably, proof of work, proof of stake, and delegated proof of stake. 
 
 These paradigms of democracy are used primarily to determine which chain of transaction blocks is considered valid, securing a blockchain. POS and DOPS are also used to in applications like Hive to allow users to declare 
@@ -143,11 +145,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition. Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTk4Mzc5MDIsNzM1MjUxNDUxLC0xMz
-UwNzc2NDIyLDEzNzA5MzI3NDgsLTE1MDUyODM3MDgsLTE5NDY5
-MTc2NzksLTk0OTc3MDkxMSwtMTA5ODQ1MjgzMCwyMDcyNDk3OD
-UsLTgzNTUxNzY3OCw5OTM0OTE0MTAsLTE4OTU4MDQ0MzcsMTU5
-ODMyMDQzLC0zNDU4NzY5MTMsMTY3NTQwMzIyMiwtMTA4ODg1Mj
-YyMSwtNjE4MzYzMTk4LDM2MzQ3NjQyMSwtMTU1MTA5NDI2NSwx
-OTUyNzIzNTU4XX0=
+eyJoaXN0b3J5IjpbLTEyNDY3NTkzMzgsLTE3MTk4Mzc5MDIsNz
+M1MjUxNDUxLC0xMzUwNzc2NDIyLDEzNzA5MzI3NDgsLTE1MDUy
+ODM3MDgsLTE5NDY5MTc2NzksLTk0OTc3MDkxMSwtMTA5ODQ1Mj
+gzMCwyMDcyNDk3ODUsLTgzNTUxNzY3OCw5OTM0OTE0MTAsLTE4
+OTU4MDQ0MzcsMTU5ODMyMDQzLC0zNDU4NzY5MTMsMTY3NTQwMz
+IyMiwtMTA4ODg1MjYyMSwtNjE4MzYzMTk4LDM2MzQ3NjQyMSwt
+MTU1MTA5NDI2NV19
 -->
