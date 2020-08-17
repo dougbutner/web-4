@@ -12,11 +12,12 @@ Before we define web 4.0, we must look briefly at the concepts of web 1.0, web 2
 Static files being served from a server to a user's browser.
  - **Web 2**
 Dynamic pages that took user's information and desires into account. Asynchronous requests allow single page applications to thrive. Applications are still served from a central (federated) server.
+
  - **Web 3**
 Decentralized web. Applications exist in distributed networks instead of a central server. This unfederated model trades control and censorship ability for freedom and lack of opinion. 
 
  - **Web 4**
-Time web. Applications exist in distributed networks instead of a central server. This unfederated model trades control and censorship ability for freedom and lack of opinion. 
+Time web. Layers on top of current socioeconomic systems built on time-limited currency that is given freely to recipients
 
 Today, the top 100 websites by traffic are [all](https://www.alexa.com/topsites) web 2 websites. The web 2 paradigm fits closely with the wider environment of corporate-owned information federation. 
 
@@ -102,9 +103,9 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzU2MTExNzUsLTgzNTUxNzY3OCw5OT
-M0OTE0MTAsLTE4OTU4MDQ0MzcsMTU5ODMyMDQzLC0zNDU4NzY5
-MTMsMTY3NTQwMzIyMiwtMTA4ODg1MjYyMSwtNjE4MzYzMTk4LD
-M2MzQ3NjQyMSwtMTU1MTA5NDI2NSwxOTUyNzIzNTU4LDE3MDUw
-NjU4NSw1MDg5NDIyMzUsMzY4MjE0Njc1LDc2OTA5MzMyMF19
+eyJoaXN0b3J5IjpbLTU1ODgzODI5MywtODM1NTE3Njc4LDk5Mz
+Q5MTQxMCwtMTg5NTgwNDQzNywxNTk4MzIwNDMsLTM0NTg3Njkx
+MywxNjc1NDAzMjIyLC0xMDg4ODUyNjIxLC02MTgzNjMxOTgsMz
+YzNDc2NDIxLC0xNTUxMDk0MjY1LDE5NTI3MjM1NTgsMTcwNTA2
+NTg1LDUwODk0MjIzNSwzNjgyMTQ2NzUsNzY5MDkzMzIwXX0=
 -->
