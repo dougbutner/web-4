@@ -17,7 +17,7 @@ Dynamic pages that took user's information and desires into account. Asynchronou
 Decentralized web. Applications exist in distributed networks instead of a central server. This unfederated model trades control and censorship ability for freedom and lack of opinion. 
 
  - **Web 4**
-Democratic web. Enabling meaningful layers on top of current socioeconomic systems built on time-minted crypto income that is given freely to verified recipients. 
+Democratic web. Enabling meaningful layers on top of current socioeconomic systems built on time-minted crypto versitiele which gains utility in how it is spent. 
 
 Today, the top 100 websites by traffic are [all](https://www.alexa.com/topsites) web 2 websites. The web 2 paradigm fits closely with the wider environment of corporate-owned information federation. 
 
@@ -83,7 +83,7 @@ These paradigms of democracy are used primarily to determine which chain of tran
 
 
 ## **3. Verified Recipients**
-It could be said that this system could be built without verification. It certainly could. This will no-doubt happen, as different people implement this 
+It could be said that this system could be built without verification. It certainly could. This will no-doubt happen, as different people implement web 4 in their own 
 
 
 
@@ -106,10 +106,10 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MTg5NzE4MSwtMTA5ODQ1MjgzMCwyMD
-cyNDk3ODUsLTgzNTUxNzY3OCw5OTM0OTE0MTAsLTE4OTU4MDQ0
-MzcsMTU5ODMyMDQzLC0zNDU4NzY5MTMsMTY3NTQwMzIyMiwtMT
-A4ODg1MjYyMSwtNjE4MzYzMTk4LDM2MzQ3NjQyMSwtMTU1MTA5
-NDI2NSwxOTUyNzIzNTU4LDE3MDUwNjU4NSw1MDg5NDIyMzUsMz
-Y4MjE0Njc1LDc2OTA5MzMyMF19
+eyJoaXN0b3J5IjpbLTEyMTg1NzA4NDYsLTEwOTg0NTI4MzAsMj
+A3MjQ5Nzg1LC04MzU1MTc2NzgsOTkzNDkxNDEwLC0xODk1ODA0
+NDM3LDE1OTgzMjA0MywtMzQ1ODc2OTEzLDE2NzU0MDMyMjIsLT
+EwODg4NTI2MjEsLTYxODM2MzE5OCwzNjM0NzY0MjEsLTE1NTEw
+OTQyNjUsMTk1MjcyMzU1OCwxNzA1MDY1ODUsNTA4OTQyMjM1LD
+M2ODIxNDY3NSw3NjkwOTMzMjBdfQ==
 -->
