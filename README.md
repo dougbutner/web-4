@@ -80,9 +80,10 @@ These paradigms of democracy are used primarily to determine which chain of tran
 
 ## **3. Verified Recipients**
 
-Time-psudeographic
 
-Degradation of information
+Bioresonance
+Time-psudeographic
+Degradation of information - becomes increasingly difficult to know something after it happens
 
 
 
@@ -95,7 +96,7 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzYwMzA4NiwtODM1NTE3Njc4LDk5Mz
+eyJoaXN0b3J5IjpbLTk1NDkxMTk4NSwtODM1NTE3Njc4LDk5Mz
 Q5MTQxMCwtMTg5NTgwNDQzNywxNTk4MzIwNDMsLTM0NTg3Njkx
 MywxNjc1NDAzMjIyLC0xMDg4ODUyNjIxLC02MTgzNjMxOTgsMz
 YzNDc2NDIxLC0xNTUxMDk0MjY1LDE5NTI3MjM1NTgsMTcwNTA2
