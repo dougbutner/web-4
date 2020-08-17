@@ -111,8 +111,8 @@ Web 2 is not a viable candidate for this because the federated nature means that
 
 Provable democracy cannot be fully achieved in web 3, because there is no control over how many accounts a user may open.[2] Instead, many different models have been developed to deal with this issue, most notably, proof of work, proof of stake, and delegated proof of stake. 
 
-These paradigms of democracy are used primarily to determine which chain of transaction blocks is considered valid, securing a blockchain. POS and DOPS are also used to in applications like Hive to allow users to "vote" on valuable content, an early example of the democratic web
-
+These paradigms of democracy are used primarily to determine which chain of transaction blocks is considered valid, securing a blockchain. POS and DPOS is also used to in projects like Hive to allow users to "vote" on valuable content, an early example of the democratic web. DPOS is also used for networks to determine who 
+However, the
 
 
 ## **3. Verified Recipients**
@@ -148,11 +148,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition. Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMzk0MzM4LC03NjA4MTUxMiwtMTcxOT
-gzNzkwMiw3MzUyNTE0NTEsLTEzNTA3NzY0MjIsMTM3MDkzMjc0
-OCwtMTUwNTI4MzcwOCwtMTk0NjkxNzY3OSwtOTQ5NzcwOTExLC
-0xMDk4NDUyODMwLDIwNzI0OTc4NSwtODM1NTE3Njc4LDk5MzQ5
-MTQxMCwtMTg5NTgwNDQzNywxNTk4MzIwNDMsLTM0NTg3NjkxMy
-wxNjc1NDAzMjIyLC0xMDg4ODUyNjIxLC02MTgzNjMxOTgsMzYz
-NDc2NDIxXX0=
+eyJoaXN0b3J5IjpbLTE4MzU5ODEwMiwtNzYwODE1MTIsLTE3MT
+k4Mzc5MDIsNzM1MjUxNDUxLC0xMzUwNzc2NDIyLDEzNzA5MzI3
+NDgsLTE1MDUyODM3MDgsLTE5NDY5MTc2NzksLTk0OTc3MDkxMS
+wtMTA5ODQ1MjgzMCwyMDcyNDk3ODUsLTgzNTUxNzY3OCw5OTM0
+OTE0MTAsLTE4OTU4MDQ0MzcsMTU5ODMyMDQzLC0zNDU4NzY5MT
+MsMTY3NTQwMzIyMiwtMTA4ODg1MjYyMSwtNjE4MzYzMTk4LDM2
+MzQ3NjQyMV19
 -->
