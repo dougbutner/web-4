@@ -144,16 +144,21 @@ communicable
 # The experience of Web 4
 
 
+
+# Author notes
+These ideas are being published in an effort to both expand and shift the path of information sciences in a direction that . 
+
+
 **Notes + References**
 ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition. Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNjcyNzIwNSwtNTM2NjUzMTgzLC03Nj
-A4MTUxMiwtMTcxOTgzNzkwMiw3MzUyNTE0NTEsLTEzNTA3NzY0
-MjIsMTM3MDkzMjc0OCwtMTUwNTI4MzcwOCwtMTk0NjkxNzY3OS
-wtOTQ5NzcwOTExLC0xMDk4NDUyODMwLDIwNzI0OTc4NSwtODM1
-NTE3Njc4LDk5MzQ5MTQxMCwtMTg5NTgwNDQzNywxNTk4MzIwND
-MsLTM0NTg3NjkxMywxNjc1NDAzMjIyLC0xMDg4ODUyNjIxLC02
-MTgzNjMxOThdfQ==
+eyJoaXN0b3J5IjpbNzc2MDcwOTcxLC04MzY3MjcyMDUsLTUzNj
+Y1MzE4MywtNzYwODE1MTIsLTE3MTk4Mzc5MDIsNzM1MjUxNDUx
+LC0xMzUwNzc2NDIyLDEzNzA5MzI3NDgsLTE1MDUyODM3MDgsLT
+E5NDY5MTc2NzksLTk0OTc3MDkxMSwtMTA5ODQ1MjgzMCwyMDcy
+NDk3ODUsLTgzNTUxNzY3OCw5OTM0OTE0MTAsLTE4OTU4MDQ0Mz
+csMTU5ODMyMDQzLC0zNDU4NzY5MTMsMTY3NTQwMzIyMiwtMTA4
+ODg1MjYyMV19
 -->
