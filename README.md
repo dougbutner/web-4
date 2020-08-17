@@ -92,7 +92,7 @@ Our job is to present the ideas that are crucial for this system to be different
 
 
 **Key Aspects** 
-1. Biometric Identification resonance
+1. Biometric Identification: A user is presented with an option of different biometric options used to generate a hash that can only belong to this perso
 2. Time-psudeographic
 5. **Degradation of information**: becomes increasingly difficult to know something after it happens
 
@@ -114,11 +114,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NDc2MTA1NCwtMTUwNTI4MzcwOCwtMT
-k0NjkxNzY3OSwtOTQ5NzcwOTExLC0xMDk4NDUyODMwLDIwNzI0
-OTc4NSwtODM1NTE3Njc4LDk5MzQ5MTQxMCwtMTg5NTgwNDQzNy
-wxNTk4MzIwNDMsLTM0NTg3NjkxMywxNjc1NDAzMjIyLC0xMDg4
-ODUyNjIxLC02MTgzNjMxOTgsMzYzNDc2NDIxLC0xNTUxMDk0Mj
-Y1LDE5NTI3MjM1NTgsMTcwNTA2NTg1LDUwODk0MjIzNSwzNjgy
-MTQ2NzVdfQ==
+eyJoaXN0b3J5IjpbLTE3MDU0MjIzMjgsLTE1MDUyODM3MDgsLT
+E5NDY5MTc2NzksLTk0OTc3MDkxMSwtMTA5ODQ1MjgzMCwyMDcy
+NDk3ODUsLTgzNTUxNzY3OCw5OTM0OTE0MTAsLTE4OTU4MDQ0Mz
+csMTU5ODMyMDQzLC0zNDU4NzY5MTMsMTY3NTQwMzIyMiwtMTA4
+ODg1MjYyMSwtNjE4MzYzMTk4LDM2MzQ3NjQyMSwtMTU1MTA5ND
+I2NSwxOTUyNzIzNTU4LDE3MDUwNjU4NSw1MDg5NDIyMzUsMzY4
+MjE0Njc1XX0=
 -->
