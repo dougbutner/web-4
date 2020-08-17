@@ -17,7 +17,7 @@ Dynamic pages that took user's information and desires into account. Asynchronou
 Decentralized web. Open-source applications exist in distributed networks instead of a central server. This unfederated model trades control and censorship ability for freedom and lack of opinion. 
 
  - **Web 4**
-Democratic web. Enabling meaningful layers on top of current socioeconomic systems built on time-minted crypto versatile which gains utility in how it is spent. 
+Time web. Enabling meaningful layers on top of current socioeconomic systems built on time-minted crypto versatile which gains utility in how it is spent. 
 
 Today, the top 100 websites by traffic are [all](https://www.alexa.com/topsites) web 2 websites. The web 2 paradigm fits closely with the wider environment of corporate-owned information federation. 
 
@@ -132,13 +132,13 @@ communicable
 **Notes + References**
 ___
 
-[1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition.
+[1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition. Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNjIxMDM0MiwxMzcwOTMyNzQ4LC0xNT
-A1MjgzNzA4LC0xOTQ2OTE3Njc5LC05NDk3NzA5MTEsLTEwOTg0
-NTI4MzAsMjA3MjQ5Nzg1LC04MzU1MTc2NzgsOTkzNDkxNDEwLC
-0xODk1ODA0NDM3LDE1OTgzMjA0MywtMzQ1ODc2OTEzLDE2NzU0
-MDMyMjIsLTEwODg4NTI2MjEsLTYxODM2MzE5OCwzNjM0NzY0Mj
-EsLTE1NTEwOTQyNjUsMTk1MjcyMzU1OCwxNzA1MDY1ODUsNTA4
-OTQyMjM1XX0=
+eyJoaXN0b3J5IjpbLTEzNTA3NzY0MjIsMTM3MDkzMjc0OCwtMT
+UwNTI4MzcwOCwtMTk0NjkxNzY3OSwtOTQ5NzcwOTExLC0xMDk4
+NDUyODMwLDIwNzI0OTc4NSwtODM1NTE3Njc4LDk5MzQ5MTQxMC
+wtMTg5NTgwNDQzNywxNTk4MzIwNDMsLTM0NTg3NjkxMywxNjc1
+NDAzMjIyLC0xMDg4ODUyNjIxLC02MTgzNjMxOTgsMzYzNDc2ND
+IxLC0xNTUxMDk0MjY1LDE5NTI3MjM1NTgsMTcwNTA2NTg1LDUw
+ODk0MjIzNV19
 -->
