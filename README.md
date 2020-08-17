@@ -92,9 +92,9 @@ Our job is to present the ideas that are crucial for this system to be different
 
 
 **Key Aspects** 
-1. Biometric Identification: A user is presented with an option of different biometric options used to generate a hash that can only belong to this perso
-2. Time-psudeographic
-5. **Degradation of information**: becomes increasingly difficult to know something after it happens
+1. Biometric Identification: A user is presented with an option of different biometric options used to generate a hash that can only belong to this person. 
+3. Time-psudeographic
+2. **Degradation of information**: User's sensitive information and generated algorithmic results are destroyed at the layer of hashing, and not stored in any way, public or private. In systems that store high-fidelity information about  becomes increasingly difficult to know something after it happens
 
 
 The biggest issue with biometrics is the lack of trust. The lack of trust is almost always associated with an individuals's lack of consent, not the technology itself. 
@@ -114,11 +114,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDU0MjIzMjgsLTE1MDUyODM3MDgsLT
-E5NDY5MTc2NzksLTk0OTc3MDkxMSwtMTA5ODQ1MjgzMCwyMDcy
-NDk3ODUsLTgzNTUxNzY3OCw5OTM0OTE0MTAsLTE4OTU4MDQ0Mz
-csMTU5ODMyMDQzLC0zNDU4NzY5MTMsMTY3NTQwMzIyMiwtMTA4
-ODg1MjYyMSwtNjE4MzYzMTk4LDM2MzQ3NjQyMSwtMTU1MTA5ND
-I2NSwxOTUyNzIzNTU4LDE3MDUwNjU4NSw1MDg5NDIyMzUsMzY4
-MjE0Njc1XX0=
+eyJoaXN0b3J5IjpbOTk1OTEyOTg0LC0xNTA1MjgzNzA4LC0xOT
+Q2OTE3Njc5LC05NDk3NzA5MTEsLTEwOTg0NTI4MzAsMjA3MjQ5
+Nzg1LC04MzU1MTc2NzgsOTkzNDkxNDEwLC0xODk1ODA0NDM3LD
+E1OTgzMjA0MywtMzQ1ODc2OTEzLDE2NzU0MDMyMjIsLTEwODg4
+NTI2MjEsLTYxODM2MzE5OCwzNjM0NzY0MjEsLTE1NTEwOTQyNj
+UsMTk1MjcyMzU1OCwxNzA1MDY1ODUsNTA4OTQyMjM1LDM2ODIx
+NDY3NV19
 -->
