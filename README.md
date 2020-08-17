@@ -22,7 +22,7 @@ As more and more individuals and societies are reconsidering the place of govern
 A growing portion of websites and applications today have elements of web 3 
 
 ## Defining Web 4
-Web 4 introduces democratic systems built on top of web 3. Web 4 is a res
+Web 4 introduces provably democratic systems built on top of web 3's decentralized networks. 
 
 There are 3 conceptual underpinnings of web 4
 
@@ -78,7 +78,7 @@ Provable democracy cannot be fully achieved in web 3.0, because there is no cont
 These paradigms of democracy are used primarily to determine which chain of transaction blocks is considered valid, securing a blockchain. POS and DOPS are also used to in applications like Hive to allow users to declare 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkxNTI5MjE0LC0zNDU4NzY5MTMsMTY3NT
+eyJoaXN0b3J5IjpbMTU5ODMyMDQzLC0zNDU4NzY5MTMsMTY3NT
 QwMzIyMiwtMTA4ODg1MjYyMSwtNjE4MzYzMTk4LDM2MzQ3NjQy
 MSwtMTU1MTA5NDI2NSwxOTUyNzIzNTU4LDE3MDUwNjU4NSw1MD
 g5NDIyMzUsMzY4MjE0Njc1LDc2OTA5MzMyMF19
