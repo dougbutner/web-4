@@ -146,11 +146,11 @@ communicable
 
 
 # Author notes
-These ideas are being published in an effort to both expand and shift the path of information sciences in a direction that has not been implemented in other technological and social systems before. 
+These ideas are being published in an effort to both expand and shift the path of information sciences in a direction that has not been implemented in other technological and social systems before. This direction is one which I have invested years to research, conceptualize, and build. 
 
 While an argument could easily be made that DeFi is Web 4, or another emerging tech, like layers on top of blockchains (sidechains) are web 4, both of these are not new. DeFi mimics the systems of the past in a better way. Sidechains are meerly making web 3 more efficient. 
 
-It is my belief that each version of the web, if we accept the "web 1, 2, 3, 4" premise, must be 
+It is my belief that each version of the web, if we accept the "web 1, 2, 3, 4" premise, must be 1) fundamentally different than the previous, and 2) be built on top of the previous version. 
 
 
 **Notes + References**
@@ -158,7 +158,7 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition. Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzOTkzMDg4OSwtODM2NzI3MjA1LC01Mz
+eyJoaXN0b3J5IjpbMTc5MzI1MDQ5OSwtODM2NzI3MjA1LC01Mz
 Y2NTMxODMsLTc2MDgxNTEyLC0xNzE5ODM3OTAyLDczNTI1MTQ1
 MSwtMTM1MDc3NjQyMiwxMzcwOTMyNzQ4LC0xNTA1MjgzNzA4LC
 0xOTQ2OTE3Njc5LC05NDk3NzA5MTEsLTEwOTg0NTI4MzAsMjA3
