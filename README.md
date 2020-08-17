@@ -101,11 +101,11 @@ yourSignedTiTo = HMACSHA256(
 )
 ```
 
-You can see that the only new information provided is the time unit ide
+You can see that this example used only web 2 technology, as JWT doesn't imply decentralized use 
 
 
 ## Why can't web 3 do this?
-You'll see we just provided this example 
+
 
 Provable democracy cannot be fully achieved in web 3.0, because there is no control over how many accounts a user may open.[2] Instead, many different models have been developed to deal with this issue, most notably, proof of work, proof of stake, and delegated proof of stake. 
 
@@ -145,11 +145,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition. Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzM1NTc2MTQsLTE3MTk4Mzc5MDIsNz
-M1MjUxNDUxLC0xMzUwNzc2NDIyLDEzNzA5MzI3NDgsLTE1MDUy
-ODM3MDgsLTE5NDY5MTc2NzksLTk0OTc3MDkxMSwtMTA5ODQ1Mj
-gzMCwyMDcyNDk3ODUsLTgzNTUxNzY3OCw5OTM0OTE0MTAsLTE4
-OTU4MDQ0MzcsMTU5ODMyMDQzLC0zNDU4NzY5MTMsMTY3NTQwMz
-IyMiwtMTA4ODg1MjYyMSwtNjE4MzYzMTk4LDM2MzQ3NjQyMSwt
-MTU1MTA5NDI2NV19
+eyJoaXN0b3J5IjpbLTc2MDgxNTEyLC0xNzE5ODM3OTAyLDczNT
+I1MTQ1MSwtMTM1MDc3NjQyMiwxMzcwOTMyNzQ4LC0xNTA1Mjgz
+NzA4LC0xOTQ2OTE3Njc5LC05NDk3NzA5MTEsLTEwOTg0NTI4Mz
+AsMjA3MjQ5Nzg1LC04MzU1MTc2NzgsOTkzNDkxNDEwLC0xODk1
+ODA0NDM3LDE1OTgzMjA0MywtMzQ1ODc2OTEzLDE2NzU0MDMyMj
+IsLTEwODg4NTI2MjEsLTYxODM2MzE5OCwzNjM0NzY0MjEsLTE1
+NTEwOTQyNjVdfQ==
 -->
