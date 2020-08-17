@@ -26,7 +26,7 @@ As more and more individuals and societies are reconsidering the place of govern
 A growing portion of websites and applications today have elements of web 3 
 
 ## Defining Web 4
-Web 4 introduces provably democratic systems built on top of web 3's decentralized networks. 
+Web 4 introduces provably democratic systems built on top of web 3's open-source decentralized networks. 
 
 There are 3 conceptual underpinnings of web 4
 
@@ -52,6 +52,7 @@ A time unit MUST be a superset of a timestamp. This means that a time unit is so
 A time faucet provides any verified user with EXACTLY one time token per unit of time passed since their last faucet. This can be an active faucet; requiring some action by the recipient, or a passive faucet; automatically sending the cryptocurrency to the user.
  3. **Verified Recipients**
 Recipients of the system must be verified to be an actual human in order to receive time tokens. The issue of verification is very serious if we are to continue from web 3 instead of taking a step backward toward federated systems (like government-issued IDs). Biocryptography is introduced as the solution to this problem.  
+
 
 For a full description of Time Tokens, visit the  [Time Token repository](https://github.com/dougbutner/time-token). 
 
@@ -112,10 +113,10 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMwMDc2MzYzLC0xMDk4NDUyODMwLDIwNz
-I0OTc4NSwtODM1NTE3Njc4LDk5MzQ5MTQxMCwtMTg5NTgwNDQz
-NywxNTk4MzIwNDMsLTM0NTg3NjkxMywxNjc1NDAzMjIyLC0xMD
-g4ODUyNjIxLC02MTgzNjMxOTgsMzYzNDc2NDIxLC0xNTUxMDk0
-MjY1LDE5NTI3MjM1NTgsMTcwNTA2NTg1LDUwODk0MjIzNSwzNj
-gyMTQ2NzUsNzY5MDkzMzIwXX0=
+eyJoaXN0b3J5IjpbLTEzMDI1NzY0ODksLTEwOTg0NTI4MzAsMj
+A3MjQ5Nzg1LC04MzU1MTc2NzgsOTkzNDkxNDEwLC0xODk1ODA0
+NDM3LDE1OTgzMjA0MywtMzQ1ODc2OTEzLDE2NzU0MDMyMjIsLT
+EwODg4NTI2MjEsLTYxODM2MzE5OCwzNjM0NzY0MjEsLTE1NTEw
+OTQyNjUsMTk1MjcyMzU1OCwxNzA1MDY1ODUsNTA4OTQyMjM1LD
+M2ODIxNDY3NSw3NjkwOTMzMjBdfQ==
 -->
