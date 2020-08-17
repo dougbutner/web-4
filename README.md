@@ -37,7 +37,7 @@ Time tokens are distributed to users based on the amount of time passed.
 
 Time tokens allow web 2 and web 3 applications to offer a provably democratic model to their users. 
 
-## How do Time Tokens work
+## The concept behind Time Tokens
 
 Time tokens rely on the following concepts
 
@@ -46,10 +46,14 @@ A time unit MUST be a superset of a timestamp. This means that a time unit is so
  2. **Time Faucet**
 A time faucet provides any verified user with EXACTLY one time token per unit of time passed since their last faucet. This can be an active faucet; requiring some action by the recipient, or a passive faucet; automatically sending the cryptocurrency to the user.
  3. **Verified Users**
-Recipients of the system must be verified to be an actual human in order to receive time tokend fe
-
+Recipients of the system must be verified to be an actual human in order to receive time tokens. The issue of 
 
 For a full description of Time Tokens, visit the  [Time Token repository](https://github.com/dougbutner/time-token). 
+
+
+## How do Time Tokens work?
+
+
 
 ## Why can't web 3 do this?
 Provable democracy cannot be fully achieved in web 3.0, because there is no control over how many accounts a user may control. Instead, many different models have been developed to deal with this issue, most notably, proof of work, proof of stake, and delegated proof of stake. 
@@ -57,7 +61,7 @@ Provable democracy cannot be fully achieved in web 3.0, because there is no cont
 These paradigms of democracy are used primarily to determine which chain of transaction blocks is considered valid, securing a blockchain. POS and DOPS are also used to in applications like Hive to allow users to declare 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MjQ5NTMxMCwzNjM0NzY0MjEsLTE1NT
+eyJoaXN0b3J5IjpbLTYxODM2MzE5OCwzNjM0NzY0MjEsLTE1NT
 EwOTQyNjUsMTk1MjcyMzU1OCwxNzA1MDY1ODUsNTA4OTQyMjM1
 LDM2ODIxNDY3NSw3NjkwOTMzMjBdfQ==
 -->
