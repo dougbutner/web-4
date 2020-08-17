@@ -95,7 +95,7 @@ Key Aspects
 Biometric Identification resonance
 Open Source - 
 Time-psudeographic
-Degradation of information - becomes increasingly difficult to know something after it happens
+**Degradation of information**: becomes increasingly difficult to know something after it happens
 
 
 The biggest issue with biometrics is the lack of trust. The lack of trust is almost always associated with an individuals's lack of consent, not the technology itself. 
@@ -115,10 +115,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDY5MTc2NzksLTk0OTc3MDkxMSwtMT
-A5ODQ1MjgzMCwyMDcyNDk3ODUsLTgzNTUxNzY3OCw5OTM0OTE0
-MTAsLTE4OTU4MDQ0MzcsMTU5ODMyMDQzLC0zNDU4NzY5MTMsMT
-Y3NTQwMzIyMiwtMTA4ODg1MjYyMSwtNjE4MzYzMTk4LDM2MzQ3
-NjQyMSwtMTU1MTA5NDI2NSwxOTUyNzIzNTU4LDE3MDUwNjU4NS
-w1MDg5NDIyMzUsMzY4MjE0Njc1LDc2OTA5MzMyMF19
+eyJoaXN0b3J5IjpbLTE1MDUyODM3MDgsLTE5NDY5MTc2NzksLT
+k0OTc3MDkxMSwtMTA5ODQ1MjgzMCwyMDcyNDk3ODUsLTgzNTUx
+NzY3OCw5OTM0OTE0MTAsLTE4OTU4MDQ0MzcsMTU5ODMyMDQzLC
+0zNDU4NzY5MTMsMTY3NTQwMzIyMiwtMTA4ODg1MjYyMSwtNjE4
+MzYzMTk4LDM2MzQ3NjQyMSwtMTU1MTA5NDI2NSwxOTUyNzIzNT
+U4LDE3MDUwNjU4NSw1MDg5NDIyMzUsMzY4MjE0Njc1LDc2OTA5
+MzMyMF19
 -->
