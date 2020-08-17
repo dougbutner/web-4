@@ -73,7 +73,7 @@ Here is the minimum information stored in a time token, using [JWT](https://jwt.
       },
       "body": {
         "time-unit": 294957,
-        "userid": ""7f3e873a2c3d
+        "userid": "7f3e873a2c3d"
       }
     }
 
@@ -84,13 +84,13 @@ var nJwt = require('njwt');
 
 var signingKey = getsKey()//boimetric provider's key or one generated direcly by user
 
-var claims = {
-	"time-unit": "1234567890", 
-	"name": "John Doe", 
+var tito = {
+	"time-unit": "294957", 
+	"userid": "7f3e873a2c3d", 
 	"appData": "Lots of things"
 }
 
-var jwt = nJwt.create(claims,signingKey);
+var jwt = nJwt.create(tito,signingKey);
 ```
 
 
@@ -134,11 +134,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk4MzEwMzY3LDEzNzA5MzI3NDgsLTE1MD
-UyODM3MDgsLTE5NDY5MTc2NzksLTk0OTc3MDkxMSwtMTA5ODQ1
-MjgzMCwyMDcyNDk3ODUsLTgzNTUxNzY3OCw5OTM0OTE0MTAsLT
-E4OTU4MDQ0MzcsMTU5ODMyMDQzLC0zNDU4NzY5MTMsMTY3NTQw
-MzIyMiwtMTA4ODg1MjYyMSwtNjE4MzYzMTk4LDM2MzQ3NjQyMS
-wtMTU1MTA5NDI2NSwxOTUyNzIzNTU4LDE3MDUwNjU4NSw1MDg5
-NDIyMzVdfQ==
+eyJoaXN0b3J5IjpbMTEzNjIxMDM0MiwxMzcwOTMyNzQ4LC0xNT
+A1MjgzNzA4LC0xOTQ2OTE3Njc5LC05NDk3NzA5MTEsLTEwOTg0
+NTI4MzAsMjA3MjQ5Nzg1LC04MzU1MTc2NzgsOTkzNDkxNDEwLC
+0xODk1ODA0NDM3LDE1OTgzMjA0MywtMzQ1ODc2OTEzLDE2NzU0
+MDMyMjIsLTEwODg4NTI2MjEsLTYxODM2MzE5OCwzNjM0NzY0Mj
+EsLTE1NTEwOTQyNjUsMTk1MjcyMzU1OCwxNzA1MDY1ODUsNTA4
+OTQyMjM1XX0=
 -->
