@@ -17,7 +17,7 @@ Dynamic pages that took user's information and desires into account. Asynchronou
 Decentralized web. Applications exist in distributed networks instead of a central server. This unfederated model trades control and censorship ability for freedom and lack of opinion. 
 
  - **Web 4**
-Democratic web. Enabling meaningful layers on top of current socioeconomic systems built on time-limited cryptocurrency that is given freely to recipients. 
+Democratic web. Enabling meaningful layers on top of current socioeconomic systems built on time-limited crypto income that is given freely to verified recipients. 
 
 Today, the top 100 websites by traffic are [all](https://www.alexa.com/topsites) web 2 websites. The web 2 paradigm fits closely with the wider environment of corporate-owned information federation. 
 
@@ -31,7 +31,7 @@ Web 4 introduces provably democratic systems built on top of web 3's decentraliz
 There are 3 conceptual underpinnings of web 4
 
  1. **Time-issued cryptocurrency** 
- 2. **Biocryptographic verification signatures**
+ 2. **Biocryptographic + independent verification signatures**
  3. **Socioeconomic Layers**
 
 We will discuss these concepts one at a time.
@@ -83,7 +83,7 @@ These paradigms of democracy are used primarily to determine which chain of tran
 
 
 ## **3. Verified Recipients**
-
+It could be said that this system could be built without verification. It certainly could. This will no-doubt happen, as different pe
 
 
 
@@ -106,7 +106,7 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NjM0MDgyNCwyMDcyNDk3ODUsLTgzNT
+eyJoaXN0b3J5IjpbLTgyNTU4NzIyOSwyMDcyNDk3ODUsLTgzNT
 UxNzY3OCw5OTM0OTE0MTAsLTE4OTU4MDQ0MzcsMTU5ODMyMDQz
 LC0zNDU4NzY5MTMsMTY3NTQwMzIyMiwtMTA4ODg1MjYyMSwtNj
 E4MzYzMTk4LDM2MzQ3NjQyMSwtMTU1MTA5NDI2NSwxOTUyNzIz
