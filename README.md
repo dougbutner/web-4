@@ -71,13 +71,13 @@ Here is the minimum information stored in a time token, using [JWT](https://jwt.
     "typ": "JWT",
     "alg": "HS256"
   },
-  "body": {
+  "payoadData": {
     "time-unit": 294957,
     "userid": "7f3e873a2c3d"
   }
 }
 ```
-And an example signed JWT Time Token
+For the time token to be snd an example signed JWT Time Token
 
 ```
 const header" = {
@@ -101,6 +101,7 @@ HMACSHA256(
 )
 ```
 
+You can see that the only new information provided is the time unit ide
 
 
 ## Why can't web 3 do this?
@@ -142,7 +143,7 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition. Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk1ODU5MTgwLDczNTI1MTQ1MSwtMTM1MD
+eyJoaXN0b3J5IjpbNjA1Njc1NTE3LDczNTI1MTQ1MSwtMTM1MD
 c3NjQyMiwxMzcwOTMyNzQ4LC0xNTA1MjgzNzA4LC0xOTQ2OTE3
 Njc5LC05NDk3NzA5MTEsLTEwOTg0NTI4MzAsMjA3MjQ5Nzg1LC
 04MzU1MTc2NzgsOTkzNDkxNDEwLC0xODk1ODA0NDM3LDE1OTgz
