@@ -73,12 +73,20 @@ Here is the minimum information stored in a time token, using JWT as an example
 
 
 ## Why can't web 3 do this?
-Provable democracy cannot be fully achieved in web 3.0, because there is no control over how many accounts a user may open. Instead, many different models have been developed to deal with this issue, most notably, proof of work, proof of stake, and delegated proof of stake. 
+Provable democracy cannot be fully achieved in web 3.0, because there is no control over how many accounts a user may open.[2] Instead, many different models have been developed to deal with this issue, most notably, proof of work, proof of stake, and delegated proof of stake. 
 
 These paradigms of democracy are used primarily to determine which chain of transaction blocks is considered valid, securing a blockchain. POS and DOPS are also used to in applications like Hive to allow users to declare 
 
+
+
+
+
+**Notes + References**
+___
+
+[1] - Solutions like Civic have p
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNTM0Mjk3NSw5OTM0OTE0MTAsLTE4OT
+eyJoaXN0b3J5IjpbMTE1Njk5MDQ4OSw5OTM0OTE0MTAsLTE4OT
 U4MDQ0MzcsMTU5ODMyMDQzLC0zNDU4NzY5MTMsMTY3NTQwMzIy
 MiwtMTA4ODg1MjYyMSwtNjE4MzYzMTk4LDM2MzQ3NjQyMSwtMT
 U1MTA5NDI2NSwxOTUyNzIzNTU4LDE3MDUwNjU4NSw1MDg5NDIy
