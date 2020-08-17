@@ -107,7 +107,7 @@ You can see that this example used only web 2 technology, as JWT doesn't imply d
 
 ## Why can't web 3 (or even web 2) do this?
 
-Web 2 is not a viable candidate for this because the federated nature means that your biometric data must be trusted to a third party, possibly a large corporation or an ill-equipped hobbyist. 
+Web 2 is not a viable candidate for this because the federated nature means that your biometric data must be trusted to a third party, possibly a large corporation or malicious party. 
 
 Provable democracy cannot be fully achieved in web 3, because there is no control over how many accounts a user may open.[2] Instead, many different models have been developed to deal with this issue, most notably, proof of work, proof of stake, and delegated proof of stake. 
 
@@ -149,11 +149,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition. Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNjY1MzE4MywtNzYwODE1MTIsLTE3MT
-k4Mzc5MDIsNzM1MjUxNDUxLC0xMzUwNzc2NDIyLDEzNzA5MzI3
-NDgsLTE1MDUyODM3MDgsLTE5NDY5MTc2NzksLTk0OTc3MDkxMS
-wtMTA5ODQ1MjgzMCwyMDcyNDk3ODUsLTgzNTUxNzY3OCw5OTM0
-OTE0MTAsLTE4OTU4MDQ0MzcsMTU5ODMyMDQzLC0zNDU4NzY5MT
-MsMTY3NTQwMzIyMiwtMTA4ODg1MjYyMSwtNjE4MzYzMTk4LDM2
-MzQ3NjQyMV19
+eyJoaXN0b3J5IjpbLTgzNjcyNzIwNSwtNTM2NjUzMTgzLC03Nj
+A4MTUxMiwtMTcxOTgzNzkwMiw3MzUyNTE0NTEsLTEzNTA3NzY0
+MjIsMTM3MDkzMjc0OCwtMTUwNTI4MzcwOCwtMTk0NjkxNzY3OS
+wtOTQ5NzcwOTExLC0xMDk4NDUyODMwLDIwNzI0OTc4NSwtODM1
+NTE3Njc4LDk5MzQ5MTQxMCwtMTg5NTgwNDQzNywxNTk4MzIwND
+MsLTM0NTg3NjkxMywxNjc1NDAzMjIyLC0xMDg4ODUyNjIxLC02
+MTgzNjMxOThdfQ==
 -->
