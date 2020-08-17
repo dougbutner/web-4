@@ -78,16 +78,24 @@ Provable democracy cannot be fully achieved in web 3.0, because there is no cont
 These paradigms of democracy are used primarily to determine which chain of transaction blocks is considered valid, securing a blockchain. POS and DOPS are also used to in applications like Hive to allow users to declare 
 
 
+## **3. Verified Recipients**
+
+Time-psudeographic
+
 Degradation of information
+
+
+
+
 
 
 
 **Notes + References**
 ___
 
-[1] - Solutions like Civic have proved to be effective in verifying individuality. These services rely on government-issued identification, and therefore 
+[1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxODgyOTY4NywtODM1NTE3Njc4LDk5Mz
+eyJoaXN0b3J5IjpbLTEzNzYwMzA4NiwtODM1NTE3Njc4LDk5Mz
 Q5MTQxMCwtMTg5NTgwNDQzNywxNTk4MzIwNDMsLTM0NTg3Njkx
 MywxNjc1NDAzMjIyLC0xMDg4ODUyNjIxLC02MTgzNjMxOTgsMz
 YzNDc2NDIxLC0xNTUxMDk0MjY1LDE5NTI3MjM1NTgsMTcwNTA2
