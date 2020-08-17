@@ -53,7 +53,9 @@ For a full description of Time Tokens, visit the  [Time Token repository](https:
 
 ## How do Time Tokens work?
 
-Time tokens hash a time unit with a unique user identifier, which can be a hash of boimetric data, or a record from a federated biometric identification provider. 
+Time tokens store a time unit (integer) with a unique user identifier (string), i
+
+
 
 ## Why can't web 3 do this?
 Provable democracy cannot be fully achieved in web 3.0, because there is no control over how many accounts a user may control. Instead, many different models have been developed to deal with this issue, most notably, proof of work, proof of stake, and delegated proof of stake. 
@@ -61,8 +63,8 @@ Provable democracy cannot be fully achieved in web 3.0, because there is no cont
 These paradigms of democracy are used primarily to determine which chain of transaction blocks is considered valid, securing a blockchain. POS and DOPS are also used to in applications like Hive to allow users to declare 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc2MzMwNjU1LC0zNDU4NzY5MTMsMTY3NT
-QwMzIyMiwtMTA4ODg1MjYyMSwtNjE4MzYzMTk4LDM2MzQ3NjQy
-MSwtMTU1MTA5NDI2NSwxOTUyNzIzNTU4LDE3MDUwNjU4NSw1MD
-g5NDIyMzUsMzY4MjE0Njc1LDc2OTA5MzMyMF19
+eyJoaXN0b3J5IjpbLTc1NTQwNTM0MywtMzQ1ODc2OTEzLDE2Nz
+U0MDMyMjIsLTEwODg4NTI2MjEsLTYxODM2MzE5OCwzNjM0NzY0
+MjEsLTE1NTEwOTQyNjUsMTk1MjcyMzU1OCwxNzA1MDY1ODUsNT
+A4OTQyMjM1LDM2ODIxNDY3NSw3NjkwOTMzMjBdfQ==
 -->
