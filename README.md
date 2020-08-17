@@ -85,7 +85,7 @@ These paradigms of democracy are used primarily to determine which chain of tran
 ## **3. Verified Recipients**
 It could be said that this system could be built without verification. It certainly could. This will no-doubt happen, as different people implement web 4 in their own ways. 
 
-Our job is to present the ideas that are crucial for this system to be different, and represent true growth into web 
+Our job is to present the ideas that are crucial for this system to be different, and represent true growth into web 4. 
 
 
 Key Aspects 
@@ -95,7 +95,11 @@ Time-psudeographic
 Degradation of information - becomes increasingly difficult to know something after it happens
 
 
-The biggest issue with biometrics is the lack of trust. The lack of trust is almost always associated from teh person's lack of consent, not the use of the technology itself. By using identifying information
+The biggest issue with biometrics is the lack of trust. The lack of trust is almost always associated with an individuals's lack of consent, not the technology itself. 
+
+By using identifying information following open-source algorithms, in a way that is provable, and 
+
+communicable 
 
 
 
@@ -108,10 +112,10 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExOTAwMzMyOSwtMTA5ODQ1MjgzMCwyMD
-cyNDk3ODUsLTgzNTUxNzY3OCw5OTM0OTE0MTAsLTE4OTU4MDQ0
-MzcsMTU5ODMyMDQzLC0zNDU4NzY5MTMsMTY3NTQwMzIyMiwtMT
-A4ODg1MjYyMSwtNjE4MzYzMTk4LDM2MzQ3NjQyMSwtMTU1MTA5
-NDI2NSwxOTUyNzIzNTU4LDE3MDUwNjU4NSw1MDg5NDIyMzUsMz
-Y4MjE0Njc1LDc2OTA5MzMyMF19
+eyJoaXN0b3J5IjpbNjMwMDc2MzYzLC0xMDk4NDUyODMwLDIwNz
+I0OTc4NSwtODM1NTE3Njc4LDk5MzQ5MTQxMCwtMTg5NTgwNDQz
+NywxNTk4MzIwNDMsLTM0NTg3NjkxMywxNjc1NDAzMjIyLC0xMD
+g4ODUyNjIxLC02MTgzNjMxOTgsMzYzNDc2NDIxLC0xNTUxMDk0
+MjY1LDE5NTI3MjM1NTgsMTcwNTA2NTg1LDUwODk0MjIzNSwzNj
+gyMTQ2NzUsNzY5MDkzMzIwXX0=
 -->
