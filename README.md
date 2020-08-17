@@ -147,7 +147,13 @@ communicable
 Notable differences in M
 
 
-# Roadmap 
+# Roadmap to Web 4
+
+Implementing time tokens
+
+Incorporating federated systems
+
+developing biocryptography standards
 
 
 # Author notes
@@ -164,7 +170,7 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition. Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NjcxNDM5OCwtNzIzODk5MzUwLC0xOT
+eyJoaXN0b3J5IjpbMTIyNzY2ODE2MywtNzIzODk5MzUwLC0xOT
 I3MzM0MDYyLC04MzY3MjcyMDUsLTUzNjY1MzE4MywtNzYwODE1
 MTIsLTE3MTk4Mzc5MDIsNzM1MjUxNDUxLC0xMzUwNzc2NDIyLD
 EzNzA5MzI3NDgsLTE1MDUyODM3MDgsLTE5NDY5MTc2NzksLTk0
