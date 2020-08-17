@@ -100,13 +100,14 @@ signature = HMACSHA256(
 	signingSecret
 )
 ```
+The notable parts here are the `time-unit` and `userid` in the payload data, 
 
 You can see that this example used only web 2 technology, as JWT doesn't imply decentralized use. Which begs the question:
 
 
 ## Why can't web 3 do this?
 
-Provable democracy cannot be fully achieved in web 3.0, because there is no control over how many accounts a user may open.[2] Instead, many different models have been developed to deal with this issue, most notably, proof of work, proof of stake, and delegated proof of stake. 
+Provable democracy cannot be fully achieved in web 3, because there is no control over how many accounts a user may open.[2] Instead, many different models have been developed to deal with this issue, most notably, proof of work, proof of stake, and delegated proof of stake. 
 
 These paradigms of democracy are used primarily to determine which chain of transaction blocks is considered valid, securing a blockchain. POS and DOPS are also used to in applications like Hive to allow users to "vote" on valuable content, an early example of the democratic web
 
@@ -144,11 +145,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition. Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjEyMzAwNjcsLTc2MDgxNTEyLC0xNz
-E5ODM3OTAyLDczNTI1MTQ1MSwtMTM1MDc3NjQyMiwxMzcwOTMy
-NzQ4LC0xNTA1MjgzNzA4LC0xOTQ2OTE3Njc5LC05NDk3NzA5MT
-EsLTEwOTg0NTI4MzAsMjA3MjQ5Nzg1LC04MzU1MTc2NzgsOTkz
-NDkxNDEwLC0xODk1ODA0NDM3LDE1OTgzMjA0MywtMzQ1ODc2OT
-EzLDE2NzU0MDMyMjIsLTEwODg4NTI2MjEsLTYxODM2MzE5OCwz
-NjM0NzY0MjFdfQ==
+eyJoaXN0b3J5IjpbNjk3Nzc3MTYxLC03NjA4MTUxMiwtMTcxOT
+gzNzkwMiw3MzUyNTE0NTEsLTEzNTA3NzY0MjIsMTM3MDkzMjc0
+OCwtMTUwNTI4MzcwOCwtMTk0NjkxNzY3OSwtOTQ5NzcwOTExLC
+0xMDk4NDUyODMwLDIwNzI0OTc4NSwtODM1NTE3Njc4LDk5MzQ5
+MTQxMCwtMTg5NTgwNDQzNywxNTk4MzIwNDMsLTM0NTg3NjkxMy
+wxNjc1NDAzMjIyLC0xMDg4ODUyNjIxLC02MTgzNjMxOTgsMzYz
+NDc2NDIxXX0=
 -->
