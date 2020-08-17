@@ -6,7 +6,7 @@ This repo features a description of the next evolution of the web, web 4.0. As t
 
 ## What is Web 4.0?
 
-Before we define web 4.0, we must look briefly at the concepts of web 1.0, web 2.0, and web 3.0. We will remove the ".0" for the rest of this document.
+Before we define web 4.0, we must look briefly at the concepts of web 1.0, web 2.0, and web 3.0. We will remove the ".0" for the rest of this document, because it's sooo web 2.0.
 
  - **Web 1**
 Static files being served from a server to a user's browser.
@@ -61,7 +61,8 @@ Provable democracy cannot be fully achieved in web 3.0, because there is no cont
 These paradigms of democracy are used primarily to determine which chain of transaction blocks is considered valid, securing a blockchain. POS and DOPS are also used to in applications like Hive to allow users to declare 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODg4NTI2MjEsLTYxODM2MzE5OCwzNj
-M0NzY0MjEsLTE1NTEwOTQyNjUsMTk1MjcyMzU1OCwxNzA1MDY1
-ODUsNTA4OTQyMjM1LDM2ODIxNDY3NSw3NjkwOTMzMjBdfQ==
+eyJoaXN0b3J5IjpbLTEyNTMwNzkzODIsLTEwODg4NTI2MjEsLT
+YxODM2MzE5OCwzNjM0NzY0MjEsLTE1NTEwOTQyNjUsMTk1Mjcy
+MzU1OCwxNzA1MDY1ODUsNTA4OTQyMjM1LDM2ODIxNDY3NSw3Nj
+kwOTMzMjBdfQ==
 -->
