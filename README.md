@@ -57,7 +57,7 @@ Time tokens store a time unit (integer) with a unique user identifier (string) i
 
 Time tokens are platform independent, and can be implemented on any blockchain that allows storage of small data.
 
-Here is the minimum information stored in a time token, using JWT as an example
+Here is the minimum information stored in a time token, using [JWT](jwt.io) as an example
 
     {
       "header": {
@@ -86,9 +86,9 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. These services rely on government-issued Identification, and therefore pre
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNTUxNzY3OCw5OTM0OTE0MTAsLTE4OT
-U4MDQ0MzcsMTU5ODMyMDQzLC0zNDU4NzY5MTMsMTY3NTQwMzIy
-MiwtMTA4ODg1MjYyMSwtNjE4MzYzMTk4LDM2MzQ3NjQyMSwtMT
-U1MTA5NDI2NSwxOTUyNzIzNTU4LDE3MDUwNjU4NSw1MDg5NDIy
-MzUsMzY4MjE0Njc1LDc2OTA5MzMyMF19
+eyJoaXN0b3J5IjpbLTk4NzExMzA2OCwtODM1NTE3Njc4LDk5Mz
+Q5MTQxMCwtMTg5NTgwNDQzNywxNTk4MzIwNDMsLTM0NTg3Njkx
+MywxNjc1NDAzMjIyLC0xMDg4ODUyNjIxLC02MTgzNjMxOTgsMz
+YzNDc2NDIxLC0xNTUxMDk0MjY1LDE5NTI3MjM1NTgsMTcwNTA2
+NTg1LDUwODk0MjIzNSwzNjgyMTQ2NzUsNzY5MDkzMzIwXX0=
 -->
