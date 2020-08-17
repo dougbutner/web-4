@@ -126,10 +126,10 @@ Our job is to present the ideas that are crucial for this system to be different
 1. **Biometric Identification**: A user is presented with an option of different biometric options used to generate a hash that can only belong to this person. 
 User can choose to either perform a chosen biometric task to receive their hashed biosecret (trustless) or generate it at any time from a third party provide (trust). Any third party provider will generate the same hash by a set or open-source algorithms. 
 
-2. **Trustless Trustfulness** User's sensitive biological information and generated algorithmic results are destroyed (made impossible to reconstruct) at the layer of hashing, and data not stored in any way, public or private, as the user runs the software on their local machine (assuming they choose the open-source softe).
-3. **Time-psudeoanonymous**
+2. **Trustless Trustfulness**: User's sensitive biological information and generated algorithmic results are destroyed (made impossible to reconstruct) at the layer of hashing, and data not stored in any way, public or private, as the user runs the software on their local machine (assuming they choose the open-source software, not a third party).
+3. **Time-psudeoanonymous**: S
 
-4. **Degradation of information**:  Systems that store high-fidelity information become increasingly difficult to know something after it happens
+5. **Degradation of information**:  Systems that store high-fidelity information become increasingly difficult to know something after it happens
 
 
 The biggest issue with biometrics is the lack of trust. The lack of trust is almost always associated with an individuals's lack of consent, not the technology itself. 
@@ -170,11 +170,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition. Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzMyMTYxMjAsMTIyNzY2ODE2MywtNz
-IzODk5MzUwLC0xOTI3MzM0MDYyLC04MzY3MjcyMDUsLTUzNjY1
-MzE4MywtNzYwODE1MTIsLTE3MTk4Mzc5MDIsNzM1MjUxNDUxLC
-0xMzUwNzc2NDIyLDEzNzA5MzI3NDgsLTE1MDUyODM3MDgsLTE5
-NDY5MTc2NzksLTk0OTc3MDkxMSwtMTA5ODQ1MjgzMCwyMDcyND
-k3ODUsLTgzNTUxNzY3OCw5OTM0OTE0MTAsLTE4OTU4MDQ0Mzcs
-MTU5ODMyMDQzXX0=
+eyJoaXN0b3J5IjpbODQ4MjUyMDIzLDEyMjc2NjgxNjMsLTcyMz
+g5OTM1MCwtMTkyNzMzNDA2MiwtODM2NzI3MjA1LC01MzY2NTMx
+ODMsLTc2MDgxNTEyLC0xNzE5ODM3OTAyLDczNTI1MTQ1MSwtMT
+M1MDc3NjQyMiwxMzcwOTMyNzQ4LC0xNTA1MjgzNzA4LC0xOTQ2
+OTE3Njc5LC05NDk3NzA5MTEsLTEwOTg0NTI4MzAsMjA3MjQ5Nz
+g1LC04MzU1MTc2NzgsOTkzNDkxNDEwLC0xODk1ODA0NDM3LDE1
+OTgzMjA0M119
 -->
