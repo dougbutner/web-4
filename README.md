@@ -31,7 +31,7 @@ Web 4 introduces provably democratic systems built on top of web 3's decentraliz
 There are 3 conceptual underpinnings of web 4
 
  1. **Time-issued cryptocurrency** 
- 2. **Biocryptographic signatures**
+ 2. **Biocryptographic verification signatures**
  3. **Socioeconomic Layers**
 
 We will discuss these concepts one at a time.
@@ -98,14 +98,18 @@ The biggest issue with biometrics is the lack of trust. The lack of trust is alm
 
 
 
+# The experience of Web 4
+
+
 **Notes + References**
 ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MjQ5Nzg1LC04MzU1MTc2NzgsOTkzND
-kxNDEwLC0xODk1ODA0NDM3LDE1OTgzMjA0MywtMzQ1ODc2OTEz
-LDE2NzU0MDMyMjIsLTEwODg4NTI2MjEsLTYxODM2MzE5OCwzNj
-M0NzY0MjEsLTE1NTEwOTQyNjUsMTk1MjcyMzU1OCwxNzA1MDY1
-ODUsNTA4OTQyMjM1LDM2ODIxNDY3NSw3NjkwOTMzMjBdfQ==
+eyJoaXN0b3J5IjpbLTE0NjkyMDcxNDMsMjA3MjQ5Nzg1LC04Mz
+U1MTc2NzgsOTkzNDkxNDEwLC0xODk1ODA0NDM3LDE1OTgzMjA0
+MywtMzQ1ODc2OTEzLDE2NzU0MDMyMjIsLTEwODg4NTI2MjEsLT
+YxODM2MzE5OCwzNjM0NzY0MjEsLTE1NTEwOTQyNjUsMTk1Mjcy
+MzU1OCwxNzA1MDY1ODUsNTA4OTQyMjM1LDM2ODIxNDY3NSw3Nj
+kwOTMzMjBdfQ==
 -->
