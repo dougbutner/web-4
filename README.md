@@ -81,8 +81,7 @@ Here is the minimum information stored in a time token, using [JWT](https://jwt.
 ```
 var nJwt = require('njwt');
 
-
-var signingKey = getsKey()//boimetric provider's key or one generated direcly by user
+var signingKey = bioKeyGenerator();//boimetric provider's key or one generated direcly by user
 
 var tito = {
 	"time-unit": "294957", 
@@ -134,11 +133,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition. Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTA3NzY0MjIsMTM3MDkzMjc0OCwtMT
-UwNTI4MzcwOCwtMTk0NjkxNzY3OSwtOTQ5NzcwOTExLC0xMDk4
-NDUyODMwLDIwNzI0OTc4NSwtODM1NTE3Njc4LDk5MzQ5MTQxMC
-wtMTg5NTgwNDQzNywxNTk4MzIwNDMsLTM0NTg3NjkxMywxNjc1
-NDAzMjIyLC0xMDg4ODUyNjIxLC02MTgzNjMxOTgsMzYzNDc2ND
-IxLC0xNTUxMDk0MjY1LDE5NTI3MjM1NTgsMTcwNTA2NTg1LDUw
-ODk0MjIzNV19
+eyJoaXN0b3J5IjpbNzM1MjUxNDUxLC0xMzUwNzc2NDIyLDEzNz
+A5MzI3NDgsLTE1MDUyODM3MDgsLTE5NDY5MTc2NzksLTk0OTc3
+MDkxMSwtMTA5ODQ1MjgzMCwyMDcyNDk3ODUsLTgzNTUxNzY3OC
+w5OTM0OTE0MTAsLTE4OTU4MDQ0MzcsMTU5ODMyMDQzLC0zNDU4
+NzY5MTMsMTY3NTQwMzIyMiwtMTA4ODg1MjYyMSwtNjE4MzYzMT
+k4LDM2MzQ3NjQyMSwtMTU1MTA5NDI2NSwxOTUyNzIzNTU4LDE3
+MDUwNjU4NV19
 -->
