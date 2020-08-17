@@ -15,6 +15,9 @@ Dynamic pages that took user's information and desires into account. Asynchronou
  - **Web 3**
 Decentralized web. Applications exist in distributed networks instead of a central server. This unfederated model trades control and censorship ability for freedom and lack of opinion. 
 
+ - **Web 4**
+Time web. Applications exist in distributed networks instead of a central server. This unfederated model trades control and censorship ability for freedom and lack of opinion. 
+
 Today, the top 100 websites by traffic are [all](https://www.alexa.com/topsites) web 2 websites. The web 2 paradigm fits closely with the wider environment of corporate-owned information federation. 
 
 As more and more individuals and societies are reconsidering the place of government, censorship,   and federated vs unfederated power, web 3 is emerging as a powerful, provable option to shape the evolution of society on planet Earth. 
@@ -81,13 +84,15 @@ These paradigms of democracy are used primarily to determine which chain of tran
 ## **3. Verified Recipients**
 
 
+
+
 Biometric Identification resonance
 Open Source - 
 Time-psudeographic
 Degradation of information - becomes increasingly difficult to know something after it happens
 
 
-
+The biggest issue with biometrics is the lack of trust. The lack of trust is almost always associated from teh person's lack of consent, not the use of the technology itself. By using identifying information
 
 
 
@@ -97,9 +102,9 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI3NDg0OTYxLC04MzU1MTc2NzgsOTkzND
-kxNDEwLC0xODk1ODA0NDM3LDE1OTgzMjA0MywtMzQ1ODc2OTEz
-LDE2NzU0MDMyMjIsLTEwODg4NTI2MjEsLTYxODM2MzE5OCwzNj
-M0NzY0MjEsLTE1NTEwOTQyNjUsMTk1MjcyMzU1OCwxNzA1MDY1
-ODUsNTA4OTQyMjM1LDM2ODIxNDY3NSw3NjkwOTMzMjBdfQ==
+eyJoaXN0b3J5IjpbLTEyMzU2MTExNzUsLTgzNTUxNzY3OCw5OT
+M0OTE0MTAsLTE4OTU4MDQ0MzcsMTU5ODMyMDQzLC0zNDU4NzY5
+MTMsMTY3NTQwMzIyMiwtMTA4ODg1MjYyMSwtNjE4MzYzMTk4LD
+M2MzQ3NjQyMSwtMTU1MTA5NDI2NSwxOTUyNzIzNTU4LDE3MDUw
+NjU4NSw1MDg5NDIyMzUsMzY4MjE0Njc1LDc2OTA5MzMyMF19
 -->
