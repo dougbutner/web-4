@@ -148,7 +148,7 @@ communicable
 # Author notes
 It is my belief that each version of the web must be 1) fundamentally different than the previous, 2) be built on top of the previous version, and 3) have meaningful impact on society. 
 
-This proposal for the next iteration of the web is an effort to both expand and shift the path of information science in a direction where the meaningful impact of society involves: 1) equality and empowerment of each individual, which serve as the basis for social, economic, and novel applications; 2) provable identity verification while maintaining an protection and recoverability  3) resonance with our larger systems, like the Solar system, which provides us with free energy daily, akin to free time tokens, and 3)
+This proposal for the next iteration of the web is an effort to both expand and shift the path of information science in a direction where the meaningful impact of society involves: 1) equality and empowerment of each individual, which serve as the basis for social, economic, and novel applications; 2) provable identity verification while maintaining complete separation from any federated system, including government, with the side-benefit of lifelong recoverability of private keys 3) resonance with our larger systems, like the Solar system, which provides us with free energy daily, akin to free time tokens, and 3)
 
 I believe that the direction presented here does two main things: 1) 
 
@@ -162,11 +162,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition. Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0ODk4NjM2OCwtODM2NzI3MjA1LC01Mz
-Y2NTMxODMsLTc2MDgxNTEyLC0xNzE5ODM3OTAyLDczNTI1MTQ1
-MSwtMTM1MDc3NjQyMiwxMzcwOTMyNzQ4LC0xNTA1MjgzNzA4LC
-0xOTQ2OTE3Njc5LC05NDk3NzA5MTEsLTEwOTg0NTI4MzAsMjA3
-MjQ5Nzg1LC04MzU1MTc2NzgsOTkzNDkxNDEwLC0xODk1ODA0ND
-M3LDE1OTgzMjA0MywtMzQ1ODc2OTEzLDE2NzU0MDMyMjIsLTEw
-ODg4NTI2MjFdfQ==
+eyJoaXN0b3J5IjpbLTE5MjczMzQwNjIsLTgzNjcyNzIwNSwtNT
+M2NjUzMTgzLC03NjA4MTUxMiwtMTcxOTgzNzkwMiw3MzUyNTE0
+NTEsLTEzNTA3NzY0MjIsMTM3MDkzMjc0OCwtMTUwNTI4MzcwOC
+wtMTk0NjkxNzY3OSwtOTQ5NzcwOTExLC0xMDk4NDUyODMwLDIw
+NzI0OTc4NSwtODM1NTE3Njc4LDk5MzQ5MTQxMCwtMTg5NTgwND
+QzNywxNTk4MzIwNDMsLTM0NTg3NjkxMywxNjc1NDAzMjIyLC0x
+MDg4ODUyNjIxXX0=
 -->
