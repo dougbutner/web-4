@@ -14,7 +14,7 @@ Static files being served from a server to a user's browser.
 Dynamic pages that took user's information and desires into account. Asynchronous requests allow single page applications to thrive. Applications are still served from a central (federated) server.
 
  - **Web 3**
-Decentralized web. Applications exist in distributed networks instead of a central server. This unfederated model trades control and censorship ability for freedom and lack of opinion. 
+Decentralized web. Open-source applications exist in distributed networks instead of a central server. This unfederated model trades control and censorship ability for freedom and lack of opinion. 
 
  - **Web 4**
 Democratic web. Enabling meaningful layers on top of current socioeconomic systems built on time-minted crypto versatile which gains utility in how it is spent. 
@@ -115,10 +115,10 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MjcxMjgxNSwtOTQ5NzcwOTExLC0xMD
-k4NDUyODMwLDIwNzI0OTc4NSwtODM1NTE3Njc4LDk5MzQ5MTQx
-MCwtMTg5NTgwNDQzNywxNTk4MzIwNDMsLTM0NTg3NjkxMywxNj
-c1NDAzMjIyLC0xMDg4ODUyNjIxLC02MTgzNjMxOTgsMzYzNDc2
-NDIxLC0xNTUxMDk0MjY1LDE5NTI3MjM1NTgsMTcwNTA2NTg1LD
-UwODk0MjIzNSwzNjgyMTQ2NzUsNzY5MDkzMzIwXX0=
+eyJoaXN0b3J5IjpbLTE5NDY5MTc2NzksLTk0OTc3MDkxMSwtMT
+A5ODQ1MjgzMCwyMDcyNDk3ODUsLTgzNTUxNzY3OCw5OTM0OTE0
+MTAsLTE4OTU4MDQ0MzcsMTU5ODMyMDQzLC0zNDU4NzY5MTMsMT
+Y3NTQwMzIyMiwtMTA4ODg1MjYyMSwtNjE4MzYzMTk4LDM2MzQ3
+NjQyMSwtMTU1MTA5NDI2NSwxOTUyNzIzNTU4LDE3MDUwNjU4NS
+w1MDg5NDIyMzUsMzY4MjE0Njc1LDc2OTA5MzMyMF19
 -->
