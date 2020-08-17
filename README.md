@@ -109,7 +109,7 @@ Our job is to present the ideas that are crucial for this system to be different
 1. **Biometric Identification**: A user is presented with an option of different biometric options used to generate a hash that can only belong to this person. 
 User can choose to either perform a chosen biometric task to receive their hashed biosecret (trustless) or generate it at any time from a third party provide (trust). Any third party provider will generate the same hash by a set or open-source algorithms. 
 
-2. User's sensitive information and generated algorithmic results are destroyed at the layer of hashing, and not stored in any way, public or private, as the user runs the software on their local machine. 
+2. **Trustless Trustfulness** User's sensitive information and generated algorithmic results are destroyed at the layer of hashing, and not stored in any way, public or private, as the user runs the software on their local machine. 
 3. **Time-psudeographic**
 
 4. **Degradation of information**:  In systems that store high-fidelity information about the  becomes increasingly difficult to know something after it happens
@@ -132,11 +132,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzI1MjMzOTIsMTM3MDkzMjc0OCwtMT
-UwNTI4MzcwOCwtMTk0NjkxNzY3OSwtOTQ5NzcwOTExLC0xMDk4
-NDUyODMwLDIwNzI0OTc4NSwtODM1NTE3Njc4LDk5MzQ5MTQxMC
-wtMTg5NTgwNDQzNywxNTk4MzIwNDMsLTM0NTg3NjkxMywxNjc1
-NDAzMjIyLC0xMDg4ODUyNjIxLC02MTgzNjMxOTgsMzYzNDc2ND
-IxLC0xNTUxMDk0MjY1LDE5NTI3MjM1NTgsMTcwNTA2NTg1LDUw
-ODk0MjIzNV19
+eyJoaXN0b3J5IjpbLTkyNDE1MDM3OSwxMzcwOTMyNzQ4LC0xNT
+A1MjgzNzA4LC0xOTQ2OTE3Njc5LC05NDk3NzA5MTEsLTEwOTg0
+NTI4MzAsMjA3MjQ5Nzg1LC04MzU1MTc2NzgsOTkzNDkxNDEwLC
+0xODk1ODA0NDM3LDE1OTgzMjA0MywtMzQ1ODc2OTEzLDE2NzU0
+MDMyMjIsLTEwODg4NTI2MjEsLTYxODM2MzE5OCwzNjM0NzY0Mj
+EsLTE1NTEwOTQyNjUsMTk1MjcyMzU1OCwxNzA1MDY1ODUsNTA4
+OTQyMjM1XX0=
 -->
