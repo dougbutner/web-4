@@ -78,6 +78,20 @@ Here is the minimum information stored in a time token, using [JWT](https://jwt.
     }
 
 
+```
+var nJwt = require('njwt');
+
+
+var signingKey = 
+
+var claims = {
+
+}
+
+var jwt = nJwt.create(claims,signingKey);
+```
+
+
 
 ## Why can't web 3 do this?
 Provable democracy cannot be fully achieved in web 3.0, because there is no control over how many accounts a user may open.[2] Instead, many different models have been developed to deal with this issue, most notably, proof of work, proof of stake, and delegated proof of stake. 
@@ -115,11 +129,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MDkzMjc0OCwtMTUwNTI4MzcwOCwtMT
-k0NjkxNzY3OSwtOTQ5NzcwOTExLC0xMDk4NDUyODMwLDIwNzI0
-OTc4NSwtODM1NTE3Njc4LDk5MzQ5MTQxMCwtMTg5NTgwNDQzNy
-wxNTk4MzIwNDMsLTM0NTg3NjkxMywxNjc1NDAzMjIyLC0xMDg4
-ODUyNjIxLC02MTgzNjMxOTgsMzYzNDc2NDIxLC0xNTUxMDk0Mj
-Y1LDE5NTI3MjM1NTgsMTcwNTA2NTg1LDUwODk0MjIzNSwzNjgy
-MTQ2NzVdfQ==
+eyJoaXN0b3J5IjpbMjA0MTY2NDA0NSwxMzcwOTMyNzQ4LC0xNT
+A1MjgzNzA4LC0xOTQ2OTE3Njc5LC05NDk3NzA5MTEsLTEwOTg0
+NTI4MzAsMjA3MjQ5Nzg1LC04MzU1MTc2NzgsOTkzNDkxNDEwLC
+0xODk1ODA0NDM3LDE1OTgzMjA0MywtMzQ1ODc2OTEzLDE2NzU0
+MDMyMjIsLTEwODg4NTI2MjEsLTYxODM2MzE5OCwzNjM0NzY0Mj
+EsLTE1NTEwOTQyNjUsMTk1MjcyMzU1OCwxNzA1MDY1ODUsNTA4
+OTQyMjM1XX0=
 -->
