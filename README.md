@@ -53,7 +53,7 @@ For a full description of Time Tokens, visit the  [Time Token repository](https:
 
 ## How do Time Tokens work?
 
-
+Time tokens are based on a hash function
 
 ## Why can't web 3 do this?
 Provable democracy cannot be fully achieved in web 3.0, because there is no control over how many accounts a user may control. Instead, many different models have been developed to deal with this issue, most notably, proof of work, proof of stake, and delegated proof of stake. 
@@ -61,8 +61,8 @@ Provable democracy cannot be fully achieved in web 3.0, because there is no cont
 These paradigms of democracy are used primarily to determine which chain of transaction blocks is considered valid, securing a blockchain. POS and DOPS are also used to in applications like Hive to allow users to declare 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NTg3NjkxMywxNjc1NDAzMjIyLC0xMD
-g4ODUyNjIxLC02MTgzNjMxOTgsMzYzNDc2NDIxLC0xNTUxMDk0
-MjY1LDE5NTI3MjM1NTgsMTcwNTA2NTg1LDUwODk0MjIzNSwzNj
-gyMTQ2NzUsNzY5MDkzMzIwXX0=
+eyJoaXN0b3J5IjpbLTEyMjUxODQ4MzksLTM0NTg3NjkxMywxNj
+c1NDAzMjIyLC0xMDg4ODUyNjIxLC02MTgzNjMxOTgsMzYzNDc2
+NDIxLC0xNTUxMDk0MjY1LDE5NTI3MjM1NTgsMTcwNTA2NTg1LD
+UwODk0MjIzNSwzNjgyMTQ2NzUsNzY5MDkzMzIwXX0=
 -->
