@@ -108,7 +108,8 @@ signature = HMACSHA256(
 function bioKeyGenerator(bioData){
 	// Function takes data in the form of user input into their browser or smartphone.
 	// With data, quantifyable points are taken algorithmically
-	// These points 
+	// These points expanded to a pre-defined margin of error
+	// Finally, all values are hashed, that value is returned  
 }
 
 ```
@@ -119,11 +120,11 @@ You can see that this example used only web 2 technology, as JWT doesn't imply d
 
 ## Why can't web 3 (or even web 2) do this?
 
-Web 2 is not a viable candidate for this because the federated nature means that your biometric data must be trusted to a third party, possibly a large corporation or malicious party. 
+Web 2 is not a viable candidate for this because the federated nature means that your biometric data must be trusted to a third party, possibly a large corporation or malicious actor. 
 
-Provable democracy cannot be fully achieved in web 3, because there is no control over how many accounts a user may open.[2] Instead, many different models have been developed to deal with this issue, most notably, proof of work, proof of stake, and delegated proof of stake. 
+Provable democracy cannot be fully achieved in web 3, because there is no control over how many accounts a user may open. [2] Instead, many different models have been developed to deal with this issue, most notably, proof of work, proof of stake, and delegated proof of stake. 
 
-These paradigms of democracy are used primarily to determine which chain of transaction blocks is considered valid, securing a blockchain. POS and DPOS is also used to in projects like Hive to allow users to "vote" on valuable content, an early example of the democratic web. DPOS is also used for networks to determine who can access resources.
+These paradigms of democracy are used primarily to determine which chain of transaction blocks is considered valid, securing a blockchain. POS and DPOS is additionally used to in projects like Hive to allow users to "vote" on valuable content, an early example of the democratic web. DPOS is also used for networks to determine who can access resources.
 
 However, both of these applications are not democratic in the sense that each account is not equal. In both cases, the root of democracy is in the token, not the individual, and the ownership of tokens determines the voting power or processing power of an individual. 
 
@@ -193,7 +194,7 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition. Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NDc5ODQzOCwtODgwNTM4MDA3LC0yMD
+eyJoaXN0b3J5IjpbMTM3Mzc2NzYyNSwtODgwNTM4MDA3LC0yMD
 cwMTQyNzA0LC00MjQ0MDcwMzcsLTMxMTIwMTkyNiw4MDQyMTkw
 MTcsODQ4MjUyMDIzLDEyMjc2NjgxNjMsLTcyMzg5OTM1MCwtMT
 kyNzMzNDA2MiwtODM2NzI3MjA1LC01MzY2NTMxODMsLTc2MDgx
