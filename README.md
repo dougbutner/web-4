@@ -142,7 +142,7 @@ In the end, the only way to implement true democracy in any system is through gi
 
 
 
-## **2. Verified Recipients**
+## **2.  Proof of Individuality - Biometric Secrets**
 It could be said that this system could be built without biometric verification. It certainly could. Until suitable biometric technology develops along the open source, user-ran requirements, [solutions](https://www.civic.com/) provide the necessary individuality, at the cost of trust. This and other solutions will happen as different people implement web 4 in their own ways. 
 
 We will present the ideas that are crucial for this system to be different, and represent true growth into web 4.
@@ -207,7 +207,7 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTYxNTg4ODcsLTE3MzA0NTQwMDksMT
+eyJoaXN0b3J5IjpbLTE4ODk1OTgwMjUsLTE3MzA0NTQwMDksMT
 Q3MzM1NDI5NCw1Mjg5MjkxMDYsLTEwMzc0MjQ4MjUsNzcwNjY5
 OTg4LC0zNTAzMzIyMDMsLTQ3MzA3NzY1NiwzNjk4NTUzMjksLT
 Q0MTg4NDQsLTEyMDc1MjQ2NzUsMTc3MjQ1NTE0MywxOTIzNzc1
