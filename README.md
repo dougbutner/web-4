@@ -102,8 +102,8 @@ signature = HMACSHA256(
 )
 
 
-function bioKeyGenerator(){
-
+function bioKeyGenerator(bioData){
+	// Function takes data in the form of user input into 
 }
 
 ```
@@ -188,11 +188,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition. Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNTgyNTk3MiwtNDI0NDA3MDM3LC0zMT
-EyMDE5MjYsODA0MjE5MDE3LDg0ODI1MjAyMywxMjI3NjY4MTYz
-LC03MjM4OTkzNTAsLTE5MjczMzQwNjIsLTgzNjcyNzIwNSwtNT
-M2NjUzMTgzLC03NjA4MTUxMiwtMTcxOTgzNzkwMiw3MzUyNTE0
-NTEsLTEzNTA3NzY0MjIsMTM3MDkzMjc0OCwtMTUwNTI4MzcwOC
-wtMTk0NjkxNzY3OSwtOTQ5NzcwOTExLC0xMDk4NDUyODMwLDIw
-NzI0OTc4NV19
+eyJoaXN0b3J5IjpbMTg2MDE3MjcwLC00MjQ0MDcwMzcsLTMxMT
+IwMTkyNiw4MDQyMTkwMTcsODQ4MjUyMDIzLDEyMjc2NjgxNjMs
+LTcyMzg5OTM1MCwtMTkyNzMzNDA2MiwtODM2NzI3MjA1LC01Mz
+Y2NTMxODMsLTc2MDgxNTEyLC0xNzE5ODM3OTAyLDczNTI1MTQ1
+MSwtMTM1MDc3NjQyMiwxMzcwOTMyNzQ4LC0xNTA1MjgzNzA4LC
+0xOTQ2OTE3Njc5LC05NDk3NzA5MTEsLTEwOTg0NTI4MzAsMjA3
+MjQ5Nzg1XX0=
 -->
