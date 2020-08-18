@@ -141,9 +141,9 @@ By using identifying information following open-source algorithms, in a way that
 communicable 
 
 ## **Degradation of Information**
-Web 3 focuses on storing information forever in a provable way. Web 4 introduces a counter-model which may be optionally adopted by any time token based system. In this model, information becomes harder and harder to know the more time that passes. The agent of this difficulty may be CPU cycles, or a democratic mechanism requiring a number of people requesting information in a given timespan where the more people that seek out a particular block of information, the more likely it is to be accessible to the whole. 
+Web 3 focuses on storing information forever in a provable way. Web 4 introduces a counter-model which may be optionally adopted by any time token based system. In this model, information becomes harder and harder to know the more time that passes. The agent of this difficulty may be CPU cycles, or a democratic mechanism requiring a number of people requesting information in a given timespan where the more people that seek out a particular block of information, the more likely it is to be accessible to all requesters. 
 
-Difficulty should be incremented with
+While the inclusion of this concept into web 4 may seem unnecessary, it is a part of the psudeoanonymity that is needed for many social applictions, similar to hoe 
 
 
 ### Erasing Permanent Records
@@ -182,11 +182,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition. Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc2MDQ0MTc5LC0zMTEyMDE5MjYsODA0Mj
-E5MDE3LDg0ODI1MjAyMywxMjI3NjY4MTYzLC03MjM4OTkzNTAs
-LTE5MjczMzQwNjIsLTgzNjcyNzIwNSwtNTM2NjUzMTgzLC03Nj
-A4MTUxMiwtMTcxOTgzNzkwMiw3MzUyNTE0NTEsLTEzNTA3NzY0
-MjIsMTM3MDkzMjc0OCwtMTUwNTI4MzcwOCwtMTk0NjkxNzY3OS
-wtOTQ5NzcwOTExLC0xMDk4NDUyODMwLDIwNzI0OTc4NSwtODM1
-NTE3Njc4XX0=
+eyJoaXN0b3J5IjpbLTYyMTM2NTM2MiwtMzExMjAxOTI2LDgwND
+IxOTAxNyw4NDgyNTIwMjMsMTIyNzY2ODE2MywtNzIzODk5MzUw
+LC0xOTI3MzM0MDYyLC04MzY3MjcyMDUsLTUzNjY1MzE4MywtNz
+YwODE1MTIsLTE3MTk4Mzc5MDIsNzM1MjUxNDUxLC0xMzUwNzc2
+NDIyLDEzNzA5MzI3NDgsLTE1MDUyODM3MDgsLTE5NDY5MTc2Nz
+ksLTk0OTc3MDkxMSwtMTA5ODQ1MjgzMCwyMDcyNDk3ODUsLTgz
+NTUxNzY3OF19
 -->
