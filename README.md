@@ -195,7 +195,7 @@ developing biocryptography standards
 
 # Author notes
 
-No one can stop us from buildi
+No one can stop us from building systems like this and self-governing. We don't need to separate to do so. We can still exist fully embedded in every part of our lives now. Mortgages, 
 
 It is my belief that each version of the web must be 1) fundamentally different than the previous, 2) be built on top of the previous version, and 3) have meaningful impact on society. 
 
@@ -210,11 +210,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMjAxNjIxOCwtMTEyMjUxNzYxMiwtMT
-g4OTU5ODAyNSwtMTczMDQ1NDAwOSwxNDczMzU0Mjk0LDUyODky
-OTEwNiwtMTAzNzQyNDgyNSw3NzA2Njk5ODgsLTM1MDMzMjIwMy
-wtNDczMDc3NjU2LDM2OTg1NTMyOSwtNDQxODg0NCwtMTIwNzUy
-NDY3NSwxNzcyNDU1MTQzLDE5MjM3NzU3MDQsMTk3ODg0NzQyNy
-wxMzczNzY3NjI1LC04ODA1MzgwMDcsLTIwNzAxNDI3MDQsLTQy
-NDQwNzAzN119
+eyJoaXN0b3J5IjpbLTE5NDk2MDk2NTAsLTExMjI1MTc2MTIsLT
+E4ODk1OTgwMjUsLTE3MzA0NTQwMDksMTQ3MzM1NDI5NCw1Mjg5
+MjkxMDYsLTEwMzc0MjQ4MjUsNzcwNjY5OTg4LC0zNTAzMzIyMD
+MsLTQ3MzA3NzY1NiwzNjk4NTUzMjksLTQ0MTg4NDQsLTEyMDc1
+MjQ2NzUsMTc3MjQ1NTE0MywxOTIzNzc1NzA0LDE5Nzg4NDc0Mj
+csMTM3Mzc2NzYyNSwtODgwNTM4MDA3LC0yMDcwMTQyNzA0LC00
+MjQ0MDcwMzddfQ==
 -->
