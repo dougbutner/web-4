@@ -1,4 +1,4 @@
-# Web 4.0 - The Democratic Web
+# Web 4.0 - The Democratic Web Ruled by Time
 
 ## About This Repo 
 
@@ -192,11 +192,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition. Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTc2OTg4NzMsLTIwNzAxNDI3MDQsLT
-QyNDQwNzAzNywtMzExMjAxOTI2LDgwNDIxOTAxNyw4NDgyNTIw
-MjMsMTIyNzY2ODE2MywtNzIzODk5MzUwLC0xOTI3MzM0MDYyLC
-04MzY3MjcyMDUsLTUzNjY1MzE4MywtNzYwODE1MTIsLTE3MTk4
-Mzc5MDIsNzM1MjUxNDUxLC0xMzUwNzc2NDIyLDEzNzA5MzI3ND
-gsLTE1MDUyODM3MDgsLTE5NDY5MTc2NzksLTk0OTc3MDkxMSwt
-MTA5ODQ1MjgzMF19
+eyJoaXN0b3J5IjpbLTg4MDUzODAwNywtMjA3MDE0MjcwNCwtND
+I0NDA3MDM3LC0zMTEyMDE5MjYsODA0MjE5MDE3LDg0ODI1MjAy
+MywxMjI3NjY4MTYzLC03MjM4OTkzNTAsLTE5MjczMzQwNjIsLT
+gzNjcyNzIwNSwtNTM2NjUzMTgzLC03NjA4MTUxMiwtMTcxOTgz
+NzkwMiw3MzUyNTE0NTEsLTEzNTA3NzY0MjIsMTM3MDkzMjc0OC
+wtMTUwNTI4MzcwOCwtMTk0NjkxNzY3OSwtOTQ5NzcwOTExLC0x
+MDk4NDUyODMwXX0=
 -->
