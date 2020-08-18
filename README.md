@@ -30,7 +30,7 @@ A growing portion of web 2 websites and applications today have elements of web 
 
 As web 3 matures, we start to open a pandoras box of practical applications. With transaction fees near non-existent on second layers, we can re-imagine what is possible. 
 
-Web 4's dreams up an open solution against storing biodata while enabling biorecognitio, and a collaborative society, driven by enabling each individual.
+Web 4's dreams up an open solution against storing biodata while providing proof of individuality, and a collaborative society, driven by enabling each individual.
 
 ## Defining Web 4
 Web 4 introduces provably democratic systems built on top of web 3's open-source decentralized networks. 
@@ -38,7 +38,7 @@ Web 4 introduces provably democratic systems built on top of web 3's open-source
 There are 4 conceptual underpinnings of web 4
 
  1. **Time-issued cryptocurrency** 
- 2. **Decentralized Open-source Biocryptograpy**
+ 2. **Proof of Individuality**
  3. **Information Degradation**
  4. **Social Layers**
 
@@ -204,7 +204,7 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTM1MjMzNTIsMTQ3MzM1NDI5NCw1Mj
+eyJoaXN0b3J5IjpbLTE3MzA0NTQwMDksMTQ3MzM1NDI5NCw1Mj
 g5MjkxMDYsLTEwMzc0MjQ4MjUsNzcwNjY5OTg4LC0zNTAzMzIy
 MDMsLTQ3MzA3NzY1NiwzNjk4NTUzMjksLTQ0MTg4NDQsLTEyMD
 c1MjQ2NzUsMTc3MjQ1NTE0MywxOTIzNzc1NzA0LDE5Nzg4NDc0
