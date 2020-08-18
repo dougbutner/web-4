@@ -194,6 +194,9 @@ developing biocryptography standards
 
 
 # Author notes
+
+No one can stop us from buildi
+
 It is my belief that each version of the web must be 1) fundamentally different than the previous, 2) be built on top of the previous version, and 3) have meaningful impact on society. 
 
 This proposal for the next iteration of the web is an effort to both expand and shift the path of information science in a direction where the meaningful impact of society involves: 1) empowerment of each individual, which serve as the basis for collective (social), economic, and novel applications; 2) provable identity verification while maintaining complete separation from any federated system, including government, with the side-benefit of lifelong recoverability of private keys, and 3) resonance with our containing systems, like the Solar system, which provides us with free energy daily, akin to free time tokens.
@@ -207,7 +210,7 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMzc5NzI5MiwtMTEyMjUxNzYxMiwtMT
+eyJoaXN0b3J5IjpbMTgwMjAxNjIxOCwtMTEyMjUxNzYxMiwtMT
 g4OTU5ODAyNSwtMTczMDQ1NDAwOSwxNDczMzU0Mjk0LDUyODky
 OTEwNiwtMTAzNzQyNDgyNSw3NzA2Njk5ODgsLTM1MDMzMjIwMy
 wtNDczMDc3NjU2LDM2OTg1NTMyOSwtNDQxODg0NCwtMTIwNzUy
