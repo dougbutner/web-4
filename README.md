@@ -30,7 +30,7 @@ A growing portion of web 2 websites and applications today have elements of web 
 
 As web 3 matures, we start to open a pandoras box of practical applications. With transaction fees near non-existent on second layers, we can re-imagine what is possible. 
 
-Web 4's dreams up an open solution against storing biodata while providing proof of individuality, and a collaborative society, driven by enabling each individual.
+Web 4's dreams up proof of individuality through encrypted biodata, and a collaborative society, driven by enabling each individual.
 
 ## Defining Web 4
 Web 4 introduces provably democratic systems built on top of web 3's open-source decentralized networks. 
@@ -204,11 +204,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzA0NTQwMDksMTQ3MzM1NDI5NCw1Mj
-g5MjkxMDYsLTEwMzc0MjQ4MjUsNzcwNjY5OTg4LC0zNTAzMzIy
-MDMsLTQ3MzA3NzY1NiwzNjk4NTUzMjksLTQ0MTg4NDQsLTEyMD
-c1MjQ2NzUsMTc3MjQ1NTE0MywxOTIzNzc1NzA0LDE5Nzg4NDc0
-MjcsMTM3Mzc2NzYyNSwtODgwNTM4MDA3LC0yMDcwMTQyNzA0LC
-00MjQ0MDcwMzcsLTMxMTIwMTkyNiw4MDQyMTkwMTcsODQ4MjUy
-MDIzXX0=
+eyJoaXN0b3J5IjpbLTIxNTY3OTU5NiwtMTczMDQ1NDAwOSwxND
+czMzU0Mjk0LDUyODkyOTEwNiwtMTAzNzQyNDgyNSw3NzA2Njk5
+ODgsLTM1MDMzMjIwMywtNDczMDc3NjU2LDM2OTg1NTMyOSwtND
+QxODg0NCwtMTIwNzUyNDY3NSwxNzcyNDU1MTQzLDE5MjM3NzU3
+MDQsMTk3ODg0NzQyNywxMzczNzY3NjI1LC04ODA1MzgwMDcsLT
+IwNzAxNDI3MDQsLTQyNDQwNzAzNywtMzExMjAxOTI2LDgwNDIx
+OTAxN119
 -->
