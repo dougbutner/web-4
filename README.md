@@ -124,7 +124,7 @@ You can see that this example used only web 2 technology, as JWT doesn't imply d
 
 Web 2 is not a viable candidate for this because the federated nature means that your biometric data must be trusted to a third party, possibly a large corporation or malicious actor. 
 
-Provable democracy cannot be fully achieved in web 3, because there is no control over how many accounts a user may open. [2] Many different consensus models have been developed, most notably, proof of work, proof of stake (POS), and delegated proof of stake (DPOS). These paradigms of consensus are used primarily to determine which chain of transaction records (blocks) is considered valid, securing a blockchain. 
+Provable democracy cannot be fully achieved in web 3, because there is no control over how many accounts a user may own. [2] Many different consensus models have been developed, most notably, proof of work, proof of stake (POS), and delegated proof of stake (DPOS). These paradigms of consensus are used primarily to determine which chain of transaction records (blocks) is considered valid, securing a blockchain. 
 
 POS and DPOS is additionally used to in projects like Hive to allow users to "vote" on valuable content, an early example of the democratic web. DPOS is also used for networks to determine who can access network resources.
 
@@ -132,9 +132,6 @@ However, both of these POD/DPOS use cases (curation and resource allocation) are
 
 In the end, the only way to implement true democracy in any system is through giving each individual equal power. The only way to do this while keeping web3's decentralized nature is to implement the technological (biocryptology) and idealogical (time faucets, degradation of data) advancements needed to be sure an account is owned by one individual, and that individual has only one account. These advancements are, for simplicity and communication, called web 4. 
 
-For the rest of this manifesto 
-
-# Examining the Components
 
 
 
@@ -204,11 +201,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcwNjY5OTg4LC0zNTAzMzIyMDMsLTQ3Mz
-A3NzY1NiwzNjk4NTUzMjksLTQ0MTg4NDQsLTEyMDc1MjQ2NzUs
-MTc3MjQ1NTE0MywxOTIzNzc1NzA0LDE5Nzg4NDc0MjcsMTM3Mz
-c2NzYyNSwtODgwNTM4MDA3LC0yMDcwMTQyNzA0LC00MjQ0MDcw
-MzcsLTMxMTIwMTkyNiw4MDQyMTkwMTcsODQ4MjUyMDIzLDEyMj
-c2NjgxNjMsLTcyMzg5OTM1MCwtMTkyNzMzNDA2MiwtODM2NzI3
-MjA1XX0=
+eyJoaXN0b3J5IjpbLTE1MjE2OTEwNDMsNzcwNjY5OTg4LC0zNT
+AzMzIyMDMsLTQ3MzA3NzY1NiwzNjk4NTUzMjksLTQ0MTg4NDQs
+LTEyMDc1MjQ2NzUsMTc3MjQ1NTE0MywxOTIzNzc1NzA0LDE5Nz
+g4NDc0MjcsMTM3Mzc2NzYyNSwtODgwNTM4MDA3LC0yMDcwMTQy
+NzA0LC00MjQ0MDcwMzcsLTMxMTIwMTkyNiw4MDQyMTkwMTcsOD
+Q4MjUyMDIzLDEyMjc2NjgxNjMsLTcyMzg5OTM1MCwtMTkyNzMz
+NDA2Ml19
 -->
