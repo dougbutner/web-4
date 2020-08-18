@@ -17,7 +17,7 @@ Dynamic pages that took user's information and desires into account. Asynchronou
 Decentralized web. Open-source applications exist in distributed networks instead of a central server. This unfederated model trades control and censorship ability for freedom and lack of opinion. 
 
  - **Web 4**
-Time web. Enabling meaningful layers on top of current socioeconomic systems built on time-minted crypto versatile which gains utility in how it is spent. Open source, unfederated biocryptography takes government and corporate oversight out of the picture. Intentional degradation of information changes blockchain paradigms and 
+Time web. Enabling meaningful layers on top of current socioeconomic systems built on time-minted crypto versatile which gains utility in how it is spent. Open source, unfederated biocryptography takes government and corporate oversight out of the picture. Intentional degradation of information changes blockchain paradigms and empowers time-based information models. 
 
 Today, the top 100 websites by traffic are [all](https://www.alexa.com/topsites) web 2 websites. The web 2 paradigm fits closely with the wider environment of corporate-owned information federation. 
 
@@ -30,11 +30,12 @@ Currently, Q3 2020, we are entering the start of maturity of web3. The technolog
 ## Defining Web 4
 Web 4 introduces provably democratic systems built on top of web 3's open-source decentralized networks. 
 
-There are 3 conceptual underpinnings of web 4
+There are 4 conceptual underpinnings of web 4
 
  1. **Time-issued cryptocurrency** 
  2. **Biocryptographic + independent verification signatures**
- 3. **Socioeconomic Layers**
+ 3. **Information Degradation**
+ 4. **Socioeconomic Layers**
 
 We will discuss these concepts one at a time.
 
@@ -130,9 +131,7 @@ User can choose to either perform a chosen biometric task to receive their hashe
 
 3. **Time-psudeoanonymous**: 
 
-4. **Degradation of information**:  Web 3 focuses on storing information forever. Web 4 
 
-Systems that store high-fidelity information become increasingly difficult to know something after it happens. As a result og the 
 
 
 The biggest issue with biometrics is the lack of trust. The lack of trust is almost always associated with an individuals's lack of consent, not the technology itself. 
@@ -173,11 +172,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition. Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MTIzNDg1NSwtMzExMjAxOTI2LDgwND
-IxOTAxNyw4NDgyNTIwMjMsMTIyNzY2ODE2MywtNzIzODk5MzUw
-LC0xOTI3MzM0MDYyLC04MzY3MjcyMDUsLTUzNjY1MzE4MywtNz
-YwODE1MTIsLTE3MTk4Mzc5MDIsNzM1MjUxNDUxLC0xMzUwNzc2
-NDIyLDEzNzA5MzI3NDgsLTE1MDUyODM3MDgsLTE5NDY5MTc2Nz
-ksLTk0OTc3MDkxMSwtMTA5ODQ1MjgzMCwyMDcyNDk3ODUsLTgz
-NTUxNzY3OF19
+eyJoaXN0b3J5IjpbLTE1MjcwOTMwOTQsLTMxMTIwMTkyNiw4MD
+QyMTkwMTcsODQ4MjUyMDIzLDEyMjc2NjgxNjMsLTcyMzg5OTM1
+MCwtMTkyNzMzNDA2MiwtODM2NzI3MjA1LC01MzY2NTMxODMsLT
+c2MDgxNTEyLC0xNzE5ODM3OTAyLDczNTI1MTQ1MSwtMTM1MDc3
+NjQyMiwxMzcwOTMyNzQ4LC0xNTA1MjgzNzA4LC0xOTQ2OTE3Nj
+c5LC05NDk3NzA5MTEsLTEwOTg0NTI4MzAsMjA3MjQ5Nzg1LC04
+MzU1MTc2NzhdfQ==
 -->
