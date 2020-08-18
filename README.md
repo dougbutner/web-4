@@ -95,13 +95,13 @@ const payloadData = {
 	"appData": "Lots of things"
 }
 
-const signingSecret = bioKeyGenerator(passedBioData); // Biometric provider's key or one generated direcly by user
+const bioSecret = bioKeyGenerator(passedBioData); // Biometric provider's key or one generated direcly by user
 
 
 signature = HMACSHA256(
 	base64UrlEncode(header) + "."+
 	base64UrlEncode(payloadData), 
-	signingSecret
+	bioSecret
 )
 
 
@@ -194,11 +194,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition. Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3Mzc2NzYyNSwtODgwNTM4MDA3LC0yMD
-cwMTQyNzA0LC00MjQ0MDcwMzcsLTMxMTIwMTkyNiw4MDQyMTkw
-MTcsODQ4MjUyMDIzLDEyMjc2NjgxNjMsLTcyMzg5OTM1MCwtMT
-kyNzMzNDA2MiwtODM2NzI3MjA1LC01MzY2NTMxODMsLTc2MDgx
-NTEyLC0xNzE5ODM3OTAyLDczNTI1MTQ1MSwtMTM1MDc3NjQyMi
-wxMzcwOTMyNzQ4LC0xNTA1MjgzNzA4LC0xOTQ2OTE3Njc5LC05
-NDk3NzA5MTFdfQ==
+eyJoaXN0b3J5IjpbMjQ3ODg0MDczLDEzNzM3Njc2MjUsLTg4MD
+UzODAwNywtMjA3MDE0MjcwNCwtNDI0NDA3MDM3LC0zMTEyMDE5
+MjYsODA0MjE5MDE3LDg0ODI1MjAyMywxMjI3NjY4MTYzLC03Mj
+M4OTkzNTAsLTE5MjczMzQwNjIsLTgzNjcyNzIwNSwtNTM2NjUz
+MTgzLC03NjA4MTUxMiwtMTcxOTgzNzkwMiw3MzUyNTE0NTEsLT
+EzNTA3NzY0MjIsMTM3MDkzMjc0OCwtMTUwNTI4MzcwOCwtMTk0
+NjkxNzY3OV19
 -->
