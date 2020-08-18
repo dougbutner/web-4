@@ -126,9 +126,9 @@ Web 2 is not a viable candidate for this because the federated nature means that
 
 Provable democracy cannot be fully achieved in web 3, because there is no control over how many accounts a user may open. [2] Many different consensus models have been developed, most notably, proof of work, proof of stake, and delegated proof of stake. 
 
-These paradigms of consensus are used primarily to determine which chain of transaction blocks is considered valid, securing a blockchain. POS and DPOS is additionally used to in projects like Hive to allow users to "vote" on valuable content, an early example of the democratic web. DPOS is also used for networks to determine who can access network resources.
+These paradigms of consensus are used primarily to determine which chain of transaction records (blocks) is considered valid, securing a blockchain. POS and DPOS is additionally used to in projects like Hive to allow users to "vote" on valuable content, an early example of the democratic web. DPOS is also used for networks to determine who can access network resources.
 
-However, both of these applications are not democratic in the sense that each account is not equal. In both cases, the root of democracy is in the token, not the individual, and the ownership of tokens determines the voting power or processing power of an individual. 
+However, both of these applications (securing a are not democratic in the sense that each account is not equal. In both cases, the root of democracy is in the token, not the individual, and the ownership of tokens determines the voting power or processing power of an individual. 
 
 
 ## **2. Verified Recipients**
@@ -196,11 +196,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MzA3NzY1NiwzNjk4NTUzMjksLTQ0MT
-g4NDQsLTEyMDc1MjQ2NzUsMTc3MjQ1NTE0MywxOTIzNzc1NzA0
-LDE5Nzg4NDc0MjcsMTM3Mzc2NzYyNSwtODgwNTM4MDA3LC0yMD
-cwMTQyNzA0LC00MjQ0MDcwMzcsLTMxMTIwMTkyNiw4MDQyMTkw
-MTcsODQ4MjUyMDIzLDEyMjc2NjgxNjMsLTcyMzg5OTM1MCwtMT
-kyNzMzNDA2MiwtODM2NzI3MjA1LC01MzY2NTMxODMsLTc2MDgx
-NTEyXX0=
+eyJoaXN0b3J5IjpbLTgzMDc3MjEwNCwtNDczMDc3NjU2LDM2OT
+g1NTMyOSwtNDQxODg0NCwtMTIwNzUyNDY3NSwxNzcyNDU1MTQz
+LDE5MjM3NzU3MDQsMTk3ODg0NzQyNywxMzczNzY3NjI1LC04OD
+A1MzgwMDcsLTIwNzAxNDI3MDQsLTQyNDQwNzAzNywtMzExMjAx
+OTI2LDgwNDIxOTAxNyw4NDgyNTIwMjMsMTIyNzY2ODE2MywtNz
+IzODk5MzUwLC0xOTI3MzM0MDYyLC04MzY3MjcyMDUsLTUzNjY1
+MzE4M119
 -->
