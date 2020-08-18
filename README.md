@@ -38,7 +38,7 @@ There are 4 conceptual underpinnings of web 4
  1. **Time-issued cryptocurrency** 
  2. **Decentralized Open-source Biocryptograpy**
  3. **Information Degradation**
- 4. **Socioeconomic Layers**
+ 4. **Social Layers**
 
 We will discuss these concepts one at a time.
 
@@ -202,11 +202,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzc0MjQ4MjUsNzcwNjY5OTg4LC0zNT
-AzMzIyMDMsLTQ3MzA3NzY1NiwzNjk4NTUzMjksLTQ0MTg4NDQs
-LTEyMDc1MjQ2NzUsMTc3MjQ1NTE0MywxOTIzNzc1NzA0LDE5Nz
-g4NDc0MjcsMTM3Mzc2NzYyNSwtODgwNTM4MDA3LC0yMDcwMTQy
-NzA0LC00MjQ0MDcwMzcsLTMxMTIwMTkyNiw4MDQyMTkwMTcsOD
-Q4MjUyMDIzLDEyMjc2NjgxNjMsLTcyMzg5OTM1MCwtMTkyNzMz
-NDA2Ml19
+eyJoaXN0b3J5IjpbNTI4OTI5MTA2LC0xMDM3NDI0ODI1LDc3MD
+Y2OTk4OCwtMzUwMzMyMjAzLC00NzMwNzc2NTYsMzY5ODU1MzI5
+LC00NDE4ODQ0LC0xMjA3NTI0Njc1LDE3NzI0NTUxNDMsMTkyMz
+c3NTcwNCwxOTc4ODQ3NDI3LDEzNzM3Njc2MjUsLTg4MDUzODAw
+NywtMjA3MDE0MjcwNCwtNDI0NDA3MDM3LC0zMTEyMDE5MjYsOD
+A0MjE5MDE3LDg0ODI1MjAyMywxMjI3NjY4MTYzLC03MjM4OTkz
+NTBdfQ==
 -->
