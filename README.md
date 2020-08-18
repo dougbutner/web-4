@@ -9,7 +9,7 @@ This README features a description of the next evolution of the web, web 4.0. As
 Before we define web 4.0, we must look briefly at the concepts of web 1.0, web 2.0, and web 3.0. We will remove the ".0" for the rest of this document, because that's sooo web 2.
 
  - **Web 1**
-Static files  served from a server to a user's browser.
+Static files served from a remote server to a user's browser.
  - **Web 2**
 Dynamic pages that take user's information and desires into account. Asynchronous requests allow single page applications to thrive. Applications are still served from a central (federated) server.
 
@@ -192,11 +192,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition. Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMTk5OTc3NywtMjA3MDE0MjcwNCwtND
-I0NDA3MDM3LC0zMTEyMDE5MjYsODA0MjE5MDE3LDg0ODI1MjAy
-MywxMjI3NjY4MTYzLC03MjM4OTkzNTAsLTE5MjczMzQwNjIsLT
-gzNjcyNzIwNSwtNTM2NjUzMTgzLC03NjA4MTUxMiwtMTcxOTgz
-NzkwMiw3MzUyNTE0NTEsLTEzNTA3NzY0MjIsMTM3MDkzMjc0OC
-wtMTUwNTI4MzcwOCwtMTk0NjkxNzY3OSwtOTQ5NzcwOTExLC0x
-MDk4NDUyODMwXX0=
+eyJoaXN0b3J5IjpbLTE3NTc2OTg4NzMsLTIwNzAxNDI3MDQsLT
+QyNDQwNzAzNywtMzExMjAxOTI2LDgwNDIxOTAxNyw4NDgyNTIw
+MjMsMTIyNzY2ODE2MywtNzIzODk5MzUwLC0xOTI3MzM0MDYyLC
+04MzY3MjcyMDUsLTUzNjY1MzE4MywtNzYwODE1MTIsLTE3MTk4
+Mzc5MDIsNzM1MjUxNDUxLC0xMzUwNzc2NDIyLDEzNzA5MzI3ND
+gsLTE1MDUyODM3MDgsLTE5NDY5MTc2NzksLTk0OTc3MDkxMSwt
+MTA5ODQ1MjgzMF19
 -->
