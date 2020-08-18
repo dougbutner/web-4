@@ -117,7 +117,7 @@ These paradigms of democracy are used primarily to determine which chain of tran
 However, both of these applications are not democratic in the sense that each account is not equal. In both cases, the root of democracy is in the token, not the individual, and the ownership of tokens determines the voting power or processing power of an individual. 
 
 
-## **3. Verified Recipients**
+## **2. Verified Recipients**
 It could be said that this system could be built without verification. It certainly could. This will no-doubt happen, as different people implement web 4 in their own ways. 
 
 Our job is to present the ideas that are crucial for this system to be different, and represent true growth into web 4. 
@@ -140,6 +140,10 @@ By using identifying information following open-source algorithms, in a way that
 
 communicable 
 
+## **Degradation of Information**
+Web 3 focuses on storing information forever. Web 4 introduces a counter model which may be optionally adopted by any time token based system. In this model, information becomes harder and harder to know 
+
+Systems that store high-fidelity information become increasingly difficult to know something after it happens. As a result og the 
 
 
 
@@ -172,11 +176,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition. Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjcwOTMwOTQsLTMxMTIwMTkyNiw4MD
-QyMTkwMTcsODQ4MjUyMDIzLDEyMjc2NjgxNjMsLTcyMzg5OTM1
-MCwtMTkyNzMzNDA2MiwtODM2NzI3MjA1LC01MzY2NTMxODMsLT
-c2MDgxNTEyLC0xNzE5ODM3OTAyLDczNTI1MTQ1MSwtMTM1MDc3
-NjQyMiwxMzcwOTMyNzQ4LC0xNTA1MjgzNzA4LC0xOTQ2OTE3Nj
-c5LC05NDk3NzA5MTEsLTEwOTg0NTI4MzAsMjA3MjQ5Nzg1LC04
-MzU1MTc2NzhdfQ==
+eyJoaXN0b3J5IjpbLTI2MzUxMjc2MywtMzExMjAxOTI2LDgwND
+IxOTAxNyw4NDgyNTIwMjMsMTIyNzY2ODE2MywtNzIzODk5MzUw
+LC0xOTI3MzM0MDYyLC04MzY3MjcyMDUsLTUzNjY1MzE4MywtNz
+YwODE1MTIsLTE3MTk4Mzc5MDIsNzM1MjUxNDUxLC0xMzUwNzc2
+NDIyLDEzNzA5MzI3NDgsLTE1MDUyODM3MDgsLTE5NDY5MTc2Nz
+ksLTk0OTc3MDkxMSwtMTA5ODQ1MjgzMCwyMDcyNDk3ODUsLTgz
+NTUxNzY3OF19
 -->
