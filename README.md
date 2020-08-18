@@ -24,9 +24,9 @@ Time web. Enabling meaningful layers on top of current socioeconomic systems bui
 
 Today, the top 100 websites by traffic are [all](https://www.alexa.com/topsites) web 2 websites. The web 2 paradigm fits closely with the wider environment of corporate-owned information federation. 
 
-As more and more individuals and societies are reconsidering the place of government, censorship, and federated vs unfederated power, web 3 is emerging as a powerful, provable option to shape the evolution of society on planet Earth. 
+As more and more individuals and societies are reconsidering the place of government, censorship, centralization and federated power, web 3 has emerged as a powerful, provable option to shape the evolution of society on planet Earth. 
 
-A growing portion of web 2 websites and applications today have elements of web 3, like [cryptoblogs](https://peakd.com) and [games], web 2. While web 2 and web 3 can operate independently
+A growing portion of web 2 websites and applications today have elements of web 3, like [cryptoblogs](https://peakd.com) and [games](), web 2. While web 2 and web 3 can operate independently
 
 Currently, Q3 2020, we are entering the start of maturity of web3. The technology is literally evolving, as we await players like eth2 into a growing space. 
 
@@ -202,7 +202,7 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDY4NzYwNDMsNTI4OTI5MTA2LC0xMD
+eyJoaXN0b3J5IjpbLTE2MDQzNTIyOTIsNTI4OTI5MTA2LC0xMD
 M3NDI0ODI1LDc3MDY2OTk4OCwtMzUwMzMyMjAzLC00NzMwNzc2
 NTYsMzY5ODU1MzI5LC00NDE4ODQ0LC0xMjA3NTI0Njc1LDE3Nz
 I0NTUxNDMsMTkyMzc3NTcwNCwxOTc4ODQ3NDI3LDEzNzM3Njc2
