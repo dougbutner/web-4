@@ -42,7 +42,8 @@ There are 4 conceptual underpinnings of web 4
 
 We will discuss these concepts one at a time.
 
-# Time-issued cryptocurrency (Time Tokens) 
+
+# #1: Time-issued cryptocurrency (Time Tokens) 
 
 Time tokens are distributed to users based on the amount of time passed.  
 
@@ -201,11 +202,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjE2OTEwNDMsNzcwNjY5OTg4LC0zNT
-AzMzIyMDMsLTQ3MzA3NzY1NiwzNjk4NTUzMjksLTQ0MTg4NDQs
-LTEyMDc1MjQ2NzUsMTc3MjQ1NTE0MywxOTIzNzc1NzA0LDE5Nz
-g4NDc0MjcsMTM3Mzc2NzYyNSwtODgwNTM4MDA3LC0yMDcwMTQy
-NzA0LC00MjQ0MDcwMzcsLTMxMTIwMTkyNiw4MDQyMTkwMTcsOD
-Q4MjUyMDIzLDEyMjc2NjgxNjMsLTcyMzg5OTM1MCwtMTkyNzMz
-NDA2Ml19
+eyJoaXN0b3J5IjpbNjc0MTUwNTE5LDc3MDY2OTk4OCwtMzUwMz
+MyMjAzLC00NzMwNzc2NTYsMzY5ODU1MzI5LC00NDE4ODQ0LC0x
+MjA3NTI0Njc1LDE3NzI0NTUxNDMsMTkyMzc3NTcwNCwxOTc4OD
+Q3NDI3LDEzNzM3Njc2MjUsLTg4MDUzODAwNywtMjA3MDE0Mjcw
+NCwtNDI0NDA3MDM3LC0zMTEyMDE5MjYsODA0MjE5MDE3LDg0OD
+I1MjAyMywxMjI3NjY4MTYzLC03MjM4OTkzNTAsLTE5MjczMzQw
+NjJdfQ==
 -->
