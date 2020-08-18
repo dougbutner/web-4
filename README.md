@@ -28,9 +28,7 @@ As more and more individuals and societies are reconsidering the place of govern
 
 A growing portion of web 2 websites and applications today have elements of web 3, like [cryptoblogs](https://peakd.com) and [games](https://www.stateofthedapps.com/rankings/category/games). While web 2 and web 3 can operate independently, web 3 enhances the abilities of web 2. 
 
-As web 3 matures, we start to open a pandoras box of practical applications. With transaction fees near non-existent on second layers, eth2 on the horizon
-
-The technology is literally evolving, as we await players like eth2 into a growing space. 
+As web 3 matures, we start to open a pandoras box of practical applications. With transaction fees near non-existent on second layers, we can re-imagine what is possible. Web 4's dreams up a solution to facial recognition 
 
 ## Defining Web 4
 Web 4 introduces provably democratic systems built on top of web 3's open-source decentralized networks. 
@@ -204,11 +202,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTQyMDAwMTQsMTQ3MzM1NDI5NCw1Mj
-g5MjkxMDYsLTEwMzc0MjQ4MjUsNzcwNjY5OTg4LC0zNTAzMzIy
-MDMsLTQ3MzA3NzY1NiwzNjk4NTUzMjksLTQ0MTg4NDQsLTEyMD
-c1MjQ2NzUsMTc3MjQ1NTE0MywxOTIzNzc1NzA0LDE5Nzg4NDc0
-MjcsMTM3Mzc2NzYyNSwtODgwNTM4MDA3LC0yMDcwMTQyNzA0LC
-00MjQ0MDcwMzcsLTMxMTIwMTkyNiw4MDQyMTkwMTcsODQ4MjUy
-MDIzXX0=
+eyJoaXN0b3J5IjpbMTE2MDgwMzY3MSwxNDczMzU0Mjk0LDUyOD
+kyOTEwNiwtMTAzNzQyNDgyNSw3NzA2Njk5ODgsLTM1MDMzMjIw
+MywtNDczMDc3NjU2LDM2OTg1NTMyOSwtNDQxODg0NCwtMTIwNz
+UyNDY3NSwxNzcyNDU1MTQzLDE5MjM3NzU3MDQsMTk3ODg0NzQy
+NywxMzczNzY3NjI1LC04ODA1MzgwMDcsLTIwNzAxNDI3MDQsLT
+QyNDQwNzAzNywtMzExMjAxOTI2LDgwNDIxOTAxNyw4NDgyNTIw
+MjNdfQ==
 -->
