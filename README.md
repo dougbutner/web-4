@@ -1,6 +1,6 @@
 # The Web 4.0 Manifesto - The Democratic Web 
 
-[![Mentioned in Awesome Web 4](https://awesome.re/mentioned-badge.svg)](https://github.com/<INSERT LIST URL>)
+[![Mentioned in Awesome Web 4](https://awesome.re/mentioned-badge.svg)](https://github.com/dougbutner/awesome-web4)
 
 ## About This Repo 
 
@@ -202,11 +202,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI4OTI5MTA2LC0xMDM3NDI0ODI1LDc3MD
-Y2OTk4OCwtMzUwMzMyMjAzLC00NzMwNzc2NTYsMzY5ODU1MzI5
-LC00NDE4ODQ0LC0xMjA3NTI0Njc1LDE3NzI0NTUxNDMsMTkyMz
-c3NTcwNCwxOTc4ODQ3NDI3LDEzNzM3Njc2MjUsLTg4MDUzODAw
-NywtMjA3MDE0MjcwNCwtNDI0NDA3MDM3LC0zMTEyMDE5MjYsOD
-A0MjE5MDE3LDg0ODI1MjAyMywxMjI3NjY4MTYzLC03MjM4OTkz
-NTBdfQ==
+eyJoaXN0b3J5IjpbLTkwMDI0Njk4Niw1Mjg5MjkxMDYsLTEwMz
+c0MjQ4MjUsNzcwNjY5OTg4LC0zNTAzMzIyMDMsLTQ3MzA3NzY1
+NiwzNjk4NTUzMjksLTQ0MTg4NDQsLTEyMDc1MjQ2NzUsMTc3Mj
+Q1NTE0MywxOTIzNzc1NzA0LDE5Nzg4NDc0MjcsMTM3Mzc2NzYy
+NSwtODgwNTM4MDA3LC0yMDcwMTQyNzA0LC00MjQ0MDcwMzcsLT
+MxMTIwMTkyNiw4MDQyMTkwMTcsODQ4MjUyMDIzLDEyMjc2Njgx
+NjNdfQ==
 -->
