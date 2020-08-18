@@ -1,14 +1,14 @@
-# The Web 4.0 Manifesto - The Democratic Web 
+# The Web 4 Manifesto - The Democratic Web 
 
 [![Mentioned in Awesome Web 4](https://awesome.re/mentioned-badge.svg)](https://github.com/dougbutner/awesome-web4)
 
 ## About This Repo 
 
-This README features a description of the next evolution of the web, web 4.0. As the technologies emerge, this repo will also feature code and links to the associated technologies.
+This README features a description of the next evolution of the web, web 4. As the technologies emerge, this repo will also feature code and links to the associated technologies.
 
-## What is Web 4.0?
+## What is Web 4?
 
-Before we define web 4.0, we must look briefly at the concepts of web 1.0, web 2.0, and web 3.0. We will remove the ".0" for the rest of this document, because that's sooo web 2.
+Before we define web 4, we must look briefly at the concepts of web 1, web 2, and web 3. 
 
  - **Web 1**
 Static files served from a remote server to a user's browser.
@@ -20,11 +20,11 @@ Dynamic pages that take user's information and desires into account. Asynchronou
 Decentralized web. Open-source applications exist in distributed networks instead of a central server. This unfederated model trades control and censorship ability for freedom and lack of opinion. 
 
  - **Web 4**
-Time web. Enabling meaningful layers on top of current socioeconomic systems built on time-minted crypto versatile which gains utility in how it is spent. Open source, unfederated biocryptography allows democratic systems to flourish, and takes government identification and corporate oversight out of the picture. Intentional degradation of information changes blockchain paradigms and empowers time-based information models. 
+Time web. Enabling meaningful layers on top of current socioeconomic systems built on time-minted crypto versatile which gains utility in how it is spent. Open source, unfederated biocryptography allows democratic systems to flourish, and takes government identification and corporate oversight out of the picture. Intentional degradation of information changes blockchain paradigms and brings meaning to time-based information models. 
 
 Today, the top 100 websites by traffic are [all](https://www.alexa.com/topsites) web 2 websites. The web 2 paradigm fits closely with the wider environment of corporate-owned information federation. 
 
-As more and more individuals and societies are reconsidering the place of government, censorship,   and federated vs unfederated power, web 3 is emerging as a powerful, provable option to shape the evolution of society on planet Earth. 
+As more and more individuals and societies are reconsidering the place of government, censorship, and federated vs unfederated power, web 3 is emerging as a powerful, provable option to shape the evolution of society on planet Earth. 
 
 A growing portion of web 2 websites and applications today have elements of web 3, like [cryptoblogs](https://peakd.com) and [games], web 2. While web 2 and web 3 can operate independently
 
@@ -202,11 +202,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMDI0Njk4Niw1Mjg5MjkxMDYsLTEwMz
-c0MjQ4MjUsNzcwNjY5OTg4LC0zNTAzMzIyMDMsLTQ3MzA3NzY1
-NiwzNjk4NTUzMjksLTQ0MTg4NDQsLTEyMDc1MjQ2NzUsMTc3Mj
-Q1NTE0MywxOTIzNzc1NzA0LDE5Nzg4NDc0MjcsMTM3Mzc2NzYy
-NSwtODgwNTM4MDA3LC0yMDcwMTQyNzA0LC00MjQ0MDcwMzcsLT
-MxMTIwMTkyNiw4MDQyMTkwMTcsODQ4MjUyMDIzLDEyMjc2Njgx
-NjNdfQ==
+eyJoaXN0b3J5IjpbLTExMDY4NzYwNDMsNTI4OTI5MTA2LC0xMD
+M3NDI0ODI1LDc3MDY2OTk4OCwtMzUwMzMyMjAzLC00NzMwNzc2
+NTYsMzY5ODU1MzI5LC00NDE4ODQ0LC0xMjA3NTI0Njc1LDE3Nz
+I0NTUxNDMsMTkyMzc3NTcwNCwxOTc4ODQ3NDI3LDEzNzM3Njc2
+MjUsLTg4MDUzODAwNywtMjA3MDE0MjcwNCwtNDI0NDA3MDM3LC
+0zMTEyMDE5MjYsODA0MjE5MDE3LDg0ODI1MjAyMywxMjI3NjY4
+MTYzXX0=
 -->
