@@ -141,10 +141,13 @@ By using identifying information following open-source algorithms, in a way that
 communicable 
 
 ## **Degradation of Information**
-Web 3 focuses on storing information forever in a provable way. Web 4 introduces a counter-model which may be optionally adopted by any time token based system. In this model, information becomes harder and harder to know the more time that passes. The agent of this difficulty may be CPU cycles, or some sort of democratic request, where the more people that seek out a particular block of information, the more likely it is to be accessable to the whole. 
+Web 3 focuses on storing information forever in a provable way. Web 4 introduces a counter-model which may be optionally adopted by any time token based system. In this model, information becomes harder and harder to know the more time that passes. The agent of this difficulty may be CPU cycles, or a democratic mechanism requiring a number of people requesting information in a given timespan where the more people that seek out a particular block of information, the more likely it is to be accessible to the whole. 
+
+Difficulty should be incremented with
 
 
-Erasing Permanant Records 
+### Erasing Permanent Records
+When web 4 is used for social applications
 
 Systems that store high-fidelity information become increasingly difficult to know something after it happens. As a result og the 
 
@@ -179,11 +182,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition. Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjk3NDIyMjQsLTMxMTIwMTkyNiw4MD
-QyMTkwMTcsODQ4MjUyMDIzLDEyMjc2NjgxNjMsLTcyMzg5OTM1
-MCwtMTkyNzMzNDA2MiwtODM2NzI3MjA1LC01MzY2NTMxODMsLT
-c2MDgxNTEyLC0xNzE5ODM3OTAyLDczNTI1MTQ1MSwtMTM1MDc3
-NjQyMiwxMzcwOTMyNzQ4LC0xNTA1MjgzNzA4LC0xOTQ2OTE3Nj
-c5LC05NDk3NzA5MTEsLTEwOTg0NTI4MzAsMjA3MjQ5Nzg1LC04
-MzU1MTc2NzhdfQ==
+eyJoaXN0b3J5IjpbOTc2MDQ0MTc5LC0zMTEyMDE5MjYsODA0Mj
+E5MDE3LDg0ODI1MjAyMywxMjI3NjY4MTYzLC03MjM4OTkzNTAs
+LTE5MjczMzQwNjIsLTgzNjcyNzIwNSwtNTM2NjUzMTgzLC03Nj
+A4MTUxMiwtMTcxOTgzNzkwMiw3MzUyNTE0NTEsLTEzNTA3NzY0
+MjIsMTM3MDkzMjc0OCwtMTUwNTI4MzcwOCwtMTk0NjkxNzY3OS
+wtOTQ5NzcwOTExLC0xMDk4NDUyODMwLDIwNzI0OTc4NSwtODM1
+NTE3Njc4XX0=
 -->
