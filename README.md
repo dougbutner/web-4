@@ -81,6 +81,8 @@ Here is the minimum information stored in a time token, using [JWT](https://jwt.
 For the time token to be spendable, a signed JWT Time Token
 
 ```
+const passedBioData = {..} // Video r
+
 const header" = {
         "typ": "JWT",
         "alg": "HS256"
@@ -103,7 +105,7 @@ signature = HMACSHA256(
 
 
 function bioKeyGenerator(bioData){
-	// Function takes data in the form of user input into 
+	// Function takes data in the form of user input into their browser or smartphone, where 
 }
 
 ```
@@ -188,7 +190,7 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition. Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MDE3MjcwLC00MjQ0MDcwMzcsLTMxMT
+eyJoaXN0b3J5IjpbODIzNDcyNTcwLC00MjQ0MDcwMzcsLTMxMT
 IwMTkyNiw4MDQyMTkwMTcsODQ4MjUyMDIzLDEyMjc2NjgxNjMs
 LTcyMzg5OTM1MCwtMTkyNzMzNDA2MiwtODM2NzI3MjA1LC01Mz
 Y2NTMxODMsLTc2MDgxNTEyLC0xNzE5ODM3OTAyLDczNTI1MTQ1
