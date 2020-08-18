@@ -124,11 +124,11 @@ You can see that this example used only web 2 technology, as JWT doesn't imply d
 
 Web 2 is not a viable candidate for this because the federated nature means that your biometric data must be trusted to a third party, possibly a large corporation or malicious actor. 
 
-Provable democracy cannot be fully achieved in web 3, because there is no control over how many accounts a user may open. [2] Many different consensus models have been developed, most notably, proof of work, proof of stake, and delegated proof of stake. 
+Provable democracy cannot be fully achieved in web 3, because there is no control over how many accounts a user may open. [2] Many different consensus models have been developed, most notably, proof of work, proof of stake (POS), and delegated proof of stake (DPOS). These paradigms of consensus are used primarily to determine which chain of transaction records (blocks) is considered valid, securing a blockchain. 
 
-These paradigms of consensus are used primarily to determine which chain of transaction records (blocks) is considered valid, securing a blockchain. POS and DPOS is additionally used to in projects like Hive to allow users to "vote" on valuable content, an early example of the democratic web. DPOS is also used for networks to determine who can access network resources.
+POS and DPOS is additionally used to in projects like Hive to allow users to "vote" on valuable content, an early example of the democratic web. DPOS is also used for networks to determine who can access network resources.
 
-However, both of these applications (securing a are not democratic in the sense that each account is not equal. In both cases, the root of democracy is in the token, not the individual, and the ownership of tokens determines the voting power or processing power of an individual. 
+However, both of these applications (securing a blockchain, and Hive-like voting) are not democratic in the sense that each account is not equal. In both cases, the root of democracy is in the token, not the individual, and the ownership of tokens determines the voting power or processing power of an individual. 
 
 
 ## **2. Verified Recipients**
@@ -196,11 +196,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMDc3MjEwNCwtNDczMDc3NjU2LDM2OT
-g1NTMyOSwtNDQxODg0NCwtMTIwNzUyNDY3NSwxNzcyNDU1MTQz
-LDE5MjM3NzU3MDQsMTk3ODg0NzQyNywxMzczNzY3NjI1LC04OD
-A1MzgwMDcsLTIwNzAxNDI3MDQsLTQyNDQwNzAzNywtMzExMjAx
-OTI2LDgwNDIxOTAxNyw4NDgyNTIwMjMsMTIyNzY2ODE2MywtNz
-IzODk5MzUwLC0xOTI3MzM0MDYyLC04MzY3MjcyMDUsLTUzNjY1
-MzE4M119
+eyJoaXN0b3J5IjpbNTQzMzUyNzkzLC00NzMwNzc2NTYsMzY5OD
+U1MzI5LC00NDE4ODQ0LC0xMjA3NTI0Njc1LDE3NzI0NTUxNDMs
+MTkyMzc3NTcwNCwxOTc4ODQ3NDI3LDEzNzM3Njc2MjUsLTg4MD
+UzODAwNywtMjA3MDE0MjcwNCwtNDI0NDA3MDM3LC0zMTEyMDE5
+MjYsODA0MjE5MDE3LDg0ODI1MjAyMywxMjI3NjY4MTYzLC03Mj
+M4OTkzNTAsLTE5MjczMzQwNjIsLTgzNjcyNzIwNSwtNTM2NjUz
+MTgzXX0=
 -->
