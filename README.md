@@ -130,7 +130,7 @@ POS and DPOS is additionally used to in projects like Hive to allow users to "vo
 
 However, both of these POD/DPOS use cases (curation and resource allocation) are not democratic in the sense that each account is not equal. In both cases, the root of democracy is in the token, not the individual, and the ownership of tokens determines the voting power or processing power held by an individual. 
 
-In the end, the only way to implement true democracy in any system is through 
+In the end, the only way to implement true democracy in any system is through giving each individual equal power, and the only way to do this with web3 is to implement the technological (biocryptology) and idealogical (time faucets, degradation of data) improvements nee
 
 
 
@@ -200,11 +200,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODQ4NTU5MjEsLTM1MDMzMjIwMywtND
-czMDc3NjU2LDM2OTg1NTMyOSwtNDQxODg0NCwtMTIwNzUyNDY3
-NSwxNzcyNDU1MTQzLDE5MjM3NzU3MDQsMTk3ODg0NzQyNywxMz
-czNzY3NjI1LC04ODA1MzgwMDcsLTIwNzAxNDI3MDQsLTQyNDQw
-NzAzNywtMzExMjAxOTI2LDgwNDIxOTAxNyw4NDgyNTIwMjMsMT
-IyNzY2ODE2MywtNzIzODk5MzUwLC0xOTI3MzM0MDYyLC04MzY3
-MjcyMDVdfQ==
+eyJoaXN0b3J5IjpbLTUyNDcwNjc0MCwtMzUwMzMyMjAzLC00Nz
+MwNzc2NTYsMzY5ODU1MzI5LC00NDE4ODQ0LC0xMjA3NTI0Njc1
+LDE3NzI0NTUxNDMsMTkyMzc3NTcwNCwxOTc4ODQ3NDI3LDEzNz
+M3Njc2MjUsLTg4MDUzODAwNywtMjA3MDE0MjcwNCwtNDI0NDA3
+MDM3LC0zMTEyMDE5MjYsODA0MjE5MDE3LDg0ODI1MjAyMywxMj
+I3NjY4MTYzLC03MjM4OTkzNTAsLTE5MjczMzQwNjIsLTgzNjcy
+NzIwNV19
 -->
