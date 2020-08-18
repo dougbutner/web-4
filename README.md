@@ -124,7 +124,7 @@ You can see that this example used only web 2 technology, as JWT doesn't imply d
 
 Web 2 is not a viable candidate for this because the federated nature means that your biometric data must be trusted to a third party, possibly a large corporation or malicious actor. 
 
-Provable democracy cannot be fully achieved in web 3, because there is no control over how many accounts a user may open. [2] There is a general need ofr a , many different models have been developed to deal with this issue, most notably, proof of work, proof of stake, and delegated proof of stake. 
+Provable democracy cannot be fully achieved in web 3, because there is no control over how many accounts a user may open. [2] Simply  many different models have been developed to deal with this issue, most notably, proof of work, proof of stake, and delegated proof of stake. 
 
 These paradigms of democracy are used primarily to determine which chain of transaction blocks is considered valid, securing a blockchain. POS and DPOS is additionally used to in projects like Hive to allow users to "vote" on valuable content, an early example of the democratic web. DPOS is also used for networks to determine who can access resources.
 
@@ -196,11 +196,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNzgxMTM2MCwzNjk4NTUzMjksLTQ0MT
-g4NDQsLTEyMDc1MjQ2NzUsMTc3MjQ1NTE0MywxOTIzNzc1NzA0
-LDE5Nzg4NDc0MjcsMTM3Mzc2NzYyNSwtODgwNTM4MDA3LC0yMD
-cwMTQyNzA0LC00MjQ0MDcwMzcsLTMxMTIwMTkyNiw4MDQyMTkw
-MTcsODQ4MjUyMDIzLDEyMjc2NjgxNjMsLTcyMzg5OTM1MCwtMT
-kyNzMzNDA2MiwtODM2NzI3MjA1LC01MzY2NTMxODMsLTc2MDgx
-NTEyXX0=
+eyJoaXN0b3J5IjpbLTE0MjA1MDg1NTUsMzY5ODU1MzI5LC00ND
+E4ODQ0LC0xMjA3NTI0Njc1LDE3NzI0NTUxNDMsMTkyMzc3NTcw
+NCwxOTc4ODQ3NDI3LDEzNzM3Njc2MjUsLTg4MDUzODAwNywtMj
+A3MDE0MjcwNCwtNDI0NDA3MDM3LC0zMTEyMDE5MjYsODA0MjE5
+MDE3LDg0ODI1MjAyMywxMjI3NjY4MTYzLC03MjM4OTkzNTAsLT
+E5MjczMzQwNjIsLTgzNjcyNzIwNSwtNTM2NjUzMTgzLC03NjA4
+MTUxMl19
 -->
