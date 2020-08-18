@@ -17,7 +17,7 @@ Dynamic pages that took user's information and desires into account. Asynchronou
 Decentralized web. Open-source applications exist in distributed networks instead of a central server. This unfederated model trades control and censorship ability for freedom and lack of opinion. 
 
  - **Web 4**
-Time web. Enabling meaningful layers on top of current socioeconomic systems built on time-minted crypto versatile which gains utility in how it is spent. 
+Time web. Enabling meaningful layers on top of current socioeconomic systems built on time-minted crypto versatile which gains utility in how it is spent. Open source, biocryptography solves t
 
 Today, the top 100 websites by traffic are [all](https://www.alexa.com/topsites) web 2 websites. The web 2 paradigm fits closely with the wider environment of corporate-owned information federation. 
 
@@ -173,11 +173,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition. Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA0MjE5MDE3LDg0ODI1MjAyMywxMjI3Nj
-Y4MTYzLC03MjM4OTkzNTAsLTE5MjczMzQwNjIsLTgzNjcyNzIw
-NSwtNTM2NjUzMTgzLC03NjA4MTUxMiwtMTcxOTgzNzkwMiw3Mz
-UyNTE0NTEsLTEzNTA3NzY0MjIsMTM3MDkzMjc0OCwtMTUwNTI4
-MzcwOCwtMTk0NjkxNzY3OSwtOTQ5NzcwOTExLC0xMDk4NDUyOD
-MwLDIwNzI0OTc4NSwtODM1NTE3Njc4LDk5MzQ5MTQxMCwtMTg5
-NTgwNDQzN119
+eyJoaXN0b3J5IjpbLTMxMTIwMTkyNiw4MDQyMTkwMTcsODQ4Mj
+UyMDIzLDEyMjc2NjgxNjMsLTcyMzg5OTM1MCwtMTkyNzMzNDA2
+MiwtODM2NzI3MjA1LC01MzY2NTMxODMsLTc2MDgxNTEyLC0xNz
+E5ODM3OTAyLDczNTI1MTQ1MSwtMTM1MDc3NjQyMiwxMzcwOTMy
+NzQ4LC0xNTA1MjgzNzA4LC0xOTQ2OTE3Njc5LC05NDk3NzA5MT
+EsLTEwOTg0NTI4MzAsMjA3MjQ5Nzg1LC04MzU1MTc2NzgsOTkz
+NDkxNDEwXX0=
 -->
