@@ -1,4 +1,4 @@
-# Web 4.0 - The Democratic Web Ruled by Time
+# Web 4.0 - The Democratic Web Time
 
 [![Mentioned in Awesome Web 4](https://awesome.re/mentioned-badge.svg)](https://github.com/<INSERT LIST URL>)
 
@@ -196,11 +196,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MTg4NDQsLTEyMDc1MjQ2NzUsMTc3Mj
-Q1NTE0MywxOTIzNzc1NzA0LDE5Nzg4NDc0MjcsMTM3Mzc2NzYy
-NSwtODgwNTM4MDA3LC0yMDcwMTQyNzA0LC00MjQ0MDcwMzcsLT
-MxMTIwMTkyNiw4MDQyMTkwMTcsODQ4MjUyMDIzLDEyMjc2Njgx
-NjMsLTcyMzg5OTM1MCwtMTkyNzMzNDA2MiwtODM2NzI3MjA1LC
-01MzY2NTMxODMsLTc2MDgxNTEyLC0xNzE5ODM3OTAyLDczNTI1
-MTQ1MV19
+eyJoaXN0b3J5IjpbMzY5ODU1MzI5LC00NDE4ODQ0LC0xMjA3NT
+I0Njc1LDE3NzI0NTUxNDMsMTkyMzc3NTcwNCwxOTc4ODQ3NDI3
+LDEzNzM3Njc2MjUsLTg4MDUzODAwNywtMjA3MDE0MjcwNCwtND
+I0NDA3MDM3LC0zMTEyMDE5MjYsODA0MjE5MDE3LDg0ODI1MjAy
+MywxMjI3NjY4MTYzLC03MjM4OTkzNTAsLTE5MjczMzQwNjIsLT
+gzNjcyNzIwNSwtNTM2NjUzMTgzLC03NjA4MTUxMiwtMTcxOTgz
+NzkwMl19
 -->
