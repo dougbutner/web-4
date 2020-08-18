@@ -128,7 +128,11 @@ Provable democracy cannot be fully achieved in web 3, because there is no contro
 
 POS and DPOS is additionally used to in projects like Hive to allow users to "vote" on valuable content, an early example of the democratic web. DPOS is also used for networks to determine who can access network resources.
 
-However, both of these POD/DPOS use cases (curation and resource allocation) are not democratic in the sense that each account is not equal. In both cases, the root of democracy is in the token, not the individual, and the ownership of tokens determines the voting power or processing power of an individual. 
+However, both of these POD/DPOS use cases (curation and resource allocation) are not democratic in the sense that each account is not equal. In both cases, the root of democracy is in the token, not the individual, and the ownership of tokens determines the voting power or processing power held by an individual. 
+
+In the end, the only way to implement true democracy in any system is through 
+
+
 
 
 ## **2. Verified Recipients**
@@ -196,11 +200,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MDMzMjIwMywtNDczMDc3NjU2LDM2OT
-g1NTMyOSwtNDQxODg0NCwtMTIwNzUyNDY3NSwxNzcyNDU1MTQz
-LDE5MjM3NzU3MDQsMTk3ODg0NzQyNywxMzczNzY3NjI1LC04OD
-A1MzgwMDcsLTIwNzAxNDI3MDQsLTQyNDQwNzAzNywtMzExMjAx
-OTI2LDgwNDIxOTAxNyw4NDgyNTIwMjMsMTIyNzY2ODE2MywtNz
-IzODk5MzUwLC0xOTI3MzM0MDYyLC04MzY3MjcyMDUsLTUzNjY1
-MzE4M119
+eyJoaXN0b3J5IjpbLTE3ODQ4NTU5MjEsLTM1MDMzMjIwMywtND
+czMDc3NjU2LDM2OTg1NTMyOSwtNDQxODg0NCwtMTIwNzUyNDY3
+NSwxNzcyNDU1MTQzLDE5MjM3NzU3MDQsMTk3ODg0NzQyNywxMz
+czNzY3NjI1LC04ODA1MzgwMDcsLTIwNzAxNDI3MDQsLTQyNDQw
+NzAzNywtMzExMjAxOTI2LDgwNDIxOTAxNyw4NDgyNTIwMjMsMT
+IyNzY2ODE2MywtNzIzODk5MzUwLC0xOTI3MzM0MDYyLC04MzY3
+MjcyMDVdfQ==
 -->
