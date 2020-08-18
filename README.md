@@ -143,7 +143,7 @@ In the end, the only way to implement true democracy in any system is through gi
 
 
 ## **2.  Proof of Individuality - Biometric Secrets**
-This system certainly could be built without biometric verification, and probably will. Until suitable biometric technology develops along the open source, user-ran requirements, [solutions](https://www.civic.com/) provide the necessary individuality, at the cost of trust. This and other solutions will happen as different people implement web 4 in their own ways. 
+This system certainly could be built without biometric verification, and probably will. Until suitable biometric technology develops along the open source, client-side requirements, [solutions](https://www.civic.com/) provide the necessary individuality, at the cost of trust. This and other solutions will happen as different people implement web 4 in their own ways. 
 
 We will present the ideas that are crucial for this system to be different, and represent true growth into web 4.
 
@@ -207,11 +207,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjI1MTc2MTIsLTE4ODk1OTgwMjUsLT
-E3MzA0NTQwMDksMTQ3MzM1NDI5NCw1Mjg5MjkxMDYsLTEwMzc0
-MjQ4MjUsNzcwNjY5OTg4LC0zNTAzMzIyMDMsLTQ3MzA3NzY1Ni
-wzNjk4NTUzMjksLTQ0MTg4NDQsLTEyMDc1MjQ2NzUsMTc3MjQ1
-NTE0MywxOTIzNzc1NzA0LDE5Nzg4NDc0MjcsMTM3Mzc2NzYyNS
-wtODgwNTM4MDA3LC0yMDcwMTQyNzA0LC00MjQ0MDcwMzcsLTMx
-MTIwMTkyNl19
+eyJoaXN0b3J5IjpbLTYyMzc5NzI5MiwtMTEyMjUxNzYxMiwtMT
+g4OTU5ODAyNSwtMTczMDQ1NDAwOSwxNDczMzU0Mjk0LDUyODky
+OTEwNiwtMTAzNzQyNDgyNSw3NzA2Njk5ODgsLTM1MDMzMjIwMy
+wtNDczMDc3NjU2LDM2OTg1NTMyOSwtNDQxODg0NCwtMTIwNzUy
+NDY3NSwxNzcyNDU1MTQzLDE5MjM3NzU3MDQsMTk3ODg0NzQyNy
+wxMzczNzY3NjI1LC04ODA1MzgwMDcsLTIwNzAxNDI3MDQsLTQy
+NDQwNzAzN119
 -->
