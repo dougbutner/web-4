@@ -143,7 +143,7 @@ communicable
 ## **Degradation of Information**
 Web 3 focuses on storing information forever in a provable way. Web 4 introduces a counter-model which may be optionally adopted by any time token based system. In this model, information becomes harder and harder to know the more time that passes. The agent of this difficulty may be CPU cycles, or a democratic mechanism requiring a number of people requesting information in a given timespan where the more people that seek out a particular block of information, the more likely it is to be accessible to all requesters. 
 
-While the inclusion of this concept into web 4 may seem unnecessary, it is a part of the psudeoanonymity that is needed for many social applictions, similar to hoe 
+While the inclusion of this concept into web 4 may seem unnecessary, it is a part of the psudeoanonymity that is needed for many social applications. Consider the 
 
 
 ### Erasing Permanent Records
@@ -182,7 +182,7 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition. Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMTM2NTM2MiwtMzExMjAxOTI2LDgwND
+eyJoaXN0b3J5IjpbLTQyNDQwNzAzNywtMzExMjAxOTI2LDgwND
 IxOTAxNyw4NDgyNTIwMjMsMTIyNzY2ODE2MywtNzIzODk5MzUw
 LC0xOTI3MzM0MDYyLC04MzY3MjcyMDUsLTUzNjY1MzE4MywtNz
 YwODE1MTIsLTE3MTk4Mzc5MDIsNzM1MjUxNDUxLC0xMzUwNzc2
