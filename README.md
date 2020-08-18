@@ -86,7 +86,7 @@ For the time token to be spendable, a signed JWT Time Token
 ```
 const passedBioData = {..} // See function bioKeyGenerator at bottom of code
 
-const header" = {
+const header = {
         "typ": "JWT",
         "alg": "HS256"
       }
@@ -196,11 +196,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY5ODU1MzI5LC00NDE4ODQ0LC0xMjA3NT
-I0Njc1LDE3NzI0NTUxNDMsMTkyMzc3NTcwNCwxOTc4ODQ3NDI3
-LDEzNzM3Njc2MjUsLTg4MDUzODAwNywtMjA3MDE0MjcwNCwtND
-I0NDA3MDM3LC0zMTEyMDE5MjYsODA0MjE5MDE3LDg0ODI1MjAy
-MywxMjI3NjY4MTYzLC03MjM4OTkzNTAsLTE5MjczMzQwNjIsLT
-gzNjcyNzIwNSwtNTM2NjUzMTgzLC03NjA4MTUxMiwtMTcxOTgz
-NzkwMl19
+eyJoaXN0b3J5IjpbODY4Nzc1NjQzLDM2OTg1NTMyOSwtNDQxOD
+g0NCwtMTIwNzUyNDY3NSwxNzcyNDU1MTQzLDE5MjM3NzU3MDQs
+MTk3ODg0NzQyNywxMzczNzY3NjI1LC04ODA1MzgwMDcsLTIwNz
+AxNDI3MDQsLTQyNDQwNzAzNywtMzExMjAxOTI2LDgwNDIxOTAx
+Nyw4NDgyNTIwMjMsMTIyNzY2ODE2MywtNzIzODk5MzUwLC0xOT
+I3MzM0MDYyLC04MzY3MjcyMDUsLTUzNjY1MzE4MywtNzYwODE1
+MTJdfQ==
 -->
