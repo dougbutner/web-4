@@ -26,7 +26,7 @@ Today, the top 100 websites by traffic are [all](https://www.alexa.com/topsites)
 
 As more and more individuals and societies are reconsidering the place of government, censorship, centralization and federated power, web 3 has emerged as a powerful, provable option to shape the evolution of society on planet Earth. 
 
-A growing portion of web 2 websites and applications today have elements of web 3, like [cryptoblogs](https://peakd.com) and [games](), web 2. While web 2 and web 3 can operate independently
+A growing portion of web 2 websites and applications today have elements of web 3, like [cryptoblogs](https://peakd.com) and [games](https://www.stateofthedapps.com/rankings/category/games). While web 2 and web 3 can operate independently
 
 Currently, Q3 2020, we are entering the start of maturity of web3. The technology is literally evolving, as we await players like eth2 into a growing space. 
 
@@ -202,11 +202,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDQzNTIyOTIsNTI4OTI5MTA2LC0xMD
-M3NDI0ODI1LDc3MDY2OTk4OCwtMzUwMzMyMjAzLC00NzMwNzc2
-NTYsMzY5ODU1MzI5LC00NDE4ODQ0LC0xMjA3NTI0Njc1LDE3Nz
-I0NTUxNDMsMTkyMzc3NTcwNCwxOTc4ODQ3NDI3LDEzNzM3Njc2
-MjUsLTg4MDUzODAwNywtMjA3MDE0MjcwNCwtNDI0NDA3MDM3LC
-0zMTEyMDE5MjYsODA0MjE5MDE3LDg0ODI1MjAyMywxMjI3NjY4
-MTYzXX0=
+eyJoaXN0b3J5IjpbLTQ3Mjc0MTEwNSw1Mjg5MjkxMDYsLTEwMz
+c0MjQ4MjUsNzcwNjY5OTg4LC0zNTAzMzIyMDMsLTQ3MzA3NzY1
+NiwzNjk4NTUzMjksLTQ0MTg4NDQsLTEyMDc1MjQ2NzUsMTc3Mj
+Q1NTE0MywxOTIzNzc1NzA0LDE5Nzg4NDc0MjcsMTM3Mzc2NzYy
+NSwtODgwNTM4MDA3LC0yMDcwMTQyNzA0LC00MjQ0MDcwMzcsLT
+MxMTIwMTkyNiw4MDQyMTkwMTcsODQ4MjUyMDIzLDEyMjc2Njgx
+NjNdfQ==
 -->
