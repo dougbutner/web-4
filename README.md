@@ -2,7 +2,7 @@
 
 ## About This Repo 
 
-This README features a description of the next evolution of the web, web 4.0. As the technologies emerge, this repo will also feature code and links to the  associated technologies.
+This README features a description of the next evolution of the web, web 4.0. As the technologies emerge, this repo will also feature code and links to the associated technologies.
 
 ## What is Web 4.0?
 
@@ -192,11 +192,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition. Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MDUzODAwNywtMjA3MDE0MjcwNCwtND
-I0NDA3MDM3LC0zMTEyMDE5MjYsODA0MjE5MDE3LDg0ODI1MjAy
-MywxMjI3NjY4MTYzLC03MjM4OTkzNTAsLTE5MjczMzQwNjIsLT
-gzNjcyNzIwNSwtNTM2NjUzMTgzLC03NjA4MTUxMiwtMTcxOTgz
-NzkwMiw3MzUyNTE0NTEsLTEzNTA3NzY0MjIsMTM3MDkzMjc0OC
-wtMTUwNTI4MzcwOCwtMTk0NjkxNzY3OSwtOTQ5NzcwOTExLC0x
-MDk4NDUyODMwXX0=
+eyJoaXN0b3J5IjpbMTE5NzY3NDAwNywtODgwNTM4MDA3LC0yMD
+cwMTQyNzA0LC00MjQ0MDcwMzcsLTMxMTIwMTkyNiw4MDQyMTkw
+MTcsODQ4MjUyMDIzLDEyMjc2NjgxNjMsLTcyMzg5OTM1MCwtMT
+kyNzMzNDA2MiwtODM2NzI3MjA1LC01MzY2NTMxODMsLTc2MDgx
+NTEyLC0xNzE5ODM3OTAyLDczNTI1MTQ1MSwtMTM1MDc3NjQyMi
+wxMzcwOTMyNzQ4LC0xNTA1MjgzNzA4LC0xOTQ2OTE3Njc5LC05
+NDk3NzA5MTFdfQ==
 -->
