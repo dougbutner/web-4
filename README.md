@@ -124,7 +124,7 @@ You can see that this example used only web 2 technology, as JWT doesn't imply d
 
 Web 2 is not a viable candidate for this because the federated nature means that your biometric data must be trusted to a third party, possibly a large corporation or malicious actor. 
 
-Provable democracy cannot be fully achieved in web 3, because there is no control over how many accounts a user may open. [2] Instead, many different models have been developed to deal with this issue, most notably, proof of work, proof of stake, and delegated proof of stake. 
+Provable democracy cannot be fully achieved in web 3, because there is no control over how many accounts a user may open. [2] There is a general need ofr a , many different models have been developed to deal with this issue, most notably, proof of work, proof of stake, and delegated proof of stake. 
 
 These paradigms of democracy are used primarily to determine which chain of transaction blocks is considered valid, securing a blockchain. POS and DPOS is additionally used to in projects like Hive to allow users to "vote" on valuable content, an early example of the democratic web. DPOS is also used for networks to determine who can access resources.
 
@@ -196,11 +196,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY4Nzc1NjQzLDM2OTg1NTMyOSwtNDQxOD
-g0NCwtMTIwNzUyNDY3NSwxNzcyNDU1MTQzLDE5MjM3NzU3MDQs
-MTk3ODg0NzQyNywxMzczNzY3NjI1LC04ODA1MzgwMDcsLTIwNz
-AxNDI3MDQsLTQyNDQwNzAzNywtMzExMjAxOTI2LDgwNDIxOTAx
-Nyw4NDgyNTIwMjMsMTIyNzY2ODE2MywtNzIzODk5MzUwLC0xOT
-I3MzM0MDYyLC04MzY3MjcyMDUsLTUzNjY1MzE4MywtNzYwODE1
-MTJdfQ==
+eyJoaXN0b3J5IjpbLTMyNzgxMTM2MCwzNjk4NTUzMjksLTQ0MT
+g4NDQsLTEyMDc1MjQ2NzUsMTc3MjQ1NTE0MywxOTIzNzc1NzA0
+LDE5Nzg4NDc0MjcsMTM3Mzc2NzYyNSwtODgwNTM4MDA3LC0yMD
+cwMTQyNzA0LC00MjQ0MDcwMzcsLTMxMTIwMTkyNiw4MDQyMTkw
+MTcsODQ4MjUyMDIzLDEyMjc2NjgxNjMsLTcyMzg5OTM1MCwtMT
+kyNzMzNDA2MiwtODM2NzI3MjA1LC01MzY2NTMxODMsLTc2MDgx
+NTEyXX0=
 -->
