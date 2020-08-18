@@ -10,6 +10,7 @@ Before we define web 4.0, we must look briefly at the concepts of web 1.0, web 2
 
  - **Web 1**
 Static files served from a remote server to a user's browser.
+
  - **Web 2**
 Dynamic pages that take user's information and desires into account. Asynchronous requests allow single page applications to thrive. Applications are still served from a central (federated) server.
 
@@ -106,8 +107,8 @@ signature = HMACSHA256(
 
 function bioKeyGenerator(bioData){
 	// Function takes data in the form of user input into their browser or smartphone.
-	// With data, quantifuyable points are taken algorithmically
-	//   
+	// With data, quantifyable points are taken algorithmically
+	// These points 
 }
 
 ```
@@ -192,7 +193,7 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition. Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NzY3NDAwNywtODgwNTM4MDA3LC0yMD
+eyJoaXN0b3J5IjpbMTM3NDc5ODQzOCwtODgwNTM4MDA3LC0yMD
 cwMTQyNzA0LC00MjQ0MDcwMzcsLTMxMTIwMTkyNiw4MDQyMTkw
 MTcsODQ4MjUyMDIzLDEyMjc2NjgxNjMsLTcyMzg5OTM1MCwtMT
 kyNzMzNDA2MiwtODM2NzI3MjA1LC01MzY2NTMxODMsLTc2MDgx
