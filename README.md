@@ -28,7 +28,7 @@ As more and more individuals and societies are reconsidering the place of govern
 
 A growing portion of web 2 websites and applications today have elements of web 3, like [cryptoblogs](https://peakd.com) and [games](https://www.stateofthedapps.com/rankings/category/games). While web 2 and web 3 can operate independently, web 3 enhances the abilities of web 2. 
 
-As web 3 emerges, 
+As web 3 matures, we start to open a pandoras box of practial application. With transaction fees non-existent on some second layers
 
 The technology is literally evolving, as we await players like eth2 into a growing space. 
 
@@ -204,7 +204,7 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzODE3NjYyMyw1Mjg5MjkxMDYsLTEwMz
+eyJoaXN0b3J5IjpbMTQ3MzM1NDI5NCw1Mjg5MjkxMDYsLTEwMz
 c0MjQ4MjUsNzcwNjY5OTg4LC0zNTAzMzIyMDMsLTQ3MzA3NzY1
 NiwzNjk4NTUzMjksLTQ0MTg4NDQsLTEyMDc1MjQ2NzUsMTc3Mj
 Q1NTE0MywxOTIzNzc1NzA0LDE5Nzg4NDc0MjcsMTM3Mzc2NzYy
