@@ -127,9 +127,12 @@ Our job is to present the ideas that are crucial for this system to be different
 User can choose to either perform a chosen biometric task to receive their hashed biosecret (trustless) or generate it at any time from a third party provide (trust). Any third party provider will generate the same hash by a set or open-source algorithms. 
 
 2. **Trustless Trustfulness**: User's sensitive biological information and generated algorithmic results are destroyed (made impossible to reconstruct) at the layer of hashing, and data not stored in any way, public or private, as the user runs the software on their local machine (assuming they choose the open-source software, not a third party).
-3. **Time-psudeoanonymous**: S
 
-5. **Degradation of information**:  Systems that store high-fidelity information become increasingly difficult to know something after it happens
+3. **Time-psudeoanonymous**: 
+
+4. **Degradation of information**:  Web 3 focuses on storing information forever. Web 4 
+
+Systems that store high-fidelity information become increasingly difficult to know something after it happens. As a result og the 
 
 
 The biggest issue with biometrics is the lack of trust. The lack of trust is almost always associated with an individuals's lack of consent, not the technology itself. 
@@ -170,11 +173,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition. Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ4MjUyMDIzLDEyMjc2NjgxNjMsLTcyMz
-g5OTM1MCwtMTkyNzMzNDA2MiwtODM2NzI3MjA1LC01MzY2NTMx
-ODMsLTc2MDgxNTEyLC0xNzE5ODM3OTAyLDczNTI1MTQ1MSwtMT
-M1MDc3NjQyMiwxMzcwOTMyNzQ4LC0xNTA1MjgzNzA4LC0xOTQ2
-OTE3Njc5LC05NDk3NzA5MTEsLTEwOTg0NTI4MzAsMjA3MjQ5Nz
-g1LC04MzU1MTc2NzgsOTkzNDkxNDEwLC0xODk1ODA0NDM3LDE1
-OTgzMjA0M119
+eyJoaXN0b3J5IjpbODA0MjE5MDE3LDg0ODI1MjAyMywxMjI3Nj
+Y4MTYzLC03MjM4OTkzNTAsLTE5MjczMzQwNjIsLTgzNjcyNzIw
+NSwtNTM2NjUzMTgzLC03NjA4MTUxMiwtMTcxOTgzNzkwMiw3Mz
+UyNTE0NTEsLTEzNTA3NzY0MjIsMTM3MDkzMjc0OCwtMTUwNTI4
+MzcwOCwtMTk0NjkxNzY3OSwtOTQ5NzcwOTExLC0xMDk4NDUyOD
+MwLDIwNzI0OTc4NSwtODM1NTE3Njc4LDk5MzQ5MTQxMCwtMTg5
+NTgwNDQzN119
 -->
