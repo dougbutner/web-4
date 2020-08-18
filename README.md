@@ -141,8 +141,7 @@ By using identifying information following open-source algorithms, in a way that
 communicable 
 
 ## **Degradation of Information**
-Web 3 focuses on storing information forever in a provable way. Web 4 introduces a counter-model which may be optionally adopted by any time token based system. In this model, information becomes harder and harder to know the more time that passes.
-
+Web 3 focuses on storing information forever in a provable way. Web 4 introduces a counter-model which may be optionally adopted by any time token based system. In this model, information becomes harder and harder to know the more time that passes. The agent of this difficulty may be CPU cycles, or some sort of democratic request, where the more people that seek out a particular block of information, the more likely it is to be accessable to the whole. 
 
 
 Erasing Permanant Records 
@@ -180,7 +179,7 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition. Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjEyMTUzNjAsLTMxMTIwMTkyNiw4MD
+eyJoaXN0b3J5IjpbLTEwMjk3NDIyMjQsLTMxMTIwMTkyNiw4MD
 QyMTkwMTcsODQ4MjUyMDIzLDEyMjc2NjgxNjMsLTcyMzg5OTM1
 MCwtMTkyNzMzNDA2MiwtODM2NzI3MjA1LC01MzY2NTMxODMsLT
 c2MDgxNTEyLC0xNzE5ODM3OTAyLDczNTI1MTQ1MSwtMTM1MDc3
