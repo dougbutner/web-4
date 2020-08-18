@@ -1,4 +1,4 @@
-# Web 4.0 - The Democratic Web Time
+# The Web 4.0 Manifesto - The Democratic Web 
 
 [![Mentioned in Awesome Web 4](https://awesome.re/mentioned-badge.svg)](https://github.com/<INSERT LIST URL>)
 
@@ -130,7 +130,11 @@ POS and DPOS is additionally used to in projects like Hive to allow users to "vo
 
 However, both of these POD/DPOS use cases (curation and resource allocation) are not democratic in the sense that each account is not equal. In both cases, the root of democracy is in the token, not the individual, and the ownership of tokens determines the voting power or processing power held by an individual. 
 
-In the end, the only way to implement true democracy in any system is through giving each individual equal power. The only way to do this while keeping web3's decentralized nature is to implement the technological (biocryptology) and idealogical (time faucets, degradation of data) advancements needed to be sure an account is owned by one individual, and that individual has only one account. 
+In the end, the only way to implement true democracy in any system is through giving each individual equal power. The only way to do this while keeping web3's decentralized nature is to implement the technological (biocryptology) and idealogical (time faucets, degradation of data) advancements needed to be sure an account is owned by one individual, and that individual has only one account. These advancements are, for simplicity and communication, called web 4. 
+
+For the rest of this manifesto 
+
+# Examining the Components
 
 
 
@@ -200,11 +204,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIxMDM3MjksLTM1MDMzMjIwMywtNDczMD
-c3NjU2LDM2OTg1NTMyOSwtNDQxODg0NCwtMTIwNzUyNDY3NSwx
-NzcyNDU1MTQzLDE5MjM3NzU3MDQsMTk3ODg0NzQyNywxMzczNz
-Y3NjI1LC04ODA1MzgwMDcsLTIwNzAxNDI3MDQsLTQyNDQwNzAz
-NywtMzExMjAxOTI2LDgwNDIxOTAxNyw4NDgyNTIwMjMsMTIyNz
-Y2ODE2MywtNzIzODk5MzUwLC0xOTI3MzM0MDYyLC04MzY3Mjcy
-MDVdfQ==
+eyJoaXN0b3J5IjpbNzcwNjY5OTg4LC0zNTAzMzIyMDMsLTQ3Mz
+A3NzY1NiwzNjk4NTUzMjksLTQ0MTg4NDQsLTEyMDc1MjQ2NzUs
+MTc3MjQ1NTE0MywxOTIzNzc1NzA0LDE5Nzg4NDc0MjcsMTM3Mz
+c2NzYyNSwtODgwNTM4MDA3LC0yMDcwMTQyNzA0LC00MjQ0MDcw
+MzcsLTMxMTIwMTkyNiw4MDQyMTkwMTcsODQ4MjUyMDIzLDEyMj
+c2NjgxNjMsLTcyMzg5OTM1MCwtMTkyNzMzNDA2MiwtODM2NzI3
+MjA1XX0=
 -->
