@@ -130,11 +130,9 @@ However, both of these applications are not democratic in the sense that each ac
 
 
 ## **2. Verified Recipients**
-It could be said that this system could be built without biometric verification. It certainly could. This will no-doubt happen, as different people implement web 4 in their own ways. 
+It could be said that this system could be built without biometric verification. It certainly could. Until suitable biometric technology develops along the open source, user-ran requirements, [solutions](https://www.civic.com/) provide the necessary individuality, at the cost of trust. This and other solutions will happen as different people implement web 4 in their own ways. 
 
-Until suitable biometric technology develops along the open source, user-ran requirements, [solutions]() that 
-
-Our job is to present the ideas that are crucial for this system to be different, and represent true growth into web 4. 
+We will present the ideas that are crucial for this system to be different, and represent true growth into web 4. So w
 
 
 **Key Aspects** 
@@ -196,7 +194,7 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition. Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MTIxOTE3MiwxMzczNzY3NjI1LC04OD
+eyJoaXN0b3J5IjpbMTk3ODg0NzQyNywxMzczNzY3NjI1LC04OD
 A1MzgwMDcsLTIwNzAxNDI3MDQsLTQyNDQwNzAzNywtMzExMjAx
 OTI2LDgwNDIxOTAxNyw4NDgyNTIwMjMsMTIyNzY2ODE2MywtNz
 IzODk5MzUwLC0xOTI3MzM0MDYyLC04MzY3MjcyMDUsLTUzNjY1
