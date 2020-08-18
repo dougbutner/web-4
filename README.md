@@ -18,7 +18,7 @@ Dynamic pages that take user's information and desires into account. Asynchronou
 Decentralized web. Open-source applications exist in distributed networks instead of a central server. This unfederated model trades control and censorship ability for freedom and lack of opinion. 
 
  - **Web 4**
-Time web. Enabling meaningful layers on top of current socioeconomic systems built on time-minted crypto versatile which gains utility in how it is spent. Open source, unfederated biocryptography takes government and corporate oversight out of the picture. Intentional degradation of information changes blockchain paradigms and empowers time-based information models. 
+Time web. Enabling meaningful layers on top of current socioeconomic systems built on time-minted crypto versatile which gains utility in how it is spent. Open source, unfederated biocryptography allows democratic systems to flourish, and takes government identification and corporate oversight out of the picture. Intentional degradation of information changes blockchain paradigms and empowers time-based information models. 
 
 Today, the top 100 websites by traffic are [all](https://www.alexa.com/topsites) web 2 websites. The web 2 paradigm fits closely with the wider environment of corporate-owned information federation. 
 
@@ -194,11 +194,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human boirecognition. Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMzc3NTcwNCwxOTc4ODQ3NDI3LDEzNz
-M3Njc2MjUsLTg4MDUzODAwNywtMjA3MDE0MjcwNCwtNDI0NDA3
-MDM3LC0zMTEyMDE5MjYsODA0MjE5MDE3LDg0ODI1MjAyMywxMj
-I3NjY4MTYzLC03MjM4OTkzNTAsLTE5MjczMzQwNjIsLTgzNjcy
-NzIwNSwtNTM2NjUzMTgzLC03NjA4MTUxMiwtMTcxOTgzNzkwMi
-w3MzUyNTE0NTEsLTEzNTA3NzY0MjIsMTM3MDkzMjc0OCwtMTUw
-NTI4MzcwOF19
+eyJoaXN0b3J5IjpbMTc3MjQ1NTE0MywxOTIzNzc1NzA0LDE5Nz
+g4NDc0MjcsMTM3Mzc2NzYyNSwtODgwNTM4MDA3LC0yMDcwMTQy
+NzA0LC00MjQ0MDcwMzcsLTMxMTIwMTkyNiw4MDQyMTkwMTcsOD
+Q4MjUyMDIzLDEyMjc2NjgxNjMsLTcyMzg5OTM1MCwtMTkyNzMz
+NDA2MiwtODM2NzI3MjA1LC01MzY2NTMxODMsLTc2MDgxNTEyLC
+0xNzE5ODM3OTAyLDczNTI1MTQ1MSwtMTM1MDc3NjQyMiwxMzcw
+OTMyNzQ4XX0=
 -->
