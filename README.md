@@ -1,5 +1,7 @@
 # Web 4.0 - The Democratic Web Ruled by Time
 
+[![Mentioned in Awesome Web 4](https://awesome.re/mentioned-badge.svg)](https://github.com/<INSERT LIST URL>)
+
 ## About This Repo 
 
 This README features a description of the next evolution of the web, web 4.0. As the technologies emerge, this repo will also feature code and links to the associated technologies.
@@ -194,11 +196,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDc1MjQ2NzUsMTc3MjQ1NTE0MywxOT
-IzNzc1NzA0LDE5Nzg4NDc0MjcsMTM3Mzc2NzYyNSwtODgwNTM4
-MDA3LC0yMDcwMTQyNzA0LC00MjQ0MDcwMzcsLTMxMTIwMTkyNi
-w4MDQyMTkwMTcsODQ4MjUyMDIzLDEyMjc2NjgxNjMsLTcyMzg5
-OTM1MCwtMTkyNzMzNDA2MiwtODM2NzI3MjA1LC01MzY2NTMxOD
-MsLTc2MDgxNTEyLC0xNzE5ODM3OTAyLDczNTI1MTQ1MSwtMTM1
-MDc3NjQyMl19
+eyJoaXN0b3J5IjpbLTQ0MTg4NDQsLTEyMDc1MjQ2NzUsMTc3Mj
+Q1NTE0MywxOTIzNzc1NzA0LDE5Nzg4NDc0MjcsMTM3Mzc2NzYy
+NSwtODgwNTM4MDA3LC0yMDcwMTQyNzA0LC00MjQ0MDcwMzcsLT
+MxMTIwMTkyNiw4MDQyMTkwMTcsODQ4MjUyMDIzLDEyMjc2Njgx
+NjMsLTcyMzg5OTM1MCwtMTkyNzMzNDA2MiwtODM2NzI3MjA1LC
+01MzY2NTMxODMsLTc2MDgxNTEyLC0xNzE5ODM3OTAyLDczNTI1
+MTQ1MV19
 -->
