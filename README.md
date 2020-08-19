@@ -148,7 +148,7 @@ We will present the ideas that are crucial for this system to be different, and 
 
 
 **Key Aspects** 
-1. **Biometric Identification**: A user is presented with an choice of different biometric options used to generate a hash that can only belong to this person. 
+1. **Biometric Identification**: A user is presented with a choice of different biometric options used to generate a hash that can only belong to this person. 
 User can choose to either perform a chosen biometric task to receive their hashed biosecret (trustless) or generate it at any time from a third party provide (trust). Any third party provider will generate the same hash by a set or open-source algorithms. 
 
 2. **Trustless Trustfulness**: User's sensitive biological information and generated algorithmic results are destroyed (made impossible to reconstruct) at the layer of hashing, and data not stored in any way, public or private, as the user runs the software on their local machine (assuming they choose the open-source software, not a third party).
@@ -218,7 +218,7 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzAzNjQ1MDUsMTcxMTA2ODQ1MSwyNT
+eyJoaXN0b3J5IjpbLTEzMDY4NTIxNjcsMTcxMTA2ODQ1MSwyNT
 Y5NzkyMTksMTM4MzkzNzU4NCwzNzY3NDM3MjAsMjAzMzg5MDMz
 MSwxNzEwMTE5NTY2LC0xNDI5MzM0MjE5LDMwMTY5ODUzLC0xOT
 Q5NjA5NjUwLC0xMTIyNTE3NjEyLC0xODg5NTk4MDI1LC0xNzMw
