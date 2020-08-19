@@ -142,7 +142,7 @@ ___
 ___
 
 ## **2.  Proof of Individuality - Biometric Secrets + Protecting Identity**
-This system certainly could be built without biometric verification, and probably will. Until suitable biometric technology develops along the open source, client-side requirements, [solutions](https://www.civic.com/) provide the necessary individuality, at the cost of trust. This and other solutions will happen as different people implement web 4 in their own ways. 
+This system certainly could be built without biometric verification, and probably will. Until suitable biometric technology develops along the open source, client-side requirements, [centralized solutions](https://www.civic.com/) provide the necessary individuality, at the cost of trust. This and other solutions will happen as different people implement web 4 in their own ways. 
 
 We will present the ideas that are crucial for this system to be different, and represent true growth into web 4.
 
@@ -156,7 +156,7 @@ User can choose to either perform a chosen biometric task to receive their hashe
 3. **Time-psudeoanonymous**: Any outward-facing display of information about a users usage of time tokens should be pseudoanonymous. That means that a user's identity and time unit (what token is spent) is masked and presented as an alias for each token type. Each use involves a secret key that is known only to the verifying entity, a paet 
 
 
-The biggest issue with biometrics is the lack of trust. The lack of trust is almost always associated with an individuals's lack of consent, not the technology itself. 
+The biggest issue with biometrics is the lack of trust, mostly due to the growing number of facial recognition softwares and . The lack of trust is almost always associated with an individuals's lack of consent, not the technology itself. 
 
 By using identifying information following open-source algorithms, in a way that is provable, and 
 
@@ -216,11 +216,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMTA2ODQ1MSwyNTY5NzkyMTksMTM4Mz
-kzNzU4NCwzNzY3NDM3MjAsMjAzMzg5MDMzMSwxNzEwMTE5NTY2
-LC0xNDI5MzM0MjE5LDMwMTY5ODUzLC0xOTQ5NjA5NjUwLC0xMT
-IyNTE3NjEyLC0xODg5NTk4MDI1LC0xNzMwNDU0MDA5LDE0NzMz
-NTQyOTQsNTI4OTI5MTA2LC0xMDM3NDI0ODI1LDc3MDY2OTk4OC
-wtMzUwMzMyMjAzLC00NzMwNzc2NTYsMzY5ODU1MzI5LC00NDE4
-ODQ0XX0=
+eyJoaXN0b3J5IjpbMjExMTc1MzE0MSwxNzExMDY4NDUxLDI1Nj
+k3OTIxOSwxMzgzOTM3NTg0LDM3Njc0MzcyMCwyMDMzODkwMzMx
+LDE3MTAxMTk1NjYsLTE0MjkzMzQyMTksMzAxNjk4NTMsLTE5ND
+k2MDk2NTAsLTExMjI1MTc2MTIsLTE4ODk1OTgwMjUsLTE3MzA0
+NTQwMDksMTQ3MzM1NDI5NCw1Mjg5MjkxMDYsLTEwMzc0MjQ4Mj
+UsNzcwNjY5OTg4LC0zNTAzMzIyMDMsLTQ3MzA3NzY1NiwzNjk4
+NTUzMjldfQ==
 -->
