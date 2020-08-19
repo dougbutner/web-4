@@ -103,19 +103,17 @@ const payloadData = {
 
 const bioSecret = bioKeyGenerator(passedBioData); // Biometric provider's key or one generated direcly by user
 
-
 signature = HMACSHA256(
 	base64UrlEncode(header) + "."+
 	base64UrlEncode(payloadData), 
 	bioSecret
 )
 
-
 function bioKeyGenerator(bioData){
 	// Function takes data in the form of user input into their browser or smartphone.
 	// With data, quantifyable points are taken algorithmically
-	// These points expanded to a pre-defined margin of error
-	// Finally, all values are hashed, that value is returned  
+	// These points expanded to a pre-defined margin of error geometrically for each input type
+	// Finally, ranges of values are hashed, that value is returned  
 }
 
 ```
@@ -208,7 +206,7 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwOTQ5MTEyMSwzMDE2OTg1MywtMTk0OT
+eyJoaXN0b3J5IjpbLTYwNDY5NTkzNiwzMDE2OTg1MywtMTk0OT
 YwOTY1MCwtMTEyMjUxNzYxMiwtMTg4OTU5ODAyNSwtMTczMDQ1
 NDAwOSwxNDczMzU0Mjk0LDUyODkyOTEwNiwtMTAzNzQyNDgyNS
 w3NzA2Njk5ODgsLTM1MDMzMjIwMywtNDczMDc3NjU2LDM2OTg1
