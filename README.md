@@ -57,11 +57,11 @@ Time tokens are distributed to users' wallets periodically as time passes. These
 Time tokens rely on the following concepts:
 
  1. **Time Unit**
-A time unit MUST be a superset of a timestamp. This means that a time unit is some amount (or fraction) of a second
+A time unit MUST be a superset of a timestamp. This means that a time unit is some amount (or fraction) of a second.
  2. **Time Token Faucet**
 A time faucet provides any verified user with EXACTLY one time token per unit of time passed since their last faucet. This can be an active faucet; requiring some action by the recipient, or a passive faucet; automatically sending the cryptocurrency to the user.
  3. **Verified Recipients**
-Recipients of the system must be verified to be an actual human in order to receive time tokens. The issue of verification is very serious if we are to continue from web 3 instead of taking a step backward toward federated systems (like government-issued IDs). Biocryptographic secrets are introduced as the solution to this problem, and examined after Time Token.  
+Recipients of the system MUST be verified to be an actual human in order to receive time tokens. The issue of verification is very serious if a time token . Biocryptographic secrets are introduced as the solution to this problem, and examined after Time Token.  
 
 
 For a full description of Time Tokens, visit the  [Time Token repository](https://github.com/dougbutner/time-token). 
@@ -208,7 +208,7 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDY4MDkyOTcsMzAxNjk4NTMsLTE5ND
+eyJoaXN0b3J5IjpbLTE0OTQ5NzQxOTAsMzAxNjk4NTMsLTE5ND
 k2MDk2NTAsLTExMjI1MTc2MTIsLTE4ODk1OTgwMjUsLTE3MzA0
 NTQwMDksMTQ3MzM1NDI5NCw1Mjg5MjkxMDYsLTEwMzc0MjQ4Mj
 UsNzcwNjY5OTg4LC0zNTAzMzIyMDMsLTQ3MzA3NzY1NiwzNjk4
