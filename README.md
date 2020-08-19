@@ -202,7 +202,7 @@ No one can stop us from building collaborative systems with web 4 and even self-
 
 If and when the "old system" meets demise, as all things do, we can transition rapidly to a web 4 system like [Effective Collective](https://github.com/dougbutner/effective-collective) or another, as it will already be in place. 
 
-## Improvement without 
+## Why use the term "Web 4"
 It is my belief that each version of the web must 1) be built on top of the previous version, 2) be fundamentally different than the previous version, and 3) have meaningful impact on society. 
 
 This proposal for the next iteration of the web is an effort to both expand and shift the path of information science in a direction where the meaningful impact of society involves: 1) empowerment of each individual, which serve as the basis for collective (social), economic, and novel applications; 2) provable identity verification while maintaining complete separation from any federated system, including government, with the side-benefit of lifelong recoverability of private keys, and 3) resonance with our containing systems, like the Solar system, which provides us with free energy daily, akin to free time tokens.
@@ -216,11 +216,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTQwODg2NywyNTY5NzkyMTksMTM4Mz
-kzNzU4NCwzNzY3NDM3MjAsMjAzMzg5MDMzMSwxNzEwMTE5NTY2
-LC0xNDI5MzM0MjE5LDMwMTY5ODUzLC0xOTQ5NjA5NjUwLC0xMT
-IyNTE3NjEyLC0xODg5NTk4MDI1LC0xNzMwNDU0MDA5LDE0NzMz
-NTQyOTQsNTI4OTI5MTA2LC0xMDM3NDI0ODI1LDc3MDY2OTk4OC
-wtMzUwMzMyMjAzLC00NzMwNzc2NTYsMzY5ODU1MzI5LC00NDE4
-ODQ0XX0=
+eyJoaXN0b3J5IjpbLTEyNTM1MTU3LDI1Njk3OTIxOSwxMzgzOT
+M3NTg0LDM3Njc0MzcyMCwyMDMzODkwMzMxLDE3MTAxMTk1NjYs
+LTE0MjkzMzQyMTksMzAxNjk4NTMsLTE5NDk2MDk2NTAsLTExMj
+I1MTc2MTIsLTE4ODk1OTgwMjUsLTE3MzA0NTQwMDksMTQ3MzM1
+NDI5NCw1Mjg5MjkxMDYsLTEwMzc0MjQ4MjUsNzcwNjY5OTg4LC
+0zNTAzMzIyMDMsLTQ3MzA3NzY1NiwzNjk4NTUzMjksLTQ0MTg4
+NDRdfQ==
 -->
