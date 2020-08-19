@@ -70,7 +70,7 @@ For a full description of Time Tokens, visit the  [Time Token repository](https:
 ## How do Time Tokens work?
 Time tokens store a time unit (integer) with a unique user identifier (string) in a hash signed by the user's biocryptographic signature.
 
-Time tokens are a concept, and thus platform independent, and can be implemented at least partially on any blockchain that allows storage of small data or even in a relational database. When combined with 
+Time tokens are platform independent, and need only store simple data involving time unit and an account identifier at th.
 
 Here is the minimum information stored in a time token, using [JWT](https://jwt.io/introduction/) as an example
 ```
@@ -206,11 +206,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MTg2NjQ5MywzMDE2OTg1MywtMTk0OT
-YwOTY1MCwtMTEyMjUxNzYxMiwtMTg4OTU5ODAyNSwtMTczMDQ1
-NDAwOSwxNDczMzU0Mjk0LDUyODkyOTEwNiwtMTAzNzQyNDgyNS
-w3NzA2Njk5ODgsLTM1MDMzMjIwMywtNDczMDc3NjU2LDM2OTg1
-NTMyOSwtNDQxODg0NCwtMTIwNzUyNDY3NSwxNzcyNDU1MTQzLD
-E5MjM3NzU3MDQsMTk3ODg0NzQyNywxMzczNzY3NjI1LC04ODA1
-MzgwMDddfQ==
+eyJoaXN0b3J5IjpbMTk0MzcxNDE4LDMwMTY5ODUzLC0xOTQ5Nj
+A5NjUwLC0xMTIyNTE3NjEyLC0xODg5NTk4MDI1LC0xNzMwNDU0
+MDA5LDE0NzMzNTQyOTQsNTI4OTI5MTA2LC0xMDM3NDI0ODI1LD
+c3MDY2OTk4OCwtMzUwMzMyMjAzLC00NzMwNzc2NTYsMzY5ODU1
+MzI5LC00NDE4ODQ0LC0xMjA3NTI0Njc1LDE3NzI0NTUxNDMsMT
+kyMzc3NTcwNCwxOTc4ODQ3NDI3LDEzNzM3Njc2MjUsLTg4MDUz
+ODAwN119
 -->
