@@ -24,7 +24,7 @@ Decentralized web. Open-source applications exist in distributed networks instea
  - **Web 4**
 Time web. Enabling meaningful layers on top of current socioeconomic systems built on time-minted crypto versatile which gains utility in how it is spent. Open source, unfederated biocryptography allows democratic systems to flourish, and takes government identification and corporate oversight out of the picture. Intentional degradation of information changes blockchain paradigms and brings meaning to time-based information models. 
 
-Today, the top 100 websites by traffic are [all](https://www.alexa.com/topsites) web 2 websites. The web 2 paradigm fits closely with the wider environment of corporate-owned information federation. 
+Today, the top 100 websites by traffic are [all](https://www.alexa.com/topsites) web 2 websites. The web 2 paradigm fits closely with the wider environment of corporate-owned information federations. 
 
 As more and more individuals and societies are reconsidering the place of government, censorship, centralization and federated power, web 3 has emerged as a powerful, provable option to shape the evolution of society on planet Earth. 
 
@@ -209,18 +209,18 @@ This proposal for the next iteration of the web is an effort to both expand and 
 
 While an argument could easily be made that DeFi is Web 4, or another emerging tech, like layers on top of blockchains (sidechains) are web 4, both of these are not new. DeFi mimics the systems of the past in a better way. Sidechains are merely making web 3 more efficient. 
 
-It is my hope that the information presented here will be expanded on and implemented by many developers and systems in the coming years, not for the benefit of the few, but for the empowerment of each individual and the harmony of the human collective, and ever layer of Gaia. 
+It is my hope that the information presented here will be expanded on and implemented by many developers and systems in the coming years, not for the benefit of the few, but for the empowerment of each individual and the harmony of the human collective, and every layer of Gaia. 
 
 **Notes + References**
 ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYzMTM5OTQ3LDI1Njk3OTIxOSwxMzgzOT
-M3NTg0LDM3Njc0MzcyMCwyMDMzODkwMzMxLDE3MTAxMTk1NjYs
-LTE0MjkzMzQyMTksMzAxNjk4NTMsLTE5NDk2MDk2NTAsLTExMj
-I1MTc2MTIsLTE4ODk1OTgwMjUsLTE3MzA0NTQwMDksMTQ3MzM1
-NDI5NCw1Mjg5MjkxMDYsLTEwMzc0MjQ4MjUsNzcwNjY5OTg4LC
-0zNTAzMzIyMDMsLTQ3MzA3NzY1NiwzNjk4NTUzMjksLTQ0MTg4
-NDRdfQ==
+eyJoaXN0b3J5IjpbMTcxMTA2ODQ1MSwyNTY5NzkyMTksMTM4Mz
+kzNzU4NCwzNzY3NDM3MjAsMjAzMzg5MDMzMSwxNzEwMTE5NTY2
+LC0xNDI5MzM0MjE5LDMwMTY5ODUzLC0xOTQ5NjA5NjUwLC0xMT
+IyNTE3NjEyLC0xODg5NTk4MDI1LC0xNzMwNDU0MDA5LDE0NzMz
+NTQyOTQsNTI4OTI5MTA2LC0xMDM3NDI0ODI1LDc3MDY2OTk4OC
+wtMzUwMzMyMjAzLC00NzMwNzc2NTYsMzY5ODU1MzI5LC00NDE4
+ODQ0XX0=
 -->
