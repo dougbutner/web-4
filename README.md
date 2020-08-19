@@ -57,7 +57,7 @@ Time tokens are distributed to users' wallets periodically as time passes. These
 Time tokens rely on the following concepts:
 
  1. **Time Unit**
-A time unit MUST be a superset of a timestamp. This means that a time unit is some amount (or fraction) of a second.
+Each time token MUST be the only one in it's existence stamped with a particular time unit for each us. A time unit MUST be a superset of a timestamp. This means that a time unit is some amount (or fraction) of a second.
  2. **Time Token Faucet**
 A time faucet provides any verified user with EXACTLY one time token per unit of time passed since their last faucet. This can be an active faucet; requiring some action by the recipient, or a passive faucet; automatically sending the cryptocurrency to the user.
  3. **Verified Recipients**
@@ -136,6 +136,7 @@ In the end, the only way to implement true democracy in any system is through gi
 
 ___
 <center>~~</center>
+
 ___
 
 ## **2.  Proof of Individuality - Biometric Secrets**
@@ -160,6 +161,11 @@ The biggest issue with biometrics is the lack of trust. The lack of trust is alm
 By using identifying information following open-source algorithms, in a way that is provable, and 
 
 communicable 
+
+___
+<center>~~</center>
+
+___
 
 ## **Degradation of Information**
 Web 3 focuses on storing information forever in a provable way. Web 4 introduces a counter-model which may be optionally adopted by any time token based system. In this model, information becomes harder and harder to know the more time that passes. The agent of this difficulty may be CPU cycles, or a democratic mechanism requiring a number of people requesting information in a given timespan where the more people that seek out a particular block of information, the more likely it is to be accessible to all requesters. 
@@ -206,7 +212,7 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MjkyODI5NSwzMDE2OTg1MywtMTk0OT
+eyJoaXN0b3J5IjpbMjEyMDIwNDgwNSwzMDE2OTg1MywtMTk0OT
 YwOTY1MCwtMTEyMjUxNzYxMiwtMTg4OTU5ODAyNSwtMTczMDQ1
 NDAwOSwxNDczMzU0Mjk0LDUyODkyOTEwNiwtMTAzNzQyNDgyNS
 w3NzA2Njk5ODgsLTM1MDMzMjIwMywtNDczMDc3NjU2LDM2OTg1
