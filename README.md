@@ -50,7 +50,7 @@ We will discuss these concepts one at a time, then look at possible applications
 
 # #1: Time-issued cryptocurrency (Time Tokens) 
 
-Time tokens are distributed to users based on the amount of time passed.  
+Time tokens are distributed to users' wallets periodically as time passes, either automatically, or by a traditional faucet.
 
 Time tokens allow web 2 and web 3 applications to offer a provably democratic model to their users. 
 
@@ -210,11 +210,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NTk2MjQ1LC0xOTQ5NjA5NjUwLC0xMT
-IyNTE3NjEyLC0xODg5NTk4MDI1LC0xNzMwNDU0MDA5LDE0NzMz
-NTQyOTQsNTI4OTI5MTA2LC0xMDM3NDI0ODI1LDc3MDY2OTk4OC
-wtMzUwMzMyMjAzLC00NzMwNzc2NTYsMzY5ODU1MzI5LC00NDE4
-ODQ0LC0xMjA3NTI0Njc1LDE3NzI0NTUxNDMsMTkyMzc3NTcwNC
-wxOTc4ODQ3NDI3LDEzNzM3Njc2MjUsLTg4MDUzODAwNywtMjA3
-MDE0MjcwNF19
+eyJoaXN0b3J5IjpbMTQxOTc1MTEyNiwtMTk0OTYwOTY1MCwtMT
+EyMjUxNzYxMiwtMTg4OTU5ODAyNSwtMTczMDQ1NDAwOSwxNDcz
+MzU0Mjk0LDUyODkyOTEwNiwtMTAzNzQyNDgyNSw3NzA2Njk5OD
+gsLTM1MDMzMjIwMywtNDczMDc3NjU2LDM2OTg1NTMyOSwtNDQx
+ODg0NCwtMTIwNzUyNDY3NSwxNzcyNDU1MTQzLDE5MjM3NzU3MD
+QsMTk3ODg0NzQyNywxMzczNzY3NjI1LC04ODA1MzgwMDcsLTIw
+NzAxNDI3MDRdfQ==
 -->
