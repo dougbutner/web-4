@@ -151,7 +151,7 @@ User can choose to either perform a chosen biometric task to receive their hashe
 
 2. **Trustless Trustfulness**: User's sensitive biological information and generated algorithmic results are destroyed (made impossible to reconstruct) at the layer of hashing, and data not stored in any way, public or private, as the user runs the software on their local machine (assuming they choose the open-source software, not a third party).
 
-3. **Time-psudeoanonymous**: Any outward-facing display of information about a users usage of time tokens should be pseudoanonymous. That means that a user's identity and time unit (what token is spent) is masked and presented as an ali for each use. Each application 
+3. **Time-psudeoanonymous**: Any outward-facing display of information about a users usage of time tokens should be pseudoanonymous. That means that a user's identity and time unit (what token is spent) is masked and presented as an alias for each token type. Each use involves a secret key that is known only to the verifying entity, a paet 
 
 
 The biggest issue with biometrics is the lack of trust. The lack of trust is almost always associated with an individuals's lack of consent, not the technology itself. 
@@ -210,7 +210,7 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMjY3MjMyNiwtMTQyOTMzNDIxOSwzMD
+eyJoaXN0b3J5IjpbMTcxMDExOTU2NiwtMTQyOTMzNDIxOSwzMD
 E2OTg1MywtMTk0OTYwOTY1MCwtMTEyMjUxNzYxMiwtMTg4OTU5
 ODAyNSwtMTczMDQ1NDAwOSwxNDczMzU0Mjk0LDUyODkyOTEwNi
 wtMTAzNzQyNDgyNSw3NzA2Njk5ODgsLTM1MDMzMjIwMywtNDcz
