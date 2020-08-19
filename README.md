@@ -197,7 +197,7 @@ developing biocryptography standards
 
 No one can stop us from building systems like this and self-governing. We don't need to separate to do so. We can still exist fully embedded in every part of our lives now. Mortgages, 
 
-It is my belief that each version of the web must be 1) fundamentally different than the previous, 2) be built on top of the previous version, and 3) have meaningful impact on society. 
+It is my belief that each version of the web must 1) be built on top of the previous version, 2) be fundamentally different than the previous version, and 3) have meaningful impact on society. 
 
 This proposal for the next iteration of the web is an effort to both expand and shift the path of information science in a direction where the meaningful impact of society involves: 1) empowerment of each individual, which serve as the basis for collective (social), economic, and novel applications; 2) provable identity verification while maintaining complete separation from any federated system, including government, with the side-benefit of lifelong recoverability of private keys, and 3) resonance with our containing systems, like the Solar system, which provides us with free energy daily, akin to free time tokens.
 
@@ -210,11 +210,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMDExOTU2NiwtMTQyOTMzNDIxOSwzMD
-E2OTg1MywtMTk0OTYwOTY1MCwtMTEyMjUxNzYxMiwtMTg4OTU5
-ODAyNSwtMTczMDQ1NDAwOSwxNDczMzU0Mjk0LDUyODkyOTEwNi
-wtMTAzNzQyNDgyNSw3NzA2Njk5ODgsLTM1MDMzMjIwMywtNDcz
-MDc3NjU2LDM2OTg1NTMyOSwtNDQxODg0NCwtMTIwNzUyNDY3NS
-wxNzcyNDU1MTQzLDE5MjM3NzU3MDQsMTk3ODg0NzQyNywxMzcz
-NzY3NjI1XX0=
+eyJoaXN0b3J5IjpbLTMyMzQxMTE4MiwxNzEwMTE5NTY2LC0xND
+I5MzM0MjE5LDMwMTY5ODUzLC0xOTQ5NjA5NjUwLC0xMTIyNTE3
+NjEyLC0xODg5NTk4MDI1LC0xNzMwNDU0MDA5LDE0NzMzNTQyOT
+QsNTI4OTI5MTA2LC0xMDM3NDI0ODI1LDc3MDY2OTk4OCwtMzUw
+MzMyMjAzLC00NzMwNzc2NTYsMzY5ODU1MzI5LC00NDE4ODQ0LC
+0xMjA3NTI0Njc1LDE3NzI0NTUxNDMsMTkyMzc3NTcwNCwxOTc4
+ODQ3NDI3XX0=
 -->
