@@ -1,5 +1,7 @@
 # The Web 4 Manifesto - Awakening the Democratic Web 
 
+Collaborative Democracy
+
 [![Mentioned in Awesome Web 4](https://awesome.re/mentioned-badge.svg)](https://github.com/dougbutner/awesome-web4)
 
 ## About This Repo 
@@ -195,7 +197,7 @@ developing biocryptography standards
 
 # Author notes
 
-No one can stop us from building collaborative systems like this and even self-governing. We don't need to "tear down the system" or separate from society to do so. We can still exist fully embedded in the geopolitical systems around us, while building up this 
+No one can stop us from building collaborative systems like this and even self-governing. We don't need to "tear down the system" or separate from society to do so. We can still exist fully embedded in the geopolitical systems around us, while building up this layer, the underpinnings of collaborative democracy
 
 It is my belief that each version of the web must 1) be built on top of the previous version, 2) be fundamentally different than the previous version, and 3) have meaningful impact on society. 
 
@@ -210,7 +212,7 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMzg0NjM5NywxNzEwMTE5NTY2LC0xND
+eyJoaXN0b3J5IjpbLTEyMTgyMTg1OCwxNzEwMTE5NTY2LC0xND
 I5MzM0MjE5LDMwMTY5ODUzLC0xOTQ5NjA5NjUwLC0xMTIyNTE3
 NjEyLC0xODg5NTk4MDI1LC0xNzMwNDU0MDA5LDE0NzMzNTQyOT
 QsNTI4OTI5MTA2LC0xMDM3NDI0ODI1LDc3MDY2OTk4OCwtMzUw
