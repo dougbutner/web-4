@@ -50,11 +50,11 @@ We will discuss these concepts one at a time, then look at possible applications
 
 # #1: Time-issued cryptocurrency (Time Tokens) 
 
-Time tokens are distributed to users' wallets periodically as time passes. These tokens provide the user with an action. The action burns the token, which may cause some change in the state of a system, or minting of another token, or any other actio. 
+Time tokens are distributed to users' wallets periodically as time passes. These tokens provide the user with an action. The action burns the token, which may cause some change in the state of a system, or minting of another token, or any other action. 
 
 ## The Gears of Time Tokens
 
-Time tokens rely on the following concepts
+Time tokens rely on the following concepts:
 
  1. **Time Unit**
 A time unit MUST be a superset of a timestamp. This means that a time unit is some amount (or fraction) of a second
@@ -208,11 +208,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNjU3NDU3LC0xOTQ5NjA5NjUwLC0xMT
-IyNTE3NjEyLC0xODg5NTk4MDI1LC0xNzMwNDU0MDA5LDE0NzMz
-NTQyOTQsNTI4OTI5MTA2LC0xMDM3NDI0ODI1LDc3MDY2OTk4OC
-wtMzUwMzMyMjAzLC00NzMwNzc2NTYsMzY5ODU1MzI5LC00NDE4
-ODQ0LC0xMjA3NTI0Njc1LDE3NzI0NTUxNDMsMTkyMzc3NTcwNC
-wxOTc4ODQ3NDI3LDEzNzM3Njc2MjUsLTg4MDUzODAwNywtMjA3
-MDE0MjcwNF19
+eyJoaXN0b3J5IjpbMzAxNjk4NTMsLTE5NDk2MDk2NTAsLTExMj
+I1MTc2MTIsLTE4ODk1OTgwMjUsLTE3MzA0NTQwMDksMTQ3MzM1
+NDI5NCw1Mjg5MjkxMDYsLTEwMzc0MjQ4MjUsNzcwNjY5OTg4LC
+0zNTAzMzIyMDMsLTQ3MzA3NzY1NiwzNjk4NTUzMjksLTQ0MTg4
+NDQsLTEyMDc1MjQ2NzUsMTc3MjQ1NTE0MywxOTIzNzc1NzA0LD
+E5Nzg4NDc0MjcsMTM3Mzc2NzYyNSwtODgwNTM4MDA3LC0yMDcw
+MTQyNzA0XX0=
 -->
