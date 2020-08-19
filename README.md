@@ -197,9 +197,9 @@ developing biocryptography standards
 
 # Author notes
 
-No one can stop us from building collaborative systems like this and even self-governing. We don't need to "tear down the system" or separate from society to do so. We can still exist fully embedded in the geopolitical systems around us, while building up this layer, the underpinnings of collaborative democracy.
+No one can stop us from building collaborative systems with web 4 and even self-governing. We don't need to "tear down the system" or separate from society to do so. We can still exist fully embedded in the geopolitical systems around us, while building up web 4 layers, the underpinnings of collaborative democracy.
 
-If the old system meets it's timely demise, we can transition quickly and rapidly
+If and when the old system meets it's timely demise, we can transition rapidly to a web 4 system, as it will already be in place. 
 
 It is my belief that each version of the web must 1) be built on top of the previous version, 2) be fundamentally different than the previous version, and 3) have meaningful impact on society. 
 
@@ -214,11 +214,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzI2MTE1NTksMTcxMDExOTU2NiwtMT
-QyOTMzNDIxOSwzMDE2OTg1MywtMTk0OTYwOTY1MCwtMTEyMjUx
-NzYxMiwtMTg4OTU5ODAyNSwtMTczMDQ1NDAwOSwxNDczMzU0Mj
-k0LDUyODkyOTEwNiwtMTAzNzQyNDgyNSw3NzA2Njk5ODgsLTM1
-MDMzMjIwMywtNDczMDc3NjU2LDM2OTg1NTMyOSwtNDQxODg0NC
-wtMTIwNzUyNDY3NSwxNzcyNDU1MTQzLDE5MjM3NzU3MDQsMTk3
-ODg0NzQyN119
+eyJoaXN0b3J5IjpbMTUzNTE0ODA3OCwxNzEwMTE5NTY2LC0xND
+I5MzM0MjE5LDMwMTY5ODUzLC0xOTQ5NjA5NjUwLC0xMTIyNTE3
+NjEyLC0xODg5NTk4MDI1LC0xNzMwNDU0MDA5LDE0NzMzNTQyOT
+QsNTI4OTI5MTA2LC0xMDM3NDI0ODI1LDc3MDY2OTk4OCwtMzUw
+MzMyMjAzLC00NzMwNzc2NTYsMzY5ODU1MzI5LC00NDE4ODQ0LC
+0xMjA3NTI0Njc1LDE3NzI0NTUxNDMsMTkyMzc3NTcwNCwxOTc4
+ODQ3NDI3XX0=
 -->
