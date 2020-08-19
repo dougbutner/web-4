@@ -50,17 +50,17 @@ We will discuss these concepts one at a time, then look at possible applications
 
 # #1: Time-issued cryptocurrency (Time Tokens) 
 
-Time tokens are distributed to users' wallets periodically as time passes, either automatically, or by a traditional faucet.
+Time tokens are distributed to users' wallets periodically as time passes.
 
-Time tokens allow web 2 and web 3 applications to offer a provably democratic model to their users. 
+Time tokens allow provably democratic model to their users only if the recipients of the tokens can be . 
 
-## The concept behind Time Tokens
+## The Gears of Time Tokens
 
 Time tokens rely on the following concepts
 
  1. **Time Unit**
 A time unit MUST be a superset of a timestamp. This means that a time unit is some amount (or fraction) of a second
- 2. **Time Faucet**
+ 2. **Time Token Faucet**
 A time faucet provides any verified user with EXACTLY one time token per unit of time passed since their last faucet. This can be an active faucet; requiring some action by the recipient, or a passive faucet; automatically sending the cryptocurrency to the user.
  3. **Verified Recipients**
 Recipients of the system must be verified to be an actual human in order to receive time tokens. The issue of verification is very serious if we are to continue from web 3 instead of taking a step backward toward federated systems (like government-issued IDs). Biocryptography is introduced as the solution to this problem.  
@@ -210,7 +210,7 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxOTc1MTEyNiwtMTk0OTYwOTY1MCwtMT
+eyJoaXN0b3J5IjpbMTkxOTk1Mzk0OCwtMTk0OTYwOTY1MCwtMT
 EyMjUxNzYxMiwtMTg4OTU5ODAyNSwtMTczMDQ1NDAwOSwxNDcz
 MzU0Mjk0LDUyODkyOTEwNiwtMTAzNzQyNDgyNSw3NzA2Njk5OD
 gsLTM1MDMzMjIwMywtNDczMDc3NjU2LDM2OTg1NTMyOSwtNDQx
