@@ -199,7 +199,7 @@ developing biocryptography standards
 
 No one can stop us from building collaborative systems with web 4 and even self-governing. We don't need to "tear down the system" or separate from society to do so. We can still exist fully embedded in the geopolitical systems around us, while building up web 4 layers, the underpinnings of collaborative democracy.
 
-If and when the "old system" meets demise, as all things do, we can transition rapidly to a web 4 system like [EC]() or another, as it will already be in place. Web 4 should takes us through for at least until we become 
+If and when the "old system" meets demise, as all things do, we can transition rapidly to a web 4 system like [Effective Collective]([https://github.com/dougbutner/effective-collective](https://github.com/dougbutner/effective-collective)) or another, as it will already be in place. Web 4 should takes us through for at least until we become 
 
 It is my belief that each version of the web must 1) be built on top of the previous version, 2) be fundamentally different than the previous version, and 3) have meaningful impact on society. 
 
@@ -214,11 +214,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc2NzQzNzIwLDIwMzM4OTAzMzEsMTcxMD
-ExOTU2NiwtMTQyOTMzNDIxOSwzMDE2OTg1MywtMTk0OTYwOTY1
-MCwtMTEyMjUxNzYxMiwtMTg4OTU5ODAyNSwtMTczMDQ1NDAwOS
-wxNDczMzU0Mjk0LDUyODkyOTEwNiwtMTAzNzQyNDgyNSw3NzA2
-Njk5ODgsLTM1MDMzMjIwMywtNDczMDc3NjU2LDM2OTg1NTMyOS
-wtNDQxODg0NCwtMTIwNzUyNDY3NSwxNzcyNDU1MTQzLDE5MjM3
-NzU3MDRdfQ==
+eyJoaXN0b3J5IjpbMTM4MzkzNzU4NCwzNzY3NDM3MjAsMjAzMz
+g5MDMzMSwxNzEwMTE5NTY2LC0xNDI5MzM0MjE5LDMwMTY5ODUz
+LC0xOTQ5NjA5NjUwLC0xMTIyNTE3NjEyLC0xODg5NTk4MDI1LC
+0xNzMwNDU0MDA5LDE0NzMzNTQyOTQsNTI4OTI5MTA2LC0xMDM3
+NDI0ODI1LDc3MDY2OTk4OCwtMzUwMzMyMjAzLC00NzMwNzc2NT
+YsMzY5ODU1MzI5LC00NDE4ODQ0LC0xMjA3NTI0Njc1LDE3NzI0
+NTUxNDNdfQ==
 -->
