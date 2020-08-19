@@ -61,7 +61,7 @@ A time unit MUST be a superset of a timestamp. This means that a time unit is so
  2. **Time Token Faucet**
 A time faucet provides any verified user with EXACTLY one time token per unit of time passed since their last faucet. This can be an active faucet; requiring some action by the recipient, or a passive faucet; automatically sending the cryptocurrency to the user.
  3. **Verified Recipients**
-Recipients of the system must be verified to be an actual human in order to receive time tokens. The issue of verification is very serious if we are to continue from web 3 instead of taking a step backward toward federated systems (like government-issued IDs). Biocryptography is introduced as the solution to this problem.  
+Recipients of the system must be verified to be an actual human in order to receive time tokens. The issue of verification is very serious if we are to continue from web 3 instead of taking a step backward toward federated systems (like government-issued IDs). Biocryptographic secrets are introduced as the solution to this problem, and examined after Time Token.  
 
 
 For a full description of Time Tokens, visit the  [Time Token repository](https://github.com/dougbutner/time-token). 
@@ -208,11 +208,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAxNjk4NTMsLTE5NDk2MDk2NTAsLTExMj
-I1MTc2MTIsLTE4ODk1OTgwMjUsLTE3MzA0NTQwMDksMTQ3MzM1
-NDI5NCw1Mjg5MjkxMDYsLTEwMzc0MjQ4MjUsNzcwNjY5OTg4LC
-0zNTAzMzIyMDMsLTQ3MzA3NzY1NiwzNjk4NTUzMjksLTQ0MTg4
-NDQsLTEyMDc1MjQ2NzUsMTc3MjQ1NTE0MywxOTIzNzc1NzA0LD
-E5Nzg4NDc0MjcsMTM3Mzc2NzYyNSwtODgwNTM4MDA3LC0yMDcw
-MTQyNzA0XX0=
+eyJoaXN0b3J5IjpbLTEyMDY4MDkyOTcsMzAxNjk4NTMsLTE5ND
+k2MDk2NTAsLTExMjI1MTc2MTIsLTE4ODk1OTgwMjUsLTE3MzA0
+NTQwMDksMTQ3MzM1NDI5NCw1Mjg5MjkxMDYsLTEwMzc0MjQ4Mj
+UsNzcwNjY5OTg4LC0zNTAzMzIyMDMsLTQ3MzA3NzY1NiwzNjk4
+NTUzMjksLTQ0MTg4NDQsLTEyMDc1MjQ2NzUsMTc3MjQ1NTE0My
+wxOTIzNzc1NzA0LDE5Nzg4NDc0MjcsMTM3Mzc2NzYyNSwtODgw
+NTM4MDA3XX0=
 -->
