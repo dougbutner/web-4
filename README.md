@@ -49,8 +49,8 @@ There are 4 conceptual underpinnings of web 4
 
 We will discuss these concepts one at a time, then look at possible applications of web 4.
 
-## Guiding Philosophy
-Web 4 seeks to 
+
+
 
 # #1: Time-issued cryptocurrency (Time Tokens) 
 
@@ -220,7 +220,7 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NDAzMDkyNiwtMTMwNjg1MjE2NywxNz
+eyJoaXN0b3J5IjpbLTMxMzgwMDc3NCwtMTMwNjg1MjE2NywxNz
 ExMDY4NDUxLDI1Njk3OTIxOSwxMzgzOTM3NTg0LDM3Njc0Mzcy
 MCwyMDMzODkwMzMxLDE3MTAxMTk1NjYsLTE0MjkzMzQyMTksMz
 AxNjk4NTMsLTE5NDk2MDk2NTAsLTExMjI1MTc2MTIsLTE4ODk1
