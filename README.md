@@ -172,7 +172,7 @@ ___
 ## **Degradation of Information**
 Web 3 focuses on storing information forever in a provable way. Web 4 introduces a counter-model which may be optionally adopted by any time token based system. In this model, information becomes harder and harder to know the more time that passes. The agent of this difficulty may be CPU cycles, or a democratic mechanism requiring a number of people requesting information in a given timespan where the more people that seek out a particular block of information, the more likely it is to be accessible to all requesters. 
 
-While the inclusion of this concept into web 4 may seem unnecessary, it is a part of the psudeoanonymity that is needed for many social applications. Consider the 
+While the inclusion of this concept into web 4 may seem unnecessary, it is another guarantee of the psudeoanonymity that is needed for many social applications. Philosophically, degradation of information a 
 
 
 ### Erasing Permanent Records
@@ -218,11 +218,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDY4NTIxNjcsMTcxMTA2ODQ1MSwyNT
-Y5NzkyMTksMTM4MzkzNzU4NCwzNzY3NDM3MjAsMjAzMzg5MDMz
-MSwxNzEwMTE5NTY2LC0xNDI5MzM0MjE5LDMwMTY5ODUzLC0xOT
-Q5NjA5NjUwLC0xMTIyNTE3NjEyLC0xODg5NTk4MDI1LC0xNzMw
-NDU0MDA5LDE0NzMzNTQyOTQsNTI4OTI5MTA2LC0xMDM3NDI0OD
-I1LDc3MDY2OTk4OCwtMzUwMzMyMjAzLC00NzMwNzc2NTYsMzY5
-ODU1MzI5XX0=
+eyJoaXN0b3J5IjpbLTc5NDQ4MTg3NiwtMTMwNjg1MjE2NywxNz
+ExMDY4NDUxLDI1Njk3OTIxOSwxMzgzOTM3NTg0LDM3Njc0Mzcy
+MCwyMDMzODkwMzMxLDE3MTAxMTk1NjYsLTE0MjkzMzQyMTksMz
+AxNjk4NTMsLTE5NDk2MDk2NTAsLTExMjI1MTc2MTIsLTE4ODk1
+OTgwMjUsLTE3MzA0NTQwMDksMTQ3MzM1NDI5NCw1Mjg5MjkxMD
+YsLTEwMzc0MjQ4MjUsNzcwNjY5OTg4LC0zNTAzMzIyMDMsLTQ3
+MzA3NzY1Nl19
 -->
