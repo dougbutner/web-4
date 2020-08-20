@@ -37,6 +37,9 @@ Web 4's dreams up proof of individuality through encrypted biodata that kickstar
 
 Web 4 lays the foundation for this to be built. But, like any democratic system. We need your help. Please read this paper, and consider these ideas. If you believe you can make them better, please submit a pull request with your ideas. If you are a developer, I want to remind you of the license of this repo, and invite you to forge any of these ideas into hot-pressed applications.
 
+## Guiding Philosophy
+Web 4 seeks to implement systems in harmony with the universe itself by replicating nature: the abundance received from the Sun, the raising of entropy in closed systems, 
+
 ## Defining Web 4
 Web 4 introduces provably democratic systems built on top of web 3's open-source decentralized networks. 
 
@@ -220,11 +223,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMzgwMDc3NCwtMTMwNjg1MjE2NywxNz
-ExMDY4NDUxLDI1Njk3OTIxOSwxMzgzOTM3NTg0LDM3Njc0Mzcy
-MCwyMDMzODkwMzMxLDE3MTAxMTk1NjYsLTE0MjkzMzQyMTksMz
-AxNjk4NTMsLTE5NDk2MDk2NTAsLTExMjI1MTc2MTIsLTE4ODk1
-OTgwMjUsLTE3MzA0NTQwMDksMTQ3MzM1NDI5NCw1Mjg5MjkxMD
-YsLTEwMzc0MjQ4MjUsNzcwNjY5OTg4LC0zNTAzMzIyMDMsLTQ3
-MzA3NzY1Nl19
+eyJoaXN0b3J5IjpbLTEwMTE4MDAwNjgsLTEzMDY4NTIxNjcsMT
+cxMTA2ODQ1MSwyNTY5NzkyMTksMTM4MzkzNzU4NCwzNzY3NDM3
+MjAsMjAzMzg5MDMzMSwxNzEwMTE5NTY2LC0xNDI5MzM0MjE5LD
+MwMTY5ODUzLC0xOTQ5NjA5NjUwLC0xMTIyNTE3NjEyLC0xODg5
+NTk4MDI1LC0xNzMwNDU0MDA5LDE0NzMzNTQyOTQsNTI4OTI5MT
+A2LC0xMDM3NDI0ODI1LDc3MDY2OTk4OCwtMzUwMzMyMjAzLC00
+NzMwNzc2NTZdfQ==
 -->
