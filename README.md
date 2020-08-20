@@ -49,6 +49,8 @@ There are 4 conceptual underpinnings of web 4
 
 We will discuss these concepts one at a time, then look at possible applications of web 4.
 
+## Guiding Philosophy
+Web 4 seeks to 
 
 # #1: Time-issued cryptocurrency (Time Tokens) 
 
@@ -172,7 +174,7 @@ ___
 ## **Degradation of Information**
 Web 3 focuses on storing information forever in a provable way. Web 4 introduces a counter-model which may be optionally adopted by any time token based system. In this model, information becomes harder and harder to know the more time that passes. The agent of this difficulty may be CPU cycles, or a democratic mechanism requiring a number of people requesting information in a given timespan where the more people that seek out a particular block of information, the more likely it is to be accessible to all requesters. 
 
-While the inclusion of this concept into web 4 may seem unnecessary, it is another guarantee of the psudeoanonymity that is needed for many social applications. Philosophically, degradation of information a 
+While the inclusion of this concept into web 4 may seem unnecessary, it is another guarantee of the psudeoanonymity that is needed for many social applications. Philosophically, degradation of information also fits in with the general web 4 desire  
 
 
 ### Erasing Permanent Records
@@ -218,7 +220,7 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NDQ4MTg3NiwtMTMwNjg1MjE2NywxNz
+eyJoaXN0b3J5IjpbMTU5NDAzMDkyNiwtMTMwNjg1MjE2NywxNz
 ExMDY4NDUxLDI1Njk3OTIxOSwxMzgzOTM3NTg0LDM3Njc0Mzcy
 MCwyMDMzODkwMzMxLDE3MTAxMTk1NjYsLTE0MjkzMzQyMTksMz
 AxNjk4NTMsLTE5NDk2MDk2NTAsLTExMjI1MTc2MTIsLTE4ODk1
