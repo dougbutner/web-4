@@ -173,7 +173,7 @@ communicable
 
 There will always be security concerns with biometrics. For example, if a user uses their biometric secret to unlock their mobile device, another app could be secretly recording the camera activity in the background. Another person could be secretly recording them, and try to play that video back to the camera to gain access. All of these concerns and more must be dealt with before this technology reaches massive adoption. 
 
-The upside of biometric secrets is they cannot be lost, and the account will always be recoverable by the individual. In a web 4 ecosystem, where the tokens are distributed daily and often spent daily, a hack would be much less catastrophic. The attacker will be able to access the user's balance, but not alter the past transactions, nor continue to collect the future deposits, because the real user will (in theory) quickly recover the account and change the biometric secret generation means so that the hacker's biofake is no longer effective. 
+The upside of biometric secrets is they cannot be lost, and the account will always be recoverable by the individual. In a web 4 ecosystem, where the tokens are distributed daily and often spent daily, a hack would be much less catastrophic. The attacker will be able to access the user's balance, but not alter the past transactions, nor continue to collect the future deposits, because the real user will (in theory) quickly recover the account and change the biometric secret generation means so that the hacker's biofake is no longer working. 
 
 ___
 <center>~~</center>
@@ -229,11 +229,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MDMyNDE3OCwxMTUwNDI3OTksOTg1OT
-g2NzI0LC0xMzA2ODUyMTY3LDE3MTEwNjg0NTEsMjU2OTc5MjE5
-LDEzODM5Mzc1ODQsMzc2NzQzNzIwLDIwMzM4OTAzMzEsMTcxMD
-ExOTU2NiwtMTQyOTMzNDIxOSwzMDE2OTg1MywtMTk0OTYwOTY1
-MCwtMTEyMjUxNzYxMiwtMTg4OTU5ODAyNSwtMTczMDQ1NDAwOS
-wxNDczMzU0Mjk0LDUyODkyOTEwNiwtMTAzNzQyNDgyNSw3NzA2
-Njk5ODhdfQ==
+eyJoaXN0b3J5IjpbNzMxODQ3OTkyLDExNTA0Mjc5OSw5ODU5OD
+Y3MjQsLTEzMDY4NTIxNjcsMTcxMTA2ODQ1MSwyNTY5NzkyMTks
+MTM4MzkzNzU4NCwzNzY3NDM3MjAsMjAzMzg5MDMzMSwxNzEwMT
+E5NTY2LC0xNDI5MzM0MjE5LDMwMTY5ODUzLC0xOTQ5NjA5NjUw
+LC0xMTIyNTE3NjEyLC0xODg5NTk4MDI1LC0xNzMwNDU0MDA5LD
+E0NzMzNTQyOTQsNTI4OTI5MTA2LC0xMDM3NDI0ODI1LDc3MDY2
+OTk4OF19
 -->
