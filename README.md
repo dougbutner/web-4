@@ -181,7 +181,9 @@ ___
 ___
 
 ## **Degradation of Information**
-Web 3 focuses on storing information forever in a provable way. Web 4 introduces a counter-model which may be optionally adopted by any time token based system. In this model, information becomes harder and harder to know the more time that passes. The agent of this difficulty may be CPU cycles, or a democratic mechanism requiring a number of people requesting information in a given timespan where the more people that seek out a particular block of information, the more likely it is to be accessible to all requesters. 
+Web 3 focuses on storing information forever in a provable way. Web 4 introduces a counter-model which may be optionally adopted by any time token based system. In this model, information becomes harder and harder to know the more time that passes. The democratic mechanism requiring a number of people requesting information in a given timespan where the more people that seek out a particular block of information, the more likely it is to be accessible to all requesters. 
+
+
 
 While the inclusion of this concept into web 4 may seem unnecessary, it is another guarantee of the psudeoanonymity that is needed for many social applications. Philosophically, degradation of information also fits in with the general web 4 desire  
 
@@ -229,11 +231,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjEwNDIxNTgsNzMxODQ3OTkyLDExNT
-A0Mjc5OSw5ODU5ODY3MjQsLTEzMDY4NTIxNjcsMTcxMTA2ODQ1
-MSwyNTY5NzkyMTksMTM4MzkzNzU4NCwzNzY3NDM3MjAsMjAzMz
-g5MDMzMSwxNzEwMTE5NTY2LC0xNDI5MzM0MjE5LDMwMTY5ODUz
-LC0xOTQ5NjA5NjUwLC0xMTIyNTE3NjEyLC0xODg5NTk4MDI1LC
-0xNzMwNDU0MDA5LDE0NzMzNTQyOTQsNTI4OTI5MTA2LC0xMDM3
-NDI0ODI1XX0=
+eyJoaXN0b3J5IjpbNTk3ODc1MjU2LDczMTg0Nzk5MiwxMTUwND
+I3OTksOTg1OTg2NzI0LC0xMzA2ODUyMTY3LDE3MTEwNjg0NTEs
+MjU2OTc5MjE5LDEzODM5Mzc1ODQsMzc2NzQzNzIwLDIwMzM4OT
+AzMzEsMTcxMDExOTU2NiwtMTQyOTMzNDIxOSwzMDE2OTg1Mywt
+MTk0OTYwOTY1MCwtMTEyMjUxNzYxMiwtMTg4OTU5ODAyNSwtMT
+czMDQ1NDAwOSwxNDczMzU0Mjk0LDUyODkyOTEwNiwtMTAzNzQy
+NDgyNV19
 -->
