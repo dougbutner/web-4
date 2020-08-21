@@ -185,9 +185,12 @@ Web 3 focuses on storing information forever in a provable way. Web 4 introduces
 
 
 
-While the inclusion of this concept into web 4 may seem unnecessary, and totallis , it is another guarantee of the psudeoanonymity that is needed for many social applications. Philosophically, degradation of information also fits in with the general web 4 desire to reflect systems in nature.
+While the inclusion of this concept into web 4 may seem unnecessary, and totally is, it is another guarantee of the psudeoanonymity that is needed for many social applications. It can be used for performance benefits as well when running lite clients to understand what data is most needed. Philosophically, degradation of information also fits in with the general web 4 desire to reflect systems in nature.
 
 In some cases it makes sense for information to degrade over time. If you are using a 
+
+
+Incentives are give for the ratity of the 
 
 Performance Benefits
 In the event that 
@@ -230,7 +233,7 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2OTYxNjY2MSw1OTc4NzUyNTYsNzMxOD
+eyJoaXN0b3J5IjpbMTk5MTE5MDQyOCw1OTc4NzUyNTYsNzMxOD
 Q3OTkyLDExNTA0Mjc5OSw5ODU5ODY3MjQsLTEzMDY4NTIxNjcs
 MTcxMTA2ODQ1MSwyNTY5NzkyMTksMTM4MzkzNzU4NCwzNzY3ND
 M3MjAsMjAzMzg5MDMzMSwxNzEwMTE5NTY2LC0xNDI5MzM0MjE5
