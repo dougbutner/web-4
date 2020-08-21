@@ -171,7 +171,7 @@ By using identifying information following open-source algorithms, in a way that
 
 communicable 
 
-There will always be security concerns with biometrics. For example, even if a user uses their biometric secret to unlock their device, another 
+There will always be security concerns with biometrics. For example, if a user uses their biometric secret to unlock their mobile device, another app could be secretly recording the camera activity in the background. Another person could be secretly recording them. Someone could try to play that video back to t
 
 ___
 <center>~~</center>
@@ -227,11 +227,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUwNzY2MTI2LDExNTA0Mjc5OSw5ODU5OD
-Y3MjQsLTEzMDY4NTIxNjcsMTcxMTA2ODQ1MSwyNTY5NzkyMTks
-MTM4MzkzNzU4NCwzNzY3NDM3MjAsMjAzMzg5MDMzMSwxNzEwMT
-E5NTY2LC0xNDI5MzM0MjE5LDMwMTY5ODUzLC0xOTQ5NjA5NjUw
-LC0xMTIyNTE3NjEyLC0xODg5NTk4MDI1LC0xNzMwNDU0MDA5LD
-E0NzMzNTQyOTQsNTI4OTI5MTA2LC0xMDM3NDI0ODI1LDc3MDY2
-OTk4OF19
+eyJoaXN0b3J5IjpbLTE1MzE1MjcyMjEsMTE1MDQyNzk5LDk4NT
+k4NjcyNCwtMTMwNjg1MjE2NywxNzExMDY4NDUxLDI1Njk3OTIx
+OSwxMzgzOTM3NTg0LDM3Njc0MzcyMCwyMDMzODkwMzMxLDE3MT
+AxMTk1NjYsLTE0MjkzMzQyMTksMzAxNjk4NTMsLTE5NDk2MDk2
+NTAsLTExMjI1MTc2MTIsLTE4ODk1OTgwMjUsLTE3MzA0NTQwMD
+ksMTQ3MzM1NDI5NCw1Mjg5MjkxMDYsLTEwMzc0MjQ4MjUsNzcw
+NjY5OTg4XX0=
 -->
