@@ -165,7 +165,7 @@ User can choose to either perform a chosen biometric task to receive their hashe
 
 The biggest issue with biometrics is the lack of trust, mostly due to the growing number of facial recognition softwares and databases. The lack of trust is almost always associated with an individual's lack of consent, not the technology itself. 
 
-To alleviate this issue, 
+To alleviate this issue, solutions must be 1) open-source, 2) run only on the 
 
 By using identifying information following open-source algorithms, in a way that is provable, and 
 
@@ -225,7 +225,7 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNDI2OTE4NiwxMTUwNDI3OTksOTg1OT
+eyJoaXN0b3J5IjpbMTgxOTA1OTExMCwxMTUwNDI3OTksOTg1OT
 g2NzI0LC0xMzA2ODUyMTY3LDE3MTEwNjg0NTEsMjU2OTc5MjE5
 LDEzODM5Mzc1ODQsMzc2NzQzNzIwLDIwMzM4OTAzMzEsMTcxMD
 ExOTU2NiwtMTQyOTMzNDIxOSwzMDE2OTg1MywtMTk0OTYwOTY1
