@@ -171,7 +171,9 @@ By using identifying information following open-source algorithms, in a way that
 
 communicable 
 
-There will always be security concerns with biometrics. For example, if a user uses their biometric secret to unlock their mobile device, another app could be secretly recording the camera activity in the background. Another person could be secretly recording them. Someone could try to play that video back to t
+There will always be security concerns with biometrics. For example, if a user uses their biometric secret to unlock their mobile device, another app could be secretly recording the camera activity in the background. Another person could be secretly recording them, and try to play that video back to the camera to gain access. All of these concerns and more must be dealt with before this technology reaches massive adoption. 
+
+The upside
 
 ___
 <center>~~</center>
@@ -227,7 +229,7 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzE1MjcyMjEsMTE1MDQyNzk5LDk4NT
+eyJoaXN0b3J5IjpbLTE5OTQxOTEzODAsMTE1MDQyNzk5LDk4NT
 k4NjcyNCwtMTMwNjg1MjE2NywxNzExMDY4NDUxLDI1Njk3OTIx
 OSwxMzgzOTM3NTg0LDM3Njc0MzcyMCwyMDMzODkwMzMxLDE3MT
 AxMTk1NjYsLTE0MjkzMzQyMTksMzAxNjk4NTMsLTE5NDk2MDk2
