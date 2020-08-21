@@ -185,15 +185,9 @@ Web 3 focuses on storing information forever in a provable way. Web 4 introduces
 
 
 
-While the inclusion of this concept into web 4 may seem unnecessary, it is another guarantee of the psudeoanonymity that is needed for many social applications. Philosophically, degradation of information also fits in with the general web 4 desire  
+While the inclusion of this concept into web 4 may seem unnecessary, and totallis , it is another guarantee of the psudeoanonymity that is needed for many social applications. Philosophically, degradation of information also fits in with the general web 4 desire to reflect systems in nature.
 
-
-### Erasing Permanent Records
-When web 4 is used for social applications
-
-Systems that store high-fidelity information become increasingly difficult to know something after it happens. 
-
-In some cases it makes sense for information to degrade over time. Privacy
+In some cases it makes sense for information to degrade over time. If you are using a 
 
 Performance Benefits
 In the event that 
@@ -236,11 +230,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTQ3NzM5MTMsNTk3ODc1MjU2LDczMT
-g0Nzk5MiwxMTUwNDI3OTksOTg1OTg2NzI0LC0xMzA2ODUyMTY3
-LDE3MTEwNjg0NTEsMjU2OTc5MjE5LDEzODM5Mzc1ODQsMzc2Nz
-QzNzIwLDIwMzM4OTAzMzEsMTcxMDExOTU2NiwtMTQyOTMzNDIx
-OSwzMDE2OTg1MywtMTk0OTYwOTY1MCwtMTEyMjUxNzYxMiwtMT
-g4OTU5ODAyNSwtMTczMDQ1NDAwOSwxNDczMzU0Mjk0LDUyODky
-OTEwNl19
+eyJoaXN0b3J5IjpbMTI2OTYxNjY2MSw1OTc4NzUyNTYsNzMxOD
+Q3OTkyLDExNTA0Mjc5OSw5ODU5ODY3MjQsLTEzMDY4NTIxNjcs
+MTcxMTA2ODQ1MSwyNTY5NzkyMTksMTM4MzkzNzU4NCwzNzY3ND
+M3MjAsMjAzMzg5MDMzMSwxNzEwMTE5NTY2LC0xNDI5MzM0MjE5
+LDMwMTY5ODUzLC0xOTQ5NjA5NjUwLC0xMTIyNTE3NjEyLC0xOD
+g5NTk4MDI1LC0xNzMwNDU0MDA5LDE0NzMzNTQyOTQsNTI4OTI5
+MTA2XX0=
 -->
