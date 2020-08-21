@@ -139,9 +139,9 @@ Provable democracy cannot be fully achieved in web 3, because there is no contro
 
 POS and DPOS is additionally used to in projects like Hive to allow users to "vote" on valuable content, an early example of the democratic web. DPOS is also used for networks to determine who can access network resources.
 
-However, both of these POD/DPOS use cases (curation and resource allocation) are not democratic in the sense that each account is not equal. In both cases, the root of democracy is in the token, not the individual, and the ownership of tokens determines the voting power or processing power held by an individual. 
+However, both of these POS/DPOS use cases (curation and resource allocation) are not democratic in the sense that **each account is not equal**. In both cases, the root of democracy is in the token, not the individual, and the ownership of tokens determines the voting power or processing power held by an individual. 
 
-In the end, the only way to implement true democracy in any system is through giving each individual equal power. The only way to do this while keeping web3's decentralized nature is to implement the technological (biocryptology) and idealogical (time faucets, degradation of data) advancements needed to be sure an account is owned by one individual, and that individual has only one account. These advancements are, for simplicity and communication, called web 4. 
+In the end, the only way to implement true democracy in any system is through giving each individual equal power. The only way to do this while keeping web3's decentralized nature is to implement the technological (biocryptology) and idealogical (time faucets, degradation of data) advancements needed to be sure an account is owned by **one individual**, and that individual has **only one account**. These advancements are, for simplicity and communication, called web 4. 
 
 ___
 <center>~~</center>
@@ -225,11 +225,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MDQyNzk5LDk4NTk4NjcyNCwtMTMwNj
-g1MjE2NywxNzExMDY4NDUxLDI1Njk3OTIxOSwxMzgzOTM3NTg0
-LDM3Njc0MzcyMCwyMDMzODkwMzMxLDE3MTAxMTk1NjYsLTE0Mj
-kzMzQyMTksMzAxNjk4NTMsLTE5NDk2MDk2NTAsLTExMjI1MTc2
-MTIsLTE4ODk1OTgwMjUsLTE3MzA0NTQwMDksMTQ3MzM1NDI5NC
-w1Mjg5MjkxMDYsLTEwMzc0MjQ4MjUsNzcwNjY5OTg4LC0zNTAz
-MzIyMDNdfQ==
+eyJoaXN0b3J5IjpbLTUzNDI2OTE4NiwxMTUwNDI3OTksOTg1OT
+g2NzI0LC0xMzA2ODUyMTY3LDE3MTEwNjg0NTEsMjU2OTc5MjE5
+LDEzODM5Mzc1ODQsMzc2NzQzNzIwLDIwMzM4OTAzMzEsMTcxMD
+ExOTU2NiwtMTQyOTMzNDIxOSwzMDE2OTg1MywtMTk0OTYwOTY1
+MCwtMTEyMjUxNzYxMiwtMTg4OTU5ODAyNSwtMTczMDQ1NDAwOS
+wxNDczMzU0Mjk0LDUyODkyOTEwNiwtMTAzNzQyNDgyNSw3NzA2
+Njk5ODhdfQ==
 -->
