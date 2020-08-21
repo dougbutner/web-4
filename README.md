@@ -191,7 +191,12 @@ While the inclusion of this concept into web 4 may seem unnecessary, it is anoth
 ### Erasing Permanent Records
 When web 4 is used for social applications
 
-Systems that store high-fidelity information become increasingly difficult to know something after it happens. As a result og the 
+Systems that store high-fidelity information become increasingly difficult to know something after it happens. 
+
+In some cases it makes sense for information to degrade over time. Privacy
+
+Performance Benefits
+In the event that 
 
 
 
@@ -231,11 +236,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk3ODc1MjU2LDczMTg0Nzk5MiwxMTUwND
-I3OTksOTg1OTg2NzI0LC0xMzA2ODUyMTY3LDE3MTEwNjg0NTEs
-MjU2OTc5MjE5LDEzODM5Mzc1ODQsMzc2NzQzNzIwLDIwMzM4OT
-AzMzEsMTcxMDExOTU2NiwtMTQyOTMzNDIxOSwzMDE2OTg1Mywt
-MTk0OTYwOTY1MCwtMTEyMjUxNzYxMiwtMTg4OTU5ODAyNSwtMT
-czMDQ1NDAwOSwxNDczMzU0Mjk0LDUyODkyOTEwNiwtMTAzNzQy
-NDgyNV19
+eyJoaXN0b3J5IjpbLTE0NTQ3NzM5MTMsNTk3ODc1MjU2LDczMT
+g0Nzk5MiwxMTUwNDI3OTksOTg1OTg2NzI0LC0xMzA2ODUyMTY3
+LDE3MTEwNjg0NTEsMjU2OTc5MjE5LDEzODM5Mzc1ODQsMzc2Nz
+QzNzIwLDIwMzM4OTAzMzEsMTcxMDExOTU2NiwtMTQyOTMzNDIx
+OSwzMDE2OTg1MywtMTk0OTYwOTY1MCwtMTEyMjUxNzYxMiwtMT
+g4OTU5ODAyNSwtMTczMDQ1NDAwOSwxNDczMzU0Mjk0LDUyODky
+OTEwNl19
 -->
