@@ -53,7 +53,7 @@ There are 4 conceptual underpinnings of web 4
  3. **Information Degradation**
  4. **GeoSocial Layers**
 
-We will discuss these concepts one at a time, then look at possible applications of these web 4 concepts.
+We will discuss these concepts one at a time, then look at possible applications of these web 4 concepts, and a roadmap to reality.
 
 # #1: Time-issued cryptocurrency (Time Tokens) 
 
@@ -229,11 +229,12 @@ In the event that
 Notable differences in M
 
 
-# Roadmap to Web 4
+# Roadmap to Web 4 Reality
 
+**Phase One**
 Implementing time tokens
 
-Incorporating federated systems
+Individuality for Time Tokrns  decentralized options like Civic to 
 
 developing biocryptography standards
 
@@ -259,11 +260,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjUxNzU0NjIsLTEyMjY5NjAzMDAsMz
-c0MTQ0MDA1LC0xODU5OTI2NTg1LDEyMTYxMjYxMTEsNTk3ODc1
-MjU2LDczMTg0Nzk5MiwxMTUwNDI3OTksOTg1OTg2NzI0LC0xMz
-A2ODUyMTY3LDE3MTEwNjg0NTEsMjU2OTc5MjE5LDEzODM5Mzc1
-ODQsMzc2NzQzNzIwLDIwMzM4OTAzMzEsMTcxMDExOTU2NiwtMT
-QyOTMzNDIxOSwzMDE2OTg1MywtMTk0OTYwOTY1MCwtMTEyMjUx
-NzYxMl19
+eyJoaXN0b3J5IjpbMjkwNjM0NzAzLC0xMjI2OTYwMzAwLDM3ND
+E0NDAwNSwtMTg1OTkyNjU4NSwxMjE2MTI2MTExLDU5Nzg3NTI1
+Niw3MzE4NDc5OTIsMTE1MDQyNzk5LDk4NTk4NjcyNCwtMTMwNj
+g1MjE2NywxNzExMDY4NDUxLDI1Njk3OTIxOSwxMzgzOTM3NTg0
+LDM3Njc0MzcyMCwyMDMzODkwMzMxLDE3MTAxMTk1NjYsLTE0Mj
+kzMzQyMTksMzAxNjk4NTMsLTE5NDk2MDk2NTAsLTExMjI1MTc2
+MTJdfQ==
 -->
