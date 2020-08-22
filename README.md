@@ -156,7 +156,7 @@ Biometric secrets generated from static images are not secure, as static images 
 
 This stream of data (video + audio of biometric expression) could be a user doing a series of hand gestures, singing a part of a song, speaking a phrase, speaking a phrase in different voices, clapping, making a series of facial expressions, or anything else one can imagine.
 
-For security, biometric expressions must be unique and many types (gesture, singing, clapping) must be available and used in combination. If each person's biometric secret was generated from the same single biometric expression, it would be a matter of time before specific AI could be developed to deepfake it for anyone. If the user is the only one that knows their biometric expressions, it becomes nearly impossible to guess the type and nature of the expression, and even if that is known, impossible to use the same technique on more than one account. 
+For security, biometric expressions must be unique and many types (gesture, singing, clapping) must be available and used in combination. If each person's biometric secret was generated from the same single biometric expression, it would be a matter of time before specific AI could be developed to deepfake it for anyone. If the user is the only one that knows their biometric expressions it becomes nearly impossible to guess the type and nature of the expression, and even if that is known, impossible to use the same technique on more than one account. 
 
 The nature of the uniqueness could be chosen by the user, or generated at random from the biosecret software which would prompt the user to complete an action by exp
 
@@ -263,11 +263,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTk5MjY1ODUsMTIxNjEyNjExMSw1OT
-c4NzUyNTYsNzMxODQ3OTkyLDExNTA0Mjc5OSw5ODU5ODY3MjQs
-LTEzMDY4NTIxNjcsMTcxMTA2ODQ1MSwyNTY5NzkyMTksMTM4Mz
-kzNzU4NCwzNzY3NDM3MjAsMjAzMzg5MDMzMSwxNzEwMTE5NTY2
-LC0xNDI5MzM0MjE5LDMwMTY5ODUzLC0xOTQ5NjA5NjUwLC0xMT
-IyNTE3NjEyLC0xODg5NTk4MDI1LC0xNzMwNDU0MDA5LDE0NzMz
-NTQyOTRdfQ==
+eyJoaXN0b3J5IjpbMzc0MTQ0MDA1LC0xODU5OTI2NTg1LDEyMT
+YxMjYxMTEsNTk3ODc1MjU2LDczMTg0Nzk5MiwxMTUwNDI3OTks
+OTg1OTg2NzI0LC0xMzA2ODUyMTY3LDE3MTEwNjg0NTEsMjU2OT
+c5MjE5LDEzODM5Mzc1ODQsMzc2NzQzNzIwLDIwMzM4OTAzMzEs
+MTcxMDExOTU2NiwtMTQyOTMzNDIxOSwzMDE2OTg1MywtMTk0OT
+YwOTY1MCwtMTEyMjUxNzYxMiwtMTg4OTU5ODAyNSwtMTczMDQ1
+NDAwOV19
 -->
