@@ -53,10 +53,7 @@ There are 4 conceptual underpinnings of web 4
  3. **Information Degradation**
  4. **GeoSocial Layers**
 
-We will discuss these concepts one at a time, then look at possible applications of web 4.
-
-
-
+We will discuss these concepts one at a time, then look at possible applications of these web 4 concepts.
 
 # #1: Time-issued cryptocurrency (Time Tokens) 
 
@@ -262,11 +259,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjY5NjAzMDAsMzc0MTQ0MDA1LC0xOD
-U5OTI2NTg1LDEyMTYxMjYxMTEsNTk3ODc1MjU2LDczMTg0Nzk5
-MiwxMTUwNDI3OTksOTg1OTg2NzI0LC0xMzA2ODUyMTY3LDE3MT
-EwNjg0NTEsMjU2OTc5MjE5LDEzODM5Mzc1ODQsMzc2NzQzNzIw
-LDIwMzM4OTAzMzEsMTcxMDExOTU2NiwtMTQyOTMzNDIxOSwzMD
-E2OTg1MywtMTk0OTYwOTY1MCwtMTEyMjUxNzYxMiwtMTg4OTU5
-ODAyNV19
+eyJoaXN0b3J5IjpbLTExMjUxNzU0NjIsLTEyMjY5NjAzMDAsMz
+c0MTQ0MDA1LC0xODU5OTI2NTg1LDEyMTYxMjYxMTEsNTk3ODc1
+MjU2LDczMTg0Nzk5MiwxMTUwNDI3OTksOTg1OTg2NzI0LC0xMz
+A2ODUyMTY3LDE3MTEwNjg0NTEsMjU2OTc5MjE5LDEzODM5Mzc1
+ODQsMzc2NzQzNzIwLDIwMzM4OTAzMzEsMTcxMDExOTU2NiwtMT
+QyOTMzNDIxOSwzMDE2OTg1MywtMTk0OTYwOTY1MCwtMTEyMjUx
+NzYxMl19
 -->
