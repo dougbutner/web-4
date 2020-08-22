@@ -154,7 +154,8 @@ Biometric secrets are akin to any cryptographic secret key, they are a hash of i
 
 Biometric secrets generated from static images are not secure, as static images can be easily faked in innumerable ways [GETCIT]. Video offers a better solution to this problem, as it is harder to fake, can include audio, and lets developers create a whole new set of algorithms based on a changing stream of data. 
 
-This stream of data (video + audio of biometric expression) could be a user doing a series of hand gestures, singing a part of a song, speaking a phrase, speaking a phrase in different voices, clapping, making a series of facial expressions, or anything else one can imagine.
+### What is used to generate a biosecret?
+This stream of data (video + audio biometric expression) could be a user doing a series of hand gestures, singing a part of a song, speaking a phrase, speaking a phrase in different voices, clapping, making a series of facial expressions, or anything else one can imagine.
 
 For security, biometric expressions must be unique and many types (gesture, singing, clapping) must be available and used in combination. If each person's biometric secret was generated from the same single biometric expression, it would be a matter of time before specific AI could be developed to deepfake it for anyone. If the user is the only one that knows their biometric expressions it becomes nearly impossible to guess the type and nature of the expression, and even if that is known, impossible to use the same technique on more than one account. 
 
@@ -263,11 +264,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc0MTQ0MDA1LC0xODU5OTI2NTg1LDEyMT
-YxMjYxMTEsNTk3ODc1MjU2LDczMTg0Nzk5MiwxMTUwNDI3OTks
-OTg1OTg2NzI0LC0xMzA2ODUyMTY3LDE3MTEwNjg0NTEsMjU2OT
-c5MjE5LDEzODM5Mzc1ODQsMzc2NzQzNzIwLDIwMzM4OTAzMzEs
-MTcxMDExOTU2NiwtMTQyOTMzNDIxOSwzMDE2OTg1MywtMTk0OT
-YwOTY1MCwtMTEyMjUxNzYxMiwtMTg4OTU5ODAyNSwtMTczMDQ1
-NDAwOV19
+eyJoaXN0b3J5IjpbLTE4NzYyMTU0MzYsMzc0MTQ0MDA1LC0xOD
+U5OTI2NTg1LDEyMTYxMjYxMTEsNTk3ODc1MjU2LDczMTg0Nzk5
+MiwxMTUwNDI3OTksOTg1OTg2NzI0LC0xMzA2ODUyMTY3LDE3MT
+EwNjg0NTEsMjU2OTc5MjE5LDEzODM5Mzc1ODQsMzc2NzQzNzIw
+LDIwMzM4OTAzMzEsMTcxMDExOTU2NiwtMTQyOTMzNDIxOSwzMD
+E2OTg1MywtMTk0OTYwOTY1MCwtMTEyMjUxNzYxMiwtMTg4OTU5
+ODAyNV19
 -->
