@@ -159,12 +159,10 @@ This stream of data (video + audio biometric expression) could be a user doing a
 
 For security, biometric expressions must be unique and many types (gesture, singing, clapping) must be available and used in combination. If each person's biometric secret was generated from the same single biometric expression, it would be a matter of time before specific AI could be developed to deepfake it for anyone. If the user is the only one that knows their biometric expressions it becomes nearly impossible to guess the type and nature of the expression, and even if that is known, impossible to use the same technique on more than one account. 
 
-The nature of the uniqueness could be chosen by the user, or generated at random from the biosecret software which would prompt the user to complete an action in a specific way. This
+The nature of the uniqueness could be chosen by the user, or generated at random from the biosecret software which would prompt the user to complete an action in a specific way. The user-chosen methos would be up to the user to remember, possibly by storing a hint, and the prompted way would require local storage of the prompt. 
 
-To prevent a user from forgetting their own biometric expression, hints can be stored on a local machine like "sing chorus of favorite J. Cole song" or 
-
-
-Democratic systems certainly could be built without biometric verification, and will be at least until suitable biometric technology develops. Until suitable biometric technology develops along the open source, client-side requirements, [centralized solutions](https://www.civic.com/) provide the necessary individuality, at the cost of trust. This and other solutions will happen as different people implement web 4 in their own ways. 
+## Why do we need this, again?
+Democratic systems certainly could be built without biometric verification, and must be at least until suitable biometric technology developsalong the open source, client-side requirements, [centralized solutions](https://www.civic.com/) provide the necessary individuality, at the cost of trust. This and other solutions will happen as different people implement web 4 in their own ways. 
 
 We will present the ideas that are crucial for this system to be different, and represent true growth into web 4.
 
@@ -264,7 +262,7 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5ODM1Nzk2MywzNzQxNDQwMDUsLTE4NT
+eyJoaXN0b3J5IjpbLTY5MTI2MDYzNiwzNzQxNDQwMDUsLTE4NT
 k5MjY1ODUsMTIxNjEyNjExMSw1OTc4NzUyNTYsNzMxODQ3OTky
 LDExNTA0Mjc5OSw5ODU5ODY3MjQsLTEzMDY4NTIxNjcsMTcxMT
 A2ODQ1MSwyNTY5NzkyMTksMTM4MzkzNzU4NCwzNzY3NDM3MjAs
