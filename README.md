@@ -162,7 +162,7 @@ For security, biometric expressions must be unique and many types (gesture, sing
 The nature of the uniqueness could be chosen by the user, or generated at random from the biosecret software which would prompt the user to complete an action in a specific way. The user-chosen methos would be up to the user to remember, possibly by storing a hint, and the prompted way would require local storage of the prompt. 
 
 ## Why do we need this, again?
-Democratic systems certainly could be built without biometric verification, and must be at least until suitable biometric technology developsalong the open source, client-side requirements, [centralized solutions](https://www.civic.com/) provide the necessary individuality, at the cost of trust. This and other solutions will happen as different people implement web 4 in their own ways. 
+Democratic systems certainly could be built without biometric verification, and must be at least until suitable biometric technology develops along the open source, client-side requirements. For now, [Centralized solutions](https://www.civic.com/) provide the necessary individuality, at the cost of trust. This and other solutions will happen as different people implement web 4 in their own ways. 
 
 We will present the ideas that are crucial for this system to be different, and represent true growth into web 4.
 
@@ -262,11 +262,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MTI2MDYzNiwzNzQxNDQwMDUsLTE4NT
-k5MjY1ODUsMTIxNjEyNjExMSw1OTc4NzUyNTYsNzMxODQ3OTky
-LDExNTA0Mjc5OSw5ODU5ODY3MjQsLTEzMDY4NTIxNjcsMTcxMT
-A2ODQ1MSwyNTY5NzkyMTksMTM4MzkzNzU4NCwzNzY3NDM3MjAs
-MjAzMzg5MDMzMSwxNzEwMTE5NTY2LC0xNDI5MzM0MjE5LDMwMT
-Y5ODUzLC0xOTQ5NjA5NjUwLC0xMTIyNTE3NjEyLC0xODg5NTk4
-MDI1XX0=
+eyJoaXN0b3J5IjpbMjY2Mzg1Nzg5LDM3NDE0NDAwNSwtMTg1OT
+kyNjU4NSwxMjE2MTI2MTExLDU5Nzg3NTI1Niw3MzE4NDc5OTIs
+MTE1MDQyNzk5LDk4NTk4NjcyNCwtMTMwNjg1MjE2NywxNzExMD
+Y4NDUxLDI1Njk3OTIxOSwxMzgzOTM3NTg0LDM3Njc0MzcyMCwy
+MDMzODkwMzMxLDE3MTAxMTk1NjYsLTE0MjkzMzQyMTksMzAxNj
+k4NTMsLTE5NDk2MDk2NTAsLTExMjI1MTc2MTIsLTE4ODk1OTgw
+MjVdfQ==
 -->
