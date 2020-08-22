@@ -232,12 +232,18 @@ Notable differences in M
 # Roadmap to Web 4 Reality
 
 **Phase One**
-Implementing time tokens
+> Implementing time tokens
 
-Individuality for Time Tokrns  decentralized options like Civic to 
+Individuality for Time Tokens decentralized options like Civic to 
 
+**Phase One**
+
+**Phase One**
+biocryptography
 developing biocryptography standards
 
+**Phase One**
+Develop a democratic system to 
 
 # Author notes
 
@@ -260,11 +266,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkwNjM0NzAzLC0xMjI2OTYwMzAwLDM3ND
-E0NDAwNSwtMTg1OTkyNjU4NSwxMjE2MTI2MTExLDU5Nzg3NTI1
-Niw3MzE4NDc5OTIsMTE1MDQyNzk5LDk4NTk4NjcyNCwtMTMwNj
-g1MjE2NywxNzExMDY4NDUxLDI1Njk3OTIxOSwxMzgzOTM3NTg0
-LDM3Njc0MzcyMCwyMDMzODkwMzMxLDE3MTAxMTk1NjYsLTE0Mj
-kzMzQyMTksMzAxNjk4NTMsLTE5NDk2MDk2NTAsLTExMjI1MTc2
-MTJdfQ==
+eyJoaXN0b3J5IjpbMTY5MTA2MTUzMCwtMTIyNjk2MDMwMCwzNz
+QxNDQwMDUsLTE4NTk5MjY1ODUsMTIxNjEyNjExMSw1OTc4NzUy
+NTYsNzMxODQ3OTkyLDExNTA0Mjc5OSw5ODU5ODY3MjQsLTEzMD
+Y4NTIxNjcsMTcxMTA2ODQ1MSwyNTY5NzkyMTksMTM4MzkzNzU4
+NCwzNzY3NDM3MjAsMjAzMzg5MDMzMSwxNzEwMTE5NTY2LC0xND
+I5MzM0MjE5LDMwMTY5ODUzLC0xOTQ5NjA5NjUwLC0xMTIyNTE3
+NjEyXX0=
 -->
