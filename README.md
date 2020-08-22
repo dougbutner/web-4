@@ -1,3 +1,4 @@
+# WIP
 # The Web 4 Manifesto - Awakening the Democratic Web 
 
 Collaborative Democracy
@@ -6,7 +7,7 @@ Collaborative Democracy
 
 ## About This Repo 
 
-This README features a description of the next evolution of the web, web 4. As the technologies emerge, this repo will also feature code and links to the associated technologies.
+This README features a description of the next evolution of the web, web 4. As the technologies emerge, this repo will also feature code and links to the associated technologies. For more cool Web 4 stuff, visit [Awesome Web 4](https://github.com/dougbutner/awesome-web4)
 
 ## What is Web 4?
 
@@ -22,7 +23,7 @@ Dynamic pages that take user's information and desires into account. Asynchronou
 Decentralized web. Open-source applications exist in distributed networks instead of a central server. This unfederated model trades control and censorship ability for freedom and lack of opinion. 
 
  - **Web 4**
-Time web. Enabling meaningful layers on top of current socioeconomic systems built on time-minted crypto versatile which gains utility in how it is spent. Open source, unfederated biocryptography allows democratic systems to flourish, and takes government identification and corporate oversight out of the picture. Intentional degradation of information changes blockchain paradigms and brings meaning to time-based information models. 
+The Democratic web. Enabling meaningful layers on top of current socioeconomic systems built on time-minted crypto versatile which gains utility in how it is spent. Open source, unfederated biocryptography allows democratic systems to flourish, and takes government identification and corporate oversight out of the picture. Intentional degradation of information changes blockchain paradigms and brings meaning to time-based information models. 
 
 Today, the top 100 websites by traffic are [all](https://www.alexa.com/topsites) web 2 websites. The web 2 paradigm fits closely with the wider environment of corporate-owned information federations. 
 
@@ -50,7 +51,7 @@ There are 4 conceptual underpinnings of web 4
  1. **Time-issued cryptocurrency** 
  2. **Proof of Individuality**
  3. **Information Degradation**
- 4. **Social Layers**
+ 4. **GeoSocial Layers**
 
 We will discuss these concepts one at a time, then look at possible applications of web 4.
 
@@ -149,7 +150,20 @@ ___
 ___
 
 ## **2.  Proof of Individuality - Biometric Secrets + Protecting Identity**
-This system certainly could be built without biometric verification, and probably will. Until suitable biometric technology develops along the open source, client-side requirements, [centralized solutions](https://www.civic.com/) provide the necessary individuality, at the cost of trust. This and other solutions will happen as different people implement web 4 in their own ways. 
+Biometric secrets are akin to any cryptographic secret key, they are a hash of information. The information hashed in a biometric secret comes from a person's biometric expression. In today's biometric space, simple static images are most commonly used for things like fingerprint and facial recognition, and geometry is the means to compare this data. 
+
+Biometric secrets generated from static images are not secure, as static images can be easily faked in innumerable ways [GETCIT]. Video offers a better solution to this problem, as it is harder to fake, can include audio, and lets developers create a whole new set of algorithms based on a changing stream of data. 
+
+This stream of data (video + audio of biometric expression) could be a user doing a series of hand gestures, singing a part of a song, speaking a phrase, speaking a phrase in different voices, clapping, making a series of facial expressions, or anything else one can imagine.
+
+For security, biometric expressions must be unique and many types (gesture, singing, clapping) must be available and used in combination. If each person's biometric secret was generated from the same single biometric expression, it would be a matter of time before specific AI could be developed to deepfake it for anyone. If the user is the only one that knows their biometric expressions, it becomes nearly impossible to guess the type and nature of the expression, and even if that is known, impossible to use the same technique on more than one account. 
+
+The nature of the uniqueness could be chosen by the user, or generated at random from the biosecret software which would prompt the user to complete an action by exp
+
+To prevent a user from forgetting their own biometric expression, hints can be stored on a local machine like "sing chorus of favorite J. Cole song" or 
+
+
+Democratic systems certainly could be built without biometric verification, and will be at least until suitable biometric technology develops. Until suitable biometric technology develops along the open source, client-side requirements, [centralized solutions](https://www.civic.com/) provide the necessary individuality, at the cost of trust. This and other solutions will happen as different people implement web 4 in their own ways. 
 
 We will present the ideas that are crucial for this system to be different, and represent true growth into web 4.
 
@@ -180,12 +194,28 @@ ___
 
 ___
 
-## **Degradation of Information**
-Web 3 focuses on storing information forever in a provable way. Web 4 introduces a counter-model which may be optionally adopted by any time token based system. In this model, information becomes harder and harder to know the more time that passes. The democratic mechanism requiring a number of people requesting information in a given timespan where the more people that seek out a particular block of information, the more likely it is to be accessible to all requesters. 
+## Degradation of Information
+Web 3 focuses on storing information forever in a provable way. Web 4 introduces a counter-model which may be **optionally** adopted by any time-token-based system. In this model, who did what becomes **harder and harder to know** the more time that passes. 
+
+This idea hinges upon incremental time units, the number of which is used to decide how difficult information about a particular individual is to access. 
+
+With pseudoanonymity, it is difficult, but not impossible, to piece together a story about an individual user by knowing they are responsible for a set of transactions over time. The further back in time a transaction is, the harder it is to link it to another transaction with any certainty. 
+
+Though the user's actual identity can never be known (unless the user exposes their key outside of the blockchain)
 
 
 
-While the inclusion of this concept into web 4 may seem unnecessary, and totally is, it is another guarantee of the psudeoanonymity that is needed for many social applications. It can be used for performance benefits as well. Philosophically, degradation of information also fits in with the general web 4 desire to reflect systems in nature.
+
+## **Degradation of Information Fidelity**
+Information fidelity requirements can also be degraded over time. For example, when generating a users biosecret, it can be assumed that the more time that passes, the more the bioinformation of the individual will change. 
+
+Biosecrets are generated from a **range of biometric values**. This range of values can be expanded over time. The effect is, instead of having one hashed biosecret for eternity, the generation process will create a set of biosecrets from an increasingly wide range of data. This concept may be needed to keep people in control of their accounts as they age. There is considerable work to be done to develop this concept, as each 
+
+
+
+
+
+While the inclusion of this concept into web 4 may seem unnecessary (and totally is), it is another guarantee of the psudeoanonymity that is needed for many social applications. It can be used for performance benefits as well. Philosophically, degradation of information also fits in with the general web 4 desire to reflect systems in nature.
 
 When querying data becomes intensive, and a client couldn't hold all the information
 
@@ -233,11 +263,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNjEyNjExMSw1OTc4NzUyNTYsNzMxOD
-Q3OTkyLDExNTA0Mjc5OSw5ODU5ODY3MjQsLTEzMDY4NTIxNjcs
-MTcxMTA2ODQ1MSwyNTY5NzkyMTksMTM4MzkzNzU4NCwzNzY3ND
-M3MjAsMjAzMzg5MDMzMSwxNzEwMTE5NTY2LC0xNDI5MzM0MjE5
-LDMwMTY5ODUzLC0xOTQ5NjA5NjUwLC0xMTIyNTE3NjEyLC0xOD
-g5NTk4MDI1LC0xNzMwNDU0MDA5LDE0NzMzNTQyOTQsNTI4OTI5
-MTA2XX0=
+eyJoaXN0b3J5IjpbLTE4NTk5MjY1ODUsMTIxNjEyNjExMSw1OT
+c4NzUyNTYsNzMxODQ3OTkyLDExNTA0Mjc5OSw5ODU5ODY3MjQs
+LTEzMDY4NTIxNjcsMTcxMTA2ODQ1MSwyNTY5NzkyMTksMTM4Mz
+kzNzU4NCwzNzY3NDM3MjAsMjAzMzg5MDMzMSwxNzEwMTE5NTY2
+LC0xNDI5MzM0MjE5LDMwMTY5ODUzLC0xOTQ5NjA5NjUwLC0xMT
+IyNTE3NjEyLC0xODg5NTk4MDI1LC0xNzMwNDU0MDA5LDE0NzMz
+NTQyOTRdfQ==
 -->
