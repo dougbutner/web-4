@@ -224,7 +224,7 @@ In the event that
 
 # 4. GeoSocial Layers
 
-Each version of the web must evolve. I believe the greatest evolution happens when
+Each version of the web must evolve. I believe the greatest evolution happens when we can harness the concepts of collaborative more th 
 
 
 # The experience of Web 4
@@ -270,11 +270,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzAzNDk2MTMsLTE1ODQ1NTU3NDYsMT
-Y5MTA2MTUzMCwtMTIyNjk2MDMwMCwzNzQxNDQwMDUsLTE4NTk5
-MjY1ODUsMTIxNjEyNjExMSw1OTc4NzUyNTYsNzMxODQ3OTkyLD
-ExNTA0Mjc5OSw5ODU5ODY3MjQsLTEzMDY4NTIxNjcsMTcxMTA2
-ODQ1MSwyNTY5NzkyMTksMTM4MzkzNzU4NCwzNzY3NDM3MjAsMj
-AzMzg5MDMzMSwxNzEwMTE5NTY2LC0xNDI5MzM0MjE5LDMwMTY5
-ODUzXX0=
+eyJoaXN0b3J5IjpbLTg0NjAwNTIzMCwtMTU4NDU1NTc0NiwxNj
+kxMDYxNTMwLC0xMjI2OTYwMzAwLDM3NDE0NDAwNSwtMTg1OTky
+NjU4NSwxMjE2MTI2MTExLDU5Nzg3NTI1Niw3MzE4NDc5OTIsMT
+E1MDQyNzk5LDk4NTk4NjcyNCwtMTMwNjg1MjE2NywxNzExMDY4
+NDUxLDI1Njk3OTIxOSwxMzgzOTM3NTg0LDM3Njc0MzcyMCwyMD
+MzODkwMzMxLDE3MTAxMTk1NjYsLTE0MjkzMzQyMTksMzAxNjk4
+NTNdfQ==
 -->
