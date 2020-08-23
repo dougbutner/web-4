@@ -222,6 +222,10 @@ Performance Benefits
 In the event that 
 
 
+# 4. GeoSocial Layers
+
+Each version of the web must evolve. We are beginning to see the 
+
 
 # The experience of Web 4
 
@@ -266,11 +270,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MTA2MTUzMCwtMTIyNjk2MDMwMCwzNz
-QxNDQwMDUsLTE4NTk5MjY1ODUsMTIxNjEyNjExMSw1OTc4NzUy
-NTYsNzMxODQ3OTkyLDExNTA0Mjc5OSw5ODU5ODY3MjQsLTEzMD
-Y4NTIxNjcsMTcxMTA2ODQ1MSwyNTY5NzkyMTksMTM4MzkzNzU4
-NCwzNzY3NDM3MjAsMjAzMzg5MDMzMSwxNzEwMTE5NTY2LC0xND
-I5MzM0MjE5LDMwMTY5ODUzLC0xOTQ5NjA5NjUwLC0xMTIyNTE3
-NjEyXX0=
+eyJoaXN0b3J5IjpbLTE1ODQ1NTU3NDYsMTY5MTA2MTUzMCwtMT
+IyNjk2MDMwMCwzNzQxNDQwMDUsLTE4NTk5MjY1ODUsMTIxNjEy
+NjExMSw1OTc4NzUyNTYsNzMxODQ3OTkyLDExNTA0Mjc5OSw5OD
+U5ODY3MjQsLTEzMDY4NTIxNjcsMTcxMTA2ODQ1MSwyNTY5Nzky
+MTksMTM4MzkzNzU4NCwzNzY3NDM3MjAsMjAzMzg5MDMzMSwxNz
+EwMTE5NTY2LC0xNDI5MzM0MjE5LDMwMTY5ODUzLC0xOTQ5NjA5
+NjUwXX0=
 -->
