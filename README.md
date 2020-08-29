@@ -51,7 +51,7 @@ There are 4 conceptual underpinnings of web 4
  1. **Time-issued cryptocurrency** 
  2. **Proof of Individuality**
  3. **Information Degradation**
- 4. **GeoSocial Harmonic Systems**
+ 4. **Harmonic GeoSocial Systems**
 
 We will discuss these concepts one at a time, then look at possible applications of these web 4 concepts, and a roadmap to reality.
 
@@ -270,11 +270,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MDAwNDYyNSwtMTgzMDQ4MTYzMiwtMT
-U4NDU1NTc0NiwxNjkxMDYxNTMwLC0xMjI2OTYwMzAwLDM3NDE0
-NDAwNSwtMTg1OTkyNjU4NSwxMjE2MTI2MTExLDU5Nzg3NTI1Ni
-w3MzE4NDc5OTIsMTE1MDQyNzk5LDk4NTk4NjcyNCwtMTMwNjg1
-MjE2NywxNzExMDY4NDUxLDI1Njk3OTIxOSwxMzgzOTM3NTg0LD
-M3Njc0MzcyMCwyMDMzODkwMzMxLDE3MTAxMTk1NjYsLTE0Mjkz
-MzQyMTldfQ==
+eyJoaXN0b3J5IjpbLTE3MjIyNDU1ODksLTc3MDAwNDYyNSwtMT
+gzMDQ4MTYzMiwtMTU4NDU1NTc0NiwxNjkxMDYxNTMwLC0xMjI2
+OTYwMzAwLDM3NDE0NDAwNSwtMTg1OTkyNjU4NSwxMjE2MTI2MT
+ExLDU5Nzg3NTI1Niw3MzE4NDc5OTIsMTE1MDQyNzk5LDk4NTk4
+NjcyNCwtMTMwNjg1MjE2NywxNzExMDY4NDUxLDI1Njk3OTIxOS
+wxMzgzOTM3NTg0LDM3Njc0MzcyMCwyMDMzODkwMzMxLDE3MTAx
+MTk1NjZdfQ==
 -->
