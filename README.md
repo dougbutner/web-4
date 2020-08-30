@@ -17,7 +17,7 @@ Before we define web 4, we must look briefly at the concepts of web 1, web 2, an
 **Static web**. Files are served from a remote server to a user's browser.
 
  - **Web 2**
-**Dynamic web**. Web pages that take user's information and desires into account. Asynchronous requests allow single page applications to thrive. Applications are still served from a central (federated) server.
+**Dynamic web**. Web pages that take user's information and desires into account. Asynchronous requests allow single page applications to thrive. Applications are still served from a central server.
 
  - **Web 3**
 **Decentralized web**. Open-source applications exist in distributed networks instead of a central server. This unfederated model trades control and censorship ability for freedom and lack of opinion. 
@@ -272,11 +272,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzY1NTExMzksLTE5Mzg0NTA5MjAsLT
-E3MjIyNDU1ODksLTc3MDAwNDYyNSwtMTgzMDQ4MTYzMiwtMTU4
-NDU1NTc0NiwxNjkxMDYxNTMwLC0xMjI2OTYwMzAwLDM3NDE0ND
-AwNSwtMTg1OTkyNjU4NSwxMjE2MTI2MTExLDU5Nzg3NTI1Niw3
-MzE4NDc5OTIsMTE1MDQyNzk5LDk4NTk4NjcyNCwtMTMwNjg1Mj
-E2NywxNzExMDY4NDUxLDI1Njk3OTIxOSwxMzgzOTM3NTg0LDM3
-Njc0MzcyMF19
+eyJoaXN0b3J5IjpbODI5OTI1MTA0LC0xOTM4NDUwOTIwLC0xNz
+IyMjQ1NTg5LC03NzAwMDQ2MjUsLTE4MzA0ODE2MzIsLTE1ODQ1
+NTU3NDYsMTY5MTA2MTUzMCwtMTIyNjk2MDMwMCwzNzQxNDQwMD
+UsLTE4NTk5MjY1ODUsMTIxNjEyNjExMSw1OTc4NzUyNTYsNzMx
+ODQ3OTkyLDExNTA0Mjc5OSw5ODU5ODY3MjQsLTEzMDY4NTIxNj
+csMTcxMTA2ODQ1MSwyNTY5NzkyMTksMTM4MzkzNzU4NCwzNzY3
+NDM3MjBdfQ==
 -->
