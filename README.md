@@ -259,7 +259,7 @@ Notable differences in M
 
 Biocryptography standards and biometric secret technology are being developed to allow true provable identity in Phase Three.
 
-**Information entropy** and **geosocial layers** are being developed and . 
+**Information entropy** are starting to be implemented, . 
 
 
 ## **Phase Three**
@@ -294,11 +294,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzEzMzcwMDksNjg4NTY5ODg4LC0xMz
-YzNzU4NTU4LDE1MzAwNzM5MjcsMTU4MzU3MjI2NCwyNTEzNDAz
-MjQsMTUxODkwMjYxNSwtMTk3ODc0Nzc3NSwzMTc3MzkyOTYsLT
-E5Mzg0NTA5MjAsLTE3MjIyNDU1ODksLTc3MDAwNDYyNSwtMTgz
-MDQ4MTYzMiwtMTU4NDU1NTc0NiwxNjkxMDYxNTMwLC0xMjI2OT
-YwMzAwLDM3NDE0NDAwNSwtMTg1OTkyNjU4NSwxMjE2MTI2MTEx
-LDU5Nzg3NTI1Nl19
+eyJoaXN0b3J5IjpbLTEyNTYxNDk1MjQsLTEzNzEzMzcwMDksNj
+g4NTY5ODg4LC0xMzYzNzU4NTU4LDE1MzAwNzM5MjcsMTU4MzU3
+MjI2NCwyNTEzNDAzMjQsMTUxODkwMjYxNSwtMTk3ODc0Nzc3NS
+wzMTc3MzkyOTYsLTE5Mzg0NTA5MjAsLTE3MjIyNDU1ODksLTc3
+MDAwNDYyNSwtMTgzMDQ4MTYzMiwtMTU4NDU1NTc0NiwxNjkxMD
+YxNTMwLC0xMjI2OTYwMzAwLDM3NDE0NDAwNSwtMTg1OTkyNjU4
+NSwxMjE2MTI2MTExXX0=
 -->
