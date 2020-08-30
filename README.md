@@ -244,6 +244,8 @@ Notable differences in M
 
 **Provable individuality** for Time Tokens up to each application and blockchain. Federated  (Google / SSO) and decentralized options (Civic) may be used. 
 
+
+
 Action Points: 
 - ERC proposal (and similar for other blockchains)
 - Federated + 
@@ -278,11 +280,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMDA3MzkyNywxNTgzNTcyMjY0LDI1MT
-M0MDMyNCwxNTE4OTAyNjE1LC0xOTc4NzQ3Nzc1LDMxNzczOTI5
-NiwtMTkzODQ1MDkyMCwtMTcyMjI0NTU4OSwtNzcwMDA0NjI1LC
-0xODMwNDgxNjMyLC0xNTg0NTU1NzQ2LDE2OTEwNjE1MzAsLTEy
-MjY5NjAzMDAsMzc0MTQ0MDA1LC0xODU5OTI2NTg1LDEyMTYxMj
-YxMTEsNTk3ODc1MjU2LDczMTg0Nzk5MiwxMTUwNDI3OTksOTg1
-OTg2NzI0XX0=
+eyJoaXN0b3J5IjpbMTgxOTEwMzUyMywxNTMwMDczOTI3LDE1OD
+M1NzIyNjQsMjUxMzQwMzI0LDE1MTg5MDI2MTUsLTE5Nzg3NDc3
+NzUsMzE3NzM5Mjk2LC0xOTM4NDUwOTIwLC0xNzIyMjQ1NTg5LC
+03NzAwMDQ2MjUsLTE4MzA0ODE2MzIsLTE1ODQ1NTU3NDYsMTY5
+MTA2MTUzMCwtMTIyNjk2MDMwMCwzNzQxNDQwMDUsLTE4NTk5Mj
+Y1ODUsMTIxNjEyNjExMSw1OTc4NzUyNTYsNzMxODQ3OTkyLDEx
+NTA0Mjc5OV19
 -->
