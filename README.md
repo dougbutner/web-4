@@ -1,4 +1,4 @@
-# WIP - 
+# WIP v 0.0.1
 # The Web 4 Manifesto - Awakening the Democratic Web 
 
 Collaborative Democracy [Alt title]
@@ -272,7 +272,7 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDAwNjY1MzIsMzE3NzM5Mjk2LC0xOT
+eyJoaXN0b3J5IjpbLTE2MzczOTIxOTQsMzE3NzM5Mjk2LC0xOT
 M4NDUwOTIwLC0xNzIyMjQ1NTg5LC03NzAwMDQ2MjUsLTE4MzA0
 ODE2MzIsLTE1ODQ1NTU3NDYsMTY5MTA2MTUzMCwtMTIyNjk2MD
 MwMCwzNzQxNDQwMDUsLTE4NTk5MjY1ODUsMTIxNjEyNjExMSw1
