@@ -257,7 +257,7 @@ Notable differences in M
 
 **Provable identity** issues are becoming apparent, as certain applications with lax rules are being manipulated, showing the need for true provable identity. 
 
-Biocryptography standards and biometric secret technology are being developed to allow true provable identity in Phase Three.
+Biocryptography standards and biometric secret technology are being developed to allow true provable identity (in Phase Three).
 
 **Information entropy** principles are starting to be implemented, at developers desire and leisure. 
 
@@ -267,6 +267,7 @@ Biocryptography standards and biometric secret technology are being developed to
 ## **Phase Three**
 > Implementing Provable Identity
 
+**Provable Identity** issues have been solved, with the first working solutions as suggested in this manifesto. 
 
 developing biocryptography standards
 
@@ -296,11 +297,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5ODIyNjM2Nyw4NjQ1MDM1NjMsLTE0Nz
-QxNTUwNTMsLTEzNzEzMzcwMDksNjg4NTY5ODg4LC0xMzYzNzU4
-NTU4LDE1MzAwNzM5MjcsMTU4MzU3MjI2NCwyNTEzNDAzMjQsMT
-UxODkwMjYxNSwtMTk3ODc0Nzc3NSwzMTc3MzkyOTYsLTE5Mzg0
-NTA5MjAsLTE3MjIyNDU1ODksLTc3MDAwNDYyNSwtMTgzMDQ4MT
-YzMiwtMTU4NDU1NTc0NiwxNjkxMDYxNTMwLC0xMjI2OTYwMzAw
-LDM3NDE0NDAwNV19
+eyJoaXN0b3J5IjpbLTE1MDA2NjY5MjgsLTU5ODIyNjM2Nyw4Nj
+Q1MDM1NjMsLTE0NzQxNTUwNTMsLTEzNzEzMzcwMDksNjg4NTY5
+ODg4LC0xMzYzNzU4NTU4LDE1MzAwNzM5MjcsMTU4MzU3MjI2NC
+wyNTEzNDAzMjQsMTUxODkwMjYxNSwtMTk3ODc0Nzc3NSwzMTc3
+MzkyOTYsLTE5Mzg0NTA5MjAsLTE3MjIyNDU1ODksLTc3MDAwND
+YyNSwtMTgzMDQ4MTYzMiwtMTU4NDU1NTc0NiwxNjkxMDYxNTMw
+LC0xMjI2OTYwMzAwXX0=
 -->
