@@ -240,6 +240,8 @@ Notable differences in M
 **Phase One**
 > Implementing time tokens
 
+Time tokens are implemented on all major blockchains where Devs see the value. These Devs provide open-source instructions and tools to helps others make their own time tokens 
+
 Individuality for Time Tokens decentralized options like Civic to 
 
 **Phase One**
@@ -272,11 +274,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxODkwMjYxNSwtMTk3ODc0Nzc3NSwzMT
-c3MzkyOTYsLTE5Mzg0NTA5MjAsLTE3MjIyNDU1ODksLTc3MDAw
-NDYyNSwtMTgzMDQ4MTYzMiwtMTU4NDU1NTc0NiwxNjkxMDYxNT
-MwLC0xMjI2OTYwMzAwLDM3NDE0NDAwNSwtMTg1OTkyNjU4NSwx
-MjE2MTI2MTExLDU5Nzg3NTI1Niw3MzE4NDc5OTIsMTE1MDQyNz
-k5LDk4NTk4NjcyNCwtMTMwNjg1MjE2NywxNzExMDY4NDUxLDI1
-Njk3OTIxOV19
+eyJoaXN0b3J5IjpbMjUxMzQwMzI0LDE1MTg5MDI2MTUsLTE5Nz
+g3NDc3NzUsMzE3NzM5Mjk2LC0xOTM4NDUwOTIwLC0xNzIyMjQ1
+NTg5LC03NzAwMDQ2MjUsLTE4MzA0ODE2MzIsLTE1ODQ1NTU3ND
+YsMTY5MTA2MTUzMCwtMTIyNjk2MDMwMCwzNzQxNDQwMDUsLTE4
+NTk5MjY1ODUsMTIxNjEyNjExMSw1OTc4NzUyNTYsNzMxODQ3OT
+kyLDExNTA0Mjc5OSw5ODU5ODY3MjQsLTEzMDY4NTIxNjcsMTcx
+MTA2ODQ1MV19
 -->
