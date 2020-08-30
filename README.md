@@ -33,7 +33,7 @@ A growing portion of web 2 websites and applications today have elements of web 
 
 As web 3 matures, we start to open a **pandoras box of practical applications**. With transaction fees near non-existent on second layers, we can re-imagine what is possible. 
 
-Web 4's dreams up **proof of individuality** through encrypted biodata that kickstarts a collaborative society, one driven by enabling each individual with **free daily tokens** that can be burnt to complete an action, e.g. voting on a community proposal. 
+Web 4 dreams up **proof of individuality** through encrypted biodata that kickstarts a collaborative society, one driven by enabling each individual with **free daily tokens** that can be burnt to complete an action, e.g. voting on a community proposal. 
 
 
 Web 4 lays the foundation for this to be built. But, like any democratic system. **We need your help.** Please read this paper, and consider these ideas. If you believe you can make them better, please **submit a pull request** with your ideas. If you are a developer, I want to remind you of the license of this repo, and **invite you to forge any of these ideas into hot-pressed applications**. 
@@ -296,11 +296,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMTQ1MTM2NywtMTM3MTMzNzAwOSw2OD
-g1Njk4ODgsLTEzNjM3NTg1NTgsMTUzMDA3MzkyNywxNTgzNTcy
-MjY0LDI1MTM0MDMyNCwxNTE4OTAyNjE1LC0xOTc4NzQ3Nzc1LD
-MxNzczOTI5NiwtMTkzODQ1MDkyMCwtMTcyMjI0NTU4OSwtNzcw
-MDA0NjI1LC0xODMwNDgxNjMyLC0xNTg0NTU1NzQ2LDE2OTEwNj
-E1MzAsLTEyMjY5NjAzMDAsMzc0MTQ0MDA1LC0xODU5OTI2NTg1
-LDEyMTYxMjYxMTFdfQ==
+eyJoaXN0b3J5IjpbLTE0NzQxNTUwNTMsLTEzNzEzMzcwMDksNj
+g4NTY5ODg4LC0xMzYzNzU4NTU4LDE1MzAwNzM5MjcsMTU4MzU3
+MjI2NCwyNTEzNDAzMjQsMTUxODkwMjYxNSwtMTk3ODc0Nzc3NS
+wzMTc3MzkyOTYsLTE5Mzg0NTA5MjAsLTE3MjIyNDU1ODksLTc3
+MDAwNDYyNSwtMTgzMDQ4MTYzMiwtMTU4NDU1NTc0NiwxNjkxMD
+YxNTMwLC0xMjI2OTYwMzAwLDM3NDE0NDAwNSwtMTg1OTkyNjU4
+NSwxMjE2MTI2MTExXX0=
 -->
