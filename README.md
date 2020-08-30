@@ -251,7 +251,11 @@ Notable differences in M
 - Developers exploring use cases for Time Tokens 
 
 ## **Phase Two**
-Applications using Time Tokens are widespread
+> dApps and discovering issues
+
+**Applications using Time Tokens** are widespread, and issues in implementations are becoming known and solved. 
+
+
 
 
 ## **Phase Three**
@@ -284,11 +288,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg4NTY5ODg4LC0xMzYzNzU4NTU4LDE1Mz
-AwNzM5MjcsMTU4MzU3MjI2NCwyNTEzNDAzMjQsMTUxODkwMjYx
-NSwtMTk3ODc0Nzc3NSwzMTc3MzkyOTYsLTE5Mzg0NTA5MjAsLT
-E3MjIyNDU1ODksLTc3MDAwNDYyNSwtMTgzMDQ4MTYzMiwtMTU4
-NDU1NTc0NiwxNjkxMDYxNTMwLC0xMjI2OTYwMzAwLDM3NDE0ND
-AwNSwtMTg1OTkyNjU4NSwxMjE2MTI2MTExLDU5Nzg3NTI1Niw3
-MzE4NDc5OTJdfQ==
+eyJoaXN0b3J5IjpbOTkxMzM2MTA2LDY4ODU2OTg4OCwtMTM2Mz
+c1ODU1OCwxNTMwMDczOTI3LDE1ODM1NzIyNjQsMjUxMzQwMzI0
+LDE1MTg5MDI2MTUsLTE5Nzg3NDc3NzUsMzE3NzM5Mjk2LC0xOT
+M4NDUwOTIwLC0xNzIyMjQ1NTg5LC03NzAwMDQ2MjUsLTE4MzA0
+ODE2MzIsLTE1ODQ1NTU3NDYsMTY5MTA2MTUzMCwtMTIyNjk2MD
+MwMCwzNzQxNDQwMDUsLTE4NTk5MjY1ODUsMTIxNjEyNjExMSw1
+OTc4NzUyNTZdfQ==
 -->
