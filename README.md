@@ -25,7 +25,7 @@ Before we define web 4, we must look briefly at the concepts of web 1, web 2, an
  - **Web 4**
 **Democratic web**. Enabling meaningful layers on top of current socioeconomic systems built on time-minted crypto versatile which gains utility in how it is spent. Open source, unfederated biocryptography allows democratic systems to flourish, and takes government identification and corporate oversight out of the picture. Intentional degradation of information changes blockchain paradigms and brings meaning to time-based information models. 
 
-Today, the top 100 websites by traffic are [all](https://www.alexa.com/topsites) web 2 websites. The web 2 paradigm fits closely with the wider environment of corporate-owned information federations. 
+Today, the top 100 websites by traffic are [all](https://www.alexa.com/topsites) web 2 websites. The web 2 paradigm fits closely with the wider environment of **corporate-owned information.** 
 
 As more and more individuals and societies are reconsidering the place of government, censorship, centralization and federated power, web 3 has emerged as a powerful, provable option to shape the evolution of society on planet Earth. 
 
@@ -272,7 +272,7 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI5OTI1MTA0LC0xOTM4NDUwOTIwLC0xNz
+eyJoaXN0b3J5IjpbMzE3NzM5Mjk2LC0xOTM4NDUwOTIwLC0xNz
 IyMjQ1NTg5LC03NzAwMDQ2MjUsLTE4MzA0ODE2MzIsLTE1ODQ1
 NTU3NDYsMTY5MTA2MTUzMCwtMTIyNjk2MDMwMCwzNzQxNDQwMD
 UsLTE4NTk5MjY1ODUsMTIxNjEyNjExMSw1OTc4NzUyNTYsNzMx
