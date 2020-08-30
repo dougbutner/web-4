@@ -7,7 +7,7 @@ Collaborative Democracy [Alt title]
 
 ## About This Repo 
 
-This README features a description of the next evolution of the web, web 4. As the technologies emerge, this repo will also feature code and links to the associated technologies. For more cool Web 4 stuff, visit [Awesome Web 4](https://github.com/dougbutner/awesome-web4)
+This README features a description of the next evolution of the web, **web 4**. As the technologies emerge, this repo will also feature code and links to the associated technologies. For more cool Web 4 stuff, visit the [**Awesome Web 4**](https://github.com/dougbutner/awesome-web4) **repo**.
 
 ## What is Web 4?
 
@@ -27,11 +27,11 @@ Before we define web 4, we must look briefly at the concepts of web 1, web 2, an
 
 Today, the top 100 websites by traffic are [all](https://www.alexa.com/topsites) web 2 websites. The web 2 paradigm fits closely with the wider environment of **corporate-owned information.** 
 
-As more and more individuals and societies are reconsidering the place of government, censorship, centralization and federated power, web 3 has emerged as a powerful, provable option to shape the evolution of society on planet Earth. 
+As more and more individuals and societies are reconsidering the place of **government, censorship, centralization and federated power**, web 3 has emerged as a powerful, provable option to **shape the evolution of society** on planet Earth. 
 
 A growing portion of web 2 websites and applications today have elements of web 3, like [cryptoblogs](https://peakd.com) and [games](https://www.stateofthedapps.com/rankings/category/games). While web 2 and web 3 can operate independently, web 3 enhances the abilities of web 2. 
 
-As web 3 matures, we start to open a pandoras box of practical applications. With transaction fees near non-existent on second layers, we can re-imagine what is possible. 
+As web 3 matures, we start to open a **pandoras box of practical applications**. With transaction fees near non-existent on second layers, we can re-imagine what is possible. 
 
 Web 4's dreams up proof of individuality through encrypted biodata that kickstarts a collaborative society, one driven by enabling each individual with a daily amount of free coins. 
 
@@ -272,7 +272,7 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzczOTIxOTQsMzE3NzM5Mjk2LC0xOT
+eyJoaXN0b3J5IjpbLTEzMjk3NTU3OTcsMzE3NzM5Mjk2LC0xOT
 M4NDUwOTIwLC0xNzIyMjQ1NTg5LC03NzAwMDQ2MjUsLTE4MzA0
 ODE2MzIsLTE1ODQ1NTU3NDYsMTY5MTA2MTUzMCwtMTIyNjk2MD
 MwMCwzNzQxNDQwMDUsLTE4NTk5MjY1ODUsMTIxNjEyNjExMSw1
