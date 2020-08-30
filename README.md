@@ -261,9 +261,9 @@ True provable is being developed to be released in Phase Three
 
 
 ## **Phase Three**
-> Implementin
+> Implementing Provable Identity
 
-Biocryptography
+
 developing biocryptography standards
 
 **Phase Four**
@@ -292,7 +292,7 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MzQ2NDQwMyw2ODg1Njk4ODgsLTEzNj
+eyJoaXN0b3J5IjpbMTA0ODY2MDY4MSw2ODg1Njk4ODgsLTEzNj
 M3NTg1NTgsMTUzMDA3MzkyNywxNTgzNTcyMjY0LDI1MTM0MDMy
 NCwxNTE4OTAyNjE1LC0xOTc4NzQ3Nzc1LDMxNzczOTI5NiwtMT
 kzODQ1MDkyMCwtMTcyMjI0NTU4OSwtNzcwMDA0NjI1LC0xODMw
