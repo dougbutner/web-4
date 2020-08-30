@@ -244,7 +244,7 @@ Notable differences in M
 
 **Provable individuality** for Time Tokens up to each application and blockchain. Federated  (Google / SSO) and decentralized options (Civic) may be used. 
 
-
+**Information entropy** and geosocial layers are starting to be theorized. 
 
 Action Points: 
 - ERC proposal (and similar for other blockchains)
@@ -257,7 +257,9 @@ biocryptography
 developing biocryptography standards
 
 **Phase Four**
-Develop a democratic system to 
+**Information entropy** is added to the systems where it can be of use. 
+
+
 
 # Author notes
 
@@ -280,7 +282,7 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxOTEwMzUyMywxNTMwMDczOTI3LDE1OD
+eyJoaXN0b3J5IjpbLTc3MTEzNzYxMCwxNTMwMDczOTI3LDE1OD
 M1NzIyNjQsMjUxMzQwMzI0LDE1MTg5MDI2MTUsLTE5Nzg3NDc3
 NzUsMzE3NzM5Mjk2LC0xOTM4NDUwOTIwLC0xNzIyMjQ1NTg5LC
 03NzAwMDQ2MjUsLTE4MzA0ODE2MzIsLTE1ODQ1NTU3NDYsMTY5
