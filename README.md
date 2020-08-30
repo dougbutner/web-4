@@ -41,10 +41,10 @@ Web 4 lays the foundation for this to be built. But, like any democratic system.
 ## Guiding Philosophy
 Web 4 seeks to implement systems in **harmony with the universe itself** by replicating nature: the **abundance** of the Sun, rising **entropy** in closed systems, and even the **equality** of each conscious being. 
 
-We believe when we create information systems in harmonic resonance with natural systems, our society will be able to advance more rapidly than ever before, as we will be able to "fit in" with the larger systems of information processing around us (the Earth, Sun, and Galactic core). 
+We believe when we create information systems in **harmonic resonance** with natural systems, our society will be able to advance more rapidly than ever before, as we will be able to **"fit in" with the larger systems of information processing** around us (the Earth, Sun, and Galactic core). 
 
 ## Defining Web 4
-Web 4 introduces provably democratic systems built on top of web 3's open-source decentralized networks. 
+Web 4 introduces **provably democratic systems** built on top of web 3's open-source decentralized networks. 
 
 There are 4 conceptual underpinnings of web 4
 
@@ -272,7 +272,7 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NjQ1NDY3NiwtMTk3ODc0Nzc3NSwzMT
+eyJoaXN0b3J5IjpbMTUxODQ3NTA1MiwtMTk3ODc0Nzc3NSwzMT
 c3MzkyOTYsLTE5Mzg0NTA5MjAsLTE3MjIyNDU1ODksLTc3MDAw
 NDYyNSwtMTgzMDQ4MTYzMiwtMTU4NDU1NTc0NiwxNjkxMDYxNT
 MwLC0xMjI2OTYwMzAwLDM3NDE0NDAwNSwtMTg1OTkyNjU4NSwx
