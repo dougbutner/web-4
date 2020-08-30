@@ -240,9 +240,9 @@ Notable differences in M
 **Phase One**
 > Implementing time tokens
 
-Time tokens are implemented on any and all blockchains where developers see the value. These developers provide open-source instructions and tools to helps others make their own time tokens. 
+**Time tokens** are implemented on any and all blockchains where developers see the value. These developers provide open-source instructions and tools to helps others make their own time tokens. 
 
-Individuality for Time Tokens up to each application and blockchain. Federated and decentralized options like Civic to 
+**Provable individuality** for Time Tokens up to each application and blockchain. Federated  (Google / SSO) and decentralized options (Civic) may be used. 
 
 Action Points: 
 - ERC proposal (and similar for other blockchains)
@@ -278,11 +278,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MzU3MjI2NCwyNTEzNDAzMjQsMTUxOD
-kwMjYxNSwtMTk3ODc0Nzc3NSwzMTc3MzkyOTYsLTE5Mzg0NTA5
-MjAsLTE3MjIyNDU1ODksLTc3MDAwNDYyNSwtMTgzMDQ4MTYzMi
-wtMTU4NDU1NTc0NiwxNjkxMDYxNTMwLC0xMjI2OTYwMzAwLDM3
-NDE0NDAwNSwtMTg1OTkyNjU4NSwxMjE2MTI2MTExLDU5Nzg3NT
-I1Niw3MzE4NDc5OTIsMTE1MDQyNzk5LDk4NTk4NjcyNCwtMTMw
-Njg1MjE2N119
+eyJoaXN0b3J5IjpbMTUzMDA3MzkyNywxNTgzNTcyMjY0LDI1MT
+M0MDMyNCwxNTE4OTAyNjE1LC0xOTc4NzQ3Nzc1LDMxNzczOTI5
+NiwtMTkzODQ1MDkyMCwtMTcyMjI0NTU4OSwtNzcwMDA0NjI1LC
+0xODMwNDgxNjMyLC0xNTg0NTU1NzQ2LDE2OTEwNjE1MzAsLTEy
+MjY5NjAzMDAsMzc0MTQ0MDA1LC0xODU5OTI2NTg1LDEyMTYxMj
+YxMTEsNTk3ODc1MjU2LDczMTg0Nzk5MiwxMTUwNDI3OTksOTg1
+OTg2NzI0XX0=
 -->
