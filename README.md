@@ -244,6 +244,10 @@ Time tokens are implemented on any and all blockchains where developers see the 
 
 Individuality for Time Tokens decentralized options like Civic to 
 
+Action Points: 
+- ERC proposal (and similar for other blockchains)
+- Federated + 
+
 **Phase Two**
 
 **Phase Three**
@@ -274,7 +278,7 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDI3OTg2NjYsMjUxMzQwMzI0LDE1MT
+eyJoaXN0b3J5IjpbLTE2NTM3MzAzMDUsMjUxMzQwMzI0LDE1MT
 g5MDI2MTUsLTE5Nzg3NDc3NzUsMzE3NzM5Mjk2LC0xOTM4NDUw
 OTIwLC0xNzIyMjQ1NTg5LC03NzAwMDQ2MjUsLTE4MzA0ODE2Mz
 IsLTE1ODQ1NTU3NDYsMTY5MTA2MTUzMCwtMTIyNjk2MDMwMCwz
