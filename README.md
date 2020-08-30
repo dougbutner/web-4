@@ -33,7 +33,7 @@ A growing portion of web 2 websites and applications today have elements of web 
 
 As web 3 matures, we start to open a **pandoras box of practical applications**. With transaction fees near non-existent on second layers, we can re-imagine what is possible. 
 
-Web 4's dreams up proof of individuality through encrypted biodata that kickstarts a collaborative society, one driven by enabling each individual with a daily amount of free coins. 
+Web 4's dreams up **proof of individuality** through encrypted biodata that kickstarts a collaborative society, one driven by enabling each individual with **free daily tokens** that can be burnt to complete an action, e.g. voting on a community proposal. 
 
 
 Web 4 lays the foundation for this to be built. But, like any democratic system. We need your help. Please read this paper, and consider these ideas. If you believe you can make them better, please submit a pull request with your ideas. If you are a developer, I want to remind you of the license of this repo, and invite you to forge any of these ideas into hot-pressed applications.
@@ -272,7 +272,7 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjk3NTU3OTcsMzE3NzM5Mjk2LC0xOT
+eyJoaXN0b3J5IjpbLTE5Nzg3NDc3NzUsMzE3NzM5Mjk2LC0xOT
 M4NDUwOTIwLC0xNzIyMjQ1NTg5LC03NzAwMDQ2MjUsLTE4MzA0
 ODE2MzIsLTE1ODQ1NTU3NDYsMTY5MTA2MTUzMCwtMTIyNjk2MD
 MwMCwzNzQxNDQwMDUsLTE4NTk5MjY1ODUsMTIxNjEyNjExMSw1
