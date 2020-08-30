@@ -240,20 +240,22 @@ Notable differences in M
 **Phase One**
 > Implementing time tokens
 
-**Time tokens** are implemented on any and all blockchains where developers see the value. These developers provide open-source instructions and tools to helps others make their own time tokens. 
+**Time Tokens** are implemented on any and all blockchains where developers see the value. These developers provide open-source instructions and tools to helps others make their own time tokens. 
 
-**Provable individuality** for Time Tokens is up to each application and blockchain, and these application can choose to ignore this requirement, risking their system' integrity. Federated  (Google / SSO) and decentralized options (Civic) may be used. 
+**Provable individuality** for Time Tokens is up to each application and blockchain, and these application can choose to ignore this requirement, risking their systems' integrity. Federated (Google / SSO) and decentralized options (Civic) may be used. 
 
-**Information entropy** and geosocial layers are starting to be theorized. 
+**Information entropy** and geosocial layers are starting to be theorized, but not showing up. 
 
 Action Points: 
 - ERC proposal (and similar for other blockchains)
 - Federated + 
 
 **Phase Two**
+Aplications using Time Tokes
+
 
 **Phase Three**
-biocryptography
+Biocryptography
 developing biocryptography standards
 
 **Phase Four**
@@ -282,11 +284,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQzMjkwNjYzLDE1MzAwNzM5MjcsMTU4Mz
-U3MjI2NCwyNTEzNDAzMjQsMTUxODkwMjYxNSwtMTk3ODc0Nzc3
-NSwzMTc3MzkyOTYsLTE5Mzg0NTA5MjAsLTE3MjIyNDU1ODksLT
-c3MDAwNDYyNSwtMTgzMDQ4MTYzMiwtMTU4NDU1NTc0NiwxNjkx
-MDYxNTMwLC0xMjI2OTYwMzAwLDM3NDE0NDAwNSwtMTg1OTkyNj
-U4NSwxMjE2MTI2MTExLDU5Nzg3NTI1Niw3MzE4NDc5OTIsMTE1
-MDQyNzk5XX0=
+eyJoaXN0b3J5IjpbLTEzNjM3NTg1NTgsMTUzMDA3MzkyNywxNT
+gzNTcyMjY0LDI1MTM0MDMyNCwxNTE4OTAyNjE1LC0xOTc4NzQ3
+Nzc1LDMxNzczOTI5NiwtMTkzODQ1MDkyMCwtMTcyMjI0NTU4OS
+wtNzcwMDA0NjI1LC0xODMwNDgxNjMyLC0xNTg0NTU1NzQ2LDE2
+OTEwNjE1MzAsLTEyMjY5NjAzMDAsMzc0MTQ0MDA1LC0xODU5OT
+I2NTg1LDEyMTYxMjYxMTEsNTk3ODc1MjU2LDczMTg0Nzk5Miwx
+MTUwNDI3OTldfQ==
 -->
