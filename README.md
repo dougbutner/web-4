@@ -244,7 +244,7 @@ Notable differences in M
 
 **Provable individuality** for Time Tokens is up to each application and blockchain, and these application can choose to ignore this requirement, risking their systems' integrity. Federated (Google / SSO) and decentralized options (Civic) may be used. 
 
-**Information entropy** and geosocial layers are starting to be theorized, but not showing up. 
+**Information entropy** and **geosocial layers** are starting to be theorized, but not showing up. 
 
 **Phase 1 Action Points**: 
 - ERC proposal (and similar for other blockchains)
@@ -258,6 +258,8 @@ Notable differences in M
 **Provable identity** issues are becoming apparent, as certain applications with lax rules are being manipulated, showing the need for true provable identity. 
 
 Biocryptography standards and biometric secret technology are being developed to allow true provable identity in Phase Three.
+
+**Information entropy** and **geosocial layers** are being developed and . 
 
 
 ## **Phase Three**
@@ -292,11 +294,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIwOTQ0OSw2ODg1Njk4ODgsLTEzNjM3NT
-g1NTgsMTUzMDA3MzkyNywxNTgzNTcyMjY0LDI1MTM0MDMyNCwx
-NTE4OTAyNjE1LC0xOTc4NzQ3Nzc1LDMxNzczOTI5NiwtMTkzOD
-Q1MDkyMCwtMTcyMjI0NTU4OSwtNzcwMDA0NjI1LC0xODMwNDgx
-NjMyLC0xNTg0NTU1NzQ2LDE2OTEwNjE1MzAsLTEyMjY5NjAzMD
-AsMzc0MTQ0MDA1LC0xODU5OTI2NTg1LDEyMTYxMjYxMTEsNTk3
-ODc1MjU2XX0=
+eyJoaXN0b3J5IjpbLTEzNzEzMzcwMDksNjg4NTY5ODg4LC0xMz
+YzNzU4NTU4LDE1MzAwNzM5MjcsMTU4MzU3MjI2NCwyNTEzNDAz
+MjQsMTUxODkwMjYxNSwtMTk3ODc0Nzc3NSwzMTc3MzkyOTYsLT
+E5Mzg0NTA5MjAsLTE3MjIyNDU1ODksLTc3MDAwNDYyNSwtMTgz
+MDQ4MTYzMiwtMTU4NDU1NTc0NiwxNjkxMDYxNTMwLC0xMjI2OT
+YwMzAwLDM3NDE0NDAwNSwtMTg1OTkyNjU4NSwxMjE2MTI2MTEx
+LDU5Nzg3NTI1Nl19
 -->
