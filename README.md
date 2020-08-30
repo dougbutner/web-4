@@ -36,10 +36,10 @@ As web 3 matures, we start to open a **pandoras box of practical applications**.
 Web 4's dreams up **proof of individuality** through encrypted biodata that kickstarts a collaborative society, one driven by enabling each individual with **free daily tokens** that can be burnt to complete an action, e.g. voting on a community proposal. 
 
 
-Web 4 lays the foundation for this to be built. But, like any democratic system. We need your help. Please read this paper, and consider these ideas. If you believe you can make them better, please submit a pull request with your ideas. If you are a developer, I want to remind you of the license of this repo, and invite you to forge any of these ideas into hot-pressed applications.
+Web 4 lays the foundation for this to be built. But, like any democratic system. **We need your help.** Please read this paper, and consider these ideas. If you believe you can make them better, please **submit a pull request** with your ideas. If you are a developer, I want to remind you of the license of this repo, and **invite you to forge any of these ideas into hot-pressed applications**. 
 
 ## Guiding Philosophy
-Web 4 seeks to implement systems in harmony with the universe itself by replicating nature: the abundance of the Sun, rising entropy in closed systems, and even the equal power of each conscious being. 
+Web 4 seeks to implement systems in **harmony with the universe itself** by replicating nature: the **abundance** of the Sun, rising **entropy** in closed systems, and even the **equality** of each conscious being. 
 
 We believe when we create information systems in harmonic resonance with natural systems, our society will be able to advance more rapidly than ever before, as we will be able to "fit in" with the larger systems of information processing around us (the Earth, Sun, and Galactic core). 
 
@@ -272,11 +272,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Nzg3NDc3NzUsMzE3NzM5Mjk2LC0xOT
-M4NDUwOTIwLC0xNzIyMjQ1NTg5LC03NzAwMDQ2MjUsLTE4MzA0
-ODE2MzIsLTE1ODQ1NTU3NDYsMTY5MTA2MTUzMCwtMTIyNjk2MD
-MwMCwzNzQxNDQwMDUsLTE4NTk5MjY1ODUsMTIxNjEyNjExMSw1
-OTc4NzUyNTYsNzMxODQ3OTkyLDExNTA0Mjc5OSw5ODU5ODY3Mj
-QsLTEzMDY4NTIxNjcsMTcxMTA2ODQ1MSwyNTY5NzkyMTksMTM4
-MzkzNzU4NF19
+eyJoaXN0b3J5IjpbLTM4NjQ1NDY3NiwtMTk3ODc0Nzc3NSwzMT
+c3MzkyOTYsLTE5Mzg0NTA5MjAsLTE3MjIyNDU1ODksLTc3MDAw
+NDYyNSwtMTgzMDQ4MTYzMiwtMTU4NDU1NTc0NiwxNjkxMDYxNT
+MwLC0xMjI2OTYwMzAwLDM3NDE0NDAwNSwtMTg1OTkyNjU4NSwx
+MjE2MTI2MTExLDU5Nzg3NTI1Niw3MzE4NDc5OTIsMTE1MDQyNz
+k5LDk4NTk4NjcyNCwtMTMwNjg1MjE2NywxNzExMDY4NDUxLDI1
+Njk3OTIxOV19
 -->
