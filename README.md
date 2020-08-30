@@ -240,7 +240,7 @@ Notable differences in M
 **Phase One**
 > Implementing time tokens
 
-Time tokens are implemented on any and all blockchains where developers see the value. These developers provide open-source instructions and tools to helps others make their own time tokens, by creating an EIP
+Time tokens are implemented on any and all blockchains where developers see the value. These developers provide open-source instructions and tools to helps others make their own time tokens. Creating a time token ERC
 
 Individuality for Time Tokens decentralized options like Civic to 
 
@@ -274,7 +274,7 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3ODU2NTkzLDI1MTM0MDMyNCwxNTE4OT
+eyJoaXN0b3J5IjpbOTMwMTc4NzgyLDI1MTM0MDMyNCwxNTE4OT
 AyNjE1LC0xOTc4NzQ3Nzc1LDMxNzczOTI5NiwtMTkzODQ1MDky
 MCwtMTcyMjI0NTU4OSwtNzcwMDA0NjI1LC0xODMwNDgxNjMyLC
 0xNTg0NTU1NzQ2LDE2OTEwNjE1MzAsLTEyMjY5NjAzMDAsMzc0
