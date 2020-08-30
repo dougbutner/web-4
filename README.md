@@ -278,9 +278,9 @@ developing biocryptography standards
 # Author notes
 
 ## Change Without Conflict
-No one can stop us from building collaborative systems with web 4 and even self-governing. We don't need to "tear down the system" or separate from society to do so. We can still exist fully embedded in the geopolitical systems around us, while building up web 4 layers, the underpinnings of collaborative democracy.
+**No one can stop us** from building collaborative systems with web 4 and even **self-governing**. **We don't need** to "tear down the system" or separate from society to do so. **We can exist** fully embedded in the geopolitical systems around us, while building up web 4 layers, the underpinnings of collaborative democracy.
 
-If and when the "old system" meets demise, as all things do, we can transition rapidly to a web 4 system like [Effective Collective](https://github.com/dougbutner/effective-collective) or another, as it will already be in place. 
+If and when the "old system" meets demise, as all things do, **we can transition rapidly** to a web 4 system like [Effective Collective](https://github.com/dougbutner/effective-collective) or another, as it will already be in place. 
 
 ## Why use the term "Web 4"
 It is my belief that each version of the web must 1) be built on top of the previous version, 2) be fundamentally different than the previous version by introducing new technology, and 3) have meaningful impact on society. 
@@ -296,11 +296,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzQxNTUwNTMsLTEzNzEzMzcwMDksNj
-g4NTY5ODg4LC0xMzYzNzU4NTU4LDE1MzAwNzM5MjcsMTU4MzU3
-MjI2NCwyNTEzNDAzMjQsMTUxODkwMjYxNSwtMTk3ODc0Nzc3NS
-wzMTc3MzkyOTYsLTE5Mzg0NTA5MjAsLTE3MjIyNDU1ODksLTc3
-MDAwNDYyNSwtMTgzMDQ4MTYzMiwtMTU4NDU1NTc0NiwxNjkxMD
-YxNTMwLC0xMjI2OTYwMzAwLDM3NDE0NDAwNSwtMTg1OTkyNjU4
-NSwxMjE2MTI2MTExXX0=
+eyJoaXN0b3J5IjpbODY0NTAzNTYzLC0xNDc0MTU1MDUzLC0xMz
+cxMzM3MDA5LDY4ODU2OTg4OCwtMTM2Mzc1ODU1OCwxNTMwMDcz
+OTI3LDE1ODM1NzIyNjQsMjUxMzQwMzI0LDE1MTg5MDI2MTUsLT
+E5Nzg3NDc3NzUsMzE3NzM5Mjk2LC0xOTM4NDUwOTIwLC0xNzIy
+MjQ1NTg5LC03NzAwMDQ2MjUsLTE4MzA0ODE2MzIsLTE1ODQ1NT
+U3NDYsMTY5MTA2MTUzMCwtMTIyNjk2MDMwMCwzNzQxNDQwMDUs
+LTE4NTk5MjY1ODVdfQ==
 -->
