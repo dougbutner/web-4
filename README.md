@@ -267,7 +267,7 @@ Biocryptography standards and biometric secret technology are being developed to
 ## **Phase Three**
 > Implementing Provable Identity
 
-**Provable Identity** issues have been solved, with the first working solutions as suggested in this manifesto. 
+**Provable Identity** through is now possible with the first working solutions as suggested in this manifesto. 
 
 developing biocryptography standards
 
@@ -297,11 +297,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDA2NjY5MjgsLTU5ODIyNjM2Nyw4Nj
-Q1MDM1NjMsLTE0NzQxNTUwNTMsLTEzNzEzMzcwMDksNjg4NTY5
-ODg4LC0xMzYzNzU4NTU4LDE1MzAwNzM5MjcsMTU4MzU3MjI2NC
-wyNTEzNDAzMjQsMTUxODkwMjYxNSwtMTk3ODc0Nzc3NSwzMTc3
-MzkyOTYsLTE5Mzg0NTA5MjAsLTE3MjIyNDU1ODksLTc3MDAwND
-YyNSwtMTgzMDQ4MTYzMiwtMTU4NDU1NTc0NiwxNjkxMDYxNTMw
-LC0xMjI2OTYwMzAwXX0=
+eyJoaXN0b3J5IjpbMTI4ODUxNDcxMywtNTk4MjI2MzY3LDg2ND
+UwMzU2MywtMTQ3NDE1NTA1MywtMTM3MTMzNzAwOSw2ODg1Njk4
+ODgsLTEzNjM3NTg1NTgsMTUzMDA3MzkyNywxNTgzNTcyMjY0LD
+I1MTM0MDMyNCwxNTE4OTAyNjE1LC0xOTc4NzQ3Nzc1LDMxNzcz
+OTI5NiwtMTkzODQ1MDkyMCwtMTcyMjI0NTU4OSwtNzcwMDA0Nj
+I1LC0xODMwNDgxNjMyLC0xNTg0NTU1NzQ2LDE2OTEwNjE1MzAs
+LTEyMjY5NjAzMDBdfQ==
 -->
