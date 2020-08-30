@@ -255,10 +255,14 @@ Notable differences in M
 
 **Applications using Time Tokens** are widespread, and issues in implementations are becoming known and solved. 
 
+**Provable identity** issues are becoming apparent, as certain applications with lax rules are being manipulated, showing the need for true provable identity. 
 
+True provable is being developed to be released in Phase Three
 
 
 ## **Phase Three**
+> Implementin
+
 Biocryptography
 developing biocryptography standards
 
@@ -288,11 +292,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkxMzM2MTA2LDY4ODU2OTg4OCwtMTM2Mz
-c1ODU1OCwxNTMwMDczOTI3LDE1ODM1NzIyNjQsMjUxMzQwMzI0
-LDE1MTg5MDI2MTUsLTE5Nzg3NDc3NzUsMzE3NzM5Mjk2LC0xOT
-M4NDUwOTIwLC0xNzIyMjQ1NTg5LC03NzAwMDQ2MjUsLTE4MzA0
-ODE2MzIsLTE1ODQ1NTU3NDYsMTY5MTA2MTUzMCwtMTIyNjk2MD
-MwMCwzNzQxNDQwMDUsLTE4NTk5MjY1ODUsMTIxNjEyNjExMSw1
-OTc4NzUyNTZdfQ==
+eyJoaXN0b3J5IjpbMTc3MzQ2NDQwMyw2ODg1Njk4ODgsLTEzNj
+M3NTg1NTgsMTUzMDA3MzkyNywxNTgzNTcyMjY0LDI1MTM0MDMy
+NCwxNTE4OTAyNjE1LC0xOTc4NzQ3Nzc1LDMxNzczOTI5NiwtMT
+kzODQ1MDkyMCwtMTcyMjI0NTU4OSwtNzcwMDA0NjI1LC0xODMw
+NDgxNjMyLC0xNTg0NTU1NzQ2LDE2OTEwNjE1MzAsLTEyMjY5Nj
+AzMDAsMzc0MTQ0MDA1LC0xODU5OTI2NTg1LDEyMTYxMjYxMTEs
+NTk3ODc1MjU2XX0=
 -->
