@@ -123,6 +123,7 @@ function bioKeyGenerator(bioData){
 	// With data, quantifyable points are taken algorithmically
 	// These points expanded to a pre-defined margin of error geometrically for each input type
 	// Finally, ranges of values are hashed, that value is returned  
+	return biosecret; // Biosecret as hashed value
 }
 
 ```
@@ -295,11 +296,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjMwODU5NTIsNjQyMDM3NjQ4LC03OD
-YwMTU4MDcsMjA2ODE2NjYxMiwxMjg4NTE0NzEzLC01OTgyMjYz
-NjcsODY0NTAzNTYzLC0xNDc0MTU1MDUzLC0xMzcxMzM3MDA5LD
-Y4ODU2OTg4OCwtMTM2Mzc1ODU1OCwxNTMwMDczOTI3LDE1ODM1
-NzIyNjQsMjUxMzQwMzI0LDE1MTg5MDI2MTUsLTE5Nzg3NDc3Nz
-UsMzE3NzM5Mjk2LC0xOTM4NDUwOTIwLC0xNzIyMjQ1NTg5LC03
-NzAwMDQ2MjVdfQ==
+eyJoaXN0b3J5IjpbODY2Njg1NjU5LC0yMDYzMDg1OTUyLDY0Mj
+AzNzY0OCwtNzg2MDE1ODA3LDIwNjgxNjY2MTIsMTI4ODUxNDcx
+MywtNTk4MjI2MzY3LDg2NDUwMzU2MywtMTQ3NDE1NTA1MywtMT
+M3MTMzNzAwOSw2ODg1Njk4ODgsLTEzNjM3NTg1NTgsMTUzMDA3
+MzkyNywxNTgzNTcyMjY0LDI1MTM0MDMyNCwxNTE4OTAyNjE1LC
+0xOTc4NzQ3Nzc1LDMxNzczOTI5NiwtMTkzODQ1MDkyMCwtMTcy
+MjI0NTU4OV19
 -->
