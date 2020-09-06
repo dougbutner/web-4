@@ -270,7 +270,7 @@ Biocryptography standards and biometric secret technology are being developed to
 **Provable Identity** is now possible as suggested in this manifesto through the maturity of the biometric secrets. Standards are being created to 
 
 **Phase Four**
-**Information entropy** is added to the systems where it can be of use. F or example this could make a person's biometric data less knowable over time by increasing the amount of processing power needed to guess the ranges of biometric data compared to the 
+**Information entropy** is added to the systems where it can be of use. For example this could make a person's biometric data less knowable over time by increasing the amount of processing power needed to guess the ranges of biometric data compared to the 
 
 
 
@@ -295,11 +295,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQyMDM3NjQ4LC03ODYwMTU4MDcsMjA2OD
-E2NjYxMiwxMjg4NTE0NzEzLC01OTgyMjYzNjcsODY0NTAzNTYz
-LC0xNDc0MTU1MDUzLC0xMzcxMzM3MDA5LDY4ODU2OTg4OCwtMT
-M2Mzc1ODU1OCwxNTMwMDczOTI3LDE1ODM1NzIyNjQsMjUxMzQw
-MzI0LDE1MTg5MDI2MTUsLTE5Nzg3NDc3NzUsMzE3NzM5Mjk2LC
-0xOTM4NDUwOTIwLC0xNzIyMjQ1NTg5LC03NzAwMDQ2MjUsLTE4
-MzA0ODE2MzJdfQ==
+eyJoaXN0b3J5IjpbLTcwNzQ5ODU2OCw2NDIwMzc2NDgsLTc4Nj
+AxNTgwNywyMDY4MTY2NjEyLDEyODg1MTQ3MTMsLTU5ODIyNjM2
+Nyw4NjQ1MDM1NjMsLTE0NzQxNTUwNTMsLTEzNzEzMzcwMDksNj
+g4NTY5ODg4LC0xMzYzNzU4NTU4LDE1MzAwNzM5MjcsMTU4MzU3
+MjI2NCwyNTEzNDAzMjQsMTUxODkwMjYxNSwtMTk3ODc0Nzc3NS
+wzMTc3MzkyOTYsLTE5Mzg0NTA5MjAsLTE3MjIyNDU1ODksLTc3
+MDAwNDYyNV19
 -->
