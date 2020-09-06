@@ -140,10 +140,10 @@ function bioKeyGenerator(bioData){
 				y : processedBioData.point1.y + expander,
 				z : processedBioData.point1.z + expander
 			},
-						lowerLeft: { 
-				x : processedBioData.point1.x + expander,
-				y : processedBioData.point1.y + expander,
-				z : processedBioData.point1.z + expander
+			lowerLeft: { 
+				x : processedBioData.point1.x - expander,
+				y : processedBioData.point1.y - expander,
+				z : processedBioData.point1.z - expander
 			}
 		},
 		point2: {
@@ -330,7 +330,7 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA5OTA4NDQ5LDM0MTI5MTc1NCwtODcwMz
+eyJoaXN0b3J5IjpbODA2NTk5NzE5LDM0MTI5MTc1NCwtODcwMz
 I1OTA4LC0yMDYzMDg1OTUyLDY0MjAzNzY0OCwtNzg2MDE1ODA3
 LDIwNjgxNjY2MTIsMTI4ODUxNDcxMywtNTk4MjI2MzY3LDg2ND
 UwMzU2MywtMTQ3NDE1NTA1MywtMTM3MTMzNzAwOSw2ODg1Njk4
