@@ -120,8 +120,9 @@ signature = HMACSHA256(
 
 function bioKeyGenerator(bioData){
 	// Function takes data in the form of user input into their browser or smartphone.
-	let recievedData 
+	let recievedData = bioData;
 	// With data, quantifyable points are taken algorithmically
+	let processedBioData = {point1"}
 	// These points expanded to a pre-defined margin of error geometrically for each input type
 	// Finally, ranges of values are hashed, that value is returned 
 	 
@@ -298,11 +299,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4Njk0MjcwMywtMjA2MzA4NTk1Miw2ND
-IwMzc2NDgsLTc4NjAxNTgwNywyMDY4MTY2NjEyLDEyODg1MTQ3
-MTMsLTU5ODIyNjM2Nyw4NjQ1MDM1NjMsLTE0NzQxNTUwNTMsLT
-EzNzEzMzcwMDksNjg4NTY5ODg4LC0xMzYzNzU4NTU4LDE1MzAw
-NzM5MjcsMTU4MzU3MjI2NCwyNTEzNDAzMjQsMTUxODkwMjYxNS
-wtMTk3ODc0Nzc3NSwzMTc3MzkyOTYsLTE5Mzg0NTA5MjAsLTE3
-MjIyNDU1ODldfQ==
+eyJoaXN0b3J5IjpbNDI2NjY3OTI2LC0yMDYzMDg1OTUyLDY0Mj
+AzNzY0OCwtNzg2MDE1ODA3LDIwNjgxNjY2MTIsMTI4ODUxNDcx
+MywtNTk4MjI2MzY3LDg2NDUwMzU2MywtMTQ3NDE1NTA1MywtMT
+M3MTMzNzAwOSw2ODg1Njk4ODgsLTEzNjM3NTg1NTgsMTUzMDA3
+MzkyNywxNTgzNTcyMjY0LDI1MTM0MDMyNCwxNTE4OTAyNjE1LC
+0xOTc4NzQ3Nzc1LDMxNzczOTI5NiwtMTkzODQ1MDkyMCwtMTcy
+MjI0NTU4OV19
 -->
