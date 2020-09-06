@@ -131,13 +131,26 @@ function bioKeyGenerator(bioData){
 	}
 	
 	// These points expanded to a pre-defined margin of error geometrically for each input type
-	const expanderXY = 20; // Set amount to expand dataset based on data type
-	const expander = 20;
+	const expander = 20; // Set amount to expand dataset based on data type
+
 	let rangedBioData = {
 		point1: {
-			upperRight: { x : processedBioData.point1.x + expander,
+			upperRight: { 
+				x : processedBioData.point1.x + expander,
+				y : processedBioData.point1.y + expander,
+				z : processedBioData.point1.z + expander
+			},
+						lowerLeft: { 
+				x : processedBioData.point1.x + expander,
+				y : processedBioData.point1.y + expander,
+				z : processedBioData.point1.z + expander
+			}
+		},
+		point2: {
+			upperRight: { 
+			x : processedBioData.point1.x + expander,
 			y : processedBioData.point1.y + expander,
-			z : processedBioData.point1.x + expander,
+			z : processedBioData.point1.z + expander,
 		}
 	}
 	
@@ -317,11 +330,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjQ1NjI3MDIsMzQxMjkxNzU0LC04Nz
-AzMjU5MDgsLTIwNjMwODU5NTIsNjQyMDM3NjQ4LC03ODYwMTU4
-MDcsMjA2ODE2NjYxMiwxMjg4NTE0NzEzLC01OTgyMjYzNjcsOD
-Y0NTAzNTYzLC0xNDc0MTU1MDUzLC0xMzcxMzM3MDA5LDY4ODU2
-OTg4OCwtMTM2Mzc1ODU1OCwxNTMwMDczOTI3LDE1ODM1NzIyNj
-QsMjUxMzQwMzI0LDE1MTg5MDI2MTUsLTE5Nzg3NDc3NzUsMzE3
-NzM5Mjk2XX0=
+eyJoaXN0b3J5IjpbNjA5OTA4NDQ5LDM0MTI5MTc1NCwtODcwMz
+I1OTA4LC0yMDYzMDg1OTUyLDY0MjAzNzY0OCwtNzg2MDE1ODA3
+LDIwNjgxNjY2MTIsMTI4ODUxNDcxMywtNTk4MjI2MzY3LDg2ND
+UwMzU2MywtMTQ3NDE1NTA1MywtMTM3MTMzNzAwOSw2ODg1Njk4
+ODgsLTEzNjM3NTg1NTgsMTUzMDA3MzkyNywxNTgzNTcyMjY0LD
+I1MTM0MDMyNCwxNTE4OTAyNjE1LC0xOTc4NzQ3Nzc1LDMxNzcz
+OTI5Nl19
 -->
