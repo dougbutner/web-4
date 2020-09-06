@@ -134,7 +134,8 @@ function bioKeyGenerator(bioData){
 	const expander = 20; // Set amount to expand dataset based on 
 	let rangedBioData = {
 		point1: {
-			upperRight: { x : processedBioData.point1.x + 
+			upperRight: { x : processedBioData.point1.x + expander,
+			y :
 		}
 	}
 	
@@ -314,11 +315,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQxMjkxNzU0LC04NzAzMjU5MDgsLTIwNj
-MwODU5NTIsNjQyMDM3NjQ4LC03ODYwMTU4MDcsMjA2ODE2NjYx
-MiwxMjg4NTE0NzEzLC01OTgyMjYzNjcsODY0NTAzNTYzLC0xND
-c0MTU1MDUzLC0xMzcxMzM3MDA5LDY4ODU2OTg4OCwtMTM2Mzc1
-ODU1OCwxNTMwMDczOTI3LDE1ODM1NzIyNjQsMjUxMzQwMzI0LD
-E1MTg5MDI2MTUsLTE5Nzg3NDc3NzUsMzE3NzM5Mjk2LC0xOTM4
-NDUwOTIwXX0=
+eyJoaXN0b3J5IjpbLTIwNzkxNzcwNjYsMzQxMjkxNzU0LC04Nz
+AzMjU5MDgsLTIwNjMwODU5NTIsNjQyMDM3NjQ4LC03ODYwMTU4
+MDcsMjA2ODE2NjYxMiwxMjg4NTE0NzEzLC01OTgyMjYzNjcsOD
+Y0NTAzNTYzLC0xNDc0MTU1MDUzLC0xMzcxMzM3MDA5LDY4ODU2
+OTg4OCwtMTM2Mzc1ODU1OCwxNTMwMDczOTI3LDE1ODM1NzIyNj
+QsMjUxMzQwMzI0LDE1MTg5MDI2MTUsLTE5Nzg3NDc3NzUsMzE3
+NzM5Mjk2XX0=
 -->
