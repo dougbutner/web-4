@@ -92,7 +92,7 @@ Here is the minimum information stored in a time token, using [JWT](https://jwt.
   }
 }
 ```
-For the time token to be spendable, a signed JWT Time Token (Mechanics example, non-working)
+For the time token to be spendable, a signed JWT Time Token (Mechanics example, not functional)
 
 ```
 const passedBioData = {..} // See function bioKeyGenerator at bottom of code
@@ -311,11 +311,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU3Mjk1MywtMjA2MzA4NTk1Miw2NDIwMz
-c2NDgsLTc4NjAxNTgwNywyMDY4MTY2NjEyLDEyODg1MTQ3MTMs
-LTU5ODIyNjM2Nyw4NjQ1MDM1NjMsLTE0NzQxNTUwNTMsLTEzNz
-EzMzcwMDksNjg4NTY5ODg4LC0xMzYzNzU4NTU4LDE1MzAwNzM5
-MjcsMTU4MzU3MjI2NCwyNTEzNDAzMjQsMTUxODkwMjYxNSwtMT
-k3ODc0Nzc3NSwzMTc3MzkyOTYsLTE5Mzg0NTA5MjAsLTE3MjIy
-NDU1ODldfQ==
+eyJoaXN0b3J5IjpbLTg3MDMyNTkwOCwtMjA2MzA4NTk1Miw2ND
+IwMzc2NDgsLTc4NjAxNTgwNywyMDY4MTY2NjEyLDEyODg1MTQ3
+MTMsLTU5ODIyNjM2Nyw4NjQ1MDM1NjMsLTE0NzQxNTUwNTMsLT
+EzNzEzMzcwMDksNjg4NTY5ODg4LC0xMzYzNzU4NTU4LDE1MzAw
+NzM5MjcsMTU4MzU3MjI2NCwyNTEzNDAzMjQsMTUxODkwMjYxNS
+wtMTk3ODc0Nzc3NSwzMTc3MzkyOTYsLTE5Mzg0NTA5MjAsLTE3
+MjIyNDU1ODldfQ==
 -->
