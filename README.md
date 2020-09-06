@@ -142,9 +142,7 @@ function bioKeyGenerator(bioData){
 			},
 			lowerLeft: { 
 				x : processedBioData.point1.x - expander,
-				y : processedBioData.point1.y - expander,
-				z : processedBioData.point1.z - expander
-			}
+				y : processedBioData.point1.y - expander
 		},
 		point2: {
 		...
@@ -156,9 +154,10 @@ function bioKeyGenerator(bioData){
 	// For this to work, a matrix-like object containing every single possible hashed value for every point of data must be stored on an authentication server for each datatype. 
 	// This must be made more efficient to use with today's computer
 
-	let i;
-	for (i = 0; i < (expander*2) ; i++) {
-	
+	let x;
+	let y;
+	for (x = 0; x < (expander*2) ; x++) {
+		
 	}
 
 	sendToAuthServer({
@@ -352,11 +351,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAyOTU5MjEwLDgxMjgyMDcyMiwtOTcxOT
-QyNjIyLC0xNjczMjg3ODQ1LDgwNjU5OTcxOSwzNDEyOTE3NTQs
-LTg3MDMyNTkwOCwtMjA2MzA4NTk1Miw2NDIwMzc2NDgsLTc4Nj
-AxNTgwNywyMDY4MTY2NjEyLDEyODg1MTQ3MTMsLTU5ODIyNjM2
-Nyw4NjQ1MDM1NjMsLTE0NzQxNTUwNTMsLTEzNzEzMzcwMDksNj
-g4NTY5ODg4LC0xMzYzNzU4NTU4LDE1MzAwNzM5MjcsMTU4MzU3
-MjI2NF19
+eyJoaXN0b3J5IjpbLTU2OTIwMzgyNyw4MTI4MjA3MjIsLTk3MT
+k0MjYyMiwtMTY3MzI4Nzg0NSw4MDY1OTk3MTksMzQxMjkxNzU0
+LC04NzAzMjU5MDgsLTIwNjMwODU5NTIsNjQyMDM3NjQ4LC03OD
+YwMTU4MDcsMjA2ODE2NjYxMiwxMjg4NTE0NzEzLC01OTgyMjYz
+NjcsODY0NTAzNTYzLC0xNDc0MTU1MDUzLC0xMzcxMzM3MDA5LD
+Y4ODU2OTg4OCwtMTM2Mzc1ODU1OCwxNTMwMDczOTI3LDE1ODM1
+NzIyNjRdfQ==
 -->
