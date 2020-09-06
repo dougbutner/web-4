@@ -158,8 +158,9 @@ function bioKeyGenerator(bioData){
 	let bioMatrix = {};
 	for (x = 1; x <= (expander*2) ; x++) {
 		let curXRow = "x"+x;
+		let bioMatrix[curXRow] = [];
 		for (y = 0; y < (expander*2) ; y++) {
-			bioMatrix[curXRow] 
+			bioMatrix[curXRow].push()
 		}
 	}
 
@@ -355,11 +356,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzEwNzM1MDYsOTAyNzQxMjI5LDgxMj
-gyMDcyMiwtOTcxOTQyNjIyLC0xNjczMjg3ODQ1LDgwNjU5OTcx
-OSwzNDEyOTE3NTQsLTg3MDMyNTkwOCwtMjA2MzA4NTk1Miw2ND
-IwMzc2NDgsLTc4NjAxNTgwNywyMDY4MTY2NjEyLDEyODg1MTQ3
-MTMsLTU5ODIyNjM2Nyw4NjQ1MDM1NjMsLTE0NzQxNTUwNTMsLT
-EzNzEzMzcwMDksNjg4NTY5ODg4LC0xMzYzNzU4NTU4LDE1MzAw
-NzM5MjddfQ==
+eyJoaXN0b3J5IjpbODI5NTYzMDI1LDkwMjc0MTIyOSw4MTI4Mj
+A3MjIsLTk3MTk0MjYyMiwtMTY3MzI4Nzg0NSw4MDY1OTk3MTks
+MzQxMjkxNzU0LC04NzAzMjU5MDgsLTIwNjMwODU5NTIsNjQyMD
+M3NjQ4LC03ODYwMTU4MDcsMjA2ODE2NjYxMiwxMjg4NTE0NzEz
+LC01OTgyMjYzNjcsODY0NTAzNTYzLC0xNDc0MTU1MDUzLC0xMz
+cxMzM3MDA5LDY4ODU2OTg4OCwtMTM2Mzc1ODU1OCwxNTMwMDcz
+OTI3XX0=
 -->
