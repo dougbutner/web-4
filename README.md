@@ -153,12 +153,12 @@ function bioKeyGenerator(bioData){
 	}
 
 	
-	// For this to work, an object containing every single possible hashed value must be stored on an authentication server for each datatype. 
+	// For this to work, a matr object containing every single possible hashed value must be stored on an authentication server for each datatype. 
 	sendToAuthServer({
 	})
 	
-	// Finally, ranges of values are hashed, that value is returned
-	return sha256(processedBioData); // Biosecret as hashed value
+	// Finally, the real biodata is returned 
+	return sha256(processedBioData); // Biosecret
 
 }
 
@@ -342,11 +342,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEyODIwNzIyLC05NzE5NDI2MjIsLTE2Nz
-MyODc4NDUsODA2NTk5NzE5LDM0MTI5MTc1NCwtODcwMzI1OTA4
-LC0yMDYzMDg1OTUyLDY0MjAzNzY0OCwtNzg2MDE1ODA3LDIwNj
-gxNjY2MTIsMTI4ODUxNDcxMywtNTk4MjI2MzY3LDg2NDUwMzU2
-MywtMTQ3NDE1NTA1MywtMTM3MTMzNzAwOSw2ODg1Njk4ODgsLT
-EzNjM3NTg1NTgsMTUzMDA3MzkyNywxNTgzNTcyMjY0LDI1MTM0
-MDMyNF19
+eyJoaXN0b3J5IjpbLTY5Njc0MDY3LDgxMjgyMDcyMiwtOTcxOT
+QyNjIyLC0xNjczMjg3ODQ1LDgwNjU5OTcxOSwzNDEyOTE3NTQs
+LTg3MDMyNTkwOCwtMjA2MzA4NTk1Miw2NDIwMzc2NDgsLTc4Nj
+AxNTgwNywyMDY4MTY2NjEyLDEyODg1MTQ3MTMsLTU5ODIyNjM2
+Nyw4NjQ1MDM1NjMsLTE0NzQxNTUwNTMsLTEzNzEzMzcwMDksNj
+g4NTY5ODg4LC0xMzYzNzU4NTU4LDE1MzAwNzM5MjcsMTU4MzU3
+MjI2NF19
 -->
