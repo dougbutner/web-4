@@ -219,6 +219,13 @@ There will always be security concerns with biometrics. For example, if a user u
 
 The upside of biometric secrets is they cannot be lost, and the account will always be recoverable by the individual. In a web 4 ecosystem, where the tokens are distributed daily and often spent daily, a hack would be much less catastrophic. The attacker will be able to access the user's balance, but not alter the past transactions, nor continue to collect the future deposits, because the real user will (in theory) quickly recover the account and change the biometric secret generation means so that the hacker's biofake is no longer working. 
 
+
+
+
+
+
+
+
 ___
 <center>~~</center>
 
@@ -327,11 +334,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjM0ODg2MDQsLTE2NzMyODc4NDUsOD
-A2NTk5NzE5LDM0MTI5MTc1NCwtODcwMzI1OTA4LC0yMDYzMDg1
-OTUyLDY0MjAzNzY0OCwtNzg2MDE1ODA3LDIwNjgxNjY2MTIsMT
-I4ODUxNDcxMywtNTk4MjI2MzY3LDg2NDUwMzU2MywtMTQ3NDE1
-NTA1MywtMTM3MTMzNzAwOSw2ODg1Njk4ODgsLTEzNjM3NTg1NT
-gsMTUzMDA3MzkyNywxNTgzNTcyMjY0LDI1MTM0MDMyNCwxNTE4
-OTAyNjE1XX0=
+eyJoaXN0b3J5IjpbLTk3MTk0MjYyMiwtMTY3MzI4Nzg0NSw4MD
+Y1OTk3MTksMzQxMjkxNzU0LC04NzAzMjU5MDgsLTIwNjMwODU5
+NTIsNjQyMDM3NjQ4LC03ODYwMTU4MDcsMjA2ODE2NjYxMiwxMj
+g4NTE0NzEzLC01OTgyMjYzNjcsODY0NTAzNTYzLC0xNDc0MTU1
+MDUzLC0xMzcxMzM3MDA5LDY4ODU2OTg4OCwtMTM2Mzc1ODU1OC
+wxNTMwMDczOTI3LDE1ODM1NzIyNjQsMjUxMzQwMzI0LDE1MTg5
+MDI2MTVdfQ==
 -->
