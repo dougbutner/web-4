@@ -120,10 +120,10 @@ signature = HMACSHA256(
 	bioSecret
 )
 
+
 function bioKeyGenerator(bioData){
 	// Function takes data in the form of user input into their browser or smartphone.
-	let recievedData = bioData;
-	
+
 	// With data, quantifyable points are taken algorithmically
 	let processedBioData = {
 		point1:recievedData.point1,
@@ -133,49 +133,17 @@ function bioKeyGenerator(bioData){
 	}
 	
 	// These points expanded to a pre-defined margin of error geometrically for each input type
-	const expander = 20; // Set amount to expand dataset based on data type
 
-	let rangedBioData = {
-		point1: {
-			upperRight: { 
-				x : processedBioData.point1.x + expander,
-				y : processedBioData.point1.y + expander
-			},
-			lowerLeft: { 
-				x : processedBioData.point1.x - expander,
-				y : processedBioData.point1.y - expander
-		},
-		point2: {
-		...
-		},
-		...
-	}
+
 
 	
-	// For this to work, a matrix-like object containing every single possible hashed value for every point of data 
+	// A matrix-like object containing every single possible hashed value for every point of data 
 	// ..must be stored on an authentication server for each data input. 
-	// Data must also exhibit granularity (snap to an integer path)
+	// Data must  exhibit granularity (snap to an integer path)
 	// This matrix of values is used to compare the biosecret with in the future
 	// This must be made more efficient to use with today's computers
 
-	let x;
-	let y;
-	let bioMatrix = {};
-	for (x = rangedBioData.point1.lowerLeft.x; x <= (expander*2) ; x++) {
-		let curXRow = "x"+x;
-		let bioMatrix[curXRow] = [];
-		for (y = rangedBioData.point1.lowerLeft.y; y < (expander*2) ; y++) {
-			bioMatrix[curXRow].push(sha256(y));
-		}
-	}
 
-	sendToAuthServer({
-		point1: {
-			x : bioMatrix;
-		},
-		...
-		
-	})
 	
 	// Finally, the real biodata is returned 
 	return sha256(processedBioData); // Biosecret
@@ -434,7 +402,7 @@ function sendToAuthServer(){
 }
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MzUxMzYwMSw5NjYzMzU0MSwtNDUxNz
+eyJoaXN0b3J5IjpbLTg3NDc2ODcxNSw5NjYzMzU0MSwtNDUxNz
 I0MjE4LC03OTY2ODMzMjEsMTQ5NjU4MTY3NywtMTcyMDYxMzkw
 OSw2NjM2OTM2Niw5MDI3NDEyMjksODEyODIwNzIyLC05NzE5ND
 I2MjIsLTE2NzMyODc4NDUsODA2NTk5NzE5LDM0MTI5MTc1NCwt
