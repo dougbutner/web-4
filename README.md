@@ -106,7 +106,9 @@ const payloadData = {
 	"time-unit": "294957", 
 	"userid": "7f3e873a2c3d", 
 	"appData": {
-		"location": 
+		"gold": 479,
+		"honey": 23,
+		"axe":  
 	}
 }
 
@@ -365,11 +367,11 @@ ___
 # Appendix
 ## Example of Biometric Function
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MTcyNDIxOCwtNzk2NjgzMzIxLDE0OT
-Y1ODE2NzcsLTE3MjA2MTM5MDksNjYzNjkzNjYsOTAyNzQxMjI5
-LDgxMjgyMDcyMiwtOTcxOTQyNjIyLC0xNjczMjg3ODQ1LDgwNj
-U5OTcxOSwzNDEyOTE3NTQsLTg3MDMyNTkwOCwtMjA2MzA4NTk1
-Miw2NDIwMzc2NDgsLTc4NjAxNTgwNywyMDY4MTY2NjEyLDEyOD
-g1MTQ3MTMsLTU5ODIyNjM2Nyw4NjQ1MDM1NjMsLTE0NzQxNTUw
-NTNdfQ==
+eyJoaXN0b3J5IjpbLTgwNDg0NzU3LC00NTE3MjQyMTgsLTc5Nj
+Y4MzMyMSwxNDk2NTgxNjc3LC0xNzIwNjEzOTA5LDY2MzY5MzY2
+LDkwMjc0MTIyOSw4MTI4MjA3MjIsLTk3MTk0MjYyMiwtMTY3Mz
+I4Nzg0NSw4MDY1OTk3MTksMzQxMjkxNzU0LC04NzAzMjU5MDgs
+LTIwNjMwODU5NTIsNjQyMDM3NjQ4LC03ODYwMTU4MDcsMjA2OD
+E2NjYxMiwxMjg4NTE0NzEzLC01OTgyMjYzNjcsODY0NTAzNTYz
+XX0=
 -->
