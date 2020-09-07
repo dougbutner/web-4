@@ -318,18 +318,18 @@ ___
 
 # Appendix
 ## Example of Biometric Function
-function bioKeyGenerator(bioData){
-	// Function takes data in the form of user input into their browser or smartphone.
-	let recievedData = bioData;
-	
-	// With data, quantifyable points are taken algorithmically
-	let processedBioData = {
-		point1:recievedData.point1,
-		point2:recievedData.point2,
-		point3:recievedData.point3
-		...
-	}
-	
+	function bioKeyGenerator(bioData){
+		// Function takes data in the form of user input into their browser or smartphone.
+		let recievedData = bioData;
+		
+		// With data, quantifyable points are taken algorithmically
+		let processedBioData = {
+			point1:recievedData.point1,
+			point2:recievedData.point2,
+			point3:recievedData.point3
+			...
+		}
+		
 	// These points expanded to a pre-defined margin of error geometrically for each input type
 	const expander = 20; // Set amount to expand dataset based on data type
 
@@ -377,19 +377,19 @@ function bioKeyGenerator(bioData){
 	
 	// Finally, the real biodata is returned 
 	return sha256(processedBioData); // Biosecret
+	
+	}
 
-}
-
-function sendToAuthServer(){
-	// Send data to registered auth server
-}
+	function sendToAuthServer(){
+		// Send data to registered auth server
+	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTA0MDY2NzgsLTg3NDc2ODcxNSw5Nj
-YzMzU0MSwtNDUxNzI0MjE4LC03OTY2ODMzMjEsMTQ5NjU4MTY3
-NywtMTcyMDYxMzkwOSw2NjM2OTM2Niw5MDI3NDEyMjksODEyOD
-IwNzIyLC05NzE5NDI2MjIsLTE2NzMyODc4NDUsODA2NTk5NzE5
-LDM0MTI5MTc1NCwtODcwMzI1OTA4LC0yMDYzMDg1OTUyLDY0Mj
-AzNzY0OCwtNzg2MDE1ODA3LDIwNjgxNjY2MTIsMTI4ODUxNDcx
-M119
+eyJoaXN0b3J5IjpbLTE5MDA5NzIzMTgsLTIwOTA0MDY2NzgsLT
+g3NDc2ODcxNSw5NjYzMzU0MSwtNDUxNzI0MjE4LC03OTY2ODMz
+MjEsMTQ5NjU4MTY3NywtMTcyMDYxMzkwOSw2NjM2OTM2Niw5MD
+I3NDEyMjksODEyODIwNzIyLC05NzE5NDI2MjIsLTE2NzMyODc4
+NDUsODA2NTk5NzE5LDM0MTI5MTc1NCwtODcwMzI1OTA4LC0yMD
+YzMDg1OTUyLDY0MjAzNzY0OCwtNzg2MDE1ODA3LDIwNjgxNjY2
+MTJdfQ==
 -->
