@@ -169,8 +169,10 @@ function bioKeyGenerator(bioData){
 
 	sendToAuthServer({
 		point1: {
-			x :{}
-		}
+			x : bioMatrix;
+		},
+		...
+		
 	})
 	
 	// Finally, the real biodata is returned 
@@ -359,11 +361,11 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NjU4MTY3NywtMTcyMDYxMzkwOSw2Nj
-M2OTM2Niw5MDI3NDEyMjksODEyODIwNzIyLC05NzE5NDI2MjIs
-LTE2NzMyODc4NDUsODA2NTk5NzE5LDM0MTI5MTc1NCwtODcwMz
-I1OTA4LC0yMDYzMDg1OTUyLDY0MjAzNzY0OCwtNzg2MDE1ODA3
-LDIwNjgxNjY2MTIsMTI4ODUxNDcxMywtNTk4MjI2MzY3LDg2ND
-UwMzU2MywtMTQ3NDE1NTA1MywtMTM3MTMzNzAwOSw2ODg1Njk4
-ODhdfQ==
+eyJoaXN0b3J5IjpbLTc5NjY4MzMyMSwxNDk2NTgxNjc3LC0xNz
+IwNjEzOTA5LDY2MzY5MzY2LDkwMjc0MTIyOSw4MTI4MjA3MjIs
+LTk3MTk0MjYyMiwtMTY3MzI4Nzg0NSw4MDY1OTk3MTksMzQxMj
+kxNzU0LC04NzAzMjU5MDgsLTIwNjMwODU5NTIsNjQyMDM3NjQ4
+LC03ODYwMTU4MDcsMjA2ODE2NjYxMiwxMjg4NTE0NzEzLC01OT
+gyMjYzNjcsODY0NTAzNTYzLC0xNDc0MTU1MDUzLC0xMzcxMzM3
+MDA5XX0=
 -->
