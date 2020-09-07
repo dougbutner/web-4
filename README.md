@@ -361,12 +361,15 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 
+
+# Appendix
+## Example of Biometric Function
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI1MDkyOTE3LC03OTY2ODMzMjEsMTQ5Nj
-U4MTY3NywtMTcyMDYxMzkwOSw2NjM2OTM2Niw5MDI3NDEyMjks
-ODEyODIwNzIyLC05NzE5NDI2MjIsLTE2NzMyODc4NDUsODA2NT
-k5NzE5LDM0MTI5MTc1NCwtODcwMzI1OTA4LC0yMDYzMDg1OTUy
-LDY0MjAzNzY0OCwtNzg2MDE1ODA3LDIwNjgxNjY2MTIsMTI4OD
-UxNDcxMywtNTk4MjI2MzY3LDg2NDUwMzU2MywtMTQ3NDE1NTA1
-M119
+eyJoaXN0b3J5IjpbLTQ1MTcyNDIxOCwtNzk2NjgzMzIxLDE0OT
+Y1ODE2NzcsLTE3MjA2MTM5MDksNjYzNjkzNjYsOTAyNzQxMjI5
+LDgxMjgyMDcyMiwtOTcxOTQyNjIyLC0xNjczMjg3ODQ1LDgwNj
+U5OTcxOSwzNDEyOTE3NTQsLTg3MDMyNTkwOCwtMjA2MzA4NTk1
+Miw2NDIwMzc2NDgsLTc4NjAxNTgwNywyMDY4MTY2NjEyLDEyOD
+g1MTQ3MTMsLTU5ODIyNjM2Nyw4NjQ1MDM1NjMsLTE0NzQxNTUw
+NTNdfQ==
 -->
