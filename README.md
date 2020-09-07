@@ -123,31 +123,14 @@ signature = HMACSHA256(
 
 function bioKeyGenerator(bioData){
 	// Function takes data in the form of user input into their browser or smartphone.
-
-	// With data, quantifyable points are taken algorithmically
-	let processedBioData = {
-		point1:recievedData.point1,
-		point2:recievedData.point2,
-		point3:recievedData.point3
-		...
-	}
-	
+	// With data, quantifyable points are taken algorithmically	
 	// These points expanded to a pre-defined margin of error geometrically for each input type
-
-
-
-	
 	// A matrix-like object containing every single possible hashed value for every point of data 
 	// ..must be stored on an authentication server for each data input. 
 	// Data must  exhibit granularity (snap to an integer path)
 	// This matrix of values is used to compare the biosecret with in the future
 	// This must be made more efficient to use with today's computers
-
-
-	
-	// Finally, the real biodata is returned 
-	return sha256(processedBioData); // Biosecret
-
+// There is a example of this 
 }
 
 function sendToAuthServer(){
@@ -402,11 +385,11 @@ function sendToAuthServer(){
 }
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NDc2ODcxNSw5NjYzMzU0MSwtNDUxNz
-I0MjE4LC03OTY2ODMzMjEsMTQ5NjU4MTY3NywtMTcyMDYxMzkw
-OSw2NjM2OTM2Niw5MDI3NDEyMjksODEyODIwNzIyLC05NzE5ND
-I2MjIsLTE2NzMyODc4NDUsODA2NTk5NzE5LDM0MTI5MTc1NCwt
-ODcwMzI1OTA4LC0yMDYzMDg1OTUyLDY0MjAzNzY0OCwtNzg2MD
-E1ODA3LDIwNjgxNjY2MTIsMTI4ODUxNDcxMywtNTk4MjI2MzY3
-XX0=
+eyJoaXN0b3J5IjpbLTIwOTA0MDY2NzgsLTg3NDc2ODcxNSw5Nj
+YzMzU0MSwtNDUxNzI0MjE4LC03OTY2ODMzMjEsMTQ5NjU4MTY3
+NywtMTcyMDYxMzkwOSw2NjM2OTM2Niw5MDI3NDEyMjksODEyOD
+IwNzIyLC05NzE5NDI2MjIsLTE2NzMyODc4NDUsODA2NTk5NzE5
+LDM0MTI5MTc1NCwtODcwMzI1OTA4LC0yMDYzMDg1OTUyLDY0Mj
+AzNzY0OCwtNzg2MDE1ODA3LDIwNjgxNjY2MTIsMTI4ODUxNDcx
+M119
 -->
