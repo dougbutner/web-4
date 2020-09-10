@@ -11,7 +11,7 @@ This README features a description of the next evolution of the web, **web 4**. 
 
 ## What is Web 4?
 
-Web 4 is a set of ideas and practices that allow integration of **provable democracy in any system**; technical, social, economic, or otherwise. Web 4 is **built on top of Web 3** while being **fundamentally different** and providing enough benefit to warrant being
+Web 4 is a set of ideas and practices that allow integration of **provable democracy in any system**; technical, social, economic, or otherwise. Web 4 is **built on top of web 3** while being **fundamentally different** and providing enough **benefit to society** warrant the new title of web 4. 
 
 Before we define web 4 fully, we must look briefly at the concepts of web 1, web 2, and web 3. 
 
@@ -386,11 +386,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNjY2Mzg1LDE0OTQ4NzUyNDEsLTgwMD
-Y4Njg0MSwtMjA0OTI1ODY0NywtMTkwMDk3MjMxOCwtMjA5MDQw
-NjY3OCwtODc0NzY4NzE1LDk2NjMzNTQxLC00NTE3MjQyMTgsLT
-c5NjY4MzMyMSwxNDk2NTgxNjc3LC0xNzIwNjEzOTA5LDY2MzY5
-MzY2LDkwMjc0MTIyOSw4MTI4MjA3MjIsLTk3MTk0MjYyMiwtMT
-Y3MzI4Nzg0NSw4MDY1OTk3MTksMzQxMjkxNzU0LC04NzAzMjU5
-MDhdfQ==
+eyJoaXN0b3J5IjpbMTk0ODc1NTMwMiwxNDk0ODc1MjQxLC04MD
+A2ODY4NDEsLTIwNDkyNTg2NDcsLTE5MDA5NzIzMTgsLTIwOTA0
+MDY2NzgsLTg3NDc2ODcxNSw5NjYzMzU0MSwtNDUxNzI0MjE4LC
+03OTY2ODMzMjEsMTQ5NjU4MTY3NywtMTcyMDYxMzkwOSw2NjM2
+OTM2Niw5MDI3NDEyMjksODEyODIwNzIyLC05NzE5NDI2MjIsLT
+E2NzMyODc4NDUsODA2NTk5NzE5LDM0MTI5MTc1NCwtODcwMzI1
+OTA4XX0=
 -->
