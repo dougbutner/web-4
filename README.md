@@ -63,8 +63,9 @@ Int he following sections, we will discuss these concepts one at a time, then lo
 
 
 # Why we can't have Provable democracy on web 3
+> Provable democracy cannot be fully achieved in web 3 itself because there is no control over how many accounts a user may own.
 
-> Democracy is essentially reaching a consensus with the idea that **each person is equal** in their influence on that consensus within defined bounds.
+Democracy is essentially reaching a consensus with the idea that **each person is equal** in their influence on that consensus within defined bounds.
 
 [2] Many different consensus models have been developed, most notably, proof of work (**POW**), proof of stake (**POS**), and delegated proof of stake (**DPOS**). These paradigms of consensus are used primarily to determine which chain of transaction records (blocks) is considered valid, securing a blockchain. 
 
@@ -403,11 +404,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDM0ODY5NjgsMTcyMTc5Mjg4LDE1Mj
-Y0ODM1ODgsLTEwNTAzMTExOTMsMTQ5NDg3NTI0MSwtODAwNjg2
-ODQxLC0yMDQ5MjU4NjQ3LC0xOTAwOTcyMzE4LC0yMDkwNDA2Nj
-c4LC04NzQ3Njg3MTUsOTY2MzM1NDEsLTQ1MTcyNDIxOCwtNzk2
-NjgzMzIxLDE0OTY1ODE2NzcsLTE3MjA2MTM5MDksNjYzNjkzNj
-YsOTAyNzQxMjI5LDgxMjgyMDcyMiwtOTcxOTQyNjIyLC0xNjcz
-Mjg3ODQ1XX0=
+eyJoaXN0b3J5IjpbLTU1NTk3NDkyNCwtMTgwMzQ4Njk2OCwxNz
+IxNzkyODgsMTUyNjQ4MzU4OCwtMTA1MDMxMTE5MywxNDk0ODc1
+MjQxLC04MDA2ODY4NDEsLTIwNDkyNTg2NDcsLTE5MDA5NzIzMT
+gsLTIwOTA0MDY2NzgsLTg3NDc2ODcxNSw5NjYzMzU0MSwtNDUx
+NzI0MjE4LC03OTY2ODMzMjEsMTQ5NjU4MTY3NywtMTcyMDYxMz
+kwOSw2NjM2OTM2Niw5MDI3NDEyMjksODEyODIwNzIyLC05NzE5
+NDI2MjJdfQ==
 -->
