@@ -169,9 +169,9 @@ Biometric secrets generated from static images are not secure, as static images 
 ### What is used to generate a biosecret?
 This stream of data (video + audio biometric expression) could be a user doing a series of hand gestures, singing a part of a song, speaking a phrase, speaking a phrase in different voices, clapping, making a series of facial expressions, or anything else one can imagine.
 
-For security, biometric expressions must be unique and many types (gesture, singing, clapping) must be available and used in combination. If each person's biometric secret was generated from the same single biometric expression, it would be a matter of time before specific AI could be developed to deepfake it for anyone. If the user is the only one that knows their biometric expressions it becomes nearly impossible to guess the type and nature of the expression, and even if that is known, impossible to use the same technique on more than one account. 
+For security, biometric expressions must be unique (for example, which combination of words to speak) and many types (gesture, singing, clapping) must be available and used in combination. If each person's biometric secret was generated from the same single biometric expression, it would be a matter of time before specific AI could be developed to deepfake it for anyone. If the user is the only one that knows their biometric expressions it becomes nearly impossible to guess the type and nature of the expression, and even if that is known, impossible to use the same technique on more than one account. 
 
-The nature of the uniqueness could be chosen by the user, or generated at random from the biosecret software which would prompt the user to complete an action in a specific way. This specific way (for example, which combination of words to speak) must be unique for each biosecret to prevent  The user-chosen methods would be up to the user to remember, possibly by storing a hint, and the prompted way would require local storage of the prompt. 
+The nature of the uniqueness could be chosen by the user, or generated at random from the biosecret software which would prompt the user to complete an action in a specific way. 
 
 ## Why do we need this, again?
 Democratic systems certainly **could be built** without biometric verification, and must be at least until suitable biometric technology develops along the open source, client-side requirements. For now, decentralized solutions like [Civic](https://www.civic.com/) provide the necessary individuality at the cost of some trust and requirement of citizenship. As different project inplement  implement web 4 in their own ways. 
@@ -387,11 +387,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MjU1NDY3MiwtMjA0OTI1ODY0NywtMT
-kwMDk3MjMxOCwtMjA5MDQwNjY3OCwtODc0NzY4NzE1LDk2NjMz
-NTQxLC00NTE3MjQyMTgsLTc5NjY4MzMyMSwxNDk2NTgxNjc3LC
-0xNzIwNjEzOTA5LDY2MzY5MzY2LDkwMjc0MTIyOSw4MTI4MjA3
-MjIsLTk3MTk0MjYyMiwtMTY3MzI4Nzg0NSw4MDY1OTk3MTksMz
-QxMjkxNzU0LC04NzAzMjU5MDgsLTIwNjMwODU5NTIsNjQyMDM3
-NjQ4XX0=
+eyJoaXN0b3J5IjpbMzYwNjUyNzIyLC0yMDQ5MjU4NjQ3LC0xOT
+AwOTcyMzE4LC0yMDkwNDA2Njc4LC04NzQ3Njg3MTUsOTY2MzM1
+NDEsLTQ1MTcyNDIxOCwtNzk2NjgzMzIxLDE0OTY1ODE2NzcsLT
+E3MjA2MTM5MDksNjYzNjkzNjYsOTAyNzQxMjI5LDgxMjgyMDcy
+MiwtOTcxOTQyNjIyLC0xNjczMjg3ODQ1LDgwNjU5OTcxOSwzND
+EyOTE3NTQsLTg3MDMyNTkwOCwtMjA2MzA4NTk1Miw2NDIwMzc2
+NDhdfQ==
 -->
