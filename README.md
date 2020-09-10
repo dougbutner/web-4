@@ -50,7 +50,7 @@ There are 4 conceptual underpinnings of web 4
 
  1. **Time-issued cryptocurrency** 
  2. **Proof of Individuality**
- 3. **Information Entropy**
+ 3. **Psuedoanonyminity and Information Entropy**
  4. **Harmonic GeoSocial Systems**
 
 We will discuss these concepts one at a time, then look at possible applications of these web 4 concepts, and a roadmap to reality.
@@ -384,11 +384,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMDY4Njg0MSwtMjA0OTI1ODY0NywtMT
-kwMDk3MjMxOCwtMjA5MDQwNjY3OCwtODc0NzY4NzE1LDk2NjMz
-NTQxLC00NTE3MjQyMTgsLTc5NjY4MzMyMSwxNDk2NTgxNjc3LC
-0xNzIwNjEzOTA5LDY2MzY5MzY2LDkwMjc0MTIyOSw4MTI4MjA3
-MjIsLTk3MTk0MjYyMiwtMTY3MzI4Nzg0NSw4MDY1OTk3MTksMz
-QxMjkxNzU0LC04NzAzMjU5MDgsLTIwNjMwODU5NTIsNjQyMDM3
-NjQ4XX0=
+eyJoaXN0b3J5IjpbMTQ5NDg3NTI0MSwtODAwNjg2ODQxLC0yMD
+Q5MjU4NjQ3LC0xOTAwOTcyMzE4LC0yMDkwNDA2Njc4LC04NzQ3
+Njg3MTUsOTY2MzM1NDEsLTQ1MTcyNDIxOCwtNzk2NjgzMzIxLD
+E0OTY1ODE2NzcsLTE3MjA2MTM5MDksNjYzNjkzNjYsOTAyNzQx
+MjI5LDgxMjgyMDcyMiwtOTcxOTQyNjIyLC0xNjczMjg3ODQ1LD
+gwNjU5OTcxOSwzNDEyOTE3NTQsLTg3MDMyNTkwOCwtMjA2MzA4
+NTk1Ml19
 -->
