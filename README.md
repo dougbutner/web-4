@@ -146,11 +146,13 @@ The notable parts here are the `time-unit` and `userid` in the payload, and the 
 We have said we web 4 is based on web 3 (blockchain), but this example used only **web 2 technology**, so the ability to do it is at all begs the question:
 
 
-## Why can't web 3 (or even web 2) be used for Time Tokens?
+## Why can't web 2 (or even web 2) be used for Democracy?
 
-Of course it can! It's just not viable to fulfill all principles of Web 4, but easily can be done. Web 2 is not a viable candidate because the federated nature means that your biometric data must be trusted to a third party, possibly a large corporation or malicious actor. 
+Of course they can! It's just not viable to fulfill all principles of Web 4, but can be done. Web 2 is not a viable candidate because the federated nature means that your biometric data **must be trusted** to a third party, possibly a large corporation or malicious actor. 
 
-Provable democracy cannot be fully achieved in web 3, because there is no control over how many accounts a user may own. [2] Many different consensus models have been developed, most notably, proof of work (**POW**), proof of stake (**POS**), and delegated proof of stake (**DPOS**). These paradigms of consensus are used primarily to determine which chain of transaction records (blocks) is considered valid, securing a blockchain. 
+> Provable democracy cannot be fully achieved in web 3 itself because there is no control over how many accounts a user may own.
+
+[2] Many different consensus models have been developed, most notably, proof of work (**POW**), proof of stake (**POS**), and delegated proof of stake (**DPOS**). These paradigms of consensus are used primarily to determine which chain of transaction records (blocks) is considered valid, securing a blockchain. 
 
 POS and DPOS is additionally used to in projects like Hive to allow users to "vote" on valuable content, an early example of the democratic web. DPOS is also used for networks to determine who can access network resources.
 
@@ -386,11 +388,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MjgxNDE4NiwtMTA1MDMxMTE5MywxND
-k0ODc1MjQxLC04MDA2ODY4NDEsLTIwNDkyNTg2NDcsLTE5MDA5
-NzIzMTgsLTIwOTA0MDY2NzgsLTg3NDc2ODcxNSw5NjYzMzU0MS
-wtNDUxNzI0MjE4LC03OTY2ODMzMjEsMTQ5NjU4MTY3NywtMTcy
-MDYxMzkwOSw2NjM2OTM2Niw5MDI3NDEyMjksODEyODIwNzIyLC
-05NzE5NDI2MjIsLTE2NzMyODc4NDUsODA2NTk5NzE5LDM0MTI5
-MTc1NF19
+eyJoaXN0b3J5IjpbNDk5Mzk3NTAsLTEwNTAzMTExOTMsMTQ5ND
+g3NTI0MSwtODAwNjg2ODQxLC0yMDQ5MjU4NjQ3LC0xOTAwOTcy
+MzE4LC0yMDkwNDA2Njc4LC04NzQ3Njg3MTUsOTY2MzM1NDEsLT
+Q1MTcyNDIxOCwtNzk2NjgzMzIxLDE0OTY1ODE2NzcsLTE3MjA2
+MTM5MDksNjYzNjkzNjYsOTAyNzQxMjI5LDgxMjgyMDcyMiwtOT
+cxOTQyNjIyLC0xNjczMjg3ODQ1LDgwNjU5OTcxOSwzNDEyOTE3
+NTRdfQ==
 -->
