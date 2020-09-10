@@ -11,6 +11,8 @@ This README features a description of the next evolution of the web, **web 4**. 
 
 ## What is Web 4?
 
+Web 4 is a set of ideas and practices that present solutions to the problems preventing us 
+
 Before we define web 4, we must look briefly at the concepts of web 1, web 2, and web 3. 
 
  - **Web 1**
@@ -384,7 +386,7 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NDE4NjQ0LDE0OTQ4NzUyNDEsLTgwMD
+eyJoaXN0b3J5IjpbODY1Nzc3NzE5LDE0OTQ4NzUyNDEsLTgwMD
 Y4Njg0MSwtMjA0OTI1ODY0NywtMTkwMDk3MjMxOCwtMjA5MDQw
 NjY3OCwtODc0NzY4NzE1LDk2NjMzNTQxLC00NTE3MjQyMTgsLT
 c5NjY4MzMyMSwxNDk2NTgxNjc3LC0xNzIwNjEzOTA5LDY2MzY5
