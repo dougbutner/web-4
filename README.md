@@ -11,7 +11,7 @@ This README features a description of the next evolution of the web, **web 4**. 
 
 ## What is Web 4?
 
-Web 4 is a set of ideas and practices that allow any system, political, technical, social, o economic. 
+Web 4 is a set of ideas and practices that allow provable democracy in any system; technical, social, or economic. Web 4 is built on top of Web 3, while 
 
 Before we define web 4 fully, we must look briefly at the concepts of web 1, web 2, and web 3. 
 
@@ -386,7 +386,7 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDI4OTgxMTksMTQ5NDg3NTI0MSwtOD
+eyJoaXN0b3J5IjpbLTExOTU3NTYwNDUsMTQ5NDg3NTI0MSwtOD
 AwNjg2ODQxLC0yMDQ5MjU4NjQ3LC0xOTAwOTcyMzE4LC0yMDkw
 NDA2Njc4LC04NzQ3Njg3MTUsOTY2MzM1NDEsLTQ1MTcyNDIxOC
 wtNzk2NjgzMzIxLDE0OTY1ODE2NzcsLTE3MjA2MTM5MDksNjYz
