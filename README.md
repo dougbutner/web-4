@@ -64,7 +64,7 @@ Int he following sections, we will discuss these concepts one at a time, then lo
 
 # Why we can't have Provable democracy on web 3
 
-Democracy is essentially reaching a consensus with the idea that **each person is equal** in their influence on that consensus with defined rules all parties are privy to.
+> Democracy is essentially reaching a consensus with the idea that **each person is equal** in their influence on that consensus within defined bounds.
 
 [2] Many different consensus models have been developed, most notably, proof of work (**POW**), proof of stake (**POS**), and delegated proof of stake (**DPOS**). These paradigms of consensus are used primarily to determine which chain of transaction records (blocks) is considered valid, securing a blockchain. 
 
@@ -172,8 +172,6 @@ We have said we web 4 is based on web 3 (blockchain), but this example used only
 ## Why can't web 2 or 3 be used for Time Tokens?
 
 Of course they can! It's just not viable to fulfill all principles of web 4 (democracy), but can be done. Web 2 is not a viable candidate for provable democracy because the federated nature means that your biometric data **must be trusted** to a third party, possibly a large corporation or malicious actor. 
-
-> Provable democracy cannot be fully achieved in web 3 itself because there is no control over how many accounts a user may own.
 
 
 
@@ -405,11 +403,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0OTc5OTQ0OSwxNTI2NDgzNTg4LC0xMD
-UwMzExMTkzLDE0OTQ4NzUyNDEsLTgwMDY4Njg0MSwtMjA0OTI1
-ODY0NywtMTkwMDk3MjMxOCwtMjA5MDQwNjY3OCwtODc0NzY4Nz
-E1LDk2NjMzNTQxLC00NTE3MjQyMTgsLTc5NjY4MzMyMSwxNDk2
-NTgxNjc3LC0xNzIwNjEzOTA5LDY2MzY5MzY2LDkwMjc0MTIyOS
-w4MTI4MjA3MjIsLTk3MTk0MjYyMiwtMTY3MzI4Nzg0NSw4MDY1
-OTk3MTldfQ==
+eyJoaXN0b3J5IjpbMTcyMTc5Mjg4LDE1MjY0ODM1ODgsLTEwNT
+AzMTExOTMsMTQ5NDg3NTI0MSwtODAwNjg2ODQxLC0yMDQ5MjU4
+NjQ3LC0xOTAwOTcyMzE4LC0yMDkwNDA2Njc4LC04NzQ3Njg3MT
+UsOTY2MzM1NDEsLTQ1MTcyNDIxOCwtNzk2NjgzMzIxLDE0OTY1
+ODE2NzcsLTE3MjA2MTM5MDksNjYzNjkzNjYsOTAyNzQxMjI5LD
+gxMjgyMDcyMiwtOTcxOTQyNjIyLC0xNjczMjg3ODQ1LDgwNjU5
+OTcxOV19
 -->
