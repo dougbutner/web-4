@@ -183,7 +183,7 @@ User can choose to either perform a chosen biometric task to receive their hashe
 
 2. **Biosecret Generation**: User's sensitive biological information and generated algorithmic results are destroyed (made impossible to reconstruct) at the layer of hashing, and data not stored in any way, public or private, as the user runs the software on their local machine (assuming they choose the open-source software, not a third party).
 
-3. **Time Psudeoanonyminity**: Any outward-facing display of information about a users usage of time tokens should be pseudo-anonymous. That means that a user's identity and time unit (what token is spent) is masked and presented as an alias for each token type. Each use involves a secret key that is known only to the verifying entity, a paet 
+3. **Time Pseudonymity**: Any outward-facing display of information about a users usage of time tokens should be pseudonymous. That means that a user's identity and time unit (what token is spent) is masked and presented as an alias for each token type. Each use involves a secret key that is known only to the verifying entity, a paet 
 
 
 The biggest issue with biometrics is the lack of trust, mostly due to the growing number of facial recognition softwares and databases. The lack of trust is almost always associated with an individual's lack of consent, not the technology itself. 
@@ -214,7 +214,7 @@ Web 3 focuses on storing information forever in a provable way. Web 4 introduces
 
 This idea hinges upon incremental time units, the number of which is used to decide how difficult information about a particular individual is to access. 
 
-With **pseudoanonymity**, it is difficult, but not impossible, to piece together a story about an individual user by knowing they are responsible for a set of transactions over time. The further back in time a transaction is, the harder it is to link it to another transaction with any certainty. 
+With **pseudonymity**, it is difficult, but not impossible, to piece together a story about an individual user by knowing they are responsible for a set of transactions over time. The further back in time a transaction is, the harder it is to link it to another transaction with any certainty. 
 
 Though the user's actual identity can never be known (unless the user exposes their key outside of the blockchain)
 
@@ -384,11 +384,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NTg5MDYzNCwxNDk0ODc1MjQxLC04MD
-A2ODY4NDEsLTIwNDkyNTg2NDcsLTE5MDA5NzIzMTgsLTIwOTA0
-MDY2NzgsLTg3NDc2ODcxNSw5NjYzMzU0MSwtNDUxNzI0MjE4LC
-03OTY2ODMzMjEsMTQ5NjU4MTY3NywtMTcyMDYxMzkwOSw2NjM2
-OTM2Niw5MDI3NDEyMjksODEyODIwNzIyLC05NzE5NDI2MjIsLT
-E2NzMyODc4NDUsODA2NTk5NzE5LDM0MTI5MTc1NCwtODcwMzI1
-OTA4XX0=
+eyJoaXN0b3J5IjpbLTk3NDE4NjQ0LDE0OTQ4NzUyNDEsLTgwMD
+Y4Njg0MSwtMjA0OTI1ODY0NywtMTkwMDk3MjMxOCwtMjA5MDQw
+NjY3OCwtODc0NzY4NzE1LDk2NjMzNTQxLC00NTE3MjQyMTgsLT
+c5NjY4MzMyMSwxNDk2NTgxNjc3LC0xNzIwNjEzOTA5LDY2MzY5
+MzY2LDkwMjc0MTIyOSw4MTI4MjA3MjIsLTk3MTk0MjYyMiwtMT
+Y3MzI4Nzg0NSw4MDY1OTk3MTksMzQxMjkxNzU0LC04NzAzMjU5
+MDhdfQ==
 -->
