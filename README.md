@@ -172,7 +172,7 @@ This stream of data (video + audio biometric expression) could be a user doing a
 For security, biometric expressions must be unique (for example, which combination of words to speak) and many types (gesture, singing, clapping) must be available and used in combination. If each person's biometric secret was generated from the same single biometric expression, it would be a matter of time before specific AI could be developed to deepfake it for anyone. If the user is the only one that knows their biometric expressions it becomes nearly impossible to guess the type and nature of the expression, and even if that is known, impossible to use the same technique on more than one account. The nature of the uniqueness could be chosen by the user, or generated at random from the biosecret software which would prompt the user to complete an action in a specific way. 
 
 ## Why do we need this, again?
-Democratic systems certainly **could be built** without biometric verification, and **must be**  until suitable biometric technology develops along the open source, client-side requirements. For now, **decentralized solutions** like [Civic](https://www.civic.com/) provide the necessary individuality at the cost of some trust and requirement of citizenship. As different projects implement web 4 in their own ways, the ideas presented thus far will develop . 
+Democratic systems certainly **could be built** without biometric verification, and **must be**  until suitable biometric technology develops along the open source, client-side requirements. For now, **decentralized solutions** like [Civic](https://www.civic.com/) provide the necessary individuality at the cost of some trust and requirement of citizenship. As different projects implement web 4 in their own ways, the ideas presented thus far will develop, and possibly determined. 
 
 We will present the ideas that are crucial for this system to be different, and represent true growth into web 4.
 
@@ -385,7 +385,7 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2OTI0Mzk4LC0yMDQ5MjU4NjQ3LC0xOT
+eyJoaXN0b3J5IjpbMTY0MzgyNjUzLC0yMDQ5MjU4NjQ3LC0xOT
 AwOTcyMzE4LC0yMDkwNDA2Njc4LC04NzQ3Njg3MTUsOTY2MzM1
 NDEsLTQ1MTcyNDIxOCwtNzk2NjgzMzIxLDE0OTY1ODE2NzcsLT
 E3MjA2MTM5MDksNjYzNjkzNjYsOTAyNzQxMjI5LDgxMjgyMDcy
