@@ -214,7 +214,7 @@ Web 3 focuses on storing information forever in a provable way. Web 4 introduces
 
 This idea hinges upon incremental time units, the number of which is used to decide how difficult information about a particular individual is to access. 
 
-With pseudoanonymity, it is difficult, but not impossible, to piece together a story about an individual user by knowing they are responsible for a set of transactions over time. The further back in time a transaction is, the harder it is to link it to another transaction with any certainty. 
+With **pseudoanonymity**, it is difficult, but not impossible, to piece together a story about an individual user by knowing they are responsible for a set of transactions over time. The further back in time a transaction is, the harder it is to link it to another transaction with any certainty. 
 
 Though the user's actual identity can never be known (unless the user exposes their key outside of the blockchain)
 
@@ -384,11 +384,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODM0MTAxNjksLTIwNDkyNTg2NDcsLT
-E5MDA5NzIzMTgsLTIwOTA0MDY2NzgsLTg3NDc2ODcxNSw5NjYz
-MzU0MSwtNDUxNzI0MjE4LC03OTY2ODMzMjEsMTQ5NjU4MTY3Ny
-wtMTcyMDYxMzkwOSw2NjM2OTM2Niw5MDI3NDEyMjksODEyODIw
-NzIyLC05NzE5NDI2MjIsLTE2NzMyODc4NDUsODA2NTk5NzE5LD
-M0MTI5MTc1NCwtODcwMzI1OTA4LC0yMDYzMDg1OTUyLDY0MjAz
-NzY0OF19
+eyJoaXN0b3J5IjpbLTgwMDY4Njg0MSwtMjA0OTI1ODY0NywtMT
+kwMDk3MjMxOCwtMjA5MDQwNjY3OCwtODc0NzY4NzE1LDk2NjMz
+NTQxLC00NTE3MjQyMTgsLTc5NjY4MzMyMSwxNDk2NTgxNjc3LC
+0xNzIwNjEzOTA5LDY2MzY5MzY2LDkwMjc0MTIyOSw4MTI4MjA3
+MjIsLTk3MTk0MjYyMiwtMTY3MzI4Nzg0NSw4MDY1OTk3MTksMz
+QxMjkxNzU0LC04NzAzMjU5MDgsLTIwNjMwODU5NTIsNjQyMDM3
+NjQ4XX0=
 -->
