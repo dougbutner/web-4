@@ -148,9 +148,7 @@ You can see that this example used only web 2 technology, as JWT doesn't imply d
 
 ## Why can't web 3 (or even web 2) do this?
 
-Of course it can! It's just not ideal.
-
-Web 2 is not a viable candidate because the federated nature means that your biometric data must be trusted to a third party, possibly a large corporation or malicious actor. 
+Of course it can! It's just not viable to fulfill all principles of Web 4, but easily can be done. Web 2 is not a viable candidate because the federated nature means that your biometric data must be trusted to a third party, possibly a large corporation or malicious actor. 
 
 Provable democracy cannot be fully achieved in web 3, because there is no control over how many accounts a user may own. [2] Many different consensus models have been developed, most notably, proof of work (**POW**), proof of stake (**POS**), and delegated proof of stake (**DPOS**). These paradigms of consensus are used primarily to determine which chain of transaction records (blocks) is considered valid, securing a blockchain. 
 
@@ -388,7 +386,7 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MDA0NTgwMSwtMTA1MDMxMTE5MywxND
+eyJoaXN0b3J5IjpbMTc4OTc1MDgwNiwtMTA1MDMxMTE5MywxND
 k0ODc1MjQxLC04MDA2ODY4NDEsLTIwNDkyNTg2NDcsLTE5MDA5
 NzIzMTgsLTIwOTA0MDY2NzgsLTg3NDc2ODcxNSw5NjYzMzU0MS
 wtNDUxNzI0MjE4LC03OTY2ODMzMjEsMTQ5NjU4MTY3NywtMTcy
