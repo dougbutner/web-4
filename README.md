@@ -64,7 +64,7 @@ Int he following sections, we will discuss these concepts one at a time, then lo
 
 # Why we can't have Provable democracy on web 3
 
-Democracy is essentially reaching a consensus with the idea that e
+Democracy is essentially reaching a consensus with the idea that **each person is equal** in their influence on that consensus with defined rules all parties are privy to.
 
 [2] Many different consensus models have been developed, most notably, proof of work (**POW**), proof of stake (**POS**), and delegated proof of stake (**DPOS**). These paradigms of consensus are used primarily to determine which chain of transaction records (blocks) is considered valid, securing a blockchain. 
 
@@ -405,7 +405,7 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1OTMwMzI5NywxNTI2NDgzNTg4LC0xMD
+eyJoaXN0b3J5IjpbLTI0OTc5OTQ0OSwxNTI2NDgzNTg4LC0xMD
 UwMzExMTkzLDE0OTQ4NzUyNDEsLTgwMDY4Njg0MSwtMjA0OTI1
 ODY0NywtMTkwMDk3MjMxOCwtMjA5MDQwNjY3OCwtODc0NzY4Nz
 E1LDk2NjMzNTQxLC00NTE3MjQyMTgsLTc5NjY4MzMyMSwxNDk2
