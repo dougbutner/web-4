@@ -11,9 +11,9 @@ This README features a description of the next evolution of the web, **web 4**. 
 
 ## What is Web 4?
 
-Web 4 is a set of ideas and practices that present solutions to the problems preventing us 
+Web 4 is a set of ideas and practices that allow any system, political, technical, social, o economic. 
 
-Before we define web 4, we must look briefly at the concepts of web 1, web 2, and web 3. 
+Before we define web 4 fully, we must look briefly at the concepts of web 1, web 2, and web 3. 
 
  - **Web 1**
 **Static web**. Files are served from a remote server to a user's browser.
@@ -386,11 +386,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY1Nzc3NzE5LDE0OTQ4NzUyNDEsLTgwMD
-Y4Njg0MSwtMjA0OTI1ODY0NywtMTkwMDk3MjMxOCwtMjA5MDQw
-NjY3OCwtODc0NzY4NzE1LDk2NjMzNTQxLC00NTE3MjQyMTgsLT
-c5NjY4MzMyMSwxNDk2NTgxNjc3LC0xNzIwNjEzOTA5LDY2MzY5
-MzY2LDkwMjc0MTIyOSw4MTI4MjA3MjIsLTk3MTk0MjYyMiwtMT
-Y3MzI4Nzg0NSw4MDY1OTk3MTksMzQxMjkxNzU0LC04NzAzMjU5
-MDhdfQ==
+eyJoaXN0b3J5IjpbLTIwMDI4OTgxMTksMTQ5NDg3NTI0MSwtOD
+AwNjg2ODQxLC0yMDQ5MjU4NjQ3LC0xOTAwOTcyMzE4LC0yMDkw
+NDA2Njc4LC04NzQ3Njg3MTUsOTY2MzM1NDEsLTQ1MTcyNDIxOC
+wtNzk2NjgzMzIxLDE0OTY1ODE2NzcsLTE3MjA2MTM5MDksNjYz
+NjkzNjYsOTAyNzQxMjI5LDgxMjgyMDcyMiwtOTcxOTQyNjIyLC
+0xNjczMjg3ODQ1LDgwNjU5OTcxOSwzNDEyOTE3NTQsLTg3MDMy
+NTkwOF19
 -->
