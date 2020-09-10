@@ -15,6 +15,8 @@ This README features a description of the next evolution of the web, **web 4**. 
 
 Web 4 is a set of ideas and practices that allow integration of **provable democracy in any system**; technical, social, economic, or otherwise. Web 4 is **built on top of web 3** (bockchain-based) while being **fundamentally different** and providing enough **benefit to society** warrant the new title of web 4. 
 
+# Background
+
 Before we define web 4 fully, we must look briefly at the concepts of web 1, web 2, and web 3. 
 
  - **Web 1**
@@ -61,6 +63,9 @@ Int he following sections, we will discuss these concepts one at a time, then lo
 
 
 # Why we can't have Provable democracy on web 3
+
+Democracy is essentially reaching a consensus with the idea that e
+
 [2] Many different consensus models have been developed, most notably, proof of work (**POW**), proof of stake (**POS**), and delegated proof of stake (**DPOS**). These paradigms of consensus are used primarily to determine which chain of transaction records (blocks) is considered valid, securing a blockchain. 
 
 POS and DPOS is additionally used to in projects like Hive to allow users to "vote" on valuable content, an early example of the democratic web. DPOS is also used for networks to determine who can access network resources.
@@ -400,11 +405,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjA0MTAxMzEsMTUyNjQ4MzU4OCwtMT
-A1MDMxMTE5MywxNDk0ODc1MjQxLC04MDA2ODY4NDEsLTIwNDky
-NTg2NDcsLTE5MDA5NzIzMTgsLTIwOTA0MDY2NzgsLTg3NDc2OD
-cxNSw5NjYzMzU0MSwtNDUxNzI0MjE4LC03OTY2ODMzMjEsMTQ5
-NjU4MTY3NywtMTcyMDYxMzkwOSw2NjM2OTM2Niw5MDI3NDEyMj
-ksODEyODIwNzIyLC05NzE5NDI2MjIsLTE2NzMyODc4NDUsODA2
-NTk5NzE5XX0=
+eyJoaXN0b3J5IjpbMTY1OTMwMzI5NywxNTI2NDgzNTg4LC0xMD
+UwMzExMTkzLDE0OTQ4NzUyNDEsLTgwMDY4Njg0MSwtMjA0OTI1
+ODY0NywtMTkwMDk3MjMxOCwtMjA5MDQwNjY3OCwtODc0NzY4Nz
+E1LDk2NjMzNTQxLC00NTE3MjQyMTgsLTc5NjY4MzMyMSwxNDk2
+NTgxNjc3LC0xNzIwNjEzOTA5LDY2MzY5MzY2LDkwMjc0MTIyOS
+w4MTI4MjA3MjIsLTk3MTk0MjYyMiwtMTY3MzI4Nzg0NSw4MDY1
+OTk3MTldfQ==
 -->
