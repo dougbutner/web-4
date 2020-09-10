@@ -59,6 +59,11 @@ There are 4 conceptual underpinnings of web 4
 
 We will discuss these concepts one at a time, then look at possible applications of these web 4 concepts, and a roadmap to reality.
 
+
+
+
+
+
 # #1: Time-issued cryptocurrency (Time Tokens) 
 
 Time tokens are distributed to users' wallets periodically as time passes. These tokens provide the user with an action. The action burns the token, which may cause some change in the state of a system, or minting of another token, or any other action. 
@@ -390,11 +395,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUzNzY1MDIyLC0xMDUwMzExMTkzLDE0OT
-Q4NzUyNDEsLTgwMDY4Njg0MSwtMjA0OTI1ODY0NywtMTkwMDk3
-MjMxOCwtMjA5MDQwNjY3OCwtODc0NzY4NzE1LDk2NjMzNTQxLC
-00NTE3MjQyMTgsLTc5NjY4MzMyMSwxNDk2NTgxNjc3LC0xNzIw
-NjEzOTA5LDY2MzY5MzY2LDkwMjc0MTIyOSw4MTI4MjA3MjIsLT
-k3MTk0MjYyMiwtMTY3MzI4Nzg0NSw4MDY1OTk3MTksMzQxMjkx
-NzU0XX0=
+eyJoaXN0b3J5IjpbMTUyNjQ4MzU4OCwtMTA1MDMxMTE5MywxND
+k0ODc1MjQxLC04MDA2ODY4NDEsLTIwNDkyNTg2NDcsLTE5MDA5
+NzIzMTgsLTIwOTA0MDY2NzgsLTg3NDc2ODcxNSw5NjYzMzU0MS
+wtNDUxNzI0MjE4LC03OTY2ODMzMjEsMTQ5NjU4MTY3NywtMTcy
+MDYxMzkwOSw2NjM2OTM2Niw5MDI3NDEyMjksODEyODIwNzIyLC
+05NzE5NDI2MjIsLTE2NzMyODc4NDUsODA2NTk5NzE5LDM0MTI5
+MTc1NF19
 -->
