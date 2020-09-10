@@ -57,7 +57,18 @@ There are 4 conceptual underpinnings of web 4
  3. **Pseudonymity and Information Entropy**
  4. **Harmonic GeoSocial Systems**
 
-We will discuss these concepts one at a time, then look at possible applications of these web 4 concepts, and a roadmap to reality.
+Int he following sections, we will discuss these concepts one at a time, then look at possible applications of these web 4 concepts, and a roadmap to reality.
+
+
+# Why we can't have Provable democracy on web 3
+[2] Many different consensus models have been developed, most notably, proof of work (**POW**), proof of stake (**POS**), and delegated proof of stake (**DPOS**). These paradigms of consensus are used primarily to determine which chain of transaction records (blocks) is considered valid, securing a blockchain. 
+
+POS and DPOS is additionally used to in projects like Hive to allow users to "vote" on valuable content, an early example of the democratic web. DPOS is also used for networks to determine who can access network resources.
+
+However, both of these POS/DPOS use cases (curation and resource allocation) are not democratic in the sense that **each account is not equal**. In both cases, the root of democracy is in the token, not the individual, and the ownership of tokens determines the voting power or processing power held by an individual. 
+
+In the end, the only way to implement true democracy in any system is through giving each individual equal power. The only way to do this while keeping web3's decentralized nature is to implement the technological (biocryptology) and idealogical (time faucets, degradation of data) advancements needed to be sure an account is owned by **one individual**, and that individual has **only one account**. These advancements are, for simplicity and communication, called web 4. 
+
 
 
 
@@ -159,13 +170,7 @@ Of course they can! It's just not viable to fulfill all principles of web 4 (dem
 
 > Provable democracy cannot be fully achieved in web 3 itself because there is no control over how many accounts a user may own.
 
-[2] Many different consensus models have been developed, most notably, proof of work (**POW**), proof of stake (**POS**), and delegated proof of stake (**DPOS**). These paradigms of consensus are used primarily to determine which chain of transaction records (blocks) is considered valid, securing a blockchain. 
 
-POS and DPOS is additionally used to in projects like Hive to allow users to "vote" on valuable content, an early example of the democratic web. DPOS is also used for networks to determine who can access network resources.
-
-However, both of these POS/DPOS use cases (curation and resource allocation) are not democratic in the sense that **each account is not equal**. In both cases, the root of democracy is in the token, not the individual, and the ownership of tokens determines the voting power or processing power held by an individual. 
-
-In the end, the only way to implement true democracy in any system is through giving each individual equal power. The only way to do this while keeping web3's decentralized nature is to implement the technological (biocryptology) and idealogical (time faucets, degradation of data) advancements needed to be sure an account is owned by **one individual**, and that individual has **only one account**. These advancements are, for simplicity and communication, called web 4. 
 
 ___
 <center>~~</center>
@@ -395,11 +400,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNjQ4MzU4OCwtMTA1MDMxMTE5MywxND
-k0ODc1MjQxLC04MDA2ODY4NDEsLTIwNDkyNTg2NDcsLTE5MDA5
-NzIzMTgsLTIwOTA0MDY2NzgsLTg3NDc2ODcxNSw5NjYzMzU0MS
-wtNDUxNzI0MjE4LC03OTY2ODMzMjEsMTQ5NjU4MTY3NywtMTcy
-MDYxMzkwOSw2NjM2OTM2Niw5MDI3NDEyMjksODEyODIwNzIyLC
-05NzE5NDI2MjIsLTE2NzMyODc4NDUsODA2NTk5NzE5LDM0MTI5
-MTc1NF19
+eyJoaXN0b3J5IjpbLTE1NjA0MTAxMzEsMTUyNjQ4MzU4OCwtMT
+A1MDMxMTE5MywxNDk0ODc1MjQxLC04MDA2ODY4NDEsLTIwNDky
+NTg2NDcsLTE5MDA5NzIzMTgsLTIwOTA0MDY2NzgsLTg3NDc2OD
+cxNSw5NjYzMzU0MSwtNDUxNzI0MjE4LC03OTY2ODMzMjEsMTQ5
+NjU4MTY3NywtMTcyMDYxMzkwOSw2NjM2OTM2Niw5MDI3NDEyMj
+ksODEyODIwNzIyLC05NzE5NDI2MjIsLTE2NzMyODc4NDUsODA2
+NTk5NzE5XX0=
 -->
