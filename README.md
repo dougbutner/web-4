@@ -73,11 +73,7 @@ POS and DPOS is additionally used to in projects like Hive to allow users to "vo
 
 However, both of these POS/DPOS use cases (curation and resource allocation) are not democratic in the sense that **each account is not equal**. In both cases, the root of democracy is in the token, not the individual, and the ownership of tokens determines the voting power or processing power held by an individual. 
 
-In the end, the only way to implement true democracy in any system is through giving each individual equal power. The only way to do this while keeping web3's decentralized nature is to implement the technological (biocryptology) and idealogical (time faucets, information entropy) advancements needed to be sure an account is owned by **one individual**, and that individual has **only one account**. These advancements are, for simplicity and communication, called web 4. 
-
-
-
-
+In the end, the only way to implement true democracy in any system is through giving **each individual equal power**. The only way to do this while keeping web3's decentralized nature is to implement the technological (biosecrets) and idealogical (time tokens, information entropy) advancements needed to be sure an account is owned by **one individual**, and that individual has **only one account**. These advancements are, for simplicity and communication, called web 4. 
 
 
 
@@ -404,11 +400,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE4MTg4ODQ4LC0xODAzNDg2OTY4LDE3Mj
-E3OTI4OCwxNTI2NDgzNTg4LC0xMDUwMzExMTkzLDE0OTQ4NzUy
-NDEsLTgwMDY4Njg0MSwtMjA0OTI1ODY0NywtMTkwMDk3MjMxOC
-wtMjA5MDQwNjY3OCwtODc0NzY4NzE1LDk2NjMzNTQxLC00NTE3
-MjQyMTgsLTc5NjY4MzMyMSwxNDk2NTgxNjc3LC0xNzIwNjEzOT
-A5LDY2MzY5MzY2LDkwMjc0MTIyOSw4MTI4MjA3MjIsLTk3MTk0
-MjYyMl19
+eyJoaXN0b3J5IjpbLTU5NzgzMDk0Miw5MTgxODg4NDgsLTE4MD
+M0ODY5NjgsMTcyMTc5Mjg4LDE1MjY0ODM1ODgsLTEwNTAzMTEx
+OTMsMTQ5NDg3NTI0MSwtODAwNjg2ODQxLC0yMDQ5MjU4NjQ3LC
+0xOTAwOTcyMzE4LC0yMDkwNDA2Njc4LC04NzQ3Njg3MTUsOTY2
+MzM1NDEsLTQ1MTcyNDIxOCwtNzk2NjgzMzIxLDE0OTY1ODE2Nz
+csLTE3MjA2MTM5MDksNjYzNjkzNjYsOTAyNzQxMjI5LDgxMjgy
+MDcyMl19
 -->
