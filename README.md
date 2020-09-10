@@ -188,7 +188,10 @@ User can choose to either perform a chosen biometric task to receive their hashe
 
 The biggest issue with biometrics is the lack of trust, mostly due to the growing number of facial recognition softwares and databases. The lack of trust is almost always associated with an individual's lack of consent, not the technology itself. 
 
-To alleviate the trust issue, solutions must be: 1) open-source, 2) run entirely on the individual's hardware (client-side), and 3) not expose any biometric data to any other users or systems. 
+### To alleviate the trust issue, solutions must be: 
+1) open-source
+2) run entirely on the individual's hardware (client-side), and 
+3) not expose any biometric data to any other users or the system itself. 
 
 By using identifying information following open-source algorithms, in a way that is provable, and 
 
@@ -385,11 +388,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI2Nzc3Mzk1LC0yMDQ5MjU4NjQ3LC0xOT
-AwOTcyMzE4LC0yMDkwNDA2Njc4LC04NzQ3Njg3MTUsOTY2MzM1
-NDEsLTQ1MTcyNDIxOCwtNzk2NjgzMzIxLDE0OTY1ODE2NzcsLT
-E3MjA2MTM5MDksNjYzNjkzNjYsOTAyNzQxMjI5LDgxMjgyMDcy
-MiwtOTcxOTQyNjIyLC0xNjczMjg3ODQ1LDgwNjU5OTcxOSwzND
-EyOTE3NTQsLTg3MDMyNTkwOCwtMjA2MzA4NTk1Miw2NDIwMzc2
-NDhdfQ==
+eyJoaXN0b3J5IjpbLTQ4Nzg4NDcxMSwtMjA0OTI1ODY0NywtMT
+kwMDk3MjMxOCwtMjA5MDQwNjY3OCwtODc0NzY4NzE1LDk2NjMz
+NTQxLC00NTE3MjQyMTgsLTc5NjY4MzMyMSwxNDk2NTgxNjc3LC
+0xNzIwNjEzOTA5LDY2MzY5MzY2LDkwMjc0MTIyOSw4MTI4MjA3
+MjIsLTk3MTk0MjYyMiwtMTY3MzI4Nzg0NSw4MDY1OTk3MTksMz
+QxMjkxNzU0LC04NzAzMjU5MDgsLTIwNjMwODU5NTIsNjQyMDM3
+NjQ4XX0=
 -->
