@@ -130,7 +130,7 @@ function bioKeyGenerator(bioData){
 	// Data must  exhibit granularity (snap to an integer path)
 	// This matrix of values is used to compare the biosecret with in the future
 	// This must be made more efficient to use with today's computers
-// There is a example of this 
+	// There is a example of this in Appendix A
 }
 
 function sendToAuthServer(){
@@ -148,7 +148,7 @@ You can see that this example used only web 2 technology, as JWT doesn't imply d
 
 Web 2 is not a viable candidate for this because the federated nature means that your biometric data must be trusted to a third party, possibly a large corporation or malicious actor. 
 
-Provable democracy cannot be fully achieved in web 3, because there is no control over how many accounts a user may own. [2] Many different consensus models have been developed, most notably, proof of work, proof of stake (POS), and delegated proof of stake (DPOS). These paradigms of consensus are used primarily to determine which chain of transaction records (blocks) is considered valid, securing a blockchain. 
+Provable democracy cannot be fully achieved in web 3, because there is no control over how many accounts a user may own. [2] Many different consensus models have been developed, most notably, proof of work (POW), proof of stake (POS), and delegated proof of stake (DPOS). These paradigms of consensus are used primarily to determine which chain of transaction records (blocks) is considered valid, securing a blockchain. 
 
 POS and DPOS is additionally used to in projects like Hive to allow users to "vote" on valuable content, an early example of the democratic web. DPOS is also used for networks to determine who can access network resources.
 
@@ -316,8 +316,10 @@ ___
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 
 
-# Appendix
-## Example of Biometric Function
+# Appendices
+
+
+## Appendix A: Example of Biometric Function
 	function bioKeyGenerator(bioData){
 		// Function takes data in the form of user input into their browser or smartphone.
 		let recievedData = bioData;
@@ -385,11 +387,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1OTExOTYxOCwtMTkwMDk3MjMxOCwtMj
-A5MDQwNjY3OCwtODc0NzY4NzE1LDk2NjMzNTQxLC00NTE3MjQy
-MTgsLTc5NjY4MzMyMSwxNDk2NTgxNjc3LC0xNzIwNjEzOTA5LD
-Y2MzY5MzY2LDkwMjc0MTIyOSw4MTI4MjA3MjIsLTk3MTk0MjYy
-MiwtMTY3MzI4Nzg0NSw4MDY1OTk3MTksMzQxMjkxNzU0LC04Nz
-AzMjU5MDgsLTIwNjMwODU5NTIsNjQyMDM3NjQ4LC03ODYwMTU4
-MDddfQ==
+eyJoaXN0b3J5IjpbLTIwNDkyNTg2NDcsLTE5MDA5NzIzMTgsLT
+IwOTA0MDY2NzgsLTg3NDc2ODcxNSw5NjYzMzU0MSwtNDUxNzI0
+MjE4LC03OTY2ODMzMjEsMTQ5NjU4MTY3NywtMTcyMDYxMzkwOS
+w2NjM2OTM2Niw5MDI3NDEyMjksODEyODIwNzIyLC05NzE5NDI2
+MjIsLTE2NzMyODc4NDUsODA2NTk5NzE5LDM0MTI5MTc1NCwtOD
+cwMzI1OTA4LC0yMDYzMDg1OTUyLDY0MjAzNzY0OCwtNzg2MDE1
+ODA3XX0=
 -->
