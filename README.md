@@ -52,7 +52,7 @@ Web 4 seeks to implement systems in **harmony with the universe itself** by repl
 We believe when we create information systems in **harmonic resonance** with natural systems, our society will be able to advance more rapidly than ever before, as we will be able to **"fit in" with the larger systems of information processing** around us (the Earth, Sun, and Galactic core). 
 
 ## Defining Web 4
-Web 4 introduces **provably democratic systems** built on top of web 3's open-source decentralized networks. 
+Web 4 introduces four modular components for **provably democratic systems** built on top of web 3's open-source decentralized networks. 
 
 There are 4 conceptual underpinnings (modules)  of web 4
 
@@ -61,7 +61,7 @@ There are 4 conceptual underpinnings (modules)  of web 4
  2. **Proof of Individuality**
 	 Biometric Secrets or other ways
  3. **Pseudonymity and Information Entropy**
-	 Information
+	 Information degradation over time, pseudo accounts in sensitive systems
  4. **Harmonic GeoSocial Systems**
 
 Int he following sections, we will discuss these concepts one at a time, then look at possible applications of these web 4 concepts, and a roadmap to reality.
@@ -411,11 +411,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTA5ODU3MzMsOTIyOTY0NzgyLC01OT
-c4MzA5NDIsOTE4MTg4ODQ4LC0xODAzNDg2OTY4LDE3MjE3OTI4
-OCwxNTI2NDgzNTg4LC0xMDUwMzExMTkzLDE0OTQ4NzUyNDEsLT
-gwMDY4Njg0MSwtMjA0OTI1ODY0NywtMTkwMDk3MjMxOCwtMjA5
-MDQwNjY3OCwtODc0NzY4NzE1LDk2NjMzNTQxLC00NTE3MjQyMT
-gsLTc5NjY4MzMyMSwxNDk2NTgxNjc3LC0xNzIwNjEzOTA5LDY2
-MzY5MzY2XX0=
+eyJoaXN0b3J5IjpbOTk0NTQ1MTIwLC0xODEwOTg1NzMzLDkyMj
+k2NDc4MiwtNTk3ODMwOTQyLDkxODE4ODg0OCwtMTgwMzQ4Njk2
+OCwxNzIxNzkyODgsMTUyNjQ4MzU4OCwtMTA1MDMxMTE5MywxND
+k0ODc1MjQxLC04MDA2ODY4NDEsLTIwNDkyNTg2NDcsLTE5MDA5
+NzIzMTgsLTIwOTA0MDY2NzgsLTg3NDc2ODcxNSw5NjYzMzU0MS
+wtNDUxNzI0MjE4LC03OTY2ODMzMjEsMTQ5NjU4MTY3NywtMTcy
+MDYxMzkwOV19
 -->
