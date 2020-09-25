@@ -63,7 +63,7 @@ There are 4 conceptual underpinnings (modules) of web 4
  3. **Pseudonymity and Information Entropy**
 	 Information degradation over time, pseudo accounts in sensitive systems
  4. **Harmonic GeoSocial Systems**
-	 
+	 Applying geotemporal voting to helping people come tofether 
 
 Each idea can be used separately or in tandem. Here we will propos
 
@@ -273,7 +273,7 @@ ___
 ___
 # GeoSocial Layers
 
-Each version of the web must evolve. I believe the greatest evolution happens when we can harness the concepts of collaborative social environment more th 
+Collaborative social environments were always happenin
 
 
 # The experience of Web 4
@@ -414,11 +414,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODgyNzc1NTYsLTE4MTA5ODU3MzMsOT
-IyOTY0NzgyLC01OTc4MzA5NDIsOTE4MTg4ODQ4LC0xODAzNDg2
-OTY4LDE3MjE3OTI4OCwxNTI2NDgzNTg4LC0xMDUwMzExMTkzLD
-E0OTQ4NzUyNDEsLTgwMDY4Njg0MSwtMjA0OTI1ODY0NywtMTkw
-MDk3MjMxOCwtMjA5MDQwNjY3OCwtODc0NzY4NzE1LDk2NjMzNT
-QxLC00NTE3MjQyMTgsLTc5NjY4MzMyMSwxNDk2NTgxNjc3LC0x
-NzIwNjEzOTA5XX0=
+eyJoaXN0b3J5IjpbNzQ5ODM2MDA4LC0xODEwOTg1NzMzLDkyMj
+k2NDc4MiwtNTk3ODMwOTQyLDkxODE4ODg0OCwtMTgwMzQ4Njk2
+OCwxNzIxNzkyODgsMTUyNjQ4MzU4OCwtMTA1MDMxMTE5MywxND
+k0ODc1MjQxLC04MDA2ODY4NDEsLTIwNDkyNTg2NDcsLTE5MDA5
+NzIzMTgsLTIwOTA0MDY2NzgsLTg3NDc2ODcxNSw5NjYzMzU0MS
+wtNDUxNzI0MjE4LC03OTY2ODMzMjEsMTQ5NjU4MTY3NywtMTcy
+MDYxMzkwOV19
 -->
