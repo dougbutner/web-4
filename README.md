@@ -13,7 +13,7 @@ This README features a description of the next evolution of the web, **web 4**. 
 
 ## What is Web 4?
 
-Web 4 is a set of **modular paradigms** and practices that allow integration of **provable democracy in any system**; technical, social, economic, or otherwise. Modularity allows any project to adopt one or more of these principles to imporv
+Web 4 is a set of **modular paradigms** and practices that allow integration of **provable democracy in any system**; technical, social, economic, or otherwise. Modularity allows any project to adopt one or more of these principles to improve the fidelity of their user's experience. 
 
 Web 4 is **built on top of web 3** (blockchain-based) while being **fundamentally different** and providing enough **benefit to society** warrant the new title of web 4. 
 
@@ -54,7 +54,7 @@ We believe when we create information systems in **harmonic resonance** with nat
 ## Defining Web 4
 Web 4 introduces **provably democratic systems** built on top of web 3's open-source decentralized networks. 
 
-There are 4 conceptual underpinnings of web 4
+There are 4 conceptual underpinnings (modules of web 4
 
  1. **Time-issued cryptocurrency** 
  2. **Proof of Individuality**
@@ -261,8 +261,11 @@ Incentives are give for the ratity of the
 Performance Benefits
 In the event that 
 
+___
+# **<center>**4**</center>**
 
-# 4. GeoSocial Layers
+___
+# GeoSocial Layers
 
 Each version of the web must evolve. I believe the greatest evolution happens when we can harness the concepts of collaborative social environment more th 
 
@@ -405,11 +408,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2OTczMTgxMyw5MjI5NjQ3ODIsLTU5Nz
-gzMDk0Miw5MTgxODg4NDgsLTE4MDM0ODY5NjgsMTcyMTc5Mjg4
-LDE1MjY0ODM1ODgsLTEwNTAzMTExOTMsMTQ5NDg3NTI0MSwtOD
-AwNjg2ODQxLC0yMDQ5MjU4NjQ3LC0xOTAwOTcyMzE4LC0yMDkw
-NDA2Njc4LC04NzQ3Njg3MTUsOTY2MzM1NDEsLTQ1MTcyNDIxOC
-wtNzk2NjgzMzIxLDE0OTY1ODE2NzcsLTE3MjA2MTM5MDksNjYz
-NjkzNjZdfQ==
+eyJoaXN0b3J5IjpbMTIzMDEyMjEyLDkyMjk2NDc4MiwtNTk3OD
+MwOTQyLDkxODE4ODg0OCwtMTgwMzQ4Njk2OCwxNzIxNzkyODgs
+MTUyNjQ4MzU4OCwtMTA1MDMxMTE5MywxNDk0ODc1MjQxLC04MD
+A2ODY4NDEsLTIwNDkyNTg2NDcsLTE5MDA5NzIzMTgsLTIwOTA0
+MDY2NzgsLTg3NDc2ODcxNSw5NjYzMzU0MSwtNDUxNzI0MjE4LC
+03OTY2ODMzMjEsMTQ5NjU4MTY3NywtMTcyMDYxMzkwOSw2NjM2
+OTM2Nl19
 -->
