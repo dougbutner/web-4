@@ -13,7 +13,9 @@ This README features a description of the next evolution of the web, **web 4**. 
 
 ## What is Web 4?
 
-Web 4 is a set of modular paradigms and practices that allow integration of **provable democracy in any system**; technical, social, economic, or otherwise. Web 4 is **built on top of web 3** (blockchain-based) while being **fundamentally different** and providing enough **benefit to society** warrant the new title of web 4. 
+Web 4 is a set of **modular paradigms** and practices that allow integration of **provable democracy in any system**; technical, social, economic, or otherwise. Modularity allows any project to adopt one or more of these principles to imporv
+
+Web 4 is **built on top of web 3** (blockchain-based) while being **fundamentally different** and providing enough **benefit to society** warrant the new title of web 4. 
 
 # Background
 
@@ -403,11 +405,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDc2NDI1ODIsOTIyOTY0NzgyLC01OT
-c4MzA5NDIsOTE4MTg4ODQ4LC0xODAzNDg2OTY4LDE3MjE3OTI4
-OCwxNTI2NDgzNTg4LC0xMDUwMzExMTkzLDE0OTQ4NzUyNDEsLT
-gwMDY4Njg0MSwtMjA0OTI1ODY0NywtMTkwMDk3MjMxOCwtMjA5
-MDQwNjY3OCwtODc0NzY4NzE1LDk2NjMzNTQxLC00NTE3MjQyMT
-gsLTc5NjY4MzMyMSwxNDk2NTgxNjc3LC0xNzIwNjEzOTA5LDY2
-MzY5MzY2XX0=
+eyJoaXN0b3J5IjpbMTY2OTczMTgxMyw5MjI5NjQ3ODIsLTU5Nz
+gzMDk0Miw5MTgxODg4NDgsLTE4MDM0ODY5NjgsMTcyMTc5Mjg4
+LDE1MjY0ODM1ODgsLTEwNTAzMTExOTMsMTQ5NDg3NTI0MSwtOD
+AwNjg2ODQxLC0yMDQ5MjU4NjQ3LC0xOTAwOTcyMzE4LC0yMDkw
+NDA2Njc4LC04NzQ3Njg3MTUsOTY2MzM1NDEsLTQ1MTcyNDIxOC
+wtNzk2NjgzMzIxLDE0OTY1ODE2NzcsLTE3MjA2MTM5MDksNjYz
+NjkzNjZdfQ==
 -->
