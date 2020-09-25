@@ -61,7 +61,7 @@ There are 4 conceptual underpinnings (modules)  of web 4
  2. **Proof of Individuality**
 	 Biometric Secrets or other ways
  3. **Pseudonymity and Information Entropy**
-	 
+	 Information
  4. **Harmonic GeoSocial Systems**
 
 Int he following sections, we will discuss these concepts one at a time, then look at possible applications of these web 4 concepts, and a roadmap to reality.
@@ -411,11 +411,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIwOTQyMjk3LDkyMjk2NDc4MiwtNTk3OD
-MwOTQyLDkxODE4ODg0OCwtMTgwMzQ4Njk2OCwxNzIxNzkyODgs
-MTUyNjQ4MzU4OCwtMTA1MDMxMTE5MywxNDk0ODc1MjQxLC04MD
-A2ODY4NDEsLTIwNDkyNTg2NDcsLTE5MDA5NzIzMTgsLTIwOTA0
-MDY2NzgsLTg3NDc2ODcxNSw5NjYzMzU0MSwtNDUxNzI0MjE4LC
-03OTY2ODMzMjEsMTQ5NjU4MTY3NywtMTcyMDYxMzkwOSw2NjM2
-OTM2Nl19
+eyJoaXN0b3J5IjpbLTE4MTA5ODU3MzMsOTIyOTY0NzgyLC01OT
+c4MzA5NDIsOTE4MTg4ODQ4LC0xODAzNDg2OTY4LDE3MjE3OTI4
+OCwxNTI2NDgzNTg4LC0xMDUwMzExMTkzLDE0OTQ4NzUyNDEsLT
+gwMDY4Njg0MSwtMjA0OTI1ODY0NywtMTkwMDk3MjMxOCwtMjA5
+MDQwNjY3OCwtODc0NzY4NzE1LDk2NjMzNTQxLC00NTE3MjQyMT
+gsLTc5NjY4MzMyMSwxNDk2NTgxNjc3LC0xNzIwNjEzOTA5LDY2
+MzY5MzY2XX0=
 -->
