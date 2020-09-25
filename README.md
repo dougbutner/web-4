@@ -54,7 +54,7 @@ We believe when we create information systems in **harmonic resonance** with nat
 ## Defining Web 4
 Web 4 introduces **provably democratic systems** built on top of web 3's open-source decentralized networks. 
 
-There are 4 conceptual underpinnings (modules of web 4
+There are 4 conceptual underpinnings (modules)  of web 4
 
  1. **Time-issued cryptocurrency** 
  2. **Proof of Individuality**
@@ -71,7 +71,7 @@ Democracy is essentially reaching a consensus with the idea that **each person i
 
 [2] Many different consensus models have been developed, most notably, proof of work (**POW**), proof of stake (**POS**), and delegated proof of stake (**DPOS**). These paradigms of consensus are used primarily to determine which chain of transaction records (blocks) is considered valid, securing a blockchain. 
 
-POS and DPOS is additionally used to in projects like Hive to allow users to "vote" on valuable content, an early example of the democratic web. DPOS is also used for networks to determine who can access network resources.
+POS and DPOS is additionally used to in projects like [**Hive**](https://peakd.com) to allow users to "vote" on valuable content, an early example of the democratic web. DPOS is also used for networks to determine who can access network resources.
 
 However, both of these POS/DPOS use cases (curation and resource allocation) are not democratic in the sense that **each account is not equal**. In both cases, the root of democracy is in the token, not the individual, and the ownership of tokens determines the voting power or processing power held by an individual. 
 
@@ -408,11 +408,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMDEyMjEyLDkyMjk2NDc4MiwtNTk3OD
-MwOTQyLDkxODE4ODg0OCwtMTgwMzQ4Njk2OCwxNzIxNzkyODgs
-MTUyNjQ4MzU4OCwtMTA1MDMxMTE5MywxNDk0ODc1MjQxLC04MD
-A2ODY4NDEsLTIwNDkyNTg2NDcsLTE5MDA5NzIzMTgsLTIwOTA0
-MDY2NzgsLTg3NDc2ODcxNSw5NjYzMzU0MSwtNDUxNzI0MjE4LC
-03OTY2ODMzMjEsMTQ5NjU4MTY3NywtMTcyMDYxMzkwOSw2NjM2
-OTM2Nl19
+eyJoaXN0b3J5IjpbMjAxNDc5NjE4NSw5MjI5NjQ3ODIsLTU5Nz
+gzMDk0Miw5MTgxODg4NDgsLTE4MDM0ODY5NjgsMTcyMTc5Mjg4
+LDE1MjY0ODM1ODgsLTEwNTAzMTExOTMsMTQ5NDg3NTI0MSwtOD
+AwNjg2ODQxLC0yMDQ5MjU4NjQ3LC0xOTAwOTcyMzE4LC0yMDkw
+NDA2Njc4LC04NzQ3Njg3MTUsOTY2MzM1NDEsLTQ1MTcyNDIxOC
+wtNzk2NjgzMzIxLDE0OTY1ODE2NzcsLTE3MjA2MTM5MDksNjYz
+NjkzNjZdfQ==
 -->
