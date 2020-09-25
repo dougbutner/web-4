@@ -222,14 +222,11 @@ The upside of biometric secrets is they **cannot be lost**, and the account will
 
 
 
-
-
-
+___
+# **<center>**3**</center>**
 
 ___
-<center>~~</center>
 
-___
 
 ## Degradation of Information
 Web 3 focuses on storing information forever in a provable way. Web 4 introduces a counter-model which may be **optionally** adopted by any time-token-based system. In this model, who did what becomes **harder and harder to know** the more time that passes. 
@@ -406,11 +403,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIyOTY0NzgyLC01OTc4MzA5NDIsOTE4MT
-g4ODQ4LC0xODAzNDg2OTY4LDE3MjE3OTI4OCwxNTI2NDgzNTg4
-LC0xMDUwMzExMTkzLDE0OTQ4NzUyNDEsLTgwMDY4Njg0MSwtMj
-A0OTI1ODY0NywtMTkwMDk3MjMxOCwtMjA5MDQwNjY3OCwtODc0
-NzY4NzE1LDk2NjMzNTQxLC00NTE3MjQyMTgsLTc5NjY4MzMyMS
-wxNDk2NTgxNjc3LC0xNzIwNjEzOTA5LDY2MzY5MzY2LDkwMjc0
-MTIyOV19
+eyJoaXN0b3J5IjpbLTE4NDc2NDI1ODIsOTIyOTY0NzgyLC01OT
+c4MzA5NDIsOTE4MTg4ODQ4LC0xODAzNDg2OTY4LDE3MjE3OTI4
+OCwxNTI2NDgzNTg4LC0xMDUwMzExMTkzLDE0OTQ4NzUyNDEsLT
+gwMDY4Njg0MSwtMjA0OTI1ODY0NywtMTkwMDk3MjMxOCwtMjA5
+MDQwNjY3OCwtODc0NzY4NzE1LDk2NjMzNTQxLC00NTE3MjQyMT
+gsLTc5NjY4MzMyMSwxNDk2NTgxNjc3LC0xNzIwNjEzOTA5LDY2
+MzY5MzY2XX0=
 -->
