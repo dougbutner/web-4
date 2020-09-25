@@ -57,7 +57,9 @@ Web 4 introduces **provably democratic systems** built on top of web 3's open-so
 There are 4 conceptual underpinnings (modules)  of web 4
 
  1. **Time-issued cryptocurrency** 
+	 Called *"Time Tokens"*
  2. **Proof of Individuality**
+	 E
  3. **Pseudonymity and Information Entropy**
  4. **Harmonic GeoSocial Systems**
 
@@ -408,7 +410,7 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNDc5NjE4NSw5MjI5NjQ3ODIsLTU5Nz
+eyJoaXN0b3J5IjpbMTE0NTM3MzE3Niw5MjI5NjQ3ODIsLTU5Nz
 gzMDk0Miw5MTgxODg4NDgsLTE4MDM0ODY5NjgsMTcyMTc5Mjg4
 LDE1MjY0ODM1ODgsLTEwNTAzMTExOTMsMTQ5NDg3NTI0MSwtOD
 AwNjg2ODQxLC0yMDQ5MjU4NjQ3LC0xOTAwOTcyMzE4LC0yMDkw
