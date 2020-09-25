@@ -75,9 +75,13 @@ However, both of these POS/DPOS use cases (curation and resource allocation) are
 
 In the end, the only way to implement true democracy in any system is through giving **each individual equal power**. The only way to do this while keeping web3's decentralized nature is to implement the technological (biosecrets) and idealogical (time tokens, information entropy) advancements needed to be sure an account is owned by **one individual**, and that individual has **only one account**. These advancements are, for simplicity and communication, called web 4. 
 
+___
+# **<center>**1**</center>**
+
+___
 
 
-# #1: Time-issued cryptocurrency (Time Tokens) 
+# Time-issued cryptocurrency (Time Tokens) 
 
 Time tokens are distributed to users' wallets periodically as time passes. These tokens provide the user with an action. The action burns the token, which may cause some change in the state of a system, or minting of another token, or any other action. 
 
@@ -168,16 +172,18 @@ We have said we web 4 is based on web 3 (blockchain), but this example used only
 
 ## Why can't web 2 or 3 be used for Time Tokens?
 
-Of course they can! It's just not viable to fulfill all principles of web 4 (democracy), but can be done. Web 2 is not a viable candidate for provable democracy because the federated nature means that your biometric data **must be trusted** to a third party, possibly a large corporation or malicious actor. 
+Of course they can! It's just not viable to fulfill all principles of web 4 , but can be done to an extent. 
+
+Web 2 is not a viable candidate for **provable democracy** because the federated nature means that your biometric data **must be trusted** to a third party, possibly a large corporation or malicious actor. 
 
 
 
 ___
-<center>~~</center>
+# **<center>**2**</center>**
 
 ___
 
-## **2.  Proof of Individuality - Biometric Secrets + Protecting Identity**
+## **Proof of Individuality - Biometric Secrets + Protecting Identity**
 **Biometric secrets** are akin to any cryptographic secret key, they are a hash of information. The information hashed in a biometric secret comes from a person's biometric expression. In today's biometric space, simple static images are most commonly used for things like fingerprint and facial recognition, and geometry is the means to compare this data. 
 
 Biometric secrets generated from static images are not secure, as static images can be easily faked in innumerable ways [GETCIT]. Video offers a better solution to this problem, as it is harder to fake, can include audio, and lets developers create a whole new set of algorithms based on a changing stream of data. 
@@ -400,11 +406,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NzgzMDk0Miw5MTgxODg4NDgsLTE4MD
-M0ODY5NjgsMTcyMTc5Mjg4LDE1MjY0ODM1ODgsLTEwNTAzMTEx
-OTMsMTQ5NDg3NTI0MSwtODAwNjg2ODQxLC0yMDQ5MjU4NjQ3LC
-0xOTAwOTcyMzE4LC0yMDkwNDA2Njc4LC04NzQ3Njg3MTUsOTY2
-MzM1NDEsLTQ1MTcyNDIxOCwtNzk2NjgzMzIxLDE0OTY1ODE2Nz
-csLTE3MjA2MTM5MDksNjYzNjkzNjYsOTAyNzQxMjI5LDgxMjgy
-MDcyMl19
+eyJoaXN0b3J5IjpbOTIyOTY0NzgyLC01OTc4MzA5NDIsOTE4MT
+g4ODQ4LC0xODAzNDg2OTY4LDE3MjE3OTI4OCwxNTI2NDgzNTg4
+LC0xMDUwMzExMTkzLDE0OTQ4NzUyNDEsLTgwMDY4Njg0MSwtMj
+A0OTI1ODY0NywtMTkwMDk3MjMxOCwtMjA5MDQwNjY3OCwtODc0
+NzY4NzE1LDk2NjMzNTQxLC00NTE3MjQyMTgsLTc5NjY4MzMyMS
+wxNDk2NTgxNjc3LC0xNzIwNjEzOTA5LDY2MzY5MzY2LDkwMjc0
+MTIyOV19
 -->
