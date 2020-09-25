@@ -52,9 +52,9 @@ Web 4 seeks to implement systems in **harmony with the universe itself** by repl
 We believe when we create information systems in **harmonic resonance** with natural systems, our society will be able to advance more rapidly than ever before, as we will be able to **"fit in" with the larger systems of information processing** around us (the Earth, Sun, and Galactic core). 
 
 ## Defining Web 4
-Web 4 introduces four modular components for **provably democratic systems** built on top of web 3's open-source decentralized networks. 
+Web 4 introduces **four modular components** for **provably democratic systems** built on top of web 3's open-source decentralized networks. 
 
-There are 4 conceptual underpinnings (modules)  of web 4
+There are 4 conceptual underpinnings (modules) of web 4
 
  1. **Time-issued cryptocurrency** 
 	 Called *"Time Tokens"*
@@ -63,6 +63,9 @@ There are 4 conceptual underpinnings (modules)  of web 4
  3. **Pseudonymity and Information Entropy**
 	 Information degradation over time, pseudo accounts in sensitive systems
  4. **Harmonic GeoSocial Systems**
+	 
+
+Each idea can be used separately or in tandem. Here we will propos
 
 Int he following sections, we will discuss these concepts one at a time, then look at possible applications of these web 4 concepts, and a roadmap to reality.
 
@@ -411,11 +414,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk0NTQ1MTIwLC0xODEwOTg1NzMzLDkyMj
-k2NDc4MiwtNTk3ODMwOTQyLDkxODE4ODg0OCwtMTgwMzQ4Njk2
-OCwxNzIxNzkyODgsMTUyNjQ4MzU4OCwtMTA1MDMxMTE5MywxND
-k0ODc1MjQxLC04MDA2ODY4NDEsLTIwNDkyNTg2NDcsLTE5MDA5
-NzIzMTgsLTIwOTA0MDY2NzgsLTg3NDc2ODcxNSw5NjYzMzU0MS
-wtNDUxNzI0MjE4LC03OTY2ODMzMjEsMTQ5NjU4MTY3NywtMTcy
-MDYxMzkwOV19
+eyJoaXN0b3J5IjpbLTE1ODgyNzc1NTYsLTE4MTA5ODU3MzMsOT
+IyOTY0NzgyLC01OTc4MzA5NDIsOTE4MTg4ODQ4LC0xODAzNDg2
+OTY4LDE3MjE3OTI4OCwxNTI2NDgzNTg4LC0xMDUwMzExMTkzLD
+E0OTQ4NzUyNDEsLTgwMDY4Njg0MSwtMjA0OTI1ODY0NywtMTkw
+MDk3MjMxOCwtMjA5MDQwNjY3OCwtODc0NzY4NzE1LDk2NjMzNT
+QxLC00NTE3MjQyMTgsLTc5NjY4MzMyMSwxNDk2NTgxNjc3LC0x
+NzIwNjEzOTA5XX0=
 -->
