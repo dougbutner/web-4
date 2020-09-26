@@ -19,9 +19,9 @@ Web 4 is a set of **modular paradigms** and practices that allow integration of 
 
 Web 4 is **built on top of web 3** (blockchain-based) while being **fundamentally different** and providing enough **benefit to society** warrant the new title of web 4. 
 
-In essence, web 4 is positive attention catalyzer, built on proving an individual is and providing them a set of 
+In essence, web 4 is positive attention catalyzer, built on proving an individual is and providing them a set of power that only gains meaning when they send it
 
-> Web 4 is not a single JS or other library, It's a philosophy enacted in a web 3 environment.  
+> Web 4 is not a single JS or other library, It's a philosophy enacted on top of a web 3 environment.  
 
 # Background
 
@@ -423,7 +423,7 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNTAwODI0NCwzMTU4ODAwMTEsLTE4MT
+eyJoaXN0b3J5IjpbMjA4MTU3NDE5NCwzMTU4ODAwMTEsLTE4MT
 A5ODU3MzMsOTIyOTY0NzgyLC01OTc4MzA5NDIsOTE4MTg4ODQ4
 LC0xODAzNDg2OTY4LDE3MjE3OTI4OCwxNTI2NDgzNTg4LC0xMD
 UwMzExMTkzLDE0OTQ4NzUyNDEsLTgwMDY4Njg0MSwtMjA0OTI1
