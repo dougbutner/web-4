@@ -13,7 +13,7 @@ This README features a description of the next evolution of the web, **web 4**. 
 
 ## What is Web 4?
 
-Web 4 is positive attention catalyzer, 
+Web 4 is positive attention catalyzer, built on proving an individual is and providing them a set of 
 
 Web 4 is a set of **modular paradigms** and practices that allow integration of **provable democracy in any system**; technical, social, economic, or otherwise. Modularity allows any project to adopt one or more of these principles to improve the fidelity of their user's experience. 
 
@@ -419,7 +419,7 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk2NTIyOTA4LDMxNTg4MDAxMSwtMTgxMD
+eyJoaXN0b3J5IjpbMTcwNTQ2Mzc5LDMxNTg4MDAxMSwtMTgxMD
 k4NTczMyw5MjI5NjQ3ODIsLTU5NzgzMDk0Miw5MTgxODg4NDgs
 LTE4MDM0ODY5NjgsMTcyMTc5Mjg4LDE1MjY0ODM1ODgsLTEwNT
 AzMTExOTMsMTQ5NDg3NTI0MSwtODAwNjg2ODQxLC0yMDQ5MjU4
