@@ -13,6 +13,8 @@ This README features a description of the next evolution of the web, **web 4**. 
 
 ## What is Web 4?
 
+Web 4 is positive attention catalyzer, 
+
 Web 4 is a set of **modular paradigms** and practices that allow integration of **provable democracy in any system**; technical, social, economic, or otherwise. Modularity allows any project to adopt one or more of these principles to improve the fidelity of their user's experience. 
 
 Web 4 is **built on top of web 3** (blockchain-based) while being **fundamentally different** and providing enough **benefit to society** warrant the new title of web 4. 
@@ -275,7 +277,8 @@ ___
 
 Collaborative social environments were always happening everywhere humans live. Now, we create these layers on websites and blockchains. 
 
-Geosocial layers is the widely beneficial integration of these principles as a layer on top of existing 
+Geosocial layers is the widely beneficial integration of these principles as a layer on top of existing geosocial systems. 
+These networks of information and positive attention
 
 
 # The experience of Web 4
@@ -416,11 +419,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNjM5ODY0OSwzMTU4ODAwMTEsLTE4MT
-A5ODU3MzMsOTIyOTY0NzgyLC01OTc4MzA5NDIsOTE4MTg4ODQ4
-LC0xODAzNDg2OTY4LDE3MjE3OTI4OCwxNTI2NDgzNTg4LC0xMD
-UwMzExMTkzLDE0OTQ4NzUyNDEsLTgwMDY4Njg0MSwtMjA0OTI1
-ODY0NywtMTkwMDk3MjMxOCwtMjA5MDQwNjY3OCwtODc0NzY4Nz
-E1LDk2NjMzNTQxLC00NTE3MjQyMTgsLTc5NjY4MzMyMSwxNDk2
-NTgxNjc3XX0=
+eyJoaXN0b3J5IjpbNjk2NTIyOTA4LDMxNTg4MDAxMSwtMTgxMD
+k4NTczMyw5MjI5NjQ3ODIsLTU5NzgzMDk0Miw5MTgxODg4NDgs
+LTE4MDM0ODY5NjgsMTcyMTc5Mjg4LDE1MjY0ODM1ODgsLTEwNT
+AzMTExOTMsMTQ5NDg3NTI0MSwtODAwNjg2ODQxLC0yMDQ5MjU4
+NjQ3LC0xOTAwOTcyMzE4LC0yMDkwNDA2Njc4LC04NzQ3Njg3MT
+UsOTY2MzM1NDEsLTQ1MTcyNDIxOCwtNzk2NjgzMzIxLDE0OTY1
+ODE2NzddfQ==
 -->
