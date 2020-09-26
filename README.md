@@ -273,7 +273,9 @@ ___
 ___
 # GeoSocial Layers
 
-Collaborative social environments were always happening everywhere humans live. Now, we create these layers on websites and blockchains
+Collaborative social environments were always happening everywhere humans live. Now, we create these layers on websites and blockchains. 
+
+Geosocial layers is the widely beneficial integration of these principles as a layer on top of existing 
 
 
 # The experience of Web 4
@@ -414,11 +416,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE1ODgwMDExLC0xODEwOTg1NzMzLDkyMj
-k2NDc4MiwtNTk3ODMwOTQyLDkxODE4ODg0OCwtMTgwMzQ4Njk2
-OCwxNzIxNzkyODgsMTUyNjQ4MzU4OCwtMTA1MDMxMTE5MywxND
-k0ODc1MjQxLC04MDA2ODY4NDEsLTIwNDkyNTg2NDcsLTE5MDA5
-NzIzMTgsLTIwOTA0MDY2NzgsLTg3NDc2ODcxNSw5NjYzMzU0MS
-wtNDUxNzI0MjE4LC03OTY2ODMzMjEsMTQ5NjU4MTY3NywtMTcy
-MDYxMzkwOV19
+eyJoaXN0b3J5IjpbLTQzNjM5ODY0OSwzMTU4ODAwMTEsLTE4MT
+A5ODU3MzMsOTIyOTY0NzgyLC01OTc4MzA5NDIsOTE4MTg4ODQ4
+LC0xODAzNDg2OTY4LDE3MjE3OTI4OCwxNTI2NDgzNTg4LC0xMD
+UwMzExMTkzLDE0OTQ4NzUyNDEsLTgwMDY4Njg0MSwtMjA0OTI1
+ODY0NywtMTkwMDk3MjMxOCwtMjA5MDQwNjY3OCwtODc0NzY4Nz
+E1LDk2NjMzNTQxLC00NTE3MjQyMTgsLTc5NjY4MzMyMSwxNDk2
+NTgxNjc3XX0=
 -->
