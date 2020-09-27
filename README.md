@@ -97,7 +97,7 @@ ___
 
 # Time-issued cryptocurrency (Time Tokens) 
 
-Time tokens are distributed to users' wallets periodically as time passes. They woek with 
+Time tokens are distributed to users' wallets periodically as time passes. They work by hashing a unique identifier with a time identifier, linking each token to a person dur span of time
 
 These tokens provide the user with an action. The action burns the token, which may cause some change in the state of a system, or minting of another token, or any other action. 
 
@@ -106,7 +106,7 @@ These tokens provide the user with an action. The action burns the token, which 
 Time tokens rely on the following concepts:
 
  1. **Time Unit**
-A time unit MUST be a superset of a timestamp. This means that a time unit is some amount (or fraction) of a second. Each time token MUST be the only one in existence stamped with a particular time unit for each user (wallet). 
+A time unit MUST be a superset of a timestamp. This means that a time unit is some amount (or fraction) of seconds. Each time token MUST be the only one in existence stamped with a particular time unit for each user (wallet). 
  2. **Time Token Faucet**
 A time faucet offers any verified user EXACTLY one time token per unit of time passed since their last faucet. This can be an active faucet; requiring some action by the recipient, or a passive faucet; automatically sending the cryptocurrency to the user.
  3. **Verified Recipients**
@@ -425,7 +425,7 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjMwMjI3NjgsLTExMTg2NzMwMywxMT
+eyJoaXN0b3J5IjpbLTEyNjU0NzgyNDQsLTExMTg2NzMwMywxMT
 gxMzk4NjUsMzE1ODgwMDExLC0xODEwOTg1NzMzLDkyMjk2NDc4
 MiwtNTk3ODMwOTQyLDkxODE4ODg0OCwtMTgwMzQ4Njk2OCwxNz
 IxNzkyODgsMTUyNjQ4MzU4OCwtMTA1MDMxMTE5MywxNDk0ODc1
