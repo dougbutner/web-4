@@ -67,7 +67,7 @@ There are 4 conceptual underpinnings (modules) of web 4
  1. **Time-issued cryptocurrency** 
 	 Individuals may receive "Time Tokens" at given intervals
  2. **Proof of Individuality**
-	 Biometric Secrets and
+	 Biometric Secrets, Social Verification, and
  3. **Pseudonymity and Information Entropy**
 	 Information degradation over time, pseudo accounts in sensitive systems
  4. **Harmonic GeoSocial Systems**
@@ -434,11 +434,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMzU5MzkxMywtOTcxMzQ0NjM2LDkxND
-U1NTA1MCwtMTExODY3MzAzLDExODEzOTg2NSwzMTU4ODAwMTEs
-LTE4MTA5ODU3MzMsOTIyOTY0NzgyLC01OTc4MzA5NDIsOTE4MT
-g4ODQ4LC0xODAzNDg2OTY4LDE3MjE3OTI4OCwxNTI2NDgzNTg4
-LC0xMDUwMzExMTkzLDE0OTQ4NzUyNDEsLTgwMDY4Njg0MSwtMj
-A0OTI1ODY0NywtMTkwMDk3MjMxOCwtMjA5MDQwNjY3OCwtODc0
-NzY4NzE1XX0=
+eyJoaXN0b3J5IjpbMjE1Mzg5MzgzLC05NzEzNDQ2MzYsOTE0NT
+U1MDUwLC0xMTE4NjczMDMsMTE4MTM5ODY1LDMxNTg4MDAxMSwt
+MTgxMDk4NTczMyw5MjI5NjQ3ODIsLTU5NzgzMDk0Miw5MTgxOD
+g4NDgsLTE4MDM0ODY5NjgsMTcyMTc5Mjg4LDE1MjY0ODM1ODgs
+LTEwNTAzMTExOTMsMTQ5NDg3NTI0MSwtODAwNjg2ODQxLC0yMD
+Q5MjU4NjQ3LC0xOTAwOTcyMzE4LC0yMDkwNDA2Njc4LC04NzQ3
+Njg3MTVdfQ==
 -->
