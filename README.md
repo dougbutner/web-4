@@ -69,7 +69,7 @@ There are 4 conceptual underpinnings (modules) of web 4
  3. **Pseudonymity and Information Entropy**
 	 Information degradation over time, pseudo accounts in sensitive systems
  4. **Harmonic GeoSocial Systems**
-	 Applying geotemporal voting to helping people come tofether 
+	 Applying geotemporal voting to helping people come together and organize in collaborative, regenerative ways. 
 
 Each idea can be used separately or in tandem. Here we will propos
 
@@ -425,11 +425,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE0NTU1MDUwLC0xMTE4NjczMDMsMTE4MT
-M5ODY1LDMxNTg4MDAxMSwtMTgxMDk4NTczMyw5MjI5NjQ3ODIs
-LTU5NzgzMDk0Miw5MTgxODg4NDgsLTE4MDM0ODY5NjgsMTcyMT
-c5Mjg4LDE1MjY0ODM1ODgsLTEwNTAzMTExOTMsMTQ5NDg3NTI0
-MSwtODAwNjg2ODQxLC0yMDQ5MjU4NjQ3LC0xOTAwOTcyMzE4LC
-0yMDkwNDA2Njc4LC04NzQ3Njg3MTUsOTY2MzM1NDEsLTQ1MTcy
-NDIxOF19
+eyJoaXN0b3J5IjpbLTk3MTM0NDYzNiw5MTQ1NTUwNTAsLTExMT
+g2NzMwMywxMTgxMzk4NjUsMzE1ODgwMDExLC0xODEwOTg1NzMz
+LDkyMjk2NDc4MiwtNTk3ODMwOTQyLDkxODE4ODg0OCwtMTgwMz
+Q4Njk2OCwxNzIxNzkyODgsMTUyNjQ4MzU4OCwtMTA1MDMxMTE5
+MywxNDk0ODc1MjQxLC04MDA2ODY4NDEsLTIwNDkyNTg2NDcsLT
+E5MDA5NzIzMTgsLTIwOTA0MDY2NzgsLTg3NDc2ODcxNSw5NjYz
+MzU0MV19
 -->
