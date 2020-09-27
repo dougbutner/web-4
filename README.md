@@ -279,12 +279,19 @@ ___
 # **<center>**4**</center>**
 
 ___
-# GeoSocial Layers
+# GeoSocial Harmonic Layers
 
-Collaborative social environments were always happening everywhere humans live. Now, we create these layers on websites and blockchains. 
+Collaborative social environments are always happening everywhere humans live. Currently, we are both realizing the vast differences in ways to live, as well as what direction we should be facing to 
+
+ Now, we create these layers on websites and blockchains. 
 
 Geosocial layers is the widely beneficial integration of these principles as a layer on top of existing geosocial systems. 
 These networks of information and positive attention
+
+
+GeoSocial Layers
+
+
 
 
 # The experience of Web 4
@@ -425,11 +432,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MTM0NDYzNiw5MTQ1NTUwNTAsLTExMT
-g2NzMwMywxMTgxMzk4NjUsMzE1ODgwMDExLC0xODEwOTg1NzMz
-LDkyMjk2NDc4MiwtNTk3ODMwOTQyLDkxODE4ODg0OCwtMTgwMz
-Q4Njk2OCwxNzIxNzkyODgsMTUyNjQ4MzU4OCwtMTA1MDMxMTE5
-MywxNDk0ODc1MjQxLC04MDA2ODY4NDEsLTIwNDkyNTg2NDcsLT
-E5MDA5NzIzMTgsLTIwOTA0MDY2NzgsLTg3NDc2ODcxNSw5NjYz
-MzU0MV19
+eyJoaXN0b3J5IjpbNTgxNjE5OTQxLC05NzEzNDQ2MzYsOTE0NT
+U1MDUwLC0xMTE4NjczMDMsMTE4MTM5ODY1LDMxNTg4MDAxMSwt
+MTgxMDk4NTczMyw5MjI5NjQ3ODIsLTU5NzgzMDk0Miw5MTgxOD
+g4NDgsLTE4MDM0ODY5NjgsMTcyMTc5Mjg4LDE1MjY0ODM1ODgs
+LTEwNTAzMTExOTMsMTQ5NDg3NTI0MSwtODAwNjg2ODQxLC0yMD
+Q5MjU4NjQ3LC0xOTAwOTcyMzE4LC0yMDkwNDA2Njc4LC04NzQ3
+Njg3MTVdfQ==
 -->
