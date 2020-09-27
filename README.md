@@ -73,9 +73,9 @@ There are 4 conceptual underpinnings (modules) of web 4
  4. **Harmonic GeoSocial Systems**
 	 Reflecting lessons in nature into our systems to evolve socioeconomics,
 
-Each idea can be used separately or in tandem. Here we will propos
+Each idea can be used separately or in tandem. This paper seeks to encourage you to involve any of these ideas into your current and future projects. 
 
-Int he following sections, we will discuss these concepts one at a time, then look at possible applications of these web 4 concepts, and a roadmap to reality.
+In the following sections, we will discuss solutions to these concepts one at a time, then look at possible applications of these web 4 concepts, and a roadmap to reality.
 
 
 # Why we can't have Provable democracy on web 3
@@ -434,11 +434,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE1Mzg5MzgzLC05NzEzNDQ2MzYsOTE0NT
-U1MDUwLC0xMTE4NjczMDMsMTE4MTM5ODY1LDMxNTg4MDAxMSwt
-MTgxMDk4NTczMyw5MjI5NjQ3ODIsLTU5NzgzMDk0Miw5MTgxOD
-g4NDgsLTE4MDM0ODY5NjgsMTcyMTc5Mjg4LDE1MjY0ODM1ODgs
-LTEwNTAzMTExOTMsMTQ5NDg3NTI0MSwtODAwNjg2ODQxLC0yMD
-Q5MjU4NjQ3LC0xOTAwOTcyMzE4LC0yMDkwNDA2Njc4LC04NzQ3
-Njg3MTVdfQ==
+eyJoaXN0b3J5IjpbMjgyODk3MzExLDIxNTM4OTM4MywtOTcxMz
+Q0NjM2LDkxNDU1NTA1MCwtMTExODY3MzAzLDExODEzOTg2NSwz
+MTU4ODAwMTEsLTE4MTA5ODU3MzMsOTIyOTY0NzgyLC01OTc4Mz
+A5NDIsOTE4MTg4ODQ4LC0xODAzNDg2OTY4LDE3MjE3OTI4OCwx
+NTI2NDgzNTg4LC0xMDUwMzExMTkzLDE0OTQ4NzUyNDEsLTgwMD
+Y4Njg0MSwtMjA0OTI1ODY0NywtMTkwMDk3MjMxOCwtMjA5MDQw
+NjY3OF19
 -->
