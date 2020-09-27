@@ -63,7 +63,7 @@ Web 4 introduces **four modular components** for **provably democratic systems**
 There are 4 conceptual underpinnings (modules) of web 4
 
  1. **Time-issued cryptocurrency** 
-	 Called *"Time Tokens"*
+	 Individuals may receive "Time Tokens" at given intervals 
  2. **Proof of Individuality**
 	 Biometric Secrets or other ways
  3. **Pseudonymity and Information Entropy**
@@ -97,7 +97,9 @@ ___
 
 # Time-issued cryptocurrency (Time Tokens) 
 
-Time tokens are distributed to users' wallets periodically as time passes. These tokens provide the user with an action. The action burns the token, which may cause some change in the state of a system, or minting of another token, or any other action. 
+Time tokens are distributed to users' wallets periodically as time passes. They woek with 
+
+These tokens provide the user with an action. The action burns the token, which may cause some change in the state of a system, or minting of another token, or any other action. 
 
 ## The Gears of Time Tokens
 
@@ -423,11 +425,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTg2NzMwMywxMTgxMzk4NjUsMzE1OD
-gwMDExLC0xODEwOTg1NzMzLDkyMjk2NDc4MiwtNTk3ODMwOTQy
-LDkxODE4ODg0OCwtMTgwMzQ4Njk2OCwxNzIxNzkyODgsMTUyNj
-Q4MzU4OCwtMTA1MDMxMTE5MywxNDk0ODc1MjQxLC04MDA2ODY4
-NDEsLTIwNDkyNTg2NDcsLTE5MDA5NzIzMTgsLTIwOTA0MDY2Nz
-gsLTg3NDc2ODcxNSw5NjYzMzU0MSwtNDUxNzI0MjE4LC03OTY2
-ODMzMjFdfQ==
+eyJoaXN0b3J5IjpbLTEyNjMwMjI3NjgsLTExMTg2NzMwMywxMT
+gxMzk4NjUsMzE1ODgwMDExLC0xODEwOTg1NzMzLDkyMjk2NDc4
+MiwtNTk3ODMwOTQyLDkxODE4ODg0OCwtMTgwMzQ4Njk2OCwxNz
+IxNzkyODgsMTUyNjQ4MzU4OCwtMTA1MDMxMTE5MywxNDk0ODc1
+MjQxLC04MDA2ODY4NDEsLTIwNDkyNTg2NDcsLTE5MDA5NzIzMT
+gsLTIwOTA0MDY2NzgsLTg3NDc2ODcxNSw5NjYzMzU0MSwtNDUx
+NzI0MjE4XX0=
 -->
