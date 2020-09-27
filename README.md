@@ -65,9 +65,9 @@ Web 4 introduces **four modular components** for **provably democratic systems**
 There are 4 conceptual underpinnings (modules) of web 4
 
  1. **Time-issued cryptocurrency** 
-	 Individuals may receive "Time Tokens" at given intervals 
+	 Individuals may receive "Time Tokens" at given intervals
  2. **Proof of Individuality**
-	 Biometric Secrets
+	 Biometric Secrets and
  3. **Pseudonymity and Information Entropy**
 	 Information degradation over time, pseudo accounts in sensitive systems
  4. **Harmonic GeoSocial Systems**
@@ -434,7 +434,7 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NDkzOTI3MiwtOTcxMzQ0NjM2LDkxND
+eyJoaXN0b3J5IjpbMTkxMzU5MzkxMywtOTcxMzQ0NjM2LDkxND
 U1NTA1MCwtMTExODY3MzAzLDExODEzOTg2NSwzMTU4ODAwMTEs
 LTE4MTA5ODU3MzMsOTIyOTY0NzgyLC01OTc4MzA5NDIsOTE4MT
 g4ODQ4LC0xODAzNDg2OTY4LDE3MjE3OTI4OCwxNTI2NDgzNTg4
