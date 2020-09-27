@@ -1,6 +1,8 @@
 # WIP v 0.0.1
 # The Web 4 Manifesto - Awakening the Democratic Web 
 
+# The Democratic Web: A Manifesto for Web 4
+
 Collaborative Democracy [Alt title]
 
 Provable Democracy [Alt title]
@@ -65,7 +67,7 @@ There are 4 conceptual underpinnings (modules) of web 4
  1. **Time-issued cryptocurrency** 
 	 Individuals may receive "Time Tokens" at given intervals 
  2. **Proof of Individuality**
-	 Biometric Secrets or other ways
+	 Biometric Secrets
  3. **Pseudonymity and Information Entropy**
 	 Information degradation over time, pseudo accounts in sensitive systems
  4. **Harmonic GeoSocial Systems**
@@ -432,11 +434,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTYwOTYzMzYsLTk3MTM0NDYzNiw5MT
-Q1NTUwNTAsLTExMTg2NzMwMywxMTgxMzk4NjUsMzE1ODgwMDEx
-LC0xODEwOTg1NzMzLDkyMjk2NDc4MiwtNTk3ODMwOTQyLDkxOD
-E4ODg0OCwtMTgwMzQ4Njk2OCwxNzIxNzkyODgsMTUyNjQ4MzU4
-OCwtMTA1MDMxMTE5MywxNDk0ODc1MjQxLC04MDA2ODY4NDEsLT
-IwNDkyNTg2NDcsLTE5MDA5NzIzMTgsLTIwOTA0MDY2NzgsLTg3
-NDc2ODcxNV19
+eyJoaXN0b3J5IjpbLTU1NDkzOTI3MiwtOTcxMzQ0NjM2LDkxND
+U1NTA1MCwtMTExODY3MzAzLDExODEzOTg2NSwzMTU4ODAwMTEs
+LTE4MTA5ODU3MzMsOTIyOTY0NzgyLC01OTc4MzA5NDIsOTE4MT
+g4ODQ4LC0xODAzNDg2OTY4LDE3MjE3OTI4OCwxNTI2NDgzNTg4
+LC0xMDUwMzExMTkzLDE0OTQ4NzUyNDEsLTgwMDY4Njg0MSwtMj
+A0OTI1ODY0NywtMTkwMDk3MjMxOCwtMjA5MDQwNjY3OCwtODc0
+NzY4NzE1XX0=
 -->
