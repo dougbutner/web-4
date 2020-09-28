@@ -212,7 +212,7 @@ This stream of data (video + audio biometric expression) could be a user doing a
 For security, biometric expressions must be unique (for example, which combination of words to speak) and many types (gesture, singing, clapping) must be available and used in combination. If each person's biometric secret was generated from the same single biometric expression, it would be a matter of time before specific AI could be developed to deepfake it for anyone. If the user is the only one that knows their biometric expressions it becomes nearly impossible to guess the type and nature of the expression, and even if that is known, impossible to use the same technique on more than one account. The nature of the uniqueness could be chosen by the user, or generated at random from the biosecret software which would prompt the user to complete an action in a specific way. 
 
 ## Why do we need this, again?
-Democratic systems certainly **could be built** without biometric verification, and **must be**  until suitable biometric technology develops along the open source, client-side requirements. For now, **decentralized solutions** like [Civic](https://www.civic.com/) provide the necessary individuality at the cost of some trust and requirement of citizenship. As different projects implement web 4 in their own ways, the ideas presented thus far will develop, as flaws are found. 
+Democratic systems certainly **are being built** without biometric verification, and **must be**  until suitable biometric technology develops along the open source, client-side requirements. For now, **decentralized solutions** like [Civic](https://www.civic.com/) provide the necessary individuality at the cost of some trust and requirement of citizenship. As different projects implement web 4 in their own ways, the ideas presented thus far will develop, as flaws are found. 
 
 We will present the ideas that are crucial for this system to be different, and represent true growth into web 4.
 
@@ -434,11 +434,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgyODk3MzExLDIxNTM4OTM4MywtOTcxMz
-Q0NjM2LDkxNDU1NTA1MCwtMTExODY3MzAzLDExODEzOTg2NSwz
-MTU4ODAwMTEsLTE4MTA5ODU3MzMsOTIyOTY0NzgyLC01OTc4Mz
-A5NDIsOTE4MTg4ODQ4LC0xODAzNDg2OTY4LDE3MjE3OTI4OCwx
-NTI2NDgzNTg4LC0xMDUwMzExMTkzLDE0OTQ4NzUyNDEsLTgwMD
-Y4Njg0MSwtMjA0OTI1ODY0NywtMTkwMDk3MjMxOCwtMjA5MDQw
-NjY3OF19
+eyJoaXN0b3J5IjpbLTkwNDQ1OTMyOCwyODI4OTczMTEsMjE1Mz
+g5MzgzLC05NzEzNDQ2MzYsOTE0NTU1MDUwLC0xMTE4NjczMDMs
+MTE4MTM5ODY1LDMxNTg4MDAxMSwtMTgxMDk4NTczMyw5MjI5Nj
+Q3ODIsLTU5NzgzMDk0Miw5MTgxODg4NDgsLTE4MDM0ODY5Njgs
+MTcyMTc5Mjg4LDE1MjY0ODM1ODgsLTEwNTAzMTExOTMsMTQ5ND
+g3NTI0MSwtODAwNjg2ODQxLC0yMDQ5MjU4NjQ3LC0xOTAwOTcy
+MzE4XX0=
 -->
