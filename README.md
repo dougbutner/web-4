@@ -256,8 +256,6 @@ With **pseudonymity**, it is difficult, but not impossible, to piece together a 
 Though the user's actual identity can never be known (unless the user exposes their key outside of the blockchain)
 
 
-
-
 ## **Degradation of Information Fidelity**
 Information fidelity requirements can also be degraded over time. For example, when generating a users biosecret, it can be assumed that the more time that passes, the more the bioinformation of the individual will change. 
 
@@ -434,11 +432,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNDQ1OTMyOCwyODI4OTczMTEsMjE1Mz
-g5MzgzLC05NzEzNDQ2MzYsOTE0NTU1MDUwLC0xMTE4NjczMDMs
-MTE4MTM5ODY1LDMxNTg4MDAxMSwtMTgxMDk4NTczMyw5MjI5Nj
-Q3ODIsLTU5NzgzMDk0Miw5MTgxODg4NDgsLTE4MDM0ODY5Njgs
-MTcyMTc5Mjg4LDE1MjY0ODM1ODgsLTEwNTAzMTExOTMsMTQ5ND
-g3NTI0MSwtODAwNjg2ODQxLC0yMDQ5MjU4NjQ3LC0xOTAwOTcy
-MzE4XX0=
+eyJoaXN0b3J5IjpbLTEyNTI2OTE0OCwtOTA0NDU5MzI4LDI4Mj
+g5NzMxMSwyMTUzODkzODMsLTk3MTM0NDYzNiw5MTQ1NTUwNTAs
+LTExMTg2NzMwMywxMTgxMzk4NjUsMzE1ODgwMDExLC0xODEwOT
+g1NzMzLDkyMjk2NDc4MiwtNTk3ODMwOTQyLDkxODE4ODg0OCwt
+MTgwMzQ4Njk2OCwxNzIxNzkyODgsMTUyNjQ4MzU4OCwtMTA1MD
+MxMTE5MywxNDk0ODc1MjQxLC04MDA2ODY4NDEsLTIwNDkyNTg2
+NDddfQ==
 -->
