@@ -202,7 +202,7 @@ ___
 ___
 
 ## **Proof of Individuality - Biometric Secrets + Protecting Identity**
-**Biometric secrets** are akin to any cryptographic secret key, they are a hash of information. The information hashed in a biometric secret comes from a person's biometric expression. In today's biometric space, simple static images are most commonly used for things like fingerprint and facial recognition, and geometry is the means to compare this data. 
+**Biometric secrets** are akin to any cryptographic secret key, they are a hash of information. The information hashed in a biometric secret comes from a person's biometric expression. In today's biometric space,  static images are most commonly used for things like fingerprint and facial recognition, and geometry is the means to compare this data. 
 
 Biometric secrets generated from static images are not secure, as static images can be easily faked in innumerable ways [GETCIT]. Video offers a better solution to this problem, as it is harder to fake, can include audio, and lets developers create a whole new set of algorithms based on a changing stream of data. 
 
@@ -432,11 +432,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTI2OTE0OCwtOTA0NDU5MzI4LDI4Mj
-g5NzMxMSwyMTUzODkzODMsLTk3MTM0NDYzNiw5MTQ1NTUwNTAs
-LTExMTg2NzMwMywxMTgxMzk4NjUsMzE1ODgwMDExLC0xODEwOT
-g1NzMzLDkyMjk2NDc4MiwtNTk3ODMwOTQyLDkxODE4ODg0OCwt
-MTgwMzQ4Njk2OCwxNzIxNzkyODgsMTUyNjQ4MzU4OCwtMTA1MD
-MxMTE5MywxNDk0ODc1MjQxLC04MDA2ODY4NDEsLTIwNDkyNTg2
-NDddfQ==
+eyJoaXN0b3J5IjpbMTA3MDcxMjY2MiwtMTI1MjY5MTQ4LC05MD
+Q0NTkzMjgsMjgyODk3MzExLDIxNTM4OTM4MywtOTcxMzQ0NjM2
+LDkxNDU1NTA1MCwtMTExODY3MzAzLDExODEzOTg2NSwzMTU4OD
+AwMTEsLTE4MTA5ODU3MzMsOTIyOTY0NzgyLC01OTc4MzA5NDIs
+OTE4MTg4ODQ4LC0xODAzNDg2OTY4LDE3MjE3OTI4OCwxNTI2ND
+gzNTg4LC0xMDUwMzExMTkzLDE0OTQ4NzUyNDEsLTgwMDY4Njg0
+MV19
 -->
