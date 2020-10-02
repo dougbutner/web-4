@@ -78,7 +78,7 @@ Each idea can be used separately or in tandem. This paper seeks to encourage you
 In the following sections, we will discuss solutions to these concepts one at a time, then look at possible applications of these web 4 concepts, and a roadmap to reality.
 
 
-# Why we can't have Provable democracy on web 3
+# Why we can't have Provable democracy with web 3
 > Provable democracy cannot be fully achieved in web 3 itself because there is no control over how many accounts a user may own.
 
 Democracy is essentially reaching a consensus with the idea that **each person is equal** in their influence on that consensus within defined bounds.
@@ -432,11 +432,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MDcxMjY2MiwtMTI1MjY5MTQ4LC05MD
-Q0NTkzMjgsMjgyODk3MzExLDIxNTM4OTM4MywtOTcxMzQ0NjM2
-LDkxNDU1NTA1MCwtMTExODY3MzAzLDExODEzOTg2NSwzMTU4OD
-AwMTEsLTE4MTA5ODU3MzMsOTIyOTY0NzgyLC01OTc4MzA5NDIs
-OTE4MTg4ODQ4LC0xODAzNDg2OTY4LDE3MjE3OTI4OCwxNTI2ND
-gzNTg4LC0xMDUwMzExMTkzLDE0OTQ4NzUyNDEsLTgwMDY4Njg0
-MV19
+eyJoaXN0b3J5IjpbLTczMTc2MTEzLDEwNzA3MTI2NjIsLTEyNT
+I2OTE0OCwtOTA0NDU5MzI4LDI4Mjg5NzMxMSwyMTUzODkzODMs
+LTk3MTM0NDYzNiw5MTQ1NTUwNTAsLTExMTg2NzMwMywxMTgxMz
+k4NjUsMzE1ODgwMDExLC0xODEwOTg1NzMzLDkyMjk2NDc4Miwt
+NTk3ODMwOTQyLDkxODE4ODg0OCwtMTgwMzQ4Njk2OCwxNzIxNz
+kyODgsMTUyNjQ4MzU4OCwtMTA1MDMxMTE5MywxNDk0ODc1MjQx
+XX0=
 -->
