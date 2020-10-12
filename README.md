@@ -225,7 +225,6 @@ User can choose to either perform a chosen biometric task to receive their hashe
 
 3. **Time Pseudonymity**: Any outward-facing display of information about a users usage of time tokens should be pseudonymous. That means that a user's identity and time unit (what token is spent) is masked and presented as an alias for each token type. Each use involves a secret key that is known only to the verifying entity, a paet 
 
-
 The biggest issue with biometrics is the lack of trust, mostly due to the growing number of facial recognition softwares and databases. The lack of trust is almost always associated with an individual's lack of consent, not the technology itself. 
 
 ### To alleviate the trust issue, solutions must be: 
@@ -432,11 +431,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMTc2MTEzLDEwNzA3MTI2NjIsLTEyNT
-I2OTE0OCwtOTA0NDU5MzI4LDI4Mjg5NzMxMSwyMTUzODkzODMs
-LTk3MTM0NDYzNiw5MTQ1NTUwNTAsLTExMTg2NzMwMywxMTgxMz
-k4NjUsMzE1ODgwMDExLC0xODEwOTg1NzMzLDkyMjk2NDc4Miwt
-NTk3ODMwOTQyLDkxODE4ODg0OCwtMTgwMzQ4Njk2OCwxNzIxNz
-kyODgsMTUyNjQ4MzU4OCwtMTA1MDMxMTE5MywxNDk0ODc1MjQx
-XX0=
+eyJoaXN0b3J5IjpbLTEwNzg3NTUxMDMsLTczMTc2MTEzLDEwNz
+A3MTI2NjIsLTEyNTI2OTE0OCwtOTA0NDU5MzI4LDI4Mjg5NzMx
+MSwyMTUzODkzODMsLTk3MTM0NDYzNiw5MTQ1NTUwNTAsLTExMT
+g2NzMwMywxMTgxMzk4NjUsMzE1ODgwMDExLC0xODEwOTg1NzMz
+LDkyMjk2NDc4MiwtNTk3ODMwOTQyLDkxODE4ODg0OCwtMTgwMz
+Q4Njk2OCwxNzIxNzkyODgsMTUyNjQ4MzU4OCwtMTA1MDMxMTE5
+M119
 -->
