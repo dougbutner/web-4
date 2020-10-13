@@ -270,7 +270,7 @@ ___
 ___
 # GeoSocial Harmonic Layers
 
-Collaborative social environments are always happening everywhere humans live. Currently, we are both realizing the vast differences in ways to live, as well as what direction we should be facing to 
+Collaborative social environments are always happening everywhere humans live. Currently, we are both realizing the vast differences in ways to live, as well as what direction we should be facing to grow. 
 
  Now, we create these layers on websites and blockchains. 
 
@@ -423,11 +423,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MjkzMDY0NCwxMzk3Mzc4MzA0LC03Nj
-k1NjI4MTUsLTEwNzg3NTUxMDMsLTczMTc2MTEzLDEwNzA3MTI2
-NjIsLTEyNTI2OTE0OCwtOTA0NDU5MzI4LDI4Mjg5NzMxMSwyMT
-UzODkzODMsLTk3MTM0NDYzNiw5MTQ1NTUwNTAsLTExMTg2NzMw
-MywxMTgxMzk4NjUsMzE1ODgwMDExLC0xODEwOTg1NzMzLDkyMj
-k2NDc4MiwtNTk3ODMwOTQyLDkxODE4ODg0OCwtMTgwMzQ4Njk2
-OF19
+eyJoaXN0b3J5IjpbLTEyNDAwOTUzLC0zNTI5MzA2NDQsMTM5Nz
+M3ODMwNCwtNzY5NTYyODE1LC0xMDc4NzU1MTAzLC03MzE3NjEx
+MywxMDcwNzEyNjYyLC0xMjUyNjkxNDgsLTkwNDQ1OTMyOCwyOD
+I4OTczMTEsMjE1Mzg5MzgzLC05NzEzNDQ2MzYsOTE0NTU1MDUw
+LC0xMTE4NjczMDMsMTE4MTM5ODY1LDMxNTg4MDAxMSwtMTgxMD
+k4NTczMyw5MjI5NjQ3ODIsLTU5NzgzMDk0Miw5MTgxODg4NDhd
+fQ==
 -->
