@@ -259,7 +259,7 @@ Information fidelity requirements can also be degraded over time. For example, w
 
 **Biosecrets** are generated from a **range of biometric values**. This range of values can be expanded over time. The effect is, instead of having one hashed biosecret for eternity, the generation process will create a set of biosecrets from an increasingly **wide range of data**. This concept may be needed to keep people in control of their accounts as they age. There is considerable work to be done to develop this concept, as each data type has its own complications. 
 
-In this use case, someone attempting to prove their individuality would have to spend a lot **more effort** to run the algorithms against their collected biodata, and the data **precision** needed to match the person's identity is actually **lower**. This is one example of fidelity change; others can make it more expensive to change a record from the past, make it harder to find out the ID of a voter, 
+In this case, as time goes on, someone attempting to prove their individuality would have to spend a lot **more effort** to run the algorithms against their collected biodata, and the data **precision** needed to match the person's identity is actually **lower**. This is one example of **fidelity change**; others can make it more expensive to change a record from the past, make it harder to find out the ID of a voter, or even limit the past's effect on the future of a blockchain. 
 
 While the inclusion of this concept into web 4 may seem **unnecessary** at the moment, it is another guarantee of the **psudeoanonymity** that is needed for many **social applications**. Philosophically, degradation of information also fits in with the general web 4 desire to reflect systems in nature. 
 
@@ -421,11 +421,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMjc5MjEwMSwtNzY5NTYyODE1LC0xMD
-c4NzU1MTAzLC03MzE3NjExMywxMDcwNzEyNjYyLC0xMjUyNjkx
-NDgsLTkwNDQ1OTMyOCwyODI4OTczMTEsMjE1Mzg5MzgzLC05Nz
-EzNDQ2MzYsOTE0NTU1MDUwLC0xMTE4NjczMDMsMTE4MTM5ODY1
-LDMxNTg4MDAxMSwtMTgxMDk4NTczMyw5MjI5NjQ3ODIsLTU5Nz
-gzMDk0Miw5MTgxODg4NDgsLTE4MDM0ODY5NjgsMTcyMTc5Mjg4
-XX0=
+eyJoaXN0b3J5IjpbNDMyMDIyNzMsLTc2OTU2MjgxNSwtMTA3OD
+c1NTEwMywtNzMxNzYxMTMsMTA3MDcxMjY2MiwtMTI1MjY5MTQ4
+LC05MDQ0NTkzMjgsMjgyODk3MzExLDIxNTM4OTM4MywtOTcxMz
+Q0NjM2LDkxNDU1NTA1MCwtMTExODY3MzAzLDExODEzOTg2NSwz
+MTU4ODAwMTEsLTE4MTA5ODU3MzMsOTIyOTY0NzgyLC01OTc4Mz
+A5NDIsOTE4MTg4ODQ4LC0xODAzNDg2OTY4LDE3MjE3OTI4OF19
+
 -->
