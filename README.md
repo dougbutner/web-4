@@ -338,7 +338,7 @@ If and when the "old system" meets demise, as all things do, **we can transition
 ## Why use the term "Web 4"
 It is my belief that each version of the web must 1) be built on top of the previous version, 2) be fundamentally different than the previous version by introducing new technology, and 3) have meaningful impact on society. 
 
-This proposal for the next iteration of the web is an effort to both expand and shift the path of information science in a direction where the meaningful impact of society involves: 1) empowerment of each individual, which serve as the basis for collective (social), economic, and novel applications; 2) provable identity verification while maintaining complete separation from any federated system, including government, with the side-benefit of lifelong recoverability of private keys, and 3) resonance with our containing systems, like the Solar system, which provides us with free energy daily, akin to free time tokens.
+This proposal for the next iteration of the web is an effort to both expand and shift the path of information science in a direction where the **meaningful impact** of society involves: 1) empowerment of each individual, which serve as the basis for collective (social), economic, and novel applications; 2) provable identity verification while maintaining complete separation from any federated system, including government, with the side-benefit of lifelong recoverability of private keys, and 3) resonance with our containing systems, like the Solar system, which provides us with free energy daily, akin to free time tokens.
 
 While an argument could easily be made that DeFi is Web 4, or another emerging tech, like layers on top of blockchains (sidechains) are web 4, both of these are not new. DeFi mimics the systems of the past in a better way. Sidechains are merely making web 3 more efficient. 
 
@@ -421,11 +421,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NDc1MDY4MCwtNzY5NTYyODE1LC0xMD
-c4NzU1MTAzLC03MzE3NjExMywxMDcwNzEyNjYyLC0xMjUyNjkx
-NDgsLTkwNDQ1OTMyOCwyODI4OTczMTEsMjE1Mzg5MzgzLC05Nz
-EzNDQ2MzYsOTE0NTU1MDUwLC0xMTE4NjczMDMsMTE4MTM5ODY1
-LDMxNTg4MDAxMSwtMTgxMDk4NTczMyw5MjI5NjQ3ODIsLTU5Nz
-gzMDk0Miw5MTgxODg4NDgsLTE4MDM0ODY5NjgsMTcyMTc5Mjg4
-XX0=
+eyJoaXN0b3J5IjpbLTE2NzQ3MDc2MjQsLTc2OTU2MjgxNSwtMT
+A3ODc1NTEwMywtNzMxNzYxMTMsMTA3MDcxMjY2MiwtMTI1MjY5
+MTQ4LC05MDQ0NTkzMjgsMjgyODk3MzExLDIxNTM4OTM4MywtOT
+cxMzQ0NjM2LDkxNDU1NTA1MCwtMTExODY3MzAzLDExODEzOTg2
+NSwzMTU4ODAwMTEsLTE4MTA5ODU3MzMsOTIyOTY0NzgyLC01OT
+c4MzA5NDIsOTE4MTg4ODQ4LC0xODAzNDg2OTY4LDE3MjE3OTI4
+OF19
 -->
