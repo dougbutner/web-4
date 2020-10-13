@@ -325,8 +325,8 @@ Social Verification is still used, while biocryptography standards and biometric
 
 **Provable Identity** is now possible as suggested in this manifesto through the maturity of the biometric secrets. Standards are being created to 
 
-**Phase Four**
-**Information entropy** is added to the systems where it can be of use. For example this could make a person's biometric data less knowable over time by increasing the amount of processing power needed to guess the biosecret. 
+## **Phase Four**
+**Information entropy** is added to the systems where it can be of use. For example this could make a person's biometric data less knowable over time by increasing the amount of CPU time needed to guess the biosecret. 
 
 
 
@@ -423,11 +423,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE4NzczMTg1LC03Njk1NjI4MTUsLTEwNz
-g3NTUxMDMsLTczMTc2MTEzLDEwNzA3MTI2NjIsLTEyNTI2OTE0
-OCwtOTA0NDU5MzI4LDI4Mjg5NzMxMSwyMTUzODkzODMsLTk3MT
-M0NDYzNiw5MTQ1NTUwNTAsLTExMTg2NzMwMywxMTgxMzk4NjUs
-MzE1ODgwMDExLC0xODEwOTg1NzMzLDkyMjk2NDc4MiwtNTk3OD
-MwOTQyLDkxODE4ODg0OCwtMTgwMzQ4Njk2OCwxNzIxNzkyODhd
-fQ==
+eyJoaXN0b3J5IjpbMTM5NzM3ODMwNCwtNzY5NTYyODE1LC0xMD
+c4NzU1MTAzLC03MzE3NjExMywxMDcwNzEyNjYyLC0xMjUyNjkx
+NDgsLTkwNDQ1OTMyOCwyODI4OTczMTEsMjE1Mzg5MzgzLC05Nz
+EzNDQ2MzYsOTE0NTU1MDUwLC0xMTE4NjczMDMsMTE4MTM5ODY1
+LDMxNTg4MDAxMSwtMTgxMDk4NTczMyw5MjI5NjQ3ODIsLTU5Nz
+gzMDk0Miw5MTgxODg4NDgsLTE4MDM0ODY5NjgsMTcyMTc5Mjg4
+XX0=
 -->
