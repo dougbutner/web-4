@@ -263,15 +263,9 @@ Biosecrets are generated from a **range of biometric values**. This range of val
 
 
 
-While the inclusion of this concept into web 4 may seem unnecessary (and totally is), it is another guarantee of the psudeoanonymity that is needed for many social applications. It can be used for performance benefits as well. Philosophically, degradation of information also fits in with the general web 4 desire to reflect systems in nature.
-
-When querying data becomes intensive, and a client couldn't hold all the information
+While the inclusion of this concept into web 4 may seem **unnecessary** (and totally is), it is another guarantee of the psudeoanonymity that is needed for many **social applications**. Philosophically, degradation of information also fits in with the general web 4 desire to reflect systems in nature. While it may be best ro built Web 4 systems without this 
 
 
-Incentives are give for the ratity of the 
-
-Performance Benefits
-In the event that 
 
 ___
 # **<center>**4**</center>**
@@ -430,7 +424,7 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MzExNzY3NCwtNzY5NTYyODE1LC0xMD
+eyJoaXN0b3J5IjpbMTI4NjA2NDA5NywtNzY5NTYyODE1LC0xMD
 c4NzU1MTAzLC03MzE3NjExMywxMDcwNzEyNjYyLC0xMjUyNjkx
 NDgsLTkwNDQ1OTMyOCwyODI4OTczMTEsMjE1Mzg5MzgzLC05Nz
 EzNDQ2MzYsOTE0NTU1MDUwLC0xMTE4NjczMDMsMTE4MTM5ODY1
