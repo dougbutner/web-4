@@ -59,7 +59,7 @@ Web 4 seeks to implement systems in **harmony with the universe itself** by repl
 
 When we create information systems in **harmonic resonance** with natural systems, our society will be able to advance more rapidly than ever before, as we will be able to **"fit in" with the larger systems of information processing** around us (the Earth, Sun, and Galactic core). 
 
-By matching the wavelength of the galaxy, inuve
+By matching the wavelength of the galaxy, universe, and our own 
 
 ## Defining Web 4
 Web 4 introduces **four modular components** for **provably democratic systems** built on top of web 3's open-source decentralized networks. 
@@ -69,15 +69,15 @@ There are 4 conceptual underpinnings (modules) of web 4
  1. **Time-issued cryptocurrency** 
 	 Individuals may receive "Time Tokens" at given intervals
  2. **Proof of Individuality**
-	 Biometric Secrets, Social Verification, and
+	 Biometric Secrets, Social Verification, more
  3. **Pseudonymity and Information Entropy**
 	 Information degradation over time, pseudo accounts in sensitive systems
  4. **Harmonic GeoSocial Systems**
 	 Reflecting lessons in nature into our systems to evolve socioeconomics,
 
-Each idea can be used separately or in tandem. This paper seeks to encourage you to involve any of these ideas into your current and future projects. 
+Each idea can be used separately or in tandem. This paper invites you to involve any of these ideas into your current and future projects. 
 
-In the following sections, we will discuss solutions to these concepts one at a time, then look at possible applications of these web 4 concepts, and a roadmap to reality.
+In the following sections, we will discuss solutions to these concepts one at a time, then look at possible applications of these web 4 concepts, and a **roadmap to reality**.
 
 
 # Why we can't have Provable democracy with web 3
@@ -433,7 +433,7 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MDg5NTgyNywtMTA3ODc1NTEwMywtNz
+eyJoaXN0b3J5IjpbLTc2OTU2MjgxNSwtMTA3ODc1NTEwMywtNz
 MxNzYxMTMsMTA3MDcxMjY2MiwtMTI1MjY5MTQ4LC05MDQ0NTkz
 MjgsMjgyODk3MzExLDIxNTM4OTM4MywtOTcxMzQ0NjM2LDkxND
 U1NTA1MCwtMTExODY3MzAzLDExODEzOTg2NSwzMTU4ODAwMTEs
