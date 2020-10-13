@@ -248,14 +248,11 @@ ___
 
 
 ## Degradation of Information
-Web 3 focuses on storing information forever in a provable way. Web 4 introduces a counter-model which may be **optionally** adopted by any time-token-based system. In this model, who did what becomes **harder and harder to know** the more time that passes. 
+Web 3 focuses on storing information forever in a provable way. Web 4 introduces a **counter-model** which may be **optionally** adopted by any time-token-based system. In this model, who did what becomes **harder and harder to know** the more time that passes. 
 
 This idea hinges upon incremental time units, the number of which is used to decide how difficult information about a particular individual is to access. 
 
-With **pseudonymity**, it is difficult, but not impossible, to piece together a story about an individual user by knowing they are responsible for a set of transactions over time. The further back in time a transaction is, the harder it is to link it to another transaction with any certainty. 
-
-Though the user's actual identity can never be known (unless the user exposes their key outside of the blockchain)
-
+With **pseudonymity**, it is difficult, but not impossible, to piece together a story about an individual user by knowing they are responsible for a set of transactions over time. The further back in time a transaction is, the **harder** it is to link it to another transaction with any **certainty**. 
 
 ## **Degradation of Information Fidelity**
 Information fidelity requirements can also be degraded over time. For example, when generating a users biosecret, it can be assumed that the more time that passes, the more the bioinformation of the individual will change. 
@@ -433,11 +430,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2OTU2MjgxNSwtMTA3ODc1NTEwMywtNz
-MxNzYxMTMsMTA3MDcxMjY2MiwtMTI1MjY5MTQ4LC05MDQ0NTkz
-MjgsMjgyODk3MzExLDIxNTM4OTM4MywtOTcxMzQ0NjM2LDkxND
-U1NTA1MCwtMTExODY3MzAzLDExODEzOTg2NSwzMTU4ODAwMTEs
-LTE4MTA5ODU3MzMsOTIyOTY0NzgyLC01OTc4MzA5NDIsOTE4MT
-g4ODQ4LC0xODAzNDg2OTY4LDE3MjE3OTI4OCwxNTI2NDgzNTg4
+eyJoaXN0b3J5IjpbLTY4MzExNzY3NCwtNzY5NTYyODE1LC0xMD
+c4NzU1MTAzLC03MzE3NjExMywxMDcwNzEyNjYyLC0xMjUyNjkx
+NDgsLTkwNDQ1OTMyOCwyODI4OTczMTEsMjE1Mzg5MzgzLC05Nz
+EzNDQ2MzYsOTE0NTU1MDUwLC0xMTE4NjczMDMsMTE4MTM5ODY1
+LDMxNTg4MDAxMSwtMTgxMDk4NTczMyw5MjI5NjQ3ODIsLTU5Nz
+gzMDk0Miw5MTgxODg4NDgsLTE4MDM0ODY5NjgsMTcyMTc5Mjg4
 XX0=
 -->
