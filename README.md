@@ -313,7 +313,7 @@ Notable differences in M
 
 **Provable identity** **issues** are becoming apparent, as certain applications with **lax rules** are being manipulated, showing the need for true provable identity. 
 
-Biocryptography standards and biometric secret technology are being developed to allow true provable identity (in Phase Three).
+Social Verification is still used, while biocryptography standards and biometric secret technology are being developed to allow true provable identity (in Phase Three).
 
 **Information entropy** principles are starting to be implemented, at developers desire and leisure. 
 
@@ -423,11 +423,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODQzNzg4MDksLTc2OTU2MjgxNSwtMT
-A3ODc1NTEwMywtNzMxNzYxMTMsMTA3MDcxMjY2MiwtMTI1MjY5
-MTQ4LC05MDQ0NTkzMjgsMjgyODk3MzExLDIxNTM4OTM4MywtOT
-cxMzQ0NjM2LDkxNDU1NTA1MCwtMTExODY3MzAzLDExODEzOTg2
-NSwzMTU4ODAwMTEsLTE4MTA5ODU3MzMsOTIyOTY0NzgyLC01OT
-c4MzA5NDIsOTE4MTg4ODQ4LC0xODAzNDg2OTY4LDE3MjE3OTI4
-OF19
+eyJoaXN0b3J5IjpbNzE4NzczMTg1LC03Njk1NjI4MTUsLTEwNz
+g3NTUxMDMsLTczMTc2MTEzLDEwNzA3MTI2NjIsLTEyNTI2OTE0
+OCwtOTA0NDU5MzI4LDI4Mjg5NzMxMSwyMTUzODkzODMsLTk3MT
+M0NDYzNiw5MTQ1NTUwNTAsLTExMTg2NzMwMywxMTgxMzk4NjUs
+MzE1ODgwMDExLC0xODEwOTg1NzMzLDkyMjk2NDc4MiwtNTk3OD
+MwOTQyLDkxODE4ODg0OCwtMTgwMzQ4Njk2OCwxNzIxNzkyODhd
+fQ==
 -->
