@@ -255,16 +255,13 @@ This idea hinges upon incremental time units, the number of which is used to dec
 With **pseudonymity**, it is difficult, but not impossible, to piece together a story about an individual user by knowing they are responsible for a set of transactions over time. The further back in time a transaction is, the **harder** it is to link it to another transaction with any **certainty**. 
 
 ## **Degradation of Information Fidelity**
-Information fidelity requirements can also be degraded over time. For example, when generating a users biosecret, it can be assumed that the more time that passes, the more the bioinformation of the individual will change. 
+Information fidelity requirements can also be degraded over time. For example, when generating a users **biosecret**, it can be assumed that the more time that passes, the more the **bioinformation** of the individual will **change**. 
 
-Biosecrets are generated from a **range of biometric values**. This range of values can be expanded over time. The effect is, instead of having one hashed biosecret for eternity, the generation process will create a set of biosecrets from an increasingly wide range of data. This concept may be needed to keep people in control of their accounts as they age. There is considerable work to be done to develop this concept, as each 
+Biosecrets are generated from a **range of biometric values**. This range of values can be expanded over time. The effect is, instead of having one hashed biosecret for eternity, the generation process will create a set of biosecrets from an increasingly wide range of data. This concept may be needed to keep people in control of their accounts as they age. There is considerable work to be done to develop this concept, as each data type has it's own complications. 
 
+Social verification, as 
 
-
-
-
-While the inclusion of this concept into web 4 may seem **unnecessary** (and totally is), it is another guarantee of the psudeoanonymity that is needed for many **social applications**. Philosophically, degradation of information also fits in with the general web 4 desire to reflect systems in nature. While it may be best ro built Web 4 systems without this 
-
+While the inclusion of this concept into web 4 may seem **unnecessary** (and totally is), it is another guarantee of the psudeoanonymity that is needed for many **social applications**. Philosophically, degradation of information also fits in with the general web 4 desire to reflect systems in nature. 
 
 
 ___
@@ -424,7 +421,7 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NjA2NDA5NywtNzY5NTYyODE1LC0xMD
+eyJoaXN0b3J5IjpbLTg3OTQ0ODkwMiwtNzY5NTYyODE1LC0xMD
 c4NzU1MTAzLC03MzE3NjExMywxMDcwNzEyNjYyLC0xMjUyNjkx
 NDgsLTkwNDQ1OTMyOCwyODI4OTczMTEsMjE1Mzg5MzgzLC05Nz
 EzNDQ2MzYsOTE0NTU1MDUwLC0xMTE4NjczMDMsMTE4MTM5ODY1
