@@ -296,7 +296,8 @@ Notable differences in M
 
 **Time Tokens** are implemented on any and all blockchains where developers see the value. These developers provide open-source instructions and tools to helps others make their own time tokens. 
 
-**Provable individuality** for Time Tokens is up to each application and blockchain, and these application can choose to ignore this requirement, risking their systems' integrity. Federated (Google / SSO) and decentralized options (Civic) may be used. 
+**Provable individuality** for Time Tokens is up to each application and blockchain, and these application can choose to ignore this requirement, risking their systems' integrity. Federated (Google / SSO) and decentralized options (Civic) may be used, and so can social verification/ 
+
 
 **Information entropy** and **geosocial layers** are starting to be theorized, but not showing up. 
 
@@ -310,7 +311,7 @@ Notable differences in M
 
 **Applications using Time Tokens** are widespread, and issues in implementations are becoming known and solved. 
 
-**Provable identity** issues are becoming apparent, as certain applications with lax rules are being manipulated, showing the need for true provable identity. 
+**Provable identity** **issues** are becoming apparent, as certain applications with **lax rules** are being manipulated, showing the need for true provable identity. 
 
 Biocryptography standards and biometric secret technology are being developed to allow true provable identity (in Phase Three).
 
@@ -422,11 +423,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzA4NzkzNzcsLTc2OTU2MjgxNSwtMT
-A3ODc1NTEwMywtNzMxNzYxMTMsMTA3MDcxMjY2MiwtMTI1MjY5
-MTQ4LC05MDQ0NTkzMjgsMjgyODk3MzExLDIxNTM4OTM4MywtOT
-cxMzQ0NjM2LDkxNDU1NTA1MCwtMTExODY3MzAzLDExODEzOTg2
-NSwzMTU4ODAwMTEsLTE4MTA5ODU3MzMsOTIyOTY0NzgyLC01OT
-c4MzA5NDIsOTE4MTg4ODQ4LC0xODAzNDg2OTY4LDE3MjE3OTI4
-OF19
+eyJoaXN0b3J5IjpbMTM4MjE3NDkxOSwtNzY5NTYyODE1LC0xMD
+c4NzU1MTAzLC03MzE3NjExMywxMDcwNzEyNjYyLC0xMjUyNjkx
+NDgsLTkwNDQ1OTMyOCwyODI4OTczMTEsMjE1Mzg5MzgzLC05Nz
+EzNDQ2MzYsOTE0NTU1MDUwLC0xMTE4NjczMDMsMTE4MTM5ODY1
+LDMxNTg4MDAxMSwtMTgxMDk4NTczMyw5MjI5NjQ3ODIsLTU5Nz
+gzMDk0Miw5MTgxODg4NDgsLTE4MDM0ODY5NjgsMTcyMTc5Mjg4
+XX0=
 -->
