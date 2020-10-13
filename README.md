@@ -55,9 +55,11 @@ Web 4 dreams up **proof of individuality** through encrypted biodata that kickst
 Web 4 lays the foundation for this to be built. But, like any democratic system. **We need your help.** Please read this paper, and consider these ideas. If you believe you can make them better, please **submit a pull request** with your ideas. If you are a developer, I want to remind you of the license of this repo, and **invite you to forge any of these ideas into hot-pressed applications**. 
 
 ## Guiding Philosophy
-Web 4 seeks to implement systems in **harmony with the universe itself** by replicating nature: the **abundance** of the Sun, rising **entropy** in closed systems, and even the **equality** of each conscious being. 
+Web 4 seeks to implement systems in **harmony with the universe itself** by replicating nature: the **abundance** of the Sun, rising **entropy**, and the **equality** of each conscious being. 
 
-We believe when we create information systems in **harmonic resonance** with natural systems, our society will be able to advance more rapidly than ever before, as we will be able to **"fit in" with the larger systems of information processing** around us (the Earth, Sun, and Galactic core). 
+When we create information systems in **harmonic resonance** with natural systems, our society will be able to advance more rapidly than ever before, as we will be able to **"fit in" with the larger systems of information processing** around us (the Earth, Sun, and Galactic core). 
+
+By matching the wavelength of the galaxy, inuve
 
 ## Defining Web 4
 Web 4 introduces **four modular components** for **provably democratic systems** built on top of web 3's open-source decentralized networks. 
@@ -431,11 +433,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzg3NTUxMDMsLTczMTc2MTEzLDEwNz
-A3MTI2NjIsLTEyNTI2OTE0OCwtOTA0NDU5MzI4LDI4Mjg5NzMx
-MSwyMTUzODkzODMsLTk3MTM0NDYzNiw5MTQ1NTUwNTAsLTExMT
-g2NzMwMywxMTgxMzk4NjUsMzE1ODgwMDExLC0xODEwOTg1NzMz
-LDkyMjk2NDc4MiwtNTk3ODMwOTQyLDkxODE4ODg0OCwtMTgwMz
-Q4Njk2OCwxNzIxNzkyODgsMTUyNjQ4MzU4OCwtMTA1MDMxMTE5
-M119
+eyJoaXN0b3J5IjpbMTk2MDg5NTgyNywtMTA3ODc1NTEwMywtNz
+MxNzYxMTMsMTA3MDcxMjY2MiwtMTI1MjY5MTQ4LC05MDQ0NTkz
+MjgsMjgyODk3MzExLDIxNTM4OTM4MywtOTcxMzQ0NjM2LDkxND
+U1NTA1MCwtMTExODY3MzAzLDExODEzOTg2NSwzMTU4ODAwMTEs
+LTE4MTA5ODU3MzMsOTIyOTY0NzgyLC01OTc4MzA5NDIsOTE4MT
+g4ODQ4LC0xODAzNDg2OTY4LDE3MjE3OTI4OCwxNTI2NDgzNTg4
+XX0=
 -->
