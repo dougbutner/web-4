@@ -303,6 +303,7 @@ Notable differences in M
 **Phase 1 Action Points**: 
 - ERC proposal (and similar for other blockchains)
 - Developers exploring use cases for Time Tokens 
+- Developers implementing Time Token in unexpected ways
 
 ## **Phase Two**
 > dApps and discovering issues
@@ -342,7 +343,7 @@ This proposal for the next iteration of the web is an effort to both expand and 
 
 While an argument could easily be made that DeFi is Web 4, or another emerging tech, like layers on top of blockchains (sidechains) are web 4, both of these are **not new**. DeFi mimics and improves the systems of the past. Sidechains are merely making web 3 **more efficient**. 
 
-It is my hope that the information presented here will be expanded on and implemented by many developers and systems in the coming years, not for the benefit of the few, but for the empowerment of each individual and the harmony of the human collective, and every layer of Gaia. 
+It is my hope and desire that the information presented here will be **expanded** on and **implemented** by many developers and systems in the coming years, not for the benefit of the few, but for the **empowerment** of each individual and the **harmony** of the human collective, and every layer of Gaia. 
 
 **Notes + References**
 ___
@@ -421,11 +422,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMzgyNTc4OSwtNzY5NTYyODE1LC0xMD
-c4NzU1MTAzLC03MzE3NjExMywxMDcwNzEyNjYyLC0xMjUyNjkx
-NDgsLTkwNDQ1OTMyOCwyODI4OTczMTEsMjE1Mzg5MzgzLC05Nz
-EzNDQ2MzYsOTE0NTU1MDUwLC0xMTE4NjczMDMsMTE4MTM5ODY1
-LDMxNTg4MDAxMSwtMTgxMDk4NTczMyw5MjI5NjQ3ODIsLTU5Nz
-gzMDk0Miw5MTgxODg4NDgsLTE4MDM0ODY5NjgsMTcyMTc5Mjg4
-XX0=
+eyJoaXN0b3J5IjpbLTE4MzA4NzkzNzcsLTc2OTU2MjgxNSwtMT
+A3ODc1NTEwMywtNzMxNzYxMTMsMTA3MDcxMjY2MiwtMTI1MjY5
+MTQ4LC05MDQ0NTkzMjgsMjgyODk3MzExLDIxNTM4OTM4MywtOT
+cxMzQ0NjM2LDkxNDU1NTA1MCwtMTExODY3MzAzLDExODEzOTg2
+NSwzMTU4ODAwMTEsLTE4MTA5ODU3MzMsOTIyOTY0NzgyLC01OT
+c4MzA5NDIsOTE4MTg4ODQ4LC0xODAzNDg2OTY4LDE3MjE3OTI4
+OF19
 -->
