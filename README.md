@@ -225,8 +225,6 @@ User can choose to either perform a chosen biometric task to receive their hashe
 
 2. **Biosecret Generation**: User's sensitive biological information and generated algorithmic results are destroyed (made impossible to reconstruct) at the layer of hashing, and data not stored in any way, public or private, as the user runs the software on their local machine (assuming they choose the open-source software, not a third party).
 
-3. **Time Pseudonymity**: Any outward-facing display of information about a users usage of time tokens should be pseudonymous. That means that a user's identity and time unit (what token is spent) is masked and presented as an alias for each token type. Each use involves a secret key that is known only to the verifying entity, a paet 
-
 The biggest issue with biometrics is the lack of trust, mostly due to the growing number of facial recognition softwares and databases. The lack of trust is almost always associated with an individual's lack of consent, not the technology itself. 
 
 ### To alleviate the trust issue, solutions must be: 
@@ -419,7 +417,7 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwOTIzNjAyMiwtMTg5MjM4MDA0OSwzOT
+eyJoaXN0b3J5IjpbMTM4NjU1NDI5NywtMTg5MjM4MDA0OSwzOT
 c2NzAzLC0xNzk3MDQyODgyLC0xMDk0NjMwODQ5LC0xMDE1NjM2
 NTY3LC0zNTI5MzA2NDQsMTM5NzM3ODMwNCwtNzY5NTYyODE1LC
 0xMDc4NzU1MTAzLC03MzE3NjExMywxMDcwNzEyNjYyLC0xMjUy
