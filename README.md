@@ -246,7 +246,6 @@ ___
 
 ___
 
-
 ## Degradation of Information
 Web 3 focuses on storing information forever in a provable way. Web 4 introduces a **counter-model** which may be **optionally** adopted by any time-token-based system. In this model, who did what becomes **harder and harder to know** the more time that passes. 
 
@@ -270,7 +269,8 @@ ___
 ___
 # GeoSocial Harmonic Layers
 
-Collaborative social environments are always happening everywhere humans live. Currently, we are both realizing the vast differences in ways to live, as well as what direction we should be facing to grow. It has become apparent the growth of humanity is skewed, away from the social, and towards the technological 
+Collaborative social environments are always happening everywhere humans live. Currently, we are both realizing the vast differences in ways to live, as well as what direction we should be facing to grow. Human growth in thepast few centuries has been focused on technologicla improvements rather than social improvements
+
 
  Now, we create these layers on websites and blockchains. 
 
@@ -283,10 +283,6 @@ GeoSocial Layers
 
 
 
-# The experience of Web 4
-
-
-Notable differences in M
 
 
 # Roadmap to Web 4 Reality
@@ -423,11 +419,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk3NjcwMywtMTc5NzA0Mjg4MiwtMTA5ND
-YzMDg0OSwtMTAxNTYzNjU2NywtMzUyOTMwNjQ0LDEzOTczNzgz
-MDQsLTc2OTU2MjgxNSwtMTA3ODc1NTEwMywtNzMxNzYxMTMsMT
-A3MDcxMjY2MiwtMTI1MjY5MTQ4LC05MDQ0NTkzMjgsMjgyODk3
-MzExLDIxNTM4OTM4MywtOTcxMzQ0NjM2LDkxNDU1NTA1MCwtMT
-ExODY3MzAzLDExODEzOTg2NSwzMTU4ODAwMTEsLTE4MTA5ODU3
-MzNdfQ==
+eyJoaXN0b3J5IjpbLTE4OTIzODAwNDksMzk3NjcwMywtMTc5Nz
+A0Mjg4MiwtMTA5NDYzMDg0OSwtMTAxNTYzNjU2NywtMzUyOTMw
+NjQ0LDEzOTczNzgzMDQsLTc2OTU2MjgxNSwtMTA3ODc1NTEwMy
+wtNzMxNzYxMTMsMTA3MDcxMjY2MiwtMTI1MjY5MTQ4LC05MDQ0
+NTkzMjgsMjgyODk3MzExLDIxNTM4OTM4MywtOTcxMzQ0NjM2LD
+kxNDU1NTA1MCwtMTExODY3MzAzLDExODEzOTg2NSwzMTU4ODAw
+MTFdfQ==
 -->
