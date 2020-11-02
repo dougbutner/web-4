@@ -214,7 +214,7 @@ This stream of data (video + audio biometric expression) could be a user doing a
 For security, biometric expressions must be unique (for example, which combination of words to speak) and many types (gesture, singing, clapping) must be available and used in combination. If each person's biometric secret was generated from the same single biometric expression, it would be a matter of time before specific AI could be developed to deepfake it for anyone. If the user is the only one that knows their biometric expressions it becomes nearly impossible to guess the type and nature of the expression, and even if that is known, impossible to use the same technique on more than one account. The nature of the uniqueness could be chosen by the user, or generated at random from the biosecret software which would prompt the user to complete an action in a specific way. 
 
 ## Why do we need this, again?
-Democratic systems certainly **are being built** without biometric verification, and **must be**  until suitable biometric technology develops along the open source, client-side requirements. For now, **decentralized solutions** like [Civic](https://www.civic.com/) provide the necessary individuality at the cost of some trust and requirement of citizenship. As different projects implement web 4 in their own ways, the ideas presented thus far will develop, as flaws are found. 
+Democratic systems certainly **are being built** without biometric verification, and **must be**  until suitable biometric technology develops along the open source, client-side requirements. For now, **decentralized solutions** like [Civic](https://www.civic.com/), and centralized tech like [Facetec](https://www.facetec.com/FaceTec_3D_Face_Matching_Whitepaper.pdf) provide the necessary individuality at the cost of some trust and requirement of citizenship. As different projects implement web 4 in their own ways, the ideas presented thus far will develop, as flaws are found. 
 
 We will present the ideas that are crucial for this system to be different, and represent true growth into web 4.
 
@@ -419,11 +419,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTIzODAwNDksMzk3NjcwMywtMTc5Nz
-A0Mjg4MiwtMTA5NDYzMDg0OSwtMTAxNTYzNjU2NywtMzUyOTMw
-NjQ0LDEzOTczNzgzMDQsLTc2OTU2MjgxNSwtMTA3ODc1NTEwMy
-wtNzMxNzYxMTMsMTA3MDcxMjY2MiwtMTI1MjY5MTQ4LC05MDQ0
-NTkzMjgsMjgyODk3MzExLDIxNTM4OTM4MywtOTcxMzQ0NjM2LD
-kxNDU1NTA1MCwtMTExODY3MzAzLDExODEzOTg2NSwzMTU4ODAw
-MTFdfQ==
+eyJoaXN0b3J5IjpbMjEwOTIzNjAyMiwtMTg5MjM4MDA0OSwzOT
+c2NzAzLC0xNzk3MDQyODgyLC0xMDk0NjMwODQ5LC0xMDE1NjM2
+NTY3LC0zNTI5MzA2NDQsMTM5NzM3ODMwNCwtNzY5NTYyODE1LC
+0xMDc4NzU1MTAzLC03MzE3NjExMywxMDcwNzEyNjYyLC0xMjUy
+NjkxNDgsLTkwNDQ1OTMyOCwyODI4OTczMTEsMjE1Mzg5MzgzLC
+05NzEzNDQ2MzYsOTE0NTU1MDUwLC0xMTE4NjczMDMsMTE4MTM5
+ODY1XX0=
 -->
