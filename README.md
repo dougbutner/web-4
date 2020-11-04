@@ -269,7 +269,15 @@ ___
 
 Collaborative social environments are always happening everywhere humans live. Currently, we are both realizing the vast differences in ways to live, as well as what direction we should be facing to grow. Human growth in the past few centuries has been focused on technological improvements rather than social improvements. [GETCIT]
 
-Web 4 proposes that systems based in time token are the most apt to create and improve existing social layers
+> Web 4 proposes that systems based in time token are the most apt to create and improve existing social layers. 
+
+## What is a GeoSocial Layer?
+
+A geosocial layer is something that affects people (social) at a given location. 
+
+
+## Geographic Stratification  
+
 
 Geosocial layers is the widely beneficial integration of these principles as a layer on top of existing geosocial systems. 
 These networks of information and positive attention
@@ -416,11 +424,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzE1MTU1NTYsLTIxMDgwMDkxMTQsLT
-E4OTIzODAwNDksMzk3NjcwMywtMTc5NzA0Mjg4MiwtMTA5NDYz
-MDg0OSwtMTAxNTYzNjU2NywtMzUyOTMwNjQ0LDEzOTczNzgzMD
-QsLTc2OTU2MjgxNSwtMTA3ODc1NTEwMywtNzMxNzYxMTMsMTA3
-MDcxMjY2MiwtMTI1MjY5MTQ4LC05MDQ0NTkzMjgsMjgyODk3Mz
-ExLDIxNTM4OTM4MywtOTcxMzQ0NjM2LDkxNDU1NTA1MCwtMTEx
-ODY3MzAzXX0=
+eyJoaXN0b3J5IjpbNDAyODAzMTQsLTIxMDgwMDkxMTQsLTE4OT
+IzODAwNDksMzk3NjcwMywtMTc5NzA0Mjg4MiwtMTA5NDYzMDg0
+OSwtMTAxNTYzNjU2NywtMzUyOTMwNjQ0LDEzOTczNzgzMDQsLT
+c2OTU2MjgxNSwtMTA3ODc1NTEwMywtNzMxNzYxMTMsMTA3MDcx
+MjY2MiwtMTI1MjY5MTQ4LC05MDQ0NTkzMjgsMjgyODk3MzExLD
+IxNTM4OTM4MywtOTcxMzQ0NjM2LDkxNDU1NTA1MCwtMTExODY3
+MzAzXX0=
 -->
