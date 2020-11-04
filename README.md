@@ -265,16 +265,17 @@ ___
 # **<center>**4**</center>**
 
 ___
-# GeoSocial Harmonic Layers
+# Geo-Social Harmonic Layers
 
 Collaborative social environments are always happening everywhere humans live. Currently, we are both realizing the vast differences in ways to live, as well as what direction we should be facing to grow. Human growth in the past few centuries has been focused on technological improvements rather than social improvements. [GETCIT]
 
 > Web 4 proposes that systems based in time token are the most apt to create and improve existing social layers. 
 
-## What is a GeoSocial Layer?
+## What is a Geo-Social Layer?
 
-A geosocial layer is something that affects people (social) at a given location. 
+A geo-social layer is something that affects people (social) at a given location. A simple example is the governing body of an area, and all of the 
 
+Other Examples include 
 
 ## Geographic Stratification  
 
@@ -424,11 +425,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAyODAzMTQsLTIxMDgwMDkxMTQsLTE4OT
-IzODAwNDksMzk3NjcwMywtMTc5NzA0Mjg4MiwtMTA5NDYzMDg0
-OSwtMTAxNTYzNjU2NywtMzUyOTMwNjQ0LDEzOTczNzgzMDQsLT
-c2OTU2MjgxNSwtMTA3ODc1NTEwMywtNzMxNzYxMTMsMTA3MDcx
-MjY2MiwtMTI1MjY5MTQ4LC05MDQ0NTkzMjgsMjgyODk3MzExLD
-IxNTM4OTM4MywtOTcxMzQ0NjM2LDkxNDU1NTA1MCwtMTExODY3
-MzAzXX0=
+eyJoaXN0b3J5IjpbLTg5NDc3MzQxNiwtMjEwODAwOTExNCwtMT
+g5MjM4MDA0OSwzOTc2NzAzLC0xNzk3MDQyODgyLC0xMDk0NjMw
+ODQ5LC0xMDE1NjM2NTY3LC0zNTI5MzA2NDQsMTM5NzM3ODMwNC
+wtNzY5NTYyODE1LC0xMDc4NzU1MTAzLC03MzE3NjExMywxMDcw
+NzEyNjYyLC0xMjUyNjkxNDgsLTkwNDQ1OTMyOCwyODI4OTczMT
+EsMjE1Mzg5MzgzLC05NzEzNDQ2MzYsOTE0NTU1MDUwLC0xMTE4
+NjczMDNdfQ==
 -->
