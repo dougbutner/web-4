@@ -237,8 +237,6 @@ There will always be **security concerns** with biometrics. For example, if a us
 The upside of biometric secrets is they **cannot be lost**, and the account will always be recoverable by the individual. In a web 4 ecosystem, where the tokens are distributed daily and often spent daily, a hack would be much less catastrophic. The attacker will be able to access the user's balance, but not alter the past transactions, nor continue to collect the future deposits, because the real user will (in theory) quickly recover the account and change the biometric secret generation means so that the hacker's biofake is no longer working. 
 
 
-
-
 ___
 # **<center>**3**</center>**
 
@@ -425,11 +423,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NDc3MzQxNiwtMjEwODAwOTExNCwtMT
-g5MjM4MDA0OSwzOTc2NzAzLC0xNzk3MDQyODgyLC0xMDk0NjMw
-ODQ5LC0xMDE1NjM2NTY3LC0zNTI5MzA2NDQsMTM5NzM3ODMwNC
-wtNzY5NTYyODE1LC0xMDc4NzU1MTAzLC03MzE3NjExMywxMDcw
-NzEyNjYyLC0xMjUyNjkxNDgsLTkwNDQ1OTMyOCwyODI4OTczMT
-EsMjE1Mzg5MzgzLC05NzEzNDQ2MzYsOTE0NTU1MDUwLC0xMTE4
-NjczMDNdfQ==
+eyJoaXN0b3J5IjpbLTEyNDQzNjg5NzIsLTg5NDc3MzQxNiwtMj
+EwODAwOTExNCwtMTg5MjM4MDA0OSwzOTc2NzAzLC0xNzk3MDQy
+ODgyLC0xMDk0NjMwODQ5LC0xMDE1NjM2NTY3LC0zNTI5MzA2ND
+QsMTM5NzM3ODMwNCwtNzY5NTYyODE1LC0xMDc4NzU1MTAzLC03
+MzE3NjExMywxMDcwNzEyNjYyLC0xMjUyNjkxNDgsLTkwNDQ1OT
+MyOCwyODI4OTczMTEsMjE1Mzg5MzgzLC05NzEzNDQ2MzYsOTE0
+NTU1MDUwXX0=
 -->
