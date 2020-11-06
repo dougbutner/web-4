@@ -204,6 +204,8 @@ ___
 ___
 
 ## **Proof of Individuality - Biometric Secrets + Protecting Identity**
+> Please Note: There are solutions available today ( that solve the same issues presented here. This paper seeks to outline a "better" system that can be ran without centralized 
+
 **Biometric secrets** are akin to any cryptographic secret key, they are a hash of information. The information hashed in a biometric secret comes from a person's biometric expression. In today's biometric space,  static images are most commonly used for things like fingerprint and facial recognition, and geometry is the means to compare this data. 
 
 Biometric secrets generated from static images are not secure, as static images can be easily faked in innumerable ways [GETCIT]. Video offers a better solution to this problem, as it is harder to fake, can include audio, and lets developers create a whole new set of algorithms based on a changing stream of data. 
@@ -423,7 +425,7 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDQzNjg5NzIsLTg5NDc3MzQxNiwtMj
+eyJoaXN0b3J5IjpbLTIxMTgzMDM2NzEsLTg5NDc3MzQxNiwtMj
 EwODAwOTExNCwtMTg5MjM4MDA0OSwzOTc2NzAzLC0xNzk3MDQy
 ODgyLC0xMDk0NjMwODQ5LC0xMDE1NjM2NTY3LC0zNTI5MzA2ND
 QsMTM5NzM3ODMwNCwtNzY5NTYyODE1LC0xMDc4NzU1MTAzLC03
