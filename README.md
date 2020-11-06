@@ -278,10 +278,10 @@ A geo-social layer is something that affects people (social) at a given location
 
 Across the globe, one geopolitical pattern seem to emerge. Cities are within Counties, are within Districts (States in the USA), are within nations, are within the world. This gives us 
 
-1. Cities (Towns, etc.)
-2. Counties (
-3. Districts
-4. 
+1. Cities (aka Towns, etc.)
+2. Counties (aka Divisions
+3. Districts (aka States, 
+4. Nations (aka Countries, States, Republics
  
 
 For the purpose of any geo-social system, geographic barriers must be defined, but do not need to operate in traditional ways. Traditionally, it's the location within a certain area, such as a place of residence, that is of importance. When building a geo-social system, it's only necessary that each participant has declared the smallest (!!!) level of geographic stratification defined, from which the rest can be extrapolated. 
@@ -431,11 +431,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjQ2NzU0OTQsOTcwNDY0NDkwLDEwMz
-M4MDI1MiwtNDI3MzgzNjcyLC0zNzE0NTExNDMsLTE2ODM1ODQ0
-NDEsLTIxMTgzMDM2NzEsLTg5NDc3MzQxNiwtMjEwODAwOTExNC
-wtMTg5MjM4MDA0OSwzOTc2NzAzLC0xNzk3MDQyODgyLC0xMDk0
-NjMwODQ5LC0xMDE1NjM2NTY3LC0zNTI5MzA2NDQsMTM5NzM3OD
-MwNCwtNzY5NTYyODE1LC0xMDc4NzU1MTAzLC03MzE3NjExMywx
-MDcwNzEyNjYyXX0=
+eyJoaXN0b3J5IjpbLTUwNTI1MjgzNyw5NzA0NjQ0OTAsMTAzMz
+gwMjUyLC00MjczODM2NzIsLTM3MTQ1MTE0MywtMTY4MzU4NDQ0
+MSwtMjExODMwMzY3MSwtODk0NzczNDE2LC0yMTA4MDA5MTE0LC
+0xODkyMzgwMDQ5LDM5NzY3MDMsLTE3OTcwNDI4ODIsLTEwOTQ2
+MzA4NDksLTEwMTU2MzY1NjcsLTM1MjkzMDY0NCwxMzk3Mzc4Mz
+A0LC03Njk1NjI4MTUsLTEwNzg3NTUxMDMsLTczMTc2MTEzLDEw
+NzA3MTI2NjJdfQ==
 -->
