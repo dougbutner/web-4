@@ -204,7 +204,7 @@ ___
 ___
 
 ## **Proof of Individuality - Biometric Secrets + Protecting Identity**
-> Please Note: There are solutions available today ( that solve the same issues presented here. This paper seeks to outline a "better" system that can be ran without centralized 
+> Please Note: There are solutions available today ([FaceTec](https://www.facetec.com/), ) that solve the same issues presented here. This paper seeks to outline a "better" system that can be ran without centralized 
 
 **Biometric secrets** are akin to any cryptographic secret key, they are a hash of information. The information hashed in a biometric secret comes from a person's biometric expression. In today's biometric space,  static images are most commonly used for things like fingerprint and facial recognition, and geometry is the means to compare this data. 
 
@@ -425,11 +425,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTgzMDM2NzEsLTg5NDc3MzQxNiwtMj
-EwODAwOTExNCwtMTg5MjM4MDA0OSwzOTc2NzAzLC0xNzk3MDQy
-ODgyLC0xMDk0NjMwODQ5LC0xMDE1NjM2NTY3LC0zNTI5MzA2ND
-QsMTM5NzM3ODMwNCwtNzY5NTYyODE1LC0xMDc4NzU1MTAzLC03
-MzE3NjExMywxMDcwNzEyNjYyLC0xMjUyNjkxNDgsLTkwNDQ1OT
-MyOCwyODI4OTczMTEsMjE1Mzg5MzgzLC05NzEzNDQ2MzYsOTE0
-NTU1MDUwXX0=
+eyJoaXN0b3J5IjpbLTE2ODM1ODQ0NDEsLTIxMTgzMDM2NzEsLT
+g5NDc3MzQxNiwtMjEwODAwOTExNCwtMTg5MjM4MDA0OSwzOTc2
+NzAzLC0xNzk3MDQyODgyLC0xMDk0NjMwODQ5LC0xMDE1NjM2NT
+Y3LC0zNTI5MzA2NDQsMTM5NzM3ODMwNCwtNzY5NTYyODE1LC0x
+MDc4NzU1MTAzLC03MzE3NjExMywxMDcwNzEyNjYyLC0xMjUyNj
+kxNDgsLTkwNDQ1OTMyOCwyODI4OTczMTEsMjE1Mzg5MzgzLC05
+NzEzNDQ2MzZdfQ==
 -->
