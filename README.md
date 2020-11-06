@@ -203,7 +203,7 @@ ___
 ___
 
 ## **Proof of Individuality - Biometric Secrets + Protecting Identity**
-> Please Note: There are solutions available today (like [FaceTec](https://www.facetec.com/)) that solve the same issues presented here. This paper seeks to outline a "better" system that can be ran without a centralized actor. This is theory, . 
+> **Please Note:** There are solutions available today (like [FaceTec](https://www.facetec.com/)) that solve the same issues presented here. This paper seeks to outline a "better" system that can be ran without a centralized actor. 
 
 **Biometric secrets** are akin to any cryptographic secret key, they are a hash of information. The information hashed in a biometric secret comes from a person's biometric expression. In today's biometric space,  static images are most commonly used for things like fingerprint and facial recognition, and geometry is the means to compare this data. 
 
@@ -272,7 +272,7 @@ Collaborative social environments are always happening everywhere humans live. C
 
 ## What is a Geo-Social Layer?
 
-A geo-social layer is something that affects people (social) at a given location. A simple example is the governing body of an area, and all of the 
+A geo-social layer is something that affects people (social) at a given location. A simple example is the governing body of an area, including all of the legislation. Another example is a 
 
 Other Examples include 
 
@@ -424,11 +424,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY0NjU4NDUzLC0xNjgzNTg0NDQxLC0yMT
-E4MzAzNjcxLC04OTQ3NzM0MTYsLTIxMDgwMDkxMTQsLTE4OTIz
-ODAwNDksMzk3NjcwMywtMTc5NzA0Mjg4MiwtMTA5NDYzMDg0OS
-wtMTAxNTYzNjU2NywtMzUyOTMwNjQ0LDEzOTczNzgzMDQsLTc2
-OTU2MjgxNSwtMTA3ODc1NTEwMywtNzMxNzYxMTMsMTA3MDcxMj
-Y2MiwtMTI1MjY5MTQ4LC05MDQ0NTkzMjgsMjgyODk3MzExLDIx
-NTM4OTM4M119
+eyJoaXN0b3J5IjpbLTM3MTQ1MTE0MywtMTY4MzU4NDQ0MSwtMj
+ExODMwMzY3MSwtODk0NzczNDE2LC0yMTA4MDA5MTE0LC0xODky
+MzgwMDQ5LDM5NzY3MDMsLTE3OTcwNDI4ODIsLTEwOTQ2MzA4ND
+ksLTEwMTU2MzY1NjcsLTM1MjkzMDY0NCwxMzk3Mzc4MzA0LC03
+Njk1NjI4MTUsLTEwNzg3NTUxMDMsLTczMTc2MTEzLDEwNzA3MT
+I2NjIsLTEyNTI2OTE0OCwtOTA0NDU5MzI4LDI4Mjg5NzMxMSwy
+MTUzODkzODNdfQ==
 -->
