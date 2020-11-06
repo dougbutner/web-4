@@ -280,6 +280,7 @@ Across the globe, one geopolitical pattern seem to emerge. Cities are within Cou
 
 1. Cities (Towns, etc.)
 2. Counties (
+3. Districts
  
 
 For the purpose of any geo-social system, geographic barriers must be defined, but do not need to operate in traditional ways. Traditionally, it's the location within a certain area, such as a place of residence, that is of importance. When building a geo-social system, it's only necessary that each participant has declared the smallest (!!!) level of geographic stratification defined, from which the rest can be extrapolated. 
@@ -429,11 +430,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzA2NzQ4ODQsMTAzMzgwMjUyLC00Mj
-czODM2NzIsLTM3MTQ1MTE0MywtMTY4MzU4NDQ0MSwtMjExODMw
-MzY3MSwtODk0NzczNDE2LC0yMTA4MDA5MTE0LC0xODkyMzgwMD
-Q5LDM5NzY3MDMsLTE3OTcwNDI4ODIsLTEwOTQ2MzA4NDksLTEw
-MTU2MzY1NjcsLTM1MjkzMDY0NCwxMzk3Mzc4MzA0LC03Njk1Nj
-I4MTUsLTEwNzg3NTUxMDMsLTczMTc2MTEzLDEwNzA3MTI2NjIs
-LTEyNTI2OTE0OF19
+eyJoaXN0b3J5IjpbOTcwNDY0NDkwLDEwMzM4MDI1MiwtNDI3Mz
+gzNjcyLC0zNzE0NTExNDMsLTE2ODM1ODQ0NDEsLTIxMTgzMDM2
+NzEsLTg5NDc3MzQxNiwtMjEwODAwOTExNCwtMTg5MjM4MDA0OS
+wzOTc2NzAzLC0xNzk3MDQyODgyLC0xMDk0NjMwODQ5LC0xMDE1
+NjM2NTY3LC0zNTI5MzA2NDQsMTM5NzM3ODMwNCwtNzY5NTYyOD
+E1LC0xMDc4NzU1MTAzLC03MzE3NjExMywxMDcwNzEyNjYyLC0x
+MjUyNjkxNDhdfQ==
 -->
