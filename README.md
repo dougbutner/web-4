@@ -197,14 +197,13 @@ Of course they can! It's just not viable to fulfill all principles of web 4 , bu
 Web 2 is not a viable candidate for **provable democracy** because the federated nature means that your biometric data **must be trusted** to a third party, possibly a large corporation or malicious actor. 
 
 
-
 ___
 # **<center>**2**</center>**
 
 ___
 
 ## **Proof of Individuality - Biometric Secrets + Protecting Identity**
-> Please Note: There are solutions available today ([FaceTec](https://www.facetec.com/), ) that solve the same issues presented here. This paper seeks to outline a "better" system that can be ran without centralized 
+> Please Note: There are solutions available today (like [FaceTec](https://www.facetec.com/)) that solve the same issues presented here. This paper seeks to outline a "better" system that can be ran without a centralized actor. This is theory, . 
 
 **Biometric secrets** are akin to any cryptographic secret key, they are a hash of information. The information hashed in a biometric secret comes from a person's biometric expression. In today's biometric space,  static images are most commonly used for things like fingerprint and facial recognition, and geometry is the means to compare this data. 
 
@@ -425,11 +424,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODM1ODQ0NDEsLTIxMTgzMDM2NzEsLT
-g5NDc3MzQxNiwtMjEwODAwOTExNCwtMTg5MjM4MDA0OSwzOTc2
-NzAzLC0xNzk3MDQyODgyLC0xMDk0NjMwODQ5LC0xMDE1NjM2NT
-Y3LC0zNTI5MzA2NDQsMTM5NzM3ODMwNCwtNzY5NTYyODE1LC0x
-MDc4NzU1MTAzLC03MzE3NjExMywxMDcwNzEyNjYyLC0xMjUyNj
-kxNDgsLTkwNDQ1OTMyOCwyODI4OTczMTEsMjE1Mzg5MzgzLC05
-NzEzNDQ2MzZdfQ==
+eyJoaXN0b3J5IjpbNDY0NjU4NDUzLC0xNjgzNTg0NDQxLC0yMT
+E4MzAzNjcxLC04OTQ3NzM0MTYsLTIxMDgwMDkxMTQsLTE4OTIz
+ODAwNDksMzk3NjcwMywtMTc5NzA0Mjg4MiwtMTA5NDYzMDg0OS
+wtMTAxNTYzNjU2NywtMzUyOTMwNjQ0LDEzOTczNzgzMDQsLTc2
+OTU2MjgxNSwtMTA3ODc1NTEwMywtNzMxNzYxMTMsMTA3MDcxMj
+Y2MiwtMTI1MjY5MTQ4LC05MDQ0NTkzMjgsMjgyODk3MzExLDIx
+NTM4OTM4M119
 -->
