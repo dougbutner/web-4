@@ -274,16 +274,9 @@ Collaborative social environments are always happening everywhere humans live. C
 
 A geo-social layer is something that affects people (social) at a given location (Geo). A simple example is the governing body of an area, including all of the legislation. Another example is the customs and culture of a group of people. 
 
-
-Natural 
-
-Other Examples include 
-
 ## Geographic Stratification  
 
-
-Geosocial layers is the widely beneficial integration of these principles as a layer on top of existing geosocial systems. 
-These networks of information and positive attention
+For the purpose of any geo-social system, geographic barri
 
 
 GeoSocial Layers
@@ -430,11 +423,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMzM0NTgyNSwtMzcxNDUxMTQzLC0xNj
-gzNTg0NDQxLC0yMTE4MzAzNjcxLC04OTQ3NzM0MTYsLTIxMDgw
-MDkxMTQsLTE4OTIzODAwNDksMzk3NjcwMywtMTc5NzA0Mjg4Mi
-wtMTA5NDYzMDg0OSwtMTAxNTYzNjU2NywtMzUyOTMwNjQ0LDEz
-OTczNzgzMDQsLTc2OTU2MjgxNSwtMTA3ODc1NTEwMywtNzMxNz
-YxMTMsMTA3MDcxMjY2MiwtMTI1MjY5MTQ4LC05MDQ0NTkzMjgs
-MjgyODk3MzExXX0=
+eyJoaXN0b3J5IjpbLTE4MjIxNTYyOTIsLTM3MTQ1MTE0MywtMT
+Y4MzU4NDQ0MSwtMjExODMwMzY3MSwtODk0NzczNDE2LC0yMTA4
+MDA5MTE0LC0xODkyMzgwMDQ5LDM5NzY3MDMsLTE3OTcwNDI4OD
+IsLTEwOTQ2MzA4NDksLTEwMTU2MzY1NjcsLTM1MjkzMDY0NCwx
+Mzk3Mzc4MzA0LC03Njk1NjI4MTUsLTEwNzg3NTUxMDMsLTczMT
+c2MTEzLDEwNzA3MTI2NjIsLTEyNTI2OTE0OCwtOTA0NDU5MzI4
+LDI4Mjg5NzMxMV19
 -->
