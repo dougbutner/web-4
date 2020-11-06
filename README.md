@@ -276,7 +276,7 @@ A geo-social layer is something that affects people (social) at a given location
 
 ## Geographic Stratification  
 
-For the purpose of any geo-social system, geographic barriers must be defined, but do not need to operate in traditional ways. Traditionally, it's the location within a certain area, such as a place of residence, that is of importance. When building a geo-social system, a person may be able to de
+For the purpose of any geo-social system, geographic barriers must be defined, but do not need to operate in traditional ways. Traditionally, it's the location within a certain area, such as a place of residence, that is of importance. When building a geo-social system, it's only necessary that each participant has declared the smallest (!!!) level of geographic stratification defined, from which the rest can be extrapolated. 
 
 
 GeoSocial Layers
@@ -423,11 +423,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNzM4MzY3MiwtMzcxNDUxMTQzLC0xNj
-gzNTg0NDQxLC0yMTE4MzAzNjcxLC04OTQ3NzM0MTYsLTIxMDgw
-MDkxMTQsLTE4OTIzODAwNDksMzk3NjcwMywtMTc5NzA0Mjg4Mi
-wtMTA5NDYzMDg0OSwtMTAxNTYzNjU2NywtMzUyOTMwNjQ0LDEz
-OTczNzgzMDQsLTc2OTU2MjgxNSwtMTA3ODc1NTEwMywtNzMxNz
-YxMTMsMTA3MDcxMjY2MiwtMTI1MjY5MTQ4LC05MDQ0NTkzMjgs
-MjgyODk3MzExXX0=
+eyJoaXN0b3J5IjpbMTAzMzgwMjUyLC00MjczODM2NzIsLTM3MT
+Q1MTE0MywtMTY4MzU4NDQ0MSwtMjExODMwMzY3MSwtODk0Nzcz
+NDE2LC0yMTA4MDA5MTE0LC0xODkyMzgwMDQ5LDM5NzY3MDMsLT
+E3OTcwNDI4ODIsLTEwOTQ2MzA4NDksLTEwMTU2MzY1NjcsLTM1
+MjkzMDY0NCwxMzk3Mzc4MzA0LC03Njk1NjI4MTUsLTEwNzg3NT
+UxMDMsLTczMTc2MTEzLDEwNzA3MTI2NjIsLTEyNTI2OTE0OCwt
+OTA0NDU5MzI4XX0=
 -->
