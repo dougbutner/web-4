@@ -280,11 +280,11 @@ Across the globe, one geopolitical pattern seem to emerge. Cities are within Cou
 
 1. Cities (aka Towns, Commonwealths, C, etc.)
 2. Counties (aka Divisions
-3. Districts (aka States, 
+3. Districts (aka States, Provinces)
 4. Nations (aka Countries, States, Republics, etc)
 5. Global
  
-Additionally, a level may be added within cities called communities
+Additionally, a level may be added within cities (communities) that further 
 
 For the purpose of any geo-social system, geographic barriers must be defined, but do not need to operate in traditional ways. Traditionally, it's the location within a certain area, such as a place of residence, that is of importance. When building a geo-social system, it's only necessary that each participant has declared the smallest (!!!) level of geographic stratification defined, from which the rest can be extrapolated. 
 
@@ -433,11 +433,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTczMjcxLC01MDUyNTI4MzcsOTcwND
-Y0NDkwLDEwMzM4MDI1MiwtNDI3MzgzNjcyLC0zNzE0NTExNDMs
-LTE2ODM1ODQ0NDEsLTIxMTgzMDM2NzEsLTg5NDc3MzQxNiwtMj
-EwODAwOTExNCwtMTg5MjM4MDA0OSwzOTc2NzAzLC0xNzk3MDQy
-ODgyLC0xMDk0NjMwODQ5LC0xMDE1NjM2NTY3LC0zNTI5MzA2ND
-QsMTM5NzM3ODMwNCwtNzY5NTYyODE1LC0xMDc4NzU1MTAzLC03
-MzE3NjExM119
+eyJoaXN0b3J5IjpbLTEyMzk5MDU2MzYsLTE5OTczMjcxLC01MD
+UyNTI4MzcsOTcwNDY0NDkwLDEwMzM4MDI1MiwtNDI3MzgzNjcy
+LC0zNzE0NTExNDMsLTE2ODM1ODQ0NDEsLTIxMTgzMDM2NzEsLT
+g5NDc3MzQxNiwtMjEwODAwOTExNCwtMTg5MjM4MDA0OSwzOTc2
+NzAzLC0xNzk3MDQyODgyLC0xMDk0NjMwODQ5LC0xMDE1NjM2NT
+Y3LC0zNTI5MzA2NDQsMTM5NzM3ODMwNCwtNzY5NTYyODE1LC0x
+MDc4NzU1MTAzXX0=
 -->
