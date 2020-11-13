@@ -60,7 +60,7 @@ I believe when we create information systems in **harmonic resonance** with natu
 ## Defining Web 4
 Web 4 introduces **four modular components** for **provably democratic systems** built on top of web 3's open-source decentralized networks. 
 
-There are four conceptual underpinnings (modules) of web 4
+### There are four conceptual underpinnings (modules) of web 4
 
  1. **Time-issued cryptocurrency** 
 	 Individuals may receive "Time Tokens" at given intervals, but never more frequently, and can't hold another's time tokens.
@@ -69,12 +69,9 @@ There are four conceptual underpinnings (modules) of web 4
  3. **Pseudonymity and Information Entropy**
 	 Information degradation over time, pseudo accounts in sensitive systems
  4. **Harmonic GeoSocial Systems**
-	 Fair, transparent collaboration through accounting opin
- Reflecting lessons in nature into our systems to evolve socioeconomics towards collaboration
+	 Fair, transparent collaboration through accounting the opinions and desires of participants
 
-Each idea can be used separately or in tandem. This paper invites you to involve any of these ideas into your current and future projects. 
-
-In the following sections, we will discuss solutions to these concepts one at a time, then look at possible applications of these web 4 concepts, and a **roadmap to reality**.
+Each module can be used separately or in tandem. This paper invites you to involve any of these ideas into your current and future projects. We will discuss solutions to these concepts one at a time.
 
 
 # Why we can't have Provable democracy with web 3
@@ -449,11 +446,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MDAwNzk5MiwxNjkzNjA3NzEwLC03Nj
-YyNTY2NjYsLTE1NzIzMDQzMDEsNjE5OTM4Mzg4LDE3MjY4MjIw
-NjQsLTE4NjQ0Njg1NjAsMTgzNzM5Njg1NCwtNDUzODIwMDg3LD
-c0MjU1MTgwNCwtMzQ1MDg1OTAzLC0xMzI0NDQ2NTcyLC0xMzcy
-MDAzNDM2LDQzNDcwMjI3MywxMDE0MjY0MDM2LDE2MDE1NjUxOT
-UsLTEwOTkwNzYxNzgsLTE1MTUwMjM1MDMsODQ2NDMzMjEyLC01
-ODAwMTEzNV19
+eyJoaXN0b3J5IjpbLTE3OTA3NDQyMDMsMTY5MzYwNzcxMCwtNz
+Y2MjU2NjY2LC0xNTcyMzA0MzAxLDYxOTkzODM4OCwxNzI2ODIy
+MDY0LC0xODY0NDY4NTYwLDE4MzczOTY4NTQsLTQ1MzgyMDA4Ny
+w3NDI1NTE4MDQsLTM0NTA4NTkwMywtMTMyNDQ0NjU3MiwtMTM3
+MjAwMzQzNiw0MzQ3MDIyNzMsMTAxNDI2NDAzNiwxNjAxNTY1MT
+k1LC0xMDk5MDc2MTc4LC0xNTE1MDIzNTAzLDg0NjQzMzIxMiwt
+NTgwMDExMzVdfQ==
 -->
