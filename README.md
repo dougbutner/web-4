@@ -131,7 +131,7 @@ Here is the minimum information stored in a time token, using [JWT](https://jwt.
   }
 }
 ```
-For the time token to be spendable, a signed JWT Time Token (Mechanics example)
+Below there's a brief ecample of
 
 See Appendix A for the pseudocode of a time token. 
 ```
@@ -445,11 +445,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NzY3Nzg1MCwxMjIxOTc0Nzk0LC0xMz
-c1MTUyNSwxMDY2Mjk3MzkxLDE2OTM2MDc3MTAsLTc2NjI1NjY2
-NiwtMTU3MjMwNDMwMSw2MTk5MzgzODgsMTcyNjgyMjA2NCwtMT
-g2NDQ2ODU2MCwxODM3Mzk2ODU0LC00NTM4MjAwODcsNzQyNTUx
-ODA0LC0zNDUwODU5MDMsLTEzMjQ0NDY1NzIsLTEzNzIwMDM0Mz
-YsNDM0NzAyMjczLDEwMTQyNjQwMzYsMTYwMTU2NTE5NSwtMTA5
-OTA3NjE3OF19
+eyJoaXN0b3J5IjpbLTEyODg5ODMwNjAsMTY3NzY3Nzg1MCwxMj
+IxOTc0Nzk0LC0xMzc1MTUyNSwxMDY2Mjk3MzkxLDE2OTM2MDc3
+MTAsLTc2NjI1NjY2NiwtMTU3MjMwNDMwMSw2MTk5MzgzODgsMT
+cyNjgyMjA2NCwtMTg2NDQ2ODU2MCwxODM3Mzk2ODU0LC00NTM4
+MjAwODcsNzQyNTUxODA0LC0zNDUwODU5MDMsLTEzMjQ0NDY1Nz
+IsLTEzNzIwMDM0MzYsNDM0NzAyMjczLDEwMTQyNjQwMzYsMTYw
+MTU2NTE5NV19
 -->
