@@ -87,7 +87,7 @@ In the following sections, we will discuss solutions to these concepts one at a 
 
 Democracy is essentially reaching a consensus with the idea that **each person is equal** in their influence on that consensus within defined bounds.
 
-[2] Many different consensus models have been developed, most notably, proof of work (**POW**), proof of stake (**POS**), and delegated proof of stake (**DPOS**). These paradigms of consensus are used primarily to determine which chain of transaction records (blocks) is considered valid, securing a blockchain. 
+Many different consensus models have been developed, most notably, proof of work (**POW**), proof of stake (**POS**), and delegated proof of stake (**DPOS**). These paradigms of consensus are used primarily to determine which chain of transaction records (blocks) is considered valid, securing a blockchain. 
 
 POS and DPOS is additionally used to in projects like [**Hive**](https://peakd.com) to allow users to "vote" on valuable content, an early example of the democratic web. DPOS is also used for networks to determine who can access network resources.
 
@@ -209,7 +209,7 @@ ___
 
 **Biometric secrets** are akin to any cryptographic secret key, they are a hash of information. The information hashed in a biometric secret comes from a person's biometric expression. In today's biometric space,  static images are most commonly used for things like fingerprint and facial recognition, and geometry is the means to compare this data. 
 
-Biometric secrets generated from static images are not secure, as static images can be easily faked in innumerable ways []. Video offers a better solution to this problem, as it is harder to fake, can include audio, and lets developers create a whole new set of algorithms based on a changing stream of data. 
+Biometric secrets generated from static images are not secure, as static images can be faked. [2] Video offers a better solution to this problem, as it is harder to fake, can include audio, and lets developers create a whole new set of algorithms based on a changing stream of data. 
 
 ### What is used to generate a biosecret?
 This stream of data (video + audio biometric expression) could be a user doing a series of hand gestures, singing a part of a song, speaking a phrase, speaking a phrase in different voices, clapping, making a series of facial expressions, or anything else one can imagine.
@@ -447,11 +447,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwOTYyMzI4NSwxODkyNjYwNDcxLC0xND
-U5NTUxMzQsLTg1NjQ4NzY2OSwtMTIxOTcxMTAxOCwtOTUzMjQz
-NDgwLC0xMjM5OTA1NjM2LC0xOTk3MzI3MSwtNTA1MjUyODM3LD
-k3MDQ2NDQ5MCwxMDMzODAyNTIsLTQyNzM4MzY3MiwtMzcxNDUx
-MTQzLC0xNjgzNTg0NDQxLC0yMTE4MzAzNjcxLC04OTQ3NzM0MT
-YsLTIxMDgwMDkxMTQsLTE4OTIzODAwNDksMzk3NjcwMywtMTc5
-NzA0Mjg4Ml19
+eyJoaXN0b3J5IjpbLTU4MDAxMTM1LDE4OTI2NjA0NzEsLTE0NT
+k1NTEzNCwtODU2NDg3NjY5LC0xMjE5NzExMDE4LC05NTMyNDM0
+ODAsLTEyMzk5MDU2MzYsLTE5OTczMjcxLC01MDUyNTI4MzcsOT
+cwNDY0NDkwLDEwMzM4MDI1MiwtNDI3MzgzNjcyLC0zNzE0NTEx
+NDMsLTE2ODM1ODQ0NDEsLTIxMTgzMDM2NzEsLTg5NDc3MzQxNi
+wtMjEwODAwOTExNCwtMTg5MjM4MDA0OSwzOTc2NzAzLC0xNzk3
+MDQyODgyXX0=
 -->
