@@ -297,9 +297,9 @@ Traditionally, it's the existence within a certain area, such as a place of resi
 ## Social 
 Because each person can be associated to either a community, or a city, we can develop systems within web 4 that allow coordination at every strata with just this one piece of data for each person. 
 
-## Usefulness of Geosocial in Web 4 
+## Democracy, Collaboration, and ever-redefining Utopia
 
-By offering time tokens to the indivicut
+By offering time tokens to the individual that correspond to each stratum we can create high-fidelity democracy 
 
 
 # Roadmap to Web 4 Reality
@@ -436,7 +436,7 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMjYyNjUxNCwtMTIxOTcxMTAxOCwtOT
+eyJoaXN0b3J5IjpbLTY0NDQzMDQ3NiwtMTIxOTcxMTAxOCwtOT
 UzMjQzNDgwLC0xMjM5OTA1NjM2LC0xOTk3MzI3MSwtNTA1MjUy
 ODM3LDk3MDQ2NDQ5MCwxMDMzODAyNTIsLTQyNzM4MzY3MiwtMz
 cxNDUxMTQzLC0xNjgzNTg0NDQxLC0yMTE4MzAzNjcxLC04OTQ3
