@@ -288,18 +288,18 @@ Across the globe, one geopolitical pattern seem to emerge. Cities are within Cou
 
 For communication, we will consider cities as the "lowest" and global as the "highest" stratification level.
  
-Additionally, a community level may be added below cities to further add accuracy and usefulness. 
+Additionally, a **community level** may be added below cities to further add accuracy and usefulness. 
 
-For the purpose of any geo-social system, geographic association with each actor must be defined. 
+For the purpose of any geo-social system, **geographic association with each actor** must be defined. 
 
 Traditionally, it's the existence within a certain area, such as a place of residence or business, that is of importance. When building a geo-social system, it's only necessary that association is declared at the lowest level of geographic stratification, from which the rest can be extrapolated. 
 
 ## Social 
 Because each person can be associated to either a community, or a city, we can develop systems within web 4 that allow coordination at every strata with just this one piece of data for each person. 
 
-## Democracy, Collaboration, and ever-redefining Utopia
+# Democracy, Collaboration, and ever-redefining Utopia
 
-By offering time tokens to the individual that correspond to each stratum we can create high-fidelity democracy 
+By offering time tokens to the individual that correspond to each stratum we can create high-fidelity democratic systems that better represent each pe
 
 
 # Roadmap to Web 4 Reality
@@ -436,7 +436,7 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NDQzMDQ3NiwtMTIxOTcxMTAxOCwtOT
+eyJoaXN0b3J5IjpbLTk2MTY4OTM2NCwtMTIxOTcxMTAxOCwtOT
 UzMjQzNDgwLC0xMjM5OTA1NjM2LC0xOTk3MzI3MSwtNTA1MjUy
 ODM3LDk3MDQ2NDQ5MCwxMDMzODAyNTIsLTQyNzM4MzY3MiwtMz
 cxNDUxMTQzLC0xNjgzNTg0NDQxLC0yMTE4MzAzNjcxLC04OTQ3
