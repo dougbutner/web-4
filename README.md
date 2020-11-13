@@ -56,7 +56,7 @@ Web 4 seeks to implement systems in **harmony with the universe itself** by repl
 
 When we create information systems in **harmonic resonance** with natural systems, our society will be able to advance more rapidly than ever before, as we will be able to **"fit in" with the larger systems of information processing** around us (the Earth, Sun, and Galactic core). 
 
-
+This is one of the hermetic principles
 
 By riding the rhythms of the galaxy, solar system, and our own planet, we 
 
@@ -455,7 +455,7 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5Mzk4MTM5NCwtNzY2MjU2NjY2LC0xNT
+eyJoaXN0b3J5IjpbMTY5MzYwNzcxMCwtNzY2MjU2NjY2LC0xNT
 cyMzA0MzAxLDYxOTkzODM4OCwxNzI2ODIyMDY0LC0xODY0NDY4
 NTYwLDE4MzczOTY4NTQsLTQ1MzgyMDA4Nyw3NDI1NTE4MDQsLT
 M0NTA4NTkwMywtMTMyNDQ0NjU3MiwtMTM3MjAwMzQzNiw0MzQ3
