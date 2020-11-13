@@ -25,7 +25,7 @@ Web 4 is **built on top of web 3** (it's blockchain-based) while being **fundame
 
 In essence, web 4 is **positive attention catalyzer**, built on providing power to every that only gains meaning when they give it freely to another. This power is also freely given, and limited by time. 
 
-> Web 4 combines real-world components like time and geography with existing blockchain technology
+> Web 4 combines real-world components like time and geography with existing blockchain technology.
 
 In this manifesto, I will define each of the components of web 4, provide basic psudeocode  
 
@@ -456,7 +456,7 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcxMDY4ODAzLDEwMTQyNjQwMzYsMTYwMT
+eyJoaXN0b3J5IjpbNDM0NzAyMjczLDEwMTQyNjQwMzYsMTYwMT
 U2NTE5NSwtMTA5OTA3NjE3OCwtMTUxNTAyMzUwMyw4NDY0MzMy
 MTIsLTU4MDAxMTM1LDE4OTI2NjA0NzEsLTE0NTk1NTEzNCwtOD
 U2NDg3NjY5LC0xMjE5NzExMDE4LC05NTMyNDM0ODAsLTEyMzk5
