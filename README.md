@@ -345,10 +345,10 @@ Social Verification and solutions like Facetec are still used, while biocryptogr
 
 **Provable Identity** is now possible as suggested in this manifesto through the maturity of the biometric secrets. Standards are being created openly, 
 
-**GeoSocial layers** are being used to run and govern communities which are not dependent on traditional representative government. Traditional representative government structures are adopting time tokens to get a better read on what legislation 
+**GeoSocial layers** are being used to run and govern communities which are not dependent on traditional representative government. Existing governments are adopting time tokens to get a better read on what legislation the people want. 
 
 ## **Phase Four**
-**Information entropy** is added to the systems where it can be of use. For example, this could make a person's biometric data less knowable over time by increasing the amount of **CPU time** needed to guess the biosecret. 
+**Information entropy** is added to the systems where it can be of use. For example, this could make a person's voting record less knowable over time by increasing the amount of **CPU time** needed to guess the biosecret. 
 
 
 
@@ -445,11 +445,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NjQ4NzY2OSwtMTIxOTcxMTAxOCwtOT
-UzMjQzNDgwLC0xMjM5OTA1NjM2LC0xOTk3MzI3MSwtNTA1MjUy
-ODM3LDk3MDQ2NDQ5MCwxMDMzODAyNTIsLTQyNzM4MzY3MiwtMz
-cxNDUxMTQzLC0xNjgzNTg0NDQxLC0yMTE4MzAzNjcxLC04OTQ3
-NzM0MTYsLTIxMDgwMDkxMTQsLTE4OTIzODAwNDksMzk3NjcwMy
-wtMTc5NzA0Mjg4MiwtMTA5NDYzMDg0OSwtMTAxNTYzNjU2Nywt
-MzUyOTMwNjQ0XX0=
+eyJoaXN0b3J5IjpbLTM4OTM0OTU2MywtODU2NDg3NjY5LC0xMj
+E5NzExMDE4LC05NTMyNDM0ODAsLTEyMzk5MDU2MzYsLTE5OTcz
+MjcxLC01MDUyNTI4MzcsOTcwNDY0NDkwLDEwMzM4MDI1MiwtND
+I3MzgzNjcyLC0zNzE0NTExNDMsLTE2ODM1ODQ0NDEsLTIxMTgz
+MDM2NzEsLTg5NDc3MzQxNiwtMjEwODAwOTExNCwtMTg5MjM4MD
+A0OSwzOTc2NzAzLC0xNzk3MDQyODgyLC0xMDk0NjMwODQ5LC0x
+MDE1NjM2NTY3XX0=
 -->
