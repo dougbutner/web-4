@@ -268,7 +268,7 @@ ___
 ___
 # Geo-Social Harmonic Layers
 
-Collaborative social environments are always happening everywhere humans live. Currently, we are both realizing the vast differences in ways to live, as well as what direction we should be facing to grow. Human growth in the past few centuries has been focused on technological improvements rather than social improvements. [GETCIT]
+Collaborative social environments are always happening everywhere humans live. Currently, we are both realizing the vast amount of ways to live abundantly, as well as what direction we should be facing to grow as a society. Human growth in the past few centuries has been focused on technological improvements rather than social improvements. [GETCIT]
 
 > Web 4 proposes that systems based in time token are the most apt to create and improve existing social layers. 
 
@@ -295,7 +295,7 @@ For the purpose of any geo-social system, geographic association with each actor
 Traditionally, it's the existence within a certain area, such as a place of residence or business, that is of importance. When building a geo-social system, it's only necessary that association is declared at the lowest level of geographic stratification, from which the rest can be extrapolated. 
 
 ## Social 
-Because each person can be associated to either a community, or a city, we can develop systems within web 4 that allow 
+Because each person can be associated to either a community, or a city, we can develop systems within web 4 that allow coordination at every stra
 
 ## Usefulness of Geosocial in Web 4 
 
@@ -436,7 +436,7 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDIyNzQ3NzAsLTk1MzI0MzQ4MCwtMT
+eyJoaXN0b3J5IjpbLTEzNjY2NTc2NTIsLTk1MzI0MzQ4MCwtMT
 IzOTkwNTYzNiwtMTk5NzMyNzEsLTUwNTI1MjgzNyw5NzA0NjQ0
 OTAsMTAzMzgwMjUyLC00MjczODM2NzIsLTM3MTQ1MTE0MywtMT
 Y4MzU4NDQ0MSwtMjExODMwMzY3MSwtODk0NzczNDE2LC0yMTA4
