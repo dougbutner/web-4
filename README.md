@@ -208,7 +208,7 @@ We will present the ideas that are crucial for this system to be different, and 
 
 **Key Aspects** 
 1. **Biometric Expression**: A user is presented with a choice of different biometric options used to generate a hash that can only belong to this person. 
-User can choose to either perform a chosen biometric task to receive their hashed biosecret (trustless) or generate it at any time from a third-party provider (trust). Any third-party provider will generate the same hash by a set or open-source algorithms. 
+User can choose to either perform a chosen biometric task to receive their hashed biosecret (trustless) or generate it at any time from a third-party provider (trust). Any third-party provider will generate the same hash by a set of open-source algorithms. 
 
 2. **Biosecret Generation**: User's sensitive biological information and generated algorithmic results are destroyed (made impossible to reconstruct) at the layer of hashing, and data not stored in any way, public or private, as the user runs the software on their local machine (assuming they choose the open-source software, not a third party).
 
@@ -437,11 +437,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDA4MTEwNzAsLTE5MDQ4NjQyNSw0Nz
-A1Njg4MywxNjc3Njc3ODUwLDEyMjE5NzQ3OTQsLTEzNzUxNTI1
-LDEwNjYyOTczOTEsMTY5MzYwNzcxMCwtNzY2MjU2NjY2LC0xNT
-cyMzA0MzAxLDYxOTkzODM4OCwxNzI2ODIyMDY0LC0xODY0NDY4
-NTYwLDE4MzczOTY4NTQsLTQ1MzgyMDA4Nyw3NDI1NTE4MDQsLT
-M0NTA4NTkwMywtMTMyNDQ0NjU3MiwtMTM3MjAwMzQzNiw0MzQ3
-MDIyNzNdfQ==
+eyJoaXN0b3J5IjpbLTE1NDczOTEyMiwtMTkwNDg2NDI1LDQ3MD
+U2ODgzLDE2Nzc2Nzc4NTAsMTIyMTk3NDc5NCwtMTM3NTE1MjUs
+MTA2NjI5NzM5MSwxNjkzNjA3NzEwLC03NjYyNTY2NjYsLTE1Nz
+IzMDQzMDEsNjE5OTM4Mzg4LDE3MjY4MjIwNjQsLTE4NjQ0Njg1
+NjAsMTgzNzM5Njg1NCwtNDUzODIwMDg3LDc0MjU1MTgwNCwtMz
+Q1MDg1OTAzLC0xMzI0NDQ2NTcyLC0xMzcyMDAzNDM2LDQzNDcw
+MjI3M119
 -->
