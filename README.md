@@ -27,7 +27,7 @@ In essence, web 4 is **positive attention catalyzer**, built on providing power 
 
 > Web 4 combines real-world components like time and geography with existing blockchain technology.
 
-In this manifesto, I will define each of the components of web 4, provide psudeocode to illustrate the minimum integration into web 2/3, introduce the benefits to society, and offer a roadmap to adopting the
+In this manifesto, I will define each of the components of web 4, provide psudeocode to illustrate the minimum integration into web 2/3, introduce the benefits to society, and offer a roadmap to adopting these concepts.
 
 # Background
 
@@ -37,7 +37,7 @@ Before we define web 4 fully, we must look briefly at the concepts of web 1, web
 **Static web**. Files are served from a remote server to a user's browser.
 
  - **Web 2**
-**Dynamic web**. Web pages that take user's information and desires into account. Asynchronous requests allow single page applications to thrive. Applications are still served from a central server.
+**Dynamic web**. Web pages take a user's information and desires into account to build a unique experience for them. Asynchronous requests allow single page applications to thrive. Applications are still served from a central server.
 
  - **Web 3**
 **Decentralized web**. Open-source applications exist in distributed networks instead of a central server. This unfederated model trades control and censorship ability for freedom and lack of opinion. 
@@ -456,11 +456,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNTk3NzUsNDM0NzAyMjczLDEwMTQyNj
-QwMzYsMTYwMTU2NTE5NSwtMTA5OTA3NjE3OCwtMTUxNTAyMzUw
-Myw4NDY0MzMyMTIsLTU4MDAxMTM1LDE4OTI2NjA0NzEsLTE0NT
-k1NTEzNCwtODU2NDg3NjY5LC0xMjE5NzExMDE4LC05NTMyNDM0
-ODAsLTEyMzk5MDU2MzYsLTE5OTczMjcxLC01MDUyNTI4MzcsOT
-cwNDY0NDkwLDEwMzM4MDI1MiwtNDI3MzgzNjcyLC0zNzE0NTEx
-NDNdfQ==
+eyJoaXN0b3J5IjpbNjE0MjkxMDEyLDQzNDcwMjI3MywxMDE0Mj
+Y0MDM2LDE2MDE1NjUxOTUsLTEwOTkwNzYxNzgsLTE1MTUwMjM1
+MDMsODQ2NDMzMjEyLC01ODAwMTEzNSwxODkyNjYwNDcxLC0xND
+U5NTUxMzQsLTg1NjQ4NzY2OSwtMTIxOTcxMTAxOCwtOTUzMjQz
+NDgwLC0xMjM5OTA1NjM2LC0xOTk3MzI3MSwtNTA1MjUyODM3LD
+k3MDQ2NDQ5MCwxMDMzODAyNTIsLTQyNzM4MzY3MiwtMzcxNDUx
+MTQzXX0=
 -->
