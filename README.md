@@ -43,7 +43,7 @@ Before we define web 4 fully, we must look briefly at the concepts of web 1, web
 **Decentralized web**. Applications, often open-source, exist in distributed networks instead of a central server. This unfederated model trades control and censorship ability for freedom and autonomy. 
 
  - **Web 4**
-**Democratic web**. Enabling meaningful layers on top of current socioeconomic systems built on time-limited cryptographic tokens which are given utility by applications that accept these tokens as a measure of opinion or desire. Open source, unfederated biocryptography allows democratic systems to flourish, and takes government identification and corporate oversight out of the picture. Intentional degradation of information changes blockchain paradigms and brings meaning to time-based information models. 
+**Democratic web**. Enabling meaningful layers on top of current socioeconomic systems built on time-limited cryptographic tokens which are given utility by applications that accept these tokens as a measure of opinion or desire. Open source, unfederated biocryptography allows democratic systems to flourish, and takes government identification and corporate oversight out of the picture. Optional an intentional degradation of information changes blockchain paradigms and brings meaning to time-based information models. 
 
 Today, the top 100 websites by traffic are [all](https://www.alexa.com/topsites) web 2 websites. The web 2 paradigm fits closely with the wider environment of **corporate-owned information.** 
 
@@ -456,11 +456,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQyNTUxODA0LC0zNDUwODU5MDMsLTEzMj
-Q0NDY1NzIsLTEzNzIwMDM0MzYsNDM0NzAyMjczLDEwMTQyNjQw
-MzYsMTYwMTU2NTE5NSwtMTA5OTA3NjE3OCwtMTUxNTAyMzUwMy
-w4NDY0MzMyMTIsLTU4MDAxMTM1LDE4OTI2NjA0NzEsLTE0NTk1
-NTEzNCwtODU2NDg3NjY5LC0xMjE5NzExMDE4LC05NTMyNDM0OD
-AsLTEyMzk5MDU2MzYsLTE5OTczMjcxLC01MDUyNTI4MzcsOTcw
-NDY0NDkwXX0=
+eyJoaXN0b3J5IjpbLTQ1MzgyMDA4Nyw3NDI1NTE4MDQsLTM0NT
+A4NTkwMywtMTMyNDQ0NjU3MiwtMTM3MjAwMzQzNiw0MzQ3MDIy
+NzMsMTAxNDI2NDAzNiwxNjAxNTY1MTk1LC0xMDk5MDc2MTc4LC
+0xNTE1MDIzNTAzLDg0NjQzMzIxMiwtNTgwMDExMzUsMTg5MjY2
+MDQ3MSwtMTQ1OTU1MTM0LC04NTY0ODc2NjksLTEyMTk3MTEwMT
+gsLTk1MzI0MzQ4MCwtMTIzOTkwNTYzNiwtMTk5NzMyNzEsLTUw
+NTI1MjgzN119
 -->
