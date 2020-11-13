@@ -61,7 +61,7 @@ Web 4 seeks to implement systems in **harmony with the universe itself** by repl
 
 When we create information systems in **harmonic resonance** with natural systems, our society will be able to advance more rapidly than ever before, as we will be able to **"fit in" with the larger systems of information processing** around us (the Earth, Sun, and Galactic core). 
 
-By matching the wavelength of the galaxy, universe, and our own, we share more actively and intentionally, collectively, all around the world, working with the energy of the Earth, utilizing the Sun, and syncronysing with the moon
+By matching the wavelength of the galaxy, universe, and our own, we share more actively and intentionally, collectively, all around the world, working with the energy of the Earth, utilizing the Sun, and synchronizing with the moon
 
 ## Defining Web 4
 Web 4 introduces **four modular components** for **provably democratic systems** built on top of web 3's open-source decentralized networks. 
@@ -445,11 +445,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTk1NTEzNCwtODU2NDg3NjY5LC0xMj
-E5NzExMDE4LC05NTMyNDM0ODAsLTEyMzk5MDU2MzYsLTE5OTcz
-MjcxLC01MDUyNTI4MzcsOTcwNDY0NDkwLDEwMzM4MDI1MiwtND
-I3MzgzNjcyLC0zNzE0NTExNDMsLTE2ODM1ODQ0NDEsLTIxMTgz
-MDM2NzEsLTg5NDc3MzQxNiwtMjEwODAwOTExNCwtMTg5MjM4MD
-A0OSwzOTc2NzAzLC0xNzk3MDQyODgyLC0xMDk0NjMwODQ5LC0x
-MDE1NjM2NTY3XX0=
+eyJoaXN0b3J5IjpbMTg5MjY2MDQ3MSwtMTQ1OTU1MTM0LC04NT
+Y0ODc2NjksLTEyMTk3MTEwMTgsLTk1MzI0MzQ4MCwtMTIzOTkw
+NTYzNiwtMTk5NzMyNzEsLTUwNTI1MjgzNyw5NzA0NjQ0OTAsMT
+AzMzgwMjUyLC00MjczODM2NzIsLTM3MTQ1MTE0MywtMTY4MzU4
+NDQ0MSwtMjExODMwMzY3MSwtODk0NzczNDE2LC0yMTA4MDA5MT
+E0LC0xODkyMzgwMDQ5LDM5NzY3MDMsLTE3OTcwNDI4ODIsLTEw
+OTQ2MzA4NDldfQ==
 -->
