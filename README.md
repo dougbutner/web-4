@@ -355,9 +355,9 @@ Social Verification and solutions like Facetec are still used, while biocryptogr
 # Author notes
 
 ## Change Without Conflict
-**No one can stop us** from building collaborative systems with web 4 and even **self-governing**. **We don't need** to "tear down the system" or separate from society to do so. **We can exist** fully embedded in the geopolitical systems around us, while building up web 4 layers, the underpinnings of collaborative democracy.
+**No one can stop us** from building collaborative systems with web 4 and even **self-governing**. **We don't need** to "tear down the system" or separate from society to do so. **We can exist** fully embedded in the geopolitical systems around us, while implementing and improving web 4 concepts, the underpinnings of collaborative democracy.
 
-If and when the "old system" meets demise, as all things do, **we can transition rapidly** to a web 4 system like [Effective Collective](https://github.com/dougbutner/effective-collective) or another, as it will already be in place. 
+If and when the "old system" meets its demise, as all things do, **we can transition rapidly** to a web 4 system like [Effective Collective](https://github.com/dougbutner/effective-collective) or any other, as it will already be in place. 
 
 ## Why use the term "Web 4"
 It is my belief that each version of the web must 1) be built on top of the previous version, 2) be fundamentally different than the previous version by introducing new technology, and 3) have meaningful impact on society. 
@@ -445,11 +445,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk3MzA2NjY3LC04NTY0ODc2NjksLTEyMT
-k3MTEwMTgsLTk1MzI0MzQ4MCwtMTIzOTkwNTYzNiwtMTk5NzMy
-NzEsLTUwNTI1MjgzNyw5NzA0NjQ0OTAsMTAzMzgwMjUyLC00Mj
-czODM2NzIsLTM3MTQ1MTE0MywtMTY4MzU4NDQ0MSwtMjExODMw
-MzY3MSwtODk0NzczNDE2LC0yMTA4MDA5MTE0LC0xODkyMzgwMD
-Q5LDM5NzY3MDMsLTE3OTcwNDI4ODIsLTEwOTQ2MzA4NDksLTEw
-MTU2MzY1NjddfQ==
+eyJoaXN0b3J5IjpbLTI3ODk4MDQ1MSwtODU2NDg3NjY5LC0xMj
+E5NzExMDE4LC05NTMyNDM0ODAsLTEyMzk5MDU2MzYsLTE5OTcz
+MjcxLC01MDUyNTI4MzcsOTcwNDY0NDkwLDEwMzM4MDI1MiwtND
+I3MzgzNjcyLC0zNzE0NTExNDMsLTE2ODM1ODQ0NDEsLTIxMTgz
+MDM2NzEsLTg5NDc3MzQxNiwtMjEwODAwOTExNCwtMTg5MjM4MD
+A0OSwzOTc2NzAzLC0xNzk3MDQyODgyLC0xMDk0NjMwODQ5LC0x
+MDE1NjM2NTY3XX0=
 -->
