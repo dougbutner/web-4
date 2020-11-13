@@ -52,17 +52,11 @@ As more and more individuals and societies are reconsidering the place of **gove
 A growing portion of web 2 websites and applications today have elements of web 3, like [cryptoblogs](https://peakd.com) and [games](https://www.stateofthedapps.com/rankings/category/games). While web 2 and web 3 can operate independently, web 3 enhances the abilities of web 2. Similarly, web 3 and web 4 can operate independently, but it makes the most sense for web 4 to be built on blockchain tech to gain the benefits of reliability and transparency. 
 
 ## Guiding Philosophy
-Web 4 seeks to implement [biomimetic](https://biomimicry.org/what-is-biomimicry/) systems in **harmony with the universe itself** by replicating nature: the **abundance** of the Sun, rising **entropy**, and the **equality** of each conscious being. 
+Web 4 seeks to implement [biomimetic](https://biomimicry.org/what-is-biomimicry/) systems in **harmony with the universe itself** by replicating nature: the **abundance** of the Sun, rising **entropy**, and the **equality** of each human being. 
 
-When we create information systems in **harmonic resonance** with natural systems, our society will be able to advance more rapidly than ever before, as we will be able to **"fit in" with the larger systems of information processing** around us (the Earth, Sun, and Galactic core). 
+I believe when we create information systems in **harmonic resonance** with natural systems, our society will be able to advance more rapidly than ever before, as we will be able to **"fit in" with the larger systems of information processing** around us (the Earth, Sun, and Galactic core). 
 
 This is one of the hermetic principles
-
-By riding the rhythms of the galaxy, solar system, and our own planet, we 
-
-
-
-share more actively and intentionally, collectively, all around the world, working with the energy of the Earth, utilizing the Sun, and synchronizing with the moon
 
 ## Defining Web 4
 Web 4 introduces **four modular components** for **provably democratic systems** built on top of web 3's open-source decentralized networks. 
@@ -455,7 +449,7 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNzE4NzI5MiwxNjkzNjA3NzEwLC03Nj
+eyJoaXN0b3J5IjpbMTExMTg5ODAyOSwxNjkzNjA3NzEwLC03Nj
 YyNTY2NjYsLTE1NzIzMDQzMDEsNjE5OTM4Mzg4LDE3MjY4MjIw
 NjQsLTE4NjQ0Njg1NjAsMTgzNzM5Njg1NCwtNDUzODIwMDg3LD
 c0MjU1MTgwNCwtMzQ1MDg1OTAzLC0xMzI0NDQ2NTcyLC0xMzcy
