@@ -368,7 +368,8 @@ While an argument could easily be made that DeFi is Web 4, or another emerging t
 
 It is my hope and desire that the information presented here will be **expanded** on and **implemented** by many developers and systems in the coming years, not for the benefit of the few, but for the **empowerment** of each individual and the **harmony** of the human collective, and every layer of Gaia. 
 
-**Notes + References**
+___
+# Notes + References
 ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification. Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
@@ -449,11 +450,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODcyMzc3NjUsLTU4MDAxMTM1LDE4OT
-I2NjA0NzEsLTE0NTk1NTEzNCwtODU2NDg3NjY5LC0xMjE5NzEx
-MDE4LC05NTMyNDM0ODAsLTEyMzk5MDU2MzYsLTE5OTczMjcxLC
-01MDUyNTI4MzcsOTcwNDY0NDkwLDEwMzM4MDI1MiwtNDI3Mzgz
-NjcyLC0zNzE0NTExNDMsLTE2ODM1ODQ0NDEsLTIxMTgzMDM2Nz
-EsLTg5NDc3MzQxNiwtMjEwODAwOTExNCwtMTg5MjM4MDA0OSwz
-OTc2NzAzXX0=
+eyJoaXN0b3J5IjpbMTQzNjQxMzE1MywtNTgwMDExMzUsMTg5Mj
+Y2MDQ3MSwtMTQ1OTU1MTM0LC04NTY0ODc2NjksLTEyMTk3MTEw
+MTgsLTk1MzI0MzQ4MCwtMTIzOTkwNTYzNiwtMTk5NzMyNzEsLT
+UwNTI1MjgzNyw5NzA0NjQ0OTAsMTAzMzgwMjUyLC00MjczODM2
+NzIsLTM3MTQ1MTE0MywtMTY4MzU4NDQ0MSwtMjExODMwMzY3MS
+wtODk0NzczNDE2LC0yMTA4MDA5MTE0LC0xODkyMzgwMDQ5LDM5
+NzY3MDNdfQ==
 -->
