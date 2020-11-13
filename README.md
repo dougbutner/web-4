@@ -301,11 +301,11 @@ Because each person can be associated to either a community, or a city, we can d
 
 # Democracy, Collaboration, and ever-redefining Utopia
 
-By offering time tokens to the individual that correspond to each stratum we can create high-fidelity democratic systems that better represent each and every person's desires. We can t
+By offering time tokens to the individual that correspond to each stratum we can create **high-fidelity democratic systems** that better represent each and every person's desires. We can know exactly what the people want, with no guesswork, in a very short period of time. 
 
-For example, a person may be given 12 time tokens at each stratum to vote on the initiatives that they would like to see passed. They may vote all 12 tokens for an inititive they are most passionate about, or 1 token to 12 different initiatives (or 2 to 6 initiatives, etc). By collecting and counting these tokens, the governing body can know exactly what their constituents want, without the direct need to elect a representative who only estimates these desires. 
+For example, a person may be given 12 time tokens at each stratum to vote on the initiatives that they would like to see passed. They may vote all 12 tokens for an inititive they are most passionate about, or 1 token to 12 different initiatives (or 2 to 6 initiatives, etc). By collecting and counting these tokens, the governing body can **know exactly what their constituents want**, without the direct need to elect a representative who only estimates these desires. 
 
-The democratic system described in this paper does not solve all problems, as there are still issues of voter informedness, unseen actors, and more, but it is a skeleton to build a collaborative social system that are an improvement to the representative governments which were once as revolutionary as these ideas are. 
+The democratic system described in this paper does not solve all problems, as there are still issues of voter informedness, unseen actors, and more, but it is a skeleton to build a collaborative social system that are an **improvement to the representative governments** which were once as revolutionary as these ideas are. 
 
 
 
@@ -316,7 +316,7 @@ The democratic system described in this paper does not solve all problems, as th
 
 **Time Tokens** are implemented on any and all blockchains where developers see the value. These developers provide open-source instructions and tools to helps others make their own time tokens. 
 
-**Provable individuality** for Time Tokens is up to each application and blockchain, and these application can choose to ignore this requirement, risking their systems' integrity. **Federated** (Google / SSO) and **decentralized** options (Civic) may be used, and so can social verification/ 
+**Provable individuality** for Time Tokens is up to each application and blockchain, and these application can choose to ignore this requirement, risking their systems' integrity. **Federated** (Facetec) and **decentralized** options (Civic) may be used, and so can social verification.
 
 
 **Information entropy** and **geosocial layers** are starting to be theorized, but not showing up. 
@@ -443,7 +443,7 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzUxODA1MzUsLTEyMTk3MTEwMTgsLT
+eyJoaXN0b3J5IjpbLTEzNzM3MTU4MjksLTEyMTk3MTEwMTgsLT
 k1MzI0MzQ4MCwtMTIzOTkwNTYzNiwtMTk5NzMyNzEsLTUwNTI1
 MjgzNyw5NzA0NjQ0OTAsMTAzMzgwMjUyLC00MjczODM2NzIsLT
 M3MTQ1MTE0MywtMTY4MzU4NDQ0MSwtMjExODMwMzY3MSwtODk0
