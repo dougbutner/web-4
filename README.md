@@ -270,7 +270,7 @@ ___
 ___
 # Geo-Social Harmonic Layers
 
-Collaborative social environments are always happening everywhere humans live. Currently, we are both realizing the vast amount of ways to live abundantly, as well as what direction we should be facing to grow as a society. Human growth in the past few centuries has been focused on technological improvements rather than social improvements. [GETCIT]
+Collaborative social environments are always happening everywhere humans live. Currently, we are both realizing the vast amount of ways to live abundantly, as well as what direction we should be facing to grow as a society. Human growth in the past few centuries has been focused on technological improvements rather than social improvements. [3]
 
 > Web 4 proposes that systems based in time token are the most apt to create and improve existing social layers. 
 
@@ -447,11 +447,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MDAxMTM1LDE4OTI2NjA0NzEsLTE0NT
-k1NTEzNCwtODU2NDg3NjY5LC0xMjE5NzExMDE4LC05NTMyNDM0
-ODAsLTEyMzk5MDU2MzYsLTE5OTczMjcxLC01MDUyNTI4MzcsOT
-cwNDY0NDkwLDEwMzM4MDI1MiwtNDI3MzgzNjcyLC0zNzE0NTEx
-NDMsLTE2ODM1ODQ0NDEsLTIxMTgzMDM2NzEsLTg5NDc3MzQxNi
-wtMjEwODAwOTExNCwtMTg5MjM4MDA0OSwzOTc2NzAzLC0xNzk3
-MDQyODgyXX0=
+eyJoaXN0b3J5IjpbLTIxMDg0MTc4MTYsLTU4MDAxMTM1LDE4OT
+I2NjA0NzEsLTE0NTk1NTEzNCwtODU2NDg3NjY5LC0xMjE5NzEx
+MDE4LC05NTMyNDM0ODAsLTEyMzk5MDU2MzYsLTE5OTczMjcxLC
+01MDUyNTI4MzcsOTcwNDY0NDkwLDEwMzM4MDI1MiwtNDI3Mzgz
+NjcyLC0zNzE0NTExNDMsLTE2ODM1ODQ0NDEsLTIxMTgzMDM2Nz
+EsLTg5NDc3MzQxNiwtMjEwODAwOTExNCwtMTg5MjM4MDA0OSwz
+OTc2NzAzXX0=
 -->
