@@ -19,7 +19,7 @@ This README features a description of the next evolution of the web, **web 4**. 
 
 
 
-Web 4 is a set of **modular paradigms** and practices that allow integration of **provable democracy in any social system** with the general goal of collaboration. Modularity allows any project to adopt one or more of these principles to improve the fidelity of their user's experience. 
+Web 4 is a set of **modular paradigms** and practices that allow integration of **provable democracy in any social system** (organization, government, community, etc) with the general goal of collaboration. Modularity allows any project to adopt one or more of these principles to improve the fidelity of their user's experience. 
 
 Web 4 is **built on top of web 3** (blockchain-based) while being **fundamentally different** and providing enough **benefit to society** warrant the new title of web 4. 
 
@@ -454,11 +454,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODE0MzA1NTAsLTEwOTkwNzYxNzgsLT
-E1MTUwMjM1MDMsODQ2NDMzMjEyLC01ODAwMTEzNSwxODkyNjYw
-NDcxLC0xNDU5NTUxMzQsLTg1NjQ4NzY2OSwtMTIxOTcxMTAxOC
-wtOTUzMjQzNDgwLC0xMjM5OTA1NjM2LC0xOTk3MzI3MSwtNTA1
-MjUyODM3LDk3MDQ2NDQ5MCwxMDMzODAyNTIsLTQyNzM4MzY3Mi
-wtMzcxNDUxMTQzLC0xNjgzNTg0NDQxLC0yMTE4MzAzNjcxLC04
-OTQ3NzM0MTZdfQ==
+eyJoaXN0b3J5IjpbLTUyMzQyNzc4MCwtMTA5OTA3NjE3OCwtMT
+UxNTAyMzUwMyw4NDY0MzMyMTIsLTU4MDAxMTM1LDE4OTI2NjA0
+NzEsLTE0NTk1NTEzNCwtODU2NDg3NjY5LC0xMjE5NzExMDE4LC
+05NTMyNDM0ODAsLTEyMzk5MDU2MzYsLTE5OTczMjcxLC01MDUy
+NTI4MzcsOTcwNDY0NDkwLDEwMzM4MDI1MiwtNDI3MzgzNjcyLC
+0zNzE0NTExNDMsLTE2ODM1ODQ0NDEsLTIxMTgzMDM2NzEsLTg5
+NDc3MzQxNl19
 -->
