@@ -43,7 +43,7 @@ Before we define web 4 fully, we must look briefly at the concepts of web 1, web
 **Decentralized web**. Applications, often open-source, exist in distributed networks instead of a central server. This unfederated model trades control and censorship ability for freedom and autonomy. 
 
  - **Web 4**
-**Democratic web**. Time-limited cryptographic tokens are given to each individual, and used as a measure of opinion or desire in collaborative systems like government, 
+**Democratic web**. Time-limited cryptographic tokens are given to each individual, and used as a measure of opinion or desire in collaborative systems.
 
 Today, the top 100 websites by traffic are [all](https://www.alexa.com/topsites) web 2 websites. The web 2 paradigm fits closely with the wider environment of **corporate-owned information.** 
 
@@ -456,11 +456,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNzM5Njg1NCwtNDUzODIwMDg3LDc0Mj
-U1MTgwNCwtMzQ1MDg1OTAzLC0xMzI0NDQ2NTcyLC0xMzcyMDAz
-NDM2LDQzNDcwMjI3MywxMDE0MjY0MDM2LDE2MDE1NjUxOTUsLT
-EwOTkwNzYxNzgsLTE1MTUwMjM1MDMsODQ2NDMzMjEyLC01ODAw
-MTEzNSwxODkyNjYwNDcxLC0xNDU5NTUxMzQsLTg1NjQ4NzY2OS
-wtMTIxOTcxMTAxOCwtOTUzMjQzNDgwLC0xMjM5OTA1NjM2LC0x
-OTk3MzI3MV19
+eyJoaXN0b3J5IjpbLTE4NjQ0Njg1NjAsMTgzNzM5Njg1NCwtND
+UzODIwMDg3LDc0MjU1MTgwNCwtMzQ1MDg1OTAzLC0xMzI0NDQ2
+NTcyLC0xMzcyMDAzNDM2LDQzNDcwMjI3MywxMDE0MjY0MDM2LD
+E2MDE1NjUxOTUsLTEwOTkwNzYxNzgsLTE1MTUwMjM1MDMsODQ2
+NDMzMjEyLC01ODAwMTEzNSwxODkyNjYwNDcxLC0xNDU5NTUxMz
+QsLTg1NjQ4NzY2OSwtMTIxOTcxMTAxOCwtOTUzMjQzNDgwLC0x
+MjM5OTA1NjM2XX0=
 -->
