@@ -49,7 +49,7 @@ Today, the top 100 websites by traffic are [all](https://www.alexa.com/topsites)
 
 As more and more individuals and societies are reconsidering the place of **government, censorship, centralization and federated power**, web 3 has emerged as a powerful, provable option to shape the evolution of society on planet Earth. 
 
-A growing portion of web 2 websites and applications today have elements of web 3, like [cryptoblogs](https://peakd.com) and [games](https://www.stateofthedapps.com/rankings/category/games). While web 2 and web 3 can operate independently, web 3 enhances the abilities of web 2. 
+A growing portion of web 2 websites and applications today have elements of web 3, like [cryptoblogs](https://peakd.com) and [games](https://www.stateofthedapps.com/rankings/category/games). While web 2 and web 3 can operate independently, web 3 enhances the abilities of web 2. Similarly, web 3 and web 4 can operate independently, but it makes the most sense for it to 
 
 As web 3 matures, we start to open a **pandoras box of practical applications**. With transaction fees near non-existent on second layers, we can re-imagine what is possible. 
 
@@ -456,11 +456,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNjgyMjA2NCwtMTg2NDQ2ODU2MCwxOD
-M3Mzk2ODU0LC00NTM4MjAwODcsNzQyNTUxODA0LC0zNDUwODU5
-MDMsLTEzMjQ0NDY1NzIsLTEzNzIwMDM0MzYsNDM0NzAyMjczLD
-EwMTQyNjQwMzYsMTYwMTU2NTE5NSwtMTA5OTA3NjE3OCwtMTUx
-NTAyMzUwMyw4NDY0MzMyMTIsLTU4MDAxMTM1LDE4OTI2NjA0Nz
-EsLTE0NTk1NTEzNCwtODU2NDg3NjY5LC0xMjE5NzExMDE4LC05
-NTMyNDM0ODBdfQ==
+eyJoaXN0b3J5IjpbMTcxMDE2NzYzMywxNzI2ODIyMDY0LC0xOD
+Y0NDY4NTYwLDE4MzczOTY4NTQsLTQ1MzgyMDA4Nyw3NDI1NTE4
+MDQsLTM0NTA4NTkwMywtMTMyNDQ0NjU3MiwtMTM3MjAwMzQzNi
+w0MzQ3MDIyNzMsMTAxNDI2NDAzNiwxNjAxNTY1MTk1LC0xMDk5
+MDc2MTc4LC0xNTE1MDIzNTAzLDg0NjQzMzIxMiwtNTgwMDExMz
+UsMTg5MjY2MDQ3MSwtMTQ1OTU1MTM0LC04NTY0ODc2NjksLTEy
+MTk3MTEwMThdfQ==
 -->
