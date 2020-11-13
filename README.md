@@ -154,6 +154,7 @@ const payloadData = {
 
 const bioSecret = bioKeyGenerator(passedBioData); // Biometric provider's key or one generated direcly by user
 
+// --- Here we have the signature, to be used for any purpose --- \\
 signature = HMACSHA256(
 	base64UrlEncode(header) + "."+
 	base64UrlEncode(payloadData), 
@@ -163,7 +164,7 @@ signature = HMACSHA256(
 
 function bioKeyGenerator(bioData){
 	// Function takes data in the form of user input into their browser or smartphone.
-	// Checking happens 
+	// Returns a secret (better explained in Appendix A
 	
 	return 
 }
@@ -437,11 +438,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUwMjE2MzcxLDE2Nzc2Nzc4NTAsMTIyMT
-k3NDc5NCwtMTM3NTE1MjUsMTA2NjI5NzM5MSwxNjkzNjA3NzEw
-LC03NjYyNTY2NjYsLTE1NzIzMDQzMDEsNjE5OTM4Mzg4LDE3Mj
-Y4MjIwNjQsLTE4NjQ0Njg1NjAsMTgzNzM5Njg1NCwtNDUzODIw
-MDg3LDc0MjU1MTgwNCwtMzQ1MDg1OTAzLC0xMzI0NDQ2NTcyLC
-0xMzcyMDAzNDM2LDQzNDcwMjI3MywxMDE0MjY0MDM2LDE2MDE1
-NjUxOTVdfQ==
+eyJoaXN0b3J5IjpbLTEwMjk4NTg0ODAsMTY3NzY3Nzg1MCwxMj
+IxOTc0Nzk0LC0xMzc1MTUyNSwxMDY2Mjk3MzkxLDE2OTM2MDc3
+MTAsLTc2NjI1NjY2NiwtMTU3MjMwNDMwMSw2MTk5MzgzODgsMT
+cyNjgyMjA2NCwtMTg2NDQ2ODU2MCwxODM3Mzk2ODU0LC00NTM4
+MjAwODcsNzQyNTUxODA0LC0zNDUwODU5MDMsLTEzMjQ0NDY1Nz
+IsLTEzNzIwMDM0MzYsNDM0NzAyMjczLDEwMTQyNjQwMzYsMTYw
+MTU2NTE5NV19
 -->
