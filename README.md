@@ -350,7 +350,7 @@ Social Verification and solutions like Facetec are still used, while biocryptogr
 ## **Phase Four**
 **Information entropy** is added to the systems where it can be of use. For example, this could make a person's (anonymous) voting record less knowable over time by increasing the amount of CPU time needed to associate one vote with another. 
 
-**GeoSocial layers** are being used as a replacement for representative government where it is the will of the people. Voter informedness is measured and known, as is the exact desires of the people. This creates collaboration and a renewed faith in democracy, and a feeling of belongingness and appreciation for each individual. 
+**GeoSocial layers** are being used as a replacement for representative government where it is the will of the people. Voter informedness is measured and known, as are the exact desires of the people. This creates collaboration and a renewed faith in democracy, and a feeling of belongingness and appreciation for each individual. 
 
 # Author notes
 
@@ -445,11 +445,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTUxODkyNywtODU2NDg3NjY5LC0xMj
-E5NzExMDE4LC05NTMyNDM0ODAsLTEyMzk5MDU2MzYsLTE5OTcz
-MjcxLC01MDUyNTI4MzcsOTcwNDY0NDkwLDEwMzM4MDI1MiwtND
-I3MzgzNjcyLC0zNzE0NTExNDMsLTE2ODM1ODQ0NDEsLTIxMTgz
-MDM2NzEsLTg5NDc3MzQxNiwtMjEwODAwOTExNCwtMTg5MjM4MD
-A0OSwzOTc2NzAzLC0xNzk3MDQyODgyLC0xMDk0NjMwODQ5LC0x
-MDE1NjM2NTY3XX0=
+eyJoaXN0b3J5IjpbOTk3MzA2NjY3LC04NTY0ODc2NjksLTEyMT
+k3MTEwMTgsLTk1MzI0MzQ4MCwtMTIzOTkwNTYzNiwtMTk5NzMy
+NzEsLTUwNTI1MjgzNyw5NzA0NjQ0OTAsMTAzMzgwMjUyLC00Mj
+czODM2NzIsLTM3MTQ1MTE0MywtMTY4MzU4NDQ0MSwtMjExODMw
+MzY3MSwtODk0NzczNDE2LC0yMTA4MDA5MTE0LC0xODkyMzgwMD
+Q5LDM5NzY3MDMsLTE3OTcwNDI4ODIsLTEwOTQ2MzA4NDksLTEw
+MTU2MzY1NjddfQ==
 -->
