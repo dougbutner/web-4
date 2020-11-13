@@ -43,7 +43,7 @@ Before we define web 4 fully, we must look briefly at the concepts of web 1, web
 **Decentralized web**. Applications, often open-source, exist in distributed networks instead of a central server. This unfederated model trades control and censorship ability for freedom and autonomy. 
 
  - **Web 4**
-**Democratic web**. Enabling meaningful layers on top of current socioeconomic systems built on time-limited cryptographic tokens which are given utility by applications that accept these tokens as a payment or vote. Open source, unfederated biocryptography allows democratic systems to flourish, and takes government identification and corporate oversight out of the picture. Intentional degradation of information changes blockchain paradigms and brings meaning to time-based information models. 
+**Democratic web**. Enabling meaningful layers on top of current socioeconomic systems built on time-limited cryptographic tokens which are given utility by applications that accept these tokens as a measure of opinion or desire to change a system. Open source, unfederated biocryptography allows democratic systems to flourish, and takes government identification and corporate oversight out of the picture. Intentional degradation of information changes blockchain paradigms and brings meaning to time-based information models. 
 
 Today, the top 100 websites by traffic are [all](https://www.alexa.com/topsites) web 2 websites. The web 2 paradigm fits closely with the wider environment of **corporate-owned information.** 
 
@@ -456,11 +456,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NTA4NTkwMywtMTMyNDQ0NjU3MiwtMT
-M3MjAwMzQzNiw0MzQ3MDIyNzMsMTAxNDI2NDAzNiwxNjAxNTY1
-MTk1LC0xMDk5MDc2MTc4LC0xNTE1MDIzNTAzLDg0NjQzMzIxMi
-wtNTgwMDExMzUsMTg5MjY2MDQ3MSwtMTQ1OTU1MTM0LC04NTY0
-ODc2NjksLTEyMTk3MTEwMTgsLTk1MzI0MzQ4MCwtMTIzOTkwNT
-YzNiwtMTk5NzMyNzEsLTUwNTI1MjgzNyw5NzA0NjQ0OTAsMTAz
-MzgwMjUyXX0=
+eyJoaXN0b3J5IjpbMTQxNTc1NzE5LC0zNDUwODU5MDMsLTEzMj
+Q0NDY1NzIsLTEzNzIwMDM0MzYsNDM0NzAyMjczLDEwMTQyNjQw
+MzYsMTYwMTU2NTE5NSwtMTA5OTA3NjE3OCwtMTUxNTAyMzUwMy
+w4NDY0MzMyMTIsLTU4MDAxMTM1LDE4OTI2NjA0NzEsLTE0NTk1
+NTEzNCwtODU2NDg3NjY5LC0xMjE5NzExMDE4LC05NTMyNDM0OD
+AsLTEyMzk5MDU2MzYsLTE5OTczMjcxLC01MDUyNTI4MzcsOTcw
+NDY0NDkwXX0=
 -->
