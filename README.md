@@ -52,7 +52,7 @@ As more and more individuals and societies are reconsidering the place of **gove
 A growing portion of web 2 websites and applications today have elements of web 3, like [cryptoblogs](https://peakd.com) and [games](https://www.stateofthedapps.com/rankings/category/games). While web 2 and web 3 can operate independently, web 3 enhances the abilities of web 2. Similarly, web 3 and web 4 can operate independently, but it makes the most sense for web 4 to be built on blockchain tech to gain the benefits of reliability and transparency. 
 
 ## Guiding Philosophy
-Web 4 seeks to implement systems in **harmony with the universe itself** by replicating nature: the **abundance** of the Sun, rising **entropy**, and the **equality** of each conscious being. 
+Web 4 seeks to implement [biomimetic](https://biomimicry.org/what-is-biomimicry/) systems in **harmony with the universe itself** by replicating nature: the **abundance** of the Sun, rising **entropy**, and the **equality** of each conscious being. 
 
 When we create information systems in **harmonic resonance** with natural systems, our society will be able to advance more rapidly than ever before, as we will be able to **"fit in" with the larger systems of information processing** around us (the Earth, Sun, and Galactic core). 
 
@@ -455,11 +455,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MzYwNzcxMCwtNzY2MjU2NjY2LC0xNT
-cyMzA0MzAxLDYxOTkzODM4OCwxNzI2ODIyMDY0LC0xODY0NDY4
-NTYwLDE4MzczOTY4NTQsLTQ1MzgyMDA4Nyw3NDI1NTE4MDQsLT
-M0NTA4NTkwMywtMTMyNDQ0NjU3MiwtMTM3MjAwMzQzNiw0MzQ3
-MDIyNzMsMTAxNDI2NDAzNiwxNjAxNTY1MTk1LC0xMDk5MDc2MT
-c4LC0xNTE1MDIzNTAzLDg0NjQzMzIxMiwtNTgwMDExMzUsMTg5
-MjY2MDQ3MV19
+eyJoaXN0b3J5IjpbLTYyNzE4NzI5MiwxNjkzNjA3NzEwLC03Nj
+YyNTY2NjYsLTE1NzIzMDQzMDEsNjE5OTM4Mzg4LDE3MjY4MjIw
+NjQsLTE4NjQ0Njg1NjAsMTgzNzM5Njg1NCwtNDUzODIwMDg3LD
+c0MjU1MTgwNCwtMzQ1MDg1OTAzLC0xMzI0NDQ2NTcyLC0xMzcy
+MDAzNDM2LDQzNDcwMjI3MywxMDE0MjY0MDM2LDE2MDE1NjUxOT
+UsLTEwOTkwNzYxNzgsLTE1MTUwMjM1MDMsODQ2NDMzMjEyLC01
+ODAwMTEzNV19
 -->
