@@ -164,11 +164,9 @@ signature = HMACSHA256(
 
 function bioKeyGenerator(bioData){
 	// Function takes data in the form of user input into their browser or smartphone.
-	// Data is normalized (explained in Appendix A)
-	bioSecretChecked = (bioData);
-	// Returns a secret 
-	bioSecretChecked
-	
+	// Data is normalized (explained in Appendix A, not shown here)
+	bioSecretChecked = bioData;
+	// Return biosecret 
 	return sha256(bioSecretChecked)
 }
 
@@ -440,7 +438,7 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczODU4MTk5MCwxNjc3Njc3ODUwLDEyMj
+eyJoaXN0b3J5IjpbMTExNjA1OTgxNiwxNjc3Njc3ODUwLDEyMj
 E5NzQ3OTQsLTEzNzUxNTI1LDEwNjYyOTczOTEsMTY5MzYwNzcx
 MCwtNzY2MjU2NjY2LC0xNTcyMzA0MzAxLDYxOTkzODM4OCwxNz
 I2ODIyMDY0LC0xODY0NDY4NTYwLDE4MzczOTY4NTQsLTQ1Mzgy
