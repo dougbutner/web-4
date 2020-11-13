@@ -27,7 +27,7 @@ In essence, web 4 is **positive attention catalyzer**, built on providing power 
 
 > Web 4 is not a single JS or other library, It's a philosophy enacted on top of a web 3 environment. 
 
-In this manifesto, I will define  
+In this manifesto, I will define each of the components of web 4, provide basic psudeocode  
 
 # Background
 
@@ -456,11 +456,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDcyMjUzMDYsMTYwMTU2NTE5NSwtMT
-A5OTA3NjE3OCwtMTUxNTAyMzUwMyw4NDY0MzMyMTIsLTU4MDAx
-MTM1LDE4OTI2NjA0NzEsLTE0NTk1NTEzNCwtODU2NDg3NjY5LC
-0xMjE5NzExMDE4LC05NTMyNDM0ODAsLTEyMzk5MDU2MzYsLTE5
-OTczMjcxLC01MDUyNTI4MzcsOTcwNDY0NDkwLDEwMzM4MDI1Mi
-wtNDI3MzgzNjcyLC0zNzE0NTExNDMsLTE2ODM1ODQ0NDEsLTIx
-MTgzMDM2NzFdfQ==
+eyJoaXN0b3J5IjpbMTAxNDI2NDAzNiwxNjAxNTY1MTk1LC0xMD
+k5MDc2MTc4LC0xNTE1MDIzNTAzLDg0NjQzMzIxMiwtNTgwMDEx
+MzUsMTg5MjY2MDQ3MSwtMTQ1OTU1MTM0LC04NTY0ODc2NjksLT
+EyMTk3MTEwMTgsLTk1MzI0MzQ4MCwtMTIzOTkwNTYzNiwtMTk5
+NzMyNzEsLTUwNTI1MjgzNyw5NzA0NjQ0OTAsMTAzMzgwMjUyLC
+00MjczODM2NzIsLTM3MTQ1MTE0MywtMTY4MzU4NDQ0MSwtMjEx
+ODMwMzY3MV19
 -->
