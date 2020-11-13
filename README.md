@@ -108,8 +108,7 @@ A time unit MUST be a superset of a timestamp. This means that a time unit is so
  2. **Time Token Faucet**
 A time faucet offers any verified user EXACTLY one time token per unit of time passed since their last faucet. This can be an active faucet; requiring some action by the recipient, or a passive faucet; automatically sending the cryptocurrency to the user.
  3. **Verified Recipients**
-Recipients of the system MUST be verified to be an actual human in order to receive time tokens. Biocryptographic secrets are suggested as the solution to this problem, and examined further down.  
-
+Recipients of the system MUST be verified to be an actual human in order to receive time tokens. 
 
 For a full description of Time Tokens, visit the  [Time Token repository](https://github.com/dougbutner/time-token). 
 
@@ -446,7 +445,7 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NjY5MTM1MywxMjIxOTc0Nzk0LC0xMz
+eyJoaXN0b3J5IjpbMTY3NzY3Nzg1MCwxMjIxOTc0Nzk0LC0xMz
 c1MTUyNSwxMDY2Mjk3MzkxLDE2OTM2MDc3MTAsLTc2NjI1NjY2
 NiwtMTU3MjMwNDMwMSw2MTk5MzgzODgsMTcyNjgyMjA2NCwtMT
 g2NDQ2ODU2MCwxODM3Mzk2ODU0LC00NTM4MjAwODcsNzQyNTUx
