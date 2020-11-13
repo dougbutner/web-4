@@ -79,9 +79,9 @@ Each module can be used separately or in tandem. This paper invites you to invol
 
 Democracy is essentially reaching a consensus with the idea that **each person is equal** in their influence on that consensus within defined bounds.
 
-Many different consensus models have been developed in web 3, most notably, [proof of work](https://www.ledger.com/academy/blockchain/what-is-proof-of-work) (**POW**), [proof of stake](https://www.ledger.com/academy/blockchain/what-is-proof-of-stake) (**POS**), and [delegated proof of stake ](https://academy.binance.com/en/articles/delegated-proof-of-stake-explained)(**DPOS**). These paradigms of consensus are used primarily to determine which chain of transaction records (blocks) is considered valid, "securing" a blockchain, such as in [EOSIO blockchains](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md). 
+Many different consensus models have been developed in web 3, most notably, [proof of work](https://www.ledger.com/academy/blockchain/what-is-proof-of-work) (**POW**), [proof of stake](https://www.ledger.com/academy/blockchain/what-is-proof-of-stake) (**POS**), and [delegated proof of stake ](https://academy.binance.com/en/articles/delegated-proof-of-stake-explained)(**DPOS**). These paradigms of consensus are used primarily to determine which chain of transaction records (blocks) is considered valid, "securing" a blockchain. 
 
-POS and DPOS is additionally used to in projects like [**Hive**](https://peakd.com) to allow users to "vote" on valuable content, an early example of the democratic web. DPOS is also used for networks to determine who can access network resources.
+POS and DPOS is additionally used to in projects like [**Hive**](https://peakd.com) to allow users to "vote" on valuable content, an early example of the democratic web. DPOS is also used for networks to determine who can access network resources, such as in [EOSIO blockchains](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md).
 
 However, both of these POS/DPOS use cases (curation and resource allocation) are not democratic in the sense that **each account is not equal**. In both cases, the root of democracy is in the token, not the individual, and the ownership of tokens determines the voting power or processing power held by an individual. 
 
@@ -446,11 +446,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNDc0NTkzMywxMDY2Mjk3MzkxLDE2OT
-M2MDc3MTAsLTc2NjI1NjY2NiwtMTU3MjMwNDMwMSw2MTk5Mzgz
-ODgsMTcyNjgyMjA2NCwtMTg2NDQ2ODU2MCwxODM3Mzk2ODU0LC
-00NTM4MjAwODcsNzQyNTUxODA0LC0zNDUwODU5MDMsLTEzMjQ0
-NDY1NzIsLTEzNzIwMDM0MzYsNDM0NzAyMjczLDEwMTQyNjQwMz
-YsMTYwMTU2NTE5NSwtMTA5OTA3NjE3OCwtMTUxNTAyMzUwMyw4
-NDY0MzMyMTJdfQ==
+eyJoaXN0b3J5IjpbLTEzNzUxNTI1LDEwNjYyOTczOTEsMTY5Mz
+YwNzcxMCwtNzY2MjU2NjY2LC0xNTcyMzA0MzAxLDYxOTkzODM4
+OCwxNzI2ODIyMDY0LC0xODY0NDY4NTYwLDE4MzczOTY4NTQsLT
+Q1MzgyMDA4Nyw3NDI1NTE4MDQsLTM0NTA4NTkwMywtMTMyNDQ0
+NjU3MiwtMTM3MjAwMzQzNiw0MzQ3MDIyNzMsMTAxNDI2NDAzNi
+wxNjAxNTY1MTk1LC0xMDk5MDc2MTc4LC0xNTE1MDIzNTAzLDg0
+NjQzMzIxMl19
 -->
