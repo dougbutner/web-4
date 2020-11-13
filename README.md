@@ -164,15 +164,12 @@ signature = HMACSHA256(
 
 function bioKeyGenerator(bioData){
 	// Function takes data in the form of user input into their browser or smartphone.
-	// Returns a secret (better explained in Appendix A
-	bioSecretChecked = sendToAuthServer()
+	// Data is normalized (explained in Appendix A)
+	bioSecretChecked = (bioData);
+	// Returns a secret 
+	bioSecretChecked
 	
 	return sha256(bioSecretChecked)
-}
-
-
-function sendToAuthServer(){
-	// Authenticate data, preferably with smart contrace
 }
 
 
@@ -443,11 +440,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NjkyMjgyLDE2Nzc2Nzc4NTAsMTIyMT
-k3NDc5NCwtMTM3NTE1MjUsMTA2NjI5NzM5MSwxNjkzNjA3NzEw
-LC03NjYyNTY2NjYsLTE1NzIzMDQzMDEsNjE5OTM4Mzg4LDE3Mj
-Y4MjIwNjQsLTE4NjQ0Njg1NjAsMTgzNzM5Njg1NCwtNDUzODIw
-MDg3LDc0MjU1MTgwNCwtMzQ1MDg1OTAzLC0xMzI0NDQ2NTcyLC
-0xMzcyMDAzNDM2LDQzNDcwMjI3MywxMDE0MjY0MDM2LDE2MDE1
-NjUxOTVdfQ==
+eyJoaXN0b3J5IjpbLTczODU4MTk5MCwxNjc3Njc3ODUwLDEyMj
+E5NzQ3OTQsLTEzNzUxNTI1LDEwNjYyOTczOTEsMTY5MzYwNzcx
+MCwtNzY2MjU2NjY2LC0xNTcyMzA0MzAxLDYxOTkzODM4OCwxNz
+I2ODIyMDY0LC0xODY0NDY4NTYwLDE4MzczOTY4NTQsLTQ1Mzgy
+MDA4Nyw3NDI1NTE4MDQsLTM0NTA4NTkwMywtMTMyNDQ0NjU3Mi
+wtMTM3MjAwMzQzNiw0MzQ3MDIyNzMsMTAxNDI2NDAzNiwxNjAx
+NTY1MTk1XX0=
 -->
