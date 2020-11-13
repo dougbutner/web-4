@@ -83,7 +83,7 @@ Many different consensus models have been developed in web 3, most notably, [pro
 
 POS and DPOS is additionally used to in projects like [**Hive**](https://peakd.com) to allow users to "vote" on valuable content, an early example of the democratic web. DPOS is also used for networks to determine who can access network resources, such as in [EOSIO blockchains](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md).
 
-However, both of these POS/DPOS use cases (curation and resource allocation) are not democratic in the sense that **each account is not equal**. In both cases, the root of democracy is in the token, not the individual, and the ownership of tokens determines the voting power or processing power held by an individual. 
+However, both of these POS/DPOS use cases (curation and resource allocation) are not democratic in the sense that **each account is not equal**. In both cases, the root of democracy is in the token, not the individual, and the ownership of tokens determines the voting power or computing power held by an individual. 
 
 In the end, the only way to implement true democracy in any system is through giving **each individual equal power**. The only way to do this while keeping web3's decentralized nature is to implement the technological (biosecrets) and idealogical (time tokens, information entropy) advancements needed to be sure an account is owned by **one individual**, and that individual has **only one account**. These advancements are, for simplicity and communication, called web 4. 
 
@@ -446,11 +446,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzUxNTI1LDEwNjYyOTczOTEsMTY5Mz
-YwNzcxMCwtNzY2MjU2NjY2LC0xNTcyMzA0MzAxLDYxOTkzODM4
-OCwxNzI2ODIyMDY0LC0xODY0NDY4NTYwLDE4MzczOTY4NTQsLT
-Q1MzgyMDA4Nyw3NDI1NTE4MDQsLTM0NTA4NTkwMywtMTMyNDQ0
-NjU3MiwtMTM3MjAwMzQzNiw0MzQ3MDIyNzMsMTAxNDI2NDAzNi
-wxNjAxNTY1MTk1LC0xMDk5MDc2MTc4LC0xNTE1MDIzNTAzLDg0
-NjQzMzIxMl19
+eyJoaXN0b3J5IjpbMTIyMTk3NDc5NCwtMTM3NTE1MjUsMTA2Nj
+I5NzM5MSwxNjkzNjA3NzEwLC03NjYyNTY2NjYsLTE1NzIzMDQz
+MDEsNjE5OTM4Mzg4LDE3MjY4MjIwNjQsLTE4NjQ0Njg1NjAsMT
+gzNzM5Njg1NCwtNDUzODIwMDg3LDc0MjU1MTgwNCwtMzQ1MDg1
+OTAzLC0xMzI0NDQ2NTcyLC0xMzcyMDAzNDM2LDQzNDcwMjI3My
+wxMDE0MjY0MDM2LDE2MDE1NjUxOTUsLTEwOTkwNzYxNzgsLTE1
+MTUwMjM1MDNdfQ==
 -->
