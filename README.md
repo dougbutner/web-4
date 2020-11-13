@@ -131,9 +131,9 @@ Here is the minimum information stored in a time token, using [JWT](https://jwt.
   }
 }
 ```
-Below there's a brief ecample of
+Below is a brief example of using a signed time token.
 
-See Appendix A for the pseudocode of a time token. 
+See Appendix A for more detailed pseudocode of a time token. 
 ```
 const passedBioData = {..} // biodata from user
 
@@ -163,14 +163,7 @@ signature = HMACSHA256(
 
 function bioKeyGenerator(bioData){
 	// Function takes data in the form of user input into their browser or smartphone.
-	// With data, quantifyable points are taken algorithmically	
-	// These points expanded to a pre-defined margin of error geometrically for each input type
-	// A matrix-like object containing every single possible hashed value for every point of data 
-	// ..must be stored on an authentication server for each data input. 
-	// Data must  exhibit granularity (snap to an integer path)
-	// This matrix of values is used to compare the biosecret with in the future
-	// This must be made more efficient to use with today's computers
-	// There is a example of this in Appendix A
+	return 
 }
 
 function sendToAuthServer(){
@@ -445,7 +438,7 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODg5ODMwNjAsMTY3NzY3Nzg1MCwxMj
+eyJoaXN0b3J5IjpbLTEyMDcyODE3MTQsMTY3NzY3Nzg1MCwxMj
 IxOTc0Nzk0LC0xMzc1MTUyNSwxMDY2Mjk3MzkxLDE2OTM2MDc3
 MTAsLTc2NjI1NjY2NiwtMTU3MjMwNDMwMSw2MTk5MzgzODgsMT
 cyNjgyMjA2NCwtMTg2NDQ2ODU2MCwxODM3Mzk2ODU0LC00NTM4
