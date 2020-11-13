@@ -79,7 +79,7 @@ Each module can be used separately or in tandem. This paper invites you to invol
 
 Democracy is essentially reaching a consensus with the idea that **each person is equal** in their influence on that consensus within defined bounds.
 
-Many different consensus models have been developed in web 3, most notably, [proof of work](https://www.ledger.com/academy/blockchain/what-is-proof-of-work) (**POW**), [proof of stake](https://www.ledger.com/academy/blockchain/what-is-proof-of-stake) (**POS**), and [delegated proof of stake ](https://academy.binance.com/en/articles/delegated-proof-of-stake-explained)(**DPOS**). These paradigms of consensus are used primarily to determine which chain of transaction records (blocks) is considered valid, securing a blockchain. 
+Many different consensus models have been developed in web 3, most notably, [proof of work](https://www.ledger.com/academy/blockchain/what-is-proof-of-work) (**POW**), [proof of stake](https://www.ledger.com/academy/blockchain/what-is-proof-of-stake) (**POS**), and [delegated proof of stake ](https://academy.binance.com/en/articles/delegated-proof-of-stake-explained)(**DPOS**). These paradigms of consensus are used primarily to determine which chain of transaction records (blocks) is considered valid, "securing" a blockchain, such as in [Telos](). 
 
 POS and DPOS is additionally used to in projects like [**Hive**](https://peakd.com) to allow users to "vote" on valuable content, an early example of the democratic web. DPOS is also used for networks to determine who can access network resources.
 
@@ -446,7 +446,7 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MDQzODEzMSwxNjkzNjA3NzEwLC03Nj
+eyJoaXN0b3J5IjpbMTA2NjI5NzM5MSwxNjkzNjA3NzEwLC03Nj
 YyNTY2NjYsLTE1NzIzMDQzMDEsNjE5OTM4Mzg4LDE3MjY4MjIw
 NjQsLTE4NjQ0Njg1NjAsMTgzNzM5Njg1NCwtNDUzODIwMDg3LD
 c0MjU1MTgwNCwtMzQ1MDg1OTAzLC0xMzI0NDQ2NTcyLC0xMzcy
