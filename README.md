@@ -368,7 +368,7 @@ ___
 # Appendices
 
 
-## Appendix A: Example of Biometric Function
+## Appendix A: Pseudocode Example of Biometric Function
 	function bioKeyGenerator(bioData){
 		// Function takes data in the form of user input into their browser or smartphone.
 		let recievedData = bioData;
@@ -420,7 +420,7 @@ ___
 
 	sendToAuthServer({
 		point1: {
-			x : bioMatrix;
+			x : bioMatrix
 		},
 		...
 		
@@ -436,11 +436,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIwNjQ1NzE4LC05NTMyNDM0ODAsLTEyMz
-k5MDU2MzYsLTE5OTczMjcxLC01MDUyNTI4MzcsOTcwNDY0NDkw
-LDEwMzM4MDI1MiwtNDI3MzgzNjcyLC0zNzE0NTExNDMsLTE2OD
-M1ODQ0NDEsLTIxMTgzMDM2NzEsLTg5NDc3MzQxNiwtMjEwODAw
-OTExNCwtMTg5MjM4MDA0OSwzOTc2NzAzLC0xNzk3MDQyODgyLC
-0xMDk0NjMwODQ5LC0xMDE1NjM2NTY3LC0zNTI5MzA2NDQsMTM5
-NzM3ODMwNF19
+eyJoaXN0b3J5IjpbLTEyMTk3MTEwMTgsLTk1MzI0MzQ4MCwtMT
+IzOTkwNTYzNiwtMTk5NzMyNzEsLTUwNTI1MjgzNyw5NzA0NjQ0
+OTAsMTAzMzgwMjUyLC00MjczODM2NzIsLTM3MTQ1MTE0MywtMT
+Y4MzU4NDQ0MSwtMjExODMwMzY3MSwtODk0NzczNDE2LC0yMTA4
+MDA5MTE0LC0xODkyMzgwMDQ5LDM5NzY3MDMsLTE3OTcwNDI4OD
+IsLTEwOTQ2MzA4NDksLTEwMTU2MzY1NjcsLTM1MjkzMDY0NCwx
+Mzk3Mzc4MzA0XX0=
 -->
