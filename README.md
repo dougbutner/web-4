@@ -201,14 +201,14 @@ This stream of data (video + audio biometric expression) could be a user doing a
 For security, biometric expressions must be unique (for example, which combination of words to speak) and many types (gesture, singing, clapping) must be available and used in combination. If each person's biometric secret was generated from the same single biometric expression, it would be a matter of time before specific AI could be developed to deepfake it for anyone. If the user is the only one that knows their biometric expressions it becomes nearly impossible to guess the type and nature of the expression, and even if that is known, difficult to use the same technique on more than one account. The nature of the uniqueness could be chosen by the user, or generated at random from the biosecret software which would prompt the user to complete an action in a specific way. 
 
 ## Why do we need this, again?
-Democratic systems certainly are being built without biometric verification, and **must be**  until suitable biometric technology develops along the open source, client-side requirements. For now, **decentralized solutions** like [Civic](https://www.civic.com/), and centralized tech like [Facetec](https://www.facetec.com/FaceTec_3D_Face_Matching_Whitepaper.pdf) provide the necessary individuality at the cost of some trust and requirement of citizenship. As different projects implement web 4 in their own ways, the ideas presented thus far will develop, as flaws are found. 
+Democratic systems certainly are being built without biometric verification, and will continue to be until suitable biometric technology develops along the open source, client-side requirements. For now, **decentralized solutions** like [Civic](https://www.civic.com/), and centralized tech like [Facetec](https://www.facetec.com/FaceTec_3D_Face_Matching_Whitepaper.pdf) provide the necessary individuality at the cost of trust and requirement of citizenship. As different projects implement web 4 in their own ways, the ideas presented thus far will develop as flaws are found. 
 
 We will present the ideas that are crucial for this system to be different, and represent true growth into web 4.
 
 
 **Key Aspects** 
 1. **Biometric Expression**: A user is presented with a choice of different biometric options used to generate a hash that can only belong to this person. 
-User can choose to either perform a chosen biometric task to receive their hashed biosecret (trustless) or generate it at any time from a third party provide (trust). Any third party provider will generate the same hash by a set or open-source algorithms. 
+User can choose to either perform a chosen biometric task to receive their hashed biosecret (trustless) or generate it at any time from a third-party provider (trust). Any third-party provider will generate the same hash by a set or open-source algorithms. 
 
 2. **Biosecret Generation**: User's sensitive biological information and generated algorithmic results are destroyed (made impossible to reconstruct) at the layer of hashing, and data not stored in any way, public or private, as the user runs the software on their local machine (assuming they choose the open-source software, not a third party).
 
@@ -437,11 +437,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDQ4NjQyNSw0NzA1Njg4MywxNjc3Nj
-c3ODUwLDEyMjE5NzQ3OTQsLTEzNzUxNTI1LDEwNjYyOTczOTEs
-MTY5MzYwNzcxMCwtNzY2MjU2NjY2LC0xNTcyMzA0MzAxLDYxOT
-kzODM4OCwxNzI2ODIyMDY0LC0xODY0NDY4NTYwLDE4MzczOTY4
-NTQsLTQ1MzgyMDA4Nyw3NDI1NTE4MDQsLTM0NTA4NTkwMywtMT
-MyNDQ0NjU3MiwtMTM3MjAwMzQzNiw0MzQ3MDIyNzMsMTAxNDI2
-NDAzNl19
+eyJoaXN0b3J5IjpbLTEyMDA4MTEwNzAsLTE5MDQ4NjQyNSw0Nz
+A1Njg4MywxNjc3Njc3ODUwLDEyMjE5NzQ3OTQsLTEzNzUxNTI1
+LDEwNjYyOTczOTEsMTY5MzYwNzcxMCwtNzY2MjU2NjY2LC0xNT
+cyMzA0MzAxLDYxOTkzODM4OCwxNzI2ODIyMDY0LC0xODY0NDY4
+NTYwLDE4MzczOTY4NTQsLTQ1MzgyMDA4Nyw3NDI1NTE4MDQsLT
+M0NTA4NTkwMywtMTMyNDQ0NjU3MiwtMTM3MjAwMzQzNiw0MzQ3
+MDIyNzNdfQ==
 -->
