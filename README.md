@@ -303,7 +303,10 @@ Because each person can be associated to either a community, or a city, we can d
 
 By offering time tokens to the individual that correspond to each stratum we can create high-fidelity democratic systems that better represent each person's desires. 
 
-For example, a person may be given 12 time tokens at each stratum to vote on the initiatives that they would like to see passed. They may vote all 12 tokens for an inititive they are most passionate about, or 1 token to 12 different initiatives (or 2 to 6 initiatives, etc). By collecting and counting these tokens,
+For example, a person may be given 12 time tokens at each stratum to vote on the initiatives that they would like to see passed. They may vote all 12 tokens for an inititive they are most passionate about, or 1 token to 12 different initiatives (or 2 to 6 initiatives, etc). By collecting and counting these tokens, the governing body can know exactly what their constituents want, without the direct need to elect a representative who only estimates these desires. 
+
+This system described in this paper does not solve all problems, as there are still issues of 
+
 
 
 # Roadmap to Web 4 Reality
@@ -440,7 +443,7 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMTEwOTg2OCwtMTIxOTcxMTAxOCwtOT
+eyJoaXN0b3J5IjpbMTE2Njg1Mjk3MSwtMTIxOTcxMTAxOCwtOT
 UzMjQzNDgwLC0xMjM5OTA1NjM2LC0xOTk3MzI3MSwtNTA1MjUy
 ODM3LDk3MDQ2NDQ5MCwxMDMzODAyNTIsLTQyNzM4MzY3MiwtMz
 cxNDUxMTQzLC0xNjgzNTg0NDQxLC0yMTE4MzAzNjcxLC04OTQ3
