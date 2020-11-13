@@ -303,6 +303,8 @@ Because each person can be associated to either a community, or a city, we can d
 
 By offering time tokens to the individual that correspond to each stratum we can create high-fidelity democratic systems that better represent each person's desires. 
 
+For example, a person may be given 12 tokens at each stratum to vote on the initiatives that they would like to see passed.
+
 
 # Roadmap to Web 4 Reality
 
@@ -438,11 +440,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM4MTc2OTM5LC0xMjE5NzExMDE4LC05NT
-MyNDM0ODAsLTEyMzk5MDU2MzYsLTE5OTczMjcxLC01MDUyNTI4
-MzcsOTcwNDY0NDkwLDEwMzM4MDI1MiwtNDI3MzgzNjcyLC0zNz
-E0NTExNDMsLTE2ODM1ODQ0NDEsLTIxMTgzMDM2NzEsLTg5NDc3
-MzQxNiwtMjEwODAwOTExNCwtMTg5MjM4MDA0OSwzOTc2NzAzLC
-0xNzk3MDQyODgyLC0xMDk0NjMwODQ5LC0xMDE1NjM2NTY3LC0z
-NTI5MzA2NDRdfQ==
+eyJoaXN0b3J5IjpbLTI4MDI2MTE2OSwtMTIxOTcxMTAxOCwtOT
+UzMjQzNDgwLC0xMjM5OTA1NjM2LC0xOTk3MzI3MSwtNTA1MjUy
+ODM3LDk3MDQ2NDQ5MCwxMDMzODAyNTIsLTQyNzM4MzY3MiwtMz
+cxNDUxMTQzLC0xNjgzNTg0NDQxLC0yMTE4MzAzNjcxLC04OTQ3
+NzM0MTYsLTIxMDgwMDkxMTQsLTE4OTIzODAwNDksMzk3NjcwMy
+wtMTc5NzA0Mjg4MiwtMTA5NDYzMDg0OSwtMTAxNTYzNjU2Nywt
+MzUyOTMwNjQ0XX0=
 -->
