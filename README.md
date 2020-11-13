@@ -276,25 +276,23 @@ A geo-social layer is something that affects people (social) at a given location
 
 ## Geographic Stratification  
 
-Across the globe, one geopolitical pattern seem to emerge. Cities are within Counties, are within Districts (States in the USA), are within nations, are within the world. This gives us 
+Across the globe, one geopolitical pattern seem to emerge. Cities are within Counties, are within Districts (States in the USA), are within nations, are within the world. 
 
 1. Cities (aka Towns, Commonwealths, C, etc.)
 2. Counties (aka Divisions
 3. Districts (aka States, Provinces)
 4. Nations (aka Countries, States, Republics, etc)
 5. Global
+
+For communication, we will consider cities as the "lowest" and global as the "highest" stratification level.
  
 Additionally, a community level may be added below cities to further add accuracy and usefulness. 
 
-For the purpose of any geo-social system, geographic barriers must be defined, but do not need to operate in traditional ways. Traditionally, it's the existence within a certain area, such as a place of residence, that is of importance. When building a geo-social system, it's only necessary that each participant has declared the smallest (!!!) level of geographic stratification defined, from which the rest can be extrapolated. 
+For the purpose of any geo-social system, geographic association with each actor must be defined. 
 
+Traditionally, it's the existence within a certain area, such as a place of residence or business, that is of importance. When building a geo-social system, it's only necessary that association is declared at the lowest level of geographic stratification, from which the rest can be extrapolated. 
 
-GeoSocial Layers
-
-
-## Understanding Geosocial
-
-Natural Systems
+## Usefulness of Geo
 
 
 
@@ -433,11 +431,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MzI0MzQ4MCwtMTIzOTkwNTYzNiwtMT
-k5NzMyNzEsLTUwNTI1MjgzNyw5NzA0NjQ0OTAsMTAzMzgwMjUy
-LC00MjczODM2NzIsLTM3MTQ1MTE0MywtMTY4MzU4NDQ0MSwtMj
-ExODMwMzY3MSwtODk0NzczNDE2LC0yMTA4MDA5MTE0LC0xODky
-MzgwMDQ5LDM5NzY3MDMsLTE3OTcwNDI4ODIsLTEwOTQ2MzA4ND
-ksLTEwMTU2MzY1NjcsLTM1MjkzMDY0NCwxMzk3Mzc4MzA0LC03
-Njk1NjI4MTVdfQ==
+eyJoaXN0b3J5IjpbLTEzMjYyNDA5LC05NTMyNDM0ODAsLTEyMz
+k5MDU2MzYsLTE5OTczMjcxLC01MDUyNTI4MzcsOTcwNDY0NDkw
+LDEwMzM4MDI1MiwtNDI3MzgzNjcyLC0zNzE0NTExNDMsLTE2OD
+M1ODQ0NDEsLTIxMTgzMDM2NzEsLTg5NDc3MzQxNiwtMjEwODAw
+OTExNCwtMTg5MjM4MDA0OSwzOTc2NzAzLC0xNzk3MDQyODgyLC
+0xMDk0NjMwODQ5LC0xMDE1NjM2NTY3LC0zNTI5MzA2NDQsMTM5
+NzM3ODMwNF19
 -->
