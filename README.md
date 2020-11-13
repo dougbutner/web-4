@@ -118,7 +118,7 @@ Time tokens store a time unit (integer) with a unique user identifier (string) i
 
 Time tokens are platform independent, and need only store simple data involving time unit and an account identifier at the most bare level.
 
-Here is the minimum information stored in a time token, using [JWT](https://jwt.io/introduction/) as an example
+Here is the minimum information stored in a time token, using [JSON Web Token (JWT)](https://jwt.io/introduction/) as an example
 ```
 {
   "header": {
@@ -131,7 +131,7 @@ Here is the minimum information stored in a time token, using [JWT](https://jwt.
   }
 }
 ```
-Below is a brief example of using a signed time token.
+Below is a brief example of how one could use a signed time token as a JWT.
 
 See Appendix A for more detailed pseudocode of a time token. 
 ```
@@ -438,11 +438,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDcyODE3MTQsMTY3NzY3Nzg1MCwxMj
-IxOTc0Nzk0LC0xMzc1MTUyNSwxMDY2Mjk3MzkxLDE2OTM2MDc3
-MTAsLTc2NjI1NjY2NiwtMTU3MjMwNDMwMSw2MTk5MzgzODgsMT
-cyNjgyMjA2NCwtMTg2NDQ2ODU2MCwxODM3Mzk2ODU0LC00NTM4
-MjAwODcsNzQyNTUxODA0LC0zNDUwODU5MDMsLTEzMjQ0NDY1Nz
-IsLTEzNzIwMDM0MzYsNDM0NzAyMjczLDEwMTQyNjQwMzYsMTYw
-MTU2NTE5NV19
+eyJoaXN0b3J5IjpbMjA2NzUxODIxMiwxNjc3Njc3ODUwLDEyMj
+E5NzQ3OTQsLTEzNzUxNTI1LDEwNjYyOTczOTEsMTY5MzYwNzcx
+MCwtNzY2MjU2NjY2LC0xNTcyMzA0MzAxLDYxOTkzODM4OCwxNz
+I2ODIyMDY0LC0xODY0NDY4NTYwLDE4MzczOTY4NTQsLTQ1Mzgy
+MDA4Nyw3NDI1NTE4MDQsLTM0NTA4NTkwMywtMTMyNDQ0NjU3Mi
+wtMTM3MjAwMzQzNiw0MzQ3MDIyNzMsMTAxNDI2NDAzNiwxNjAx
+NTY1MTk1XX0=
 -->
