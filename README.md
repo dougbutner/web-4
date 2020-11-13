@@ -142,7 +142,7 @@ Here is the minimum information stored in a time token, using [JWT](https://jwt.
 ```
 For the time token to be spendable, a signed JWT Time Token (Mechanics example)
 
-See the appendix for t
+See Appendix A for the pseudocode of a time token. 
 ```
 const passedBioData = {..} // biodata from user
 
@@ -454,11 +454,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NjIzNTAxMSw4NDY0MzMyMTIsLTU4MD
-AxMTM1LDE4OTI2NjA0NzEsLTE0NTk1NTEzNCwtODU2NDg3NjY5
-LC0xMjE5NzExMDE4LC05NTMyNDM0ODAsLTEyMzk5MDU2MzYsLT
-E5OTczMjcxLC01MDUyNTI4MzcsOTcwNDY0NDkwLDEwMzM4MDI1
-MiwtNDI3MzgzNjcyLC0zNzE0NTExNDMsLTE2ODM1ODQ0NDEsLT
-IxMTgzMDM2NzEsLTg5NDc3MzQxNiwtMjEwODAwOTExNCwtMTg5
-MjM4MDA0OV19
+eyJoaXN0b3J5IjpbLTE1MTUwMjM1MDMsODQ2NDMzMjEyLC01OD
+AwMTEzNSwxODkyNjYwNDcxLC0xNDU5NTUxMzQsLTg1NjQ4NzY2
+OSwtMTIxOTcxMTAxOCwtOTUzMjQzNDgwLC0xMjM5OTA1NjM2LC
+0xOTk3MzI3MSwtNTA1MjUyODM3LDk3MDQ2NDQ5MCwxMDMzODAy
+NTIsLTQyNzM4MzY3MiwtMzcxNDUxMTQzLC0xNjgzNTg0NDQxLC
+0yMTE4MzAzNjcxLC04OTQ3NzM0MTYsLTIxMDgwMDkxMTQsLTE4
+OTIzODAwNDldfQ==
 -->
