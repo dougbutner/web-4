@@ -49,7 +49,7 @@ Today, the top 100 websites by traffic are [all](https://www.alexa.com/topsites)
 
 As more and more individuals and societies are reconsidering the place of **government, censorship, centralization and federated power**, web 3 has emerged as a powerful, provable option to shape the evolution of society on planet Earth. 
 
-A growing portion of web 2 websites and applications today have elements of web 3, like [cryptoblogs](https://peakd.com) and [games](https://www.stateofthedapps.com/rankings/category/games). While web 2 and web 3 can operate independently, web 3 enhances the abilities of web 2. Similarly, web 3 and web 4 can operate independently, but it makes the most sense for it to be built on top. 
+A growing portion of web 2 websites and applications today have elements of web 3, like [cryptoblogs](https://peakd.com) and [games](https://www.stateofthedapps.com/rankings/category/games). While web 2 and web 3 can operate independently, web 3 enhances the abilities of web 2. Similarly, web 3 and web 4 can operate independently, but it makes the most sense for web 4 to be built on blockchain tech to gain the benefits of reliability and transparency. 
 
 ## Guiding Philosophy
 Web 4 seeks to implement systems in **harmony with the universe itself** by replicating nature: the **abundance** of the Sun, rising **entropy**, and the **equality** of each conscious being. 
@@ -449,11 +449,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE5OTM4Mzg4LDE3MjY4MjIwNjQsLTE4Nj
-Q0Njg1NjAsMTgzNzM5Njg1NCwtNDUzODIwMDg3LDc0MjU1MTgw
-NCwtMzQ1MDg1OTAzLC0xMzI0NDQ2NTcyLC0xMzcyMDAzNDM2LD
-QzNDcwMjI3MywxMDE0MjY0MDM2LDE2MDE1NjUxOTUsLTEwOTkw
-NzYxNzgsLTE1MTUwMjM1MDMsODQ2NDMzMjEyLC01ODAwMTEzNS
-wxODkyNjYwNDcxLC0xNDU5NTUxMzQsLTg1NjQ4NzY2OSwtMTIx
-OTcxMTAxOF19
+eyJoaXN0b3J5IjpbLTE1NzIzMDQzMDEsNjE5OTM4Mzg4LDE3Mj
+Y4MjIwNjQsLTE4NjQ0Njg1NjAsMTgzNzM5Njg1NCwtNDUzODIw
+MDg3LDc0MjU1MTgwNCwtMzQ1MDg1OTAzLC0xMzI0NDQ2NTcyLC
+0xMzcyMDAzNDM2LDQzNDcwMjI3MywxMDE0MjY0MDM2LDE2MDE1
+NjUxOTUsLTEwOTkwNzYxNzgsLTE1MTUwMjM1MDMsODQ2NDMzMj
+EyLC01ODAwMTEzNSwxODkyNjYwNDcxLC0xNDU5NTUxMzQsLTg1
+NjQ4NzY2OV19
 -->
