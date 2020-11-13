@@ -322,7 +322,7 @@ The democratic system described in this paper does not solve all problems, as th
 **Information entropy** and **geosocial layers** are starting to be theorized, but not showing up. 
 
 **Phase 1 Action Points**: 
-- ERC proposal (and similar for other blockchains)
+- Time Token ERC proposal (and similar for other blockchains)
 - Developers exploring use cases for Time Tokens 
 - Developers implementing Time Token in unexpected ways
 
@@ -333,9 +333,9 @@ The democratic system described in this paper does not solve all problems, as th
 
 **Provable identity** **issues** are becoming apparent, as certain applications with **lax rules** are being manipulated, showing the need for true provable identity. 
 
-Social Verification is still used, while biocryptography standards and biometric secret technology are being developed to allow true provable identity (in Phase Three).
+Social Verification and solutions like Facetec are still used, while biocryptography standards and biometric secret technology are being developed to allow true provable identity (in Phase Three).
 
-**Information entropy** principles are starting to be implemented, at developers desire and leisure. 
+**Information entropy** principles are starting to be implemented, when required.
 
 **GeoSocial layers** are starting to be built, but not used for "real applications" like voting because of lack of true provable individuality. 
 
@@ -344,6 +344,8 @@ Social Verification is still used, while biocryptography standards and biometric
 > Implementing Provable Identity
 
 **Provable Identity** is now possible as suggested in this manifesto through the maturity of the biometric secrets. Standards are being created openly, 
+
+**GeoSocial layers** are starting to be built, but not used for "real applications" like voting because of lack of true provable individuality. 
 
 ## **Phase Four**
 **Information entropy** is added to the systems where it can be of use. For example this could make a person's biometric data less knowable over time by increasing the amount of **CPU time** needed to guess the biosecret. 
@@ -443,11 +445,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzM3MTU4MjksLTEyMTk3MTEwMTgsLT
-k1MzI0MzQ4MCwtMTIzOTkwNTYzNiwtMTk5NzMyNzEsLTUwNTI1
-MjgzNyw5NzA0NjQ0OTAsMTAzMzgwMjUyLC00MjczODM2NzIsLT
-M3MTQ1MTE0MywtMTY4MzU4NDQ0MSwtMjExODMwMzY3MSwtODk0
-NzczNDE2LC0yMTA4MDA5MTE0LC0xODkyMzgwMDQ5LDM5NzY3MD
-MsLTE3OTcwNDI4ODIsLTEwOTQ2MzA4NDksLTEwMTU2MzY1Njcs
-LTM1MjkzMDY0NF19
+eyJoaXN0b3J5IjpbLTY4NzcxMzYzMywtMTIxOTcxMTAxOCwtOT
+UzMjQzNDgwLC0xMjM5OTA1NjM2LC0xOTk3MzI3MSwtNTA1MjUy
+ODM3LDk3MDQ2NDQ5MCwxMDMzODAyNTIsLTQyNzM4MzY3MiwtMz
+cxNDUxMTQzLC0xNjgzNTg0NDQxLC0yMTE4MzAzNjcxLC04OTQ3
+NzM0MTYsLTIxMDgwMDkxMTQsLTE4OTIzODAwNDksMzk3NjcwMy
+wtMTc5NzA0Mjg4MiwtMTA5NDYzMDg0OSwtMTAxNTYzNjU2Nywt
+MzUyOTMwNjQ0XX0=
 -->
