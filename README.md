@@ -375,6 +375,8 @@ ___
 
 [2] - Hao, K. & O'Neill P. (2020, August 06). The hack that could make face recognition think someone else is you. Originally Published at https://www.technologyreview.com/2020/08/05/1006008/ai-face-recognition-hack-misidentifies-person/
 
+[3] - Nishimura H., Kanoshima E., Kono K. (2019) Advancement in Science and Technology and Human Societies. In: Abe S., Ozawa M., Kawata Y. (eds) Science of Societal Safety. Trust (Interdisciplinary Perspectives), vol 2. Springer, Singapore. https://doi.org/10.1007/978-981-13-2775-9_2
+
 
 # Appendices
 
@@ -447,7 +449,7 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDg0MTc4MTYsLTU4MDAxMTM1LDE4OT
+eyJoaXN0b3J5IjpbLTE2ODcyMzc3NjUsLTU4MDAxMTM1LDE4OT
 I2NjA0NzEsLTE0NTk1NTEzNCwtODU2NDg3NjY5LC0xMjE5NzEx
 MDE4LC05NTMyNDM0ODAsLTEyMzk5MDU2MzYsLTE5OTczMjcxLC
 01MDUyNTI4MzcsOTcwNDY0NDkwLDEwMzM4MDI1MiwtNDI3Mzgz
