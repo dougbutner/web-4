@@ -362,7 +362,7 @@ If and when the "old system" meets its demise, as all things do, **we can transi
 ## Why use the term "Web 4"
 It is my belief that each version of the web must 1) be built on top of the previous version, 2) be fundamentally different than the previous version by introducing new technology, and 3) have meaningful impact on society. 
 
-This proposal for the next iteration of the web is an effort to both expand and shift the path of information science in a direction where the **meaningful impact** of society involves: 1) empowerment of each individual, which serve as the basis for collective (social), economic, and novel applications; 2) provable identity verification while maintaining complete separation from any federated system, including government, with the side-benefit of lifelong recoverability of private keys, and 3) resonance with our containing systems, like the Solar system, which provides us with free energy daily, akin to free time tokens.
+This proposal for the next iteration of the web is an effort to both expand and shift the path of information science in a direction where the **meaningful impact** of society involves: 1) empowerment of each individual, which serve as the basis for collective (social), economic, and novel applications; 2) provable identity verification while maintaining complete separation from any federated system, including government, with the side-benefit of lifelong recoverability of private keys; and 3) resonance with our contained and containing systems, like our human organs and the Solar system, which provides us with free energy daily, akin to free time tokens.
 
 While an argument could easily be made that DeFi is Web 4, or another emerging tech, like layers on top of blockchains (sidechains) are web 4, both of these are **not new**. DeFi mimics and improves the systems of the past. Sidechains are merely making web 3 **more efficient**. 
 
@@ -445,7 +445,7 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3ODk4MDQ1MSwtODU2NDg3NjY5LC0xMj
+eyJoaXN0b3J5IjpbLTE0NTk1NTEzNCwtODU2NDg3NjY5LC0xMj
 E5NzExMDE4LC05NTMyNDM0ODAsLTEyMzk5MDU2MzYsLTE5OTcz
 MjcxLC01MDUyNTI4MzcsOTcwNDY0NDkwLDEwMzM4MDI1MiwtND
 I3MzgzNjcyLC0zNzE0NTExNDMsLTE2ODM1ODQ0NDEsLTIxMTgz
