@@ -25,7 +25,7 @@ Web 4 is **built on top of web 3** (it's blockchain-based) while being **fundame
 
 In essence, web 4 is **positive attention catalyzer**, built on providing power to every that only gains meaning when they give it freely to another. This power is also freely given, and limited by time. 
 
-> Web 4 is not a single JS or other library, It's a philosophy enacted on top of a web 3 environment. 
+> Web 4 combines real-world components like time and geography with existing blockc
 
 In this manifesto, I will define each of the components of web 4, provide basic psudeocode  
 
@@ -456,11 +456,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNDI2NDAzNiwxNjAxNTY1MTk1LC0xMD
-k5MDc2MTc4LC0xNTE1MDIzNTAzLDg0NjQzMzIxMiwtNTgwMDEx
-MzUsMTg5MjY2MDQ3MSwtMTQ1OTU1MTM0LC04NTY0ODc2NjksLT
-EyMTk3MTEwMTgsLTk1MzI0MzQ4MCwtMTIzOTkwNTYzNiwtMTk5
-NzMyNzEsLTUwNTI1MjgzNyw5NzA0NjQ0OTAsMTAzMzgwMjUyLC
-00MjczODM2NzIsLTM3MTQ1MTE0MywtMTY4MzU4NDQ0MSwtMjEx
-ODMwMzY3MV19
+eyJoaXN0b3J5IjpbLTIxMjQwOTMzNDMsMTAxNDI2NDAzNiwxNj
+AxNTY1MTk1LC0xMDk5MDc2MTc4LC0xNTE1MDIzNTAzLDg0NjQz
+MzIxMiwtNTgwMDExMzUsMTg5MjY2MDQ3MSwtMTQ1OTU1MTM0LC
+04NTY0ODc2NjksLTEyMTk3MTEwMTgsLTk1MzI0MzQ4MCwtMTIz
+OTkwNTYzNiwtMTk5NzMyNzEsLTUwNTI1MjgzNyw5NzA0NjQ0OT
+AsMTAzMzgwMjUyLC00MjczODM2NzIsLTM3MTQ1MTE0MywtMTY4
+MzU4NDQ0MV19
 -->
