@@ -259,7 +259,7 @@ In this case, as time goes on, someone attempting to prove their individuality w
 
 While the inclusion of this concept into web 4 may seem **unnecessary** at the moment, it is another guarantee of the privacy that is needed for many **social applications**. Philosophically, degradation of information also fits in with the general web 4 desire to reflect systems in nature. 
 
-Before moving on, I do wish to stress the modularity of web 4, and that this (perhaps the most radical idea presented) is not going to fit into every web
+Before moving on, I do wish to stress the modularity of web 4, and that this (perhaps the most radical idea presented) is not going to fit into every web 4 system, nor should it. This idea will find its usefulness when it is time, and should NOT be adopted without clear reasoning. 
 
 
 ___
@@ -436,11 +436,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM3ODA3OTkxLC05NTMyNDM0ODAsLTEyMz
-k5MDU2MzYsLTE5OTczMjcxLC01MDUyNTI4MzcsOTcwNDY0NDkw
-LDEwMzM4MDI1MiwtNDI3MzgzNjcyLC0zNzE0NTExNDMsLTE2OD
-M1ODQ0NDEsLTIxMTgzMDM2NzEsLTg5NDc3MzQxNiwtMjEwODAw
-OTExNCwtMTg5MjM4MDA0OSwzOTc2NzAzLC0xNzk3MDQyODgyLC
-0xMDk0NjMwODQ5LC0xMDE1NjM2NTY3LC0zNTI5MzA2NDQsMTM5
-NzM3ODMwNF19
+eyJoaXN0b3J5IjpbLTE2NDIyNzQ3NzAsLTk1MzI0MzQ4MCwtMT
+IzOTkwNTYzNiwtMTk5NzMyNzEsLTUwNTI1MjgzNyw5NzA0NjQ0
+OTAsMTAzMzgwMjUyLC00MjczODM2NzIsLTM3MTQ1MTE0MywtMT
+Y4MzU4NDQ0MSwtMjExODMwMzY3MSwtODk0NzczNDE2LC0yMTA4
+MDA5MTE0LC0xODkyMzgwMDQ5LDM5NzY3MDMsLTE3OTcwNDI4OD
+IsLTEwOTQ2MzA4NDksLTEwMTU2MzY1NjcsLTM1MjkzMDY0NCwx
+Mzk3Mzc4MzA0XX0=
 -->
