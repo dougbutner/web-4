@@ -104,7 +104,7 @@ These tokens provide the user with a function or action. The action burns the to
 Time tokens rely on the following concepts:
 
  1. **Time Unit**
-A time unit MUST be a superset of a timestamp. This means that a time unit is some amount (or fraction) of seconds. Each time token MUST be the only one in existence stamped with a particular time unit for each user (wallet). Thus, each time token is unique and non-fungible, though they are generally spendable like any other time token, so .
+A time unit MUST be a superset of a timestamp. This means that a time unit is some amount (or fraction) of seconds. Each time token MUST be the only one in existence stamped with a particular time unit for each user (wallet). Thus, each time token is unique and semi-fungible.
  2. **Time Token Faucet**
 A time faucet offers any verified user EXACTLY one time token per unit of time passed since their last faucet. This can be an active faucet; requiring some action by the recipient, or a passive faucet; automatically sending the cryptocurrency to the user.
  3. **Verified Recipients**
@@ -446,11 +446,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjgzODQyOTcsMTIyMTk3NDc5NCwtMT
-M3NTE1MjUsMTA2NjI5NzM5MSwxNjkzNjA3NzEwLC03NjYyNTY2
-NjYsLTE1NzIzMDQzMDEsNjE5OTM4Mzg4LDE3MjY4MjIwNjQsLT
-E4NjQ0Njg1NjAsMTgzNzM5Njg1NCwtNDUzODIwMDg3LDc0MjU1
-MTgwNCwtMzQ1MDg1OTAzLC0xMzI0NDQ2NTcyLC0xMzcyMDAzND
-M2LDQzNDcwMjI3MywxMDE0MjY0MDM2LDE2MDE1NjUxOTUsLTEw
-OTkwNzYxNzhdfQ==
+eyJoaXN0b3J5IjpbLTc5NjY5MTM1MywxMjIxOTc0Nzk0LC0xMz
+c1MTUyNSwxMDY2Mjk3MzkxLDE2OTM2MDc3MTAsLTc2NjI1NjY2
+NiwtMTU3MjMwNDMwMSw2MTk5MzgzODgsMTcyNjgyMjA2NCwtMT
+g2NDQ2ODU2MCwxODM3Mzk2ODU0LC00NTM4MjAwODcsNzQyNTUx
+ODA0LC0zNDUwODU5MDMsLTEzMjQ0NDY1NzIsLTEzNzIwMDM0Mz
+YsNDM0NzAyMjczLDEwMTQyNjQwMzYsMTYwMTU2NTE5NSwtMTA5
+OTA3NjE3OF19
 -->
