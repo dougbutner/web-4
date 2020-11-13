@@ -27,7 +27,7 @@ In essence, web 4 is **positive attention catalyzer**, built on providing power 
 
 > Web 4 combines real-world components like time and geography with existing blockchain technology.
 
-In this manifesto, I will define each of the components of web 4, provide psudeocode to illustrate the minimum integration into web 2/3, introduce the benefits to society, and offer a **roadmap** to adopting these concepts.
+In this manifesto, I will define each of the **components** of web 4, provide **psudeocode** to illustrate the minimum integration into web 2/3, introduce the **benefits to society**, and offer a **roadmap** to adopting these concepts.
 
 # Background
 
@@ -456,11 +456,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNTQ4NTIwNCwtMTM3MjAwMzQzNiw0Mz
-Q3MDIyNzMsMTAxNDI2NDAzNiwxNjAxNTY1MTk1LC0xMDk5MDc2
-MTc4LC0xNTE1MDIzNTAzLDg0NjQzMzIxMiwtNTgwMDExMzUsMT
-g5MjY2MDQ3MSwtMTQ1OTU1MTM0LC04NTY0ODc2NjksLTEyMTk3
-MTEwMTgsLTk1MzI0MzQ4MCwtMTIzOTkwNTYzNiwtMTk5NzMyNz
-EsLTUwNTI1MjgzNyw5NzA0NjQ0OTAsMTAzMzgwMjUyLC00Mjcz
-ODM2NzJdfQ==
+eyJoaXN0b3J5IjpbLTEzMjQ0NDY1NzIsLTEzNzIwMDM0MzYsND
+M0NzAyMjczLDEwMTQyNjQwMzYsMTYwMTU2NTE5NSwtMTA5OTA3
+NjE3OCwtMTUxNTAyMzUwMyw4NDY0MzMyMTIsLTU4MDAxMTM1LD
+E4OTI2NjA0NzEsLTE0NTk1NTEzNCwtODU2NDg3NjY5LC0xMjE5
+NzExMDE4LC05NTMyNDM0ODAsLTEyMzk5MDU2MzYsLTE5OTczMj
+cxLC01MDUyNTI4MzcsOTcwNDY0NDkwLDEwMzM4MDI1MiwtNDI3
+MzgzNjcyXX0=
 -->
