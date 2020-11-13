@@ -295,7 +295,7 @@ For the purpose of any geo-social system, geographic association with each actor
 Traditionally, it's the existence within a certain area, such as a place of residence or business, that is of importance. When building a geo-social system, it's only necessary that association is declared at the lowest level of geographic stratification, from which the rest can be extrapolated. 
 
 ## Social 
-Because each person can be associated to either a community, or a city, we can develop systems within web 4 that allow coordination at every stra
+Because each person can be associated to either a community, or a city, we can develop systems within web 4 that allow coordination at each stratum with just this one piece of data for each person. 
 
 ## Usefulness of Geosocial in Web 4 
 
@@ -436,11 +436,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjY2NTc2NTIsLTk1MzI0MzQ4MCwtMT
-IzOTkwNTYzNiwtMTk5NzMyNzEsLTUwNTI1MjgzNyw5NzA0NjQ0
-OTAsMTAzMzgwMjUyLC00MjczODM2NzIsLTM3MTQ1MTE0MywtMT
-Y4MzU4NDQ0MSwtMjExODMwMzY3MSwtODk0NzczNDE2LC0yMTA4
-MDA5MTE0LC0xODkyMzgwMDQ5LDM5NzY3MDMsLTE3OTcwNDI4OD
-IsLTEwOTQ2MzA4NDksLTEwMTU2MzY1NjcsLTM1MjkzMDY0NCwx
-Mzk3Mzc4MzA0XX0=
+eyJoaXN0b3J5IjpbODIwNjQ1NzE4LC05NTMyNDM0ODAsLTEyMz
+k5MDU2MzYsLTE5OTczMjcxLC01MDUyNTI4MzcsOTcwNDY0NDkw
+LDEwMzM4MDI1MiwtNDI3MzgzNjcyLC0zNzE0NTExNDMsLTE2OD
+M1ODQ0NDEsLTIxMTgzMDM2NzEsLTg5NDc3MzQxNiwtMjEwODAw
+OTExNCwtMTg5MjM4MDA0OSwzOTc2NzAzLC0xNzk3MDQyODgyLC
+0xMDk0NjMwODQ5LC0xMDE1NjM2NTY3LC0zNTI5MzA2NDQsMTM5
+NzM3ODMwNF19
 -->
