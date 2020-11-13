@@ -181,7 +181,7 @@ We have said we web 4 is based on web 3 (blockchain), but this example intention
 
 Of course it can! It's just not viable to fulfill all principles of web 4, but can be done to an extent. 
 
-Web 2 is not a viable candidate for **provable democracy** because the federated nature means that your biometric data **must be trusted** to a third party, possibly a government, large corporation or malicious actor. Time tokens, while a new concept, do not rely on blockchain technology, but benefit from it to remove trust and add transparency. 
+Web 2 is not a viable candidate for **provable democracy** because the federated nature means that your biometric data **must be trusted** to a third party, possibly a government, large corporation or malicious actor. Time tokens do not rely on blockchain technology, but benefit from it to remove trust and add transparency. 
 
 ___
 # **<center>**2**</center>**
@@ -189,7 +189,7 @@ ___
 ___
 
 ## **Proof of Individuality - Biometric Secrets + Protecting Identity**
-> **Please Note:** There are solutions available today (like [FaceTec](https://www.facetec.com/)) that solve the same issues presented here. This paper seeks to outline a "better" system that can be ran without a centralized actor. 
+> **Please Note:** There are solutions available today (like [FaceTec](https://www.facetec.com/)) that solve the same issues presented here. This paper seeks to outline a "better" system that can be ran without a centralized actor, while not providing specifics to accomplish these goals.
 
 **Biometric secrets** are akin to any cryptographic secret key, they are a hash of information. The information hashed in a biometric secret comes from a person's biometric expression. In today's biometric space,  static images are most commonly used for things like fingerprint and facial recognition, and geometry is the means to compare this data. 
 
@@ -437,11 +437,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcwNTY4ODMsMTY3NzY3Nzg1MCwxMjIxOT
-c0Nzk0LC0xMzc1MTUyNSwxMDY2Mjk3MzkxLDE2OTM2MDc3MTAs
-LTc2NjI1NjY2NiwtMTU3MjMwNDMwMSw2MTk5MzgzODgsMTcyNj
-gyMjA2NCwtMTg2NDQ2ODU2MCwxODM3Mzk2ODU0LC00NTM4MjAw
-ODcsNzQyNTUxODA0LC0zNDUwODU5MDMsLTEzMjQ0NDY1NzIsLT
-EzNzIwMDM0MzYsNDM0NzAyMjczLDEwMTQyNjQwMzYsMTYwMTU2
-NTE5NV19
+eyJoaXN0b3J5IjpbLTEyMTQ3Mjk2NDEsNDcwNTY4ODMsMTY3Nz
+Y3Nzg1MCwxMjIxOTc0Nzk0LC0xMzc1MTUyNSwxMDY2Mjk3Mzkx
+LDE2OTM2MDc3MTAsLTc2NjI1NjY2NiwtMTU3MjMwNDMwMSw2MT
+k5MzgzODgsMTcyNjgyMjA2NCwtMTg2NDQ2ODU2MCwxODM3Mzk2
+ODU0LC00NTM4MjAwODcsNzQyNTUxODA0LC0zNDUwODU5MDMsLT
+EzMjQ0NDY1NzIsLTEzNzIwMDM0MzYsNDM0NzAyMjczLDEwMTQy
+NjQwMzZdfQ==
 -->
