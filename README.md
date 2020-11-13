@@ -49,14 +49,7 @@ Today, the top 100 websites by traffic are [all](https://www.alexa.com/topsites)
 
 As more and more individuals and societies are reconsidering the place of **government, censorship, centralization and federated power**, web 3 has emerged as a powerful, provable option to shape the evolution of society on planet Earth. 
 
-A growing portion of web 2 websites and applications today have elements of web 3, like [cryptoblogs](https://peakd.com) and [games](https://www.stateofthedapps.com/rankings/category/games). While web 2 and web 3 can operate independently, web 3 enhances the abilities of web 2. Similarly, web 3 and web 4 can operate independently, but it makes the most sense for it to 
-
-As web 3 matures, we start to open a **pandoras box of practical applications**. With transaction fees near non-existent on second layers, we can re-imagine what is possible. 
-
-Web 4 dreams up **proof of individuality** through encrypted biodata that kickstarts a collaborative society, one driven by enabling each individual with **free daily tokens** that can be burnt to complete an action, e.g. voting on a community proposal. 
-
-
-Web 4 lays the foundation for this to be built. But, like any democratic system. **We need your help.** Please read this paper, and consider these ideas. If you believe you can make them better, please **submit a pull request** with your ideas. If you are a developer, I want to remind you of the license of this repo, and **invite you to forge any of these ideas into hot-pressed applications**. 
+A growing portion of web 2 websites and applications today have elements of web 3, like [cryptoblogs](https://peakd.com) and [games](https://www.stateofthedapps.com/rankings/category/games). While web 2 and web 3 can operate independently, web 3 enhances the abilities of web 2. Similarly, web 3 and web 4 can operate independently, but it makes the most sense for it to be built on top. 
 
 ## Guiding Philosophy
 Web 4 seeks to implement systems in **harmony with the universe itself** by replicating nature: the **abundance** of the Sun, rising **entropy**, and the **equality** of each conscious being. 
@@ -456,11 +449,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMDE2NzYzMywxNzI2ODIyMDY0LC0xOD
-Y0NDY4NTYwLDE4MzczOTY4NTQsLTQ1MzgyMDA4Nyw3NDI1NTE4
-MDQsLTM0NTA4NTkwMywtMTMyNDQ0NjU3MiwtMTM3MjAwMzQzNi
-w0MzQ3MDIyNzMsMTAxNDI2NDAzNiwxNjAxNTY1MTk1LC0xMDk5
-MDc2MTc4LC0xNTE1MDIzNTAzLDg0NjQzMzIxMiwtNTgwMDExMz
-UsMTg5MjY2MDQ3MSwtMTQ1OTU1MTM0LC04NTY0ODc2NjksLTEy
-MTk3MTEwMThdfQ==
+eyJoaXN0b3J5IjpbNjE5OTM4Mzg4LDE3MjY4MjIwNjQsLTE4Nj
+Q0Njg1NjAsMTgzNzM5Njg1NCwtNDUzODIwMDg3LDc0MjU1MTgw
+NCwtMzQ1MDg1OTAzLC0xMzI0NDQ2NTcyLC0xMzcyMDAzNDM2LD
+QzNDcwMjI3MywxMDE0MjY0MDM2LDE2MDE1NjUxOTUsLTEwOTkw
+NzYxNzgsLTE1MTUwMjM1MDMsODQ2NDMzMjEyLC01ODAwMTEzNS
+wxODkyNjYwNDcxLC0xNDU5NTUxMzQsLTg1NjQ4NzY2OSwtMTIx
+OTcxMTAxOF19
 -->
