@@ -181,8 +181,7 @@ We have said we web 4 is based on web 3 (blockchain), but this example intention
 
 Of course it can! It's just not viable to fulfill all principles of web 4, but can be done to an extent. 
 
-Web 2 is not a viable candidate for **provable democracy** because the federated nature means that your biometric data **must be trusted** to a third party, possibly a large corporation or malicious actor. Time tokens, while a new concept, do not rely on blockchain technology, but benefit from it to remove trust and add transparency. 
-
+Web 2 is not a viable candidate for **provable democracy** because the federated nature means that your biometric data **must be trusted** to a third party, possibly a government, large corporation or malicious actor. Time tokens, while a new concept, do not rely on blockchain technology, but benefit from it to remove trust and add transparency. 
 
 ___
 # **<center>**2**</center>**
@@ -438,11 +437,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDE2NzQ0NjQsMTY3NzY3Nzg1MCwxMj
-IxOTc0Nzk0LC0xMzc1MTUyNSwxMDY2Mjk3MzkxLDE2OTM2MDc3
-MTAsLTc2NjI1NjY2NiwtMTU3MjMwNDMwMSw2MTk5MzgzODgsMT
-cyNjgyMjA2NCwtMTg2NDQ2ODU2MCwxODM3Mzk2ODU0LC00NTM4
-MjAwODcsNzQyNTUxODA0LC0zNDUwODU5MDMsLTEzMjQ0NDY1Nz
-IsLTEzNzIwMDM0MzYsNDM0NzAyMjczLDEwMTQyNjQwMzYsMTYw
-MTU2NTE5NV19
+eyJoaXN0b3J5IjpbNDcwNTY4ODMsMTY3NzY3Nzg1MCwxMjIxOT
+c0Nzk0LC0xMzc1MTUyNSwxMDY2Mjk3MzkxLDE2OTM2MDc3MTAs
+LTc2NjI1NjY2NiwtMTU3MjMwNDMwMSw2MTk5MzgzODgsMTcyNj
+gyMjA2NCwtMTg2NDQ2ODU2MCwxODM3Mzk2ODU0LC00NTM4MjAw
+ODcsNzQyNTUxODA0LC0zNDUwODU5MDMsLTEzMjQ0NDY1NzIsLT
+EzNzIwMDM0MzYsNDM0NzAyMjczLDEwMTQyNjQwMzYsMTYwMTU2
+NTE5NV19
 -->
