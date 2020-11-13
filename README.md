@@ -95,9 +95,9 @@ ___
 
 # Time-issued cryptocurrency (Time Tokens) 
 
-Time tokens are distributed to users' wallets periodically as time passes. They work by hashing a unique personal identifier (address) with a time identifier, linking each token to a person during a span of time.
+Time tokens may be distributed to users' wallets periodically as time passes, or offered to be claimed manually. They work by hashing a unique personal identifier (address) with a time identifier, linking each token to a **person and a span of time**.
 
-These tokens provide the user with an action. The action burns the token, which may cause some change in the state of a system, or minting of another token, or any other action. 
+These tokens provide the user with a function or action. The action burns the token, which may cause some change in the state of a system, minting of another token, or any other action. 
 
 ## The Gears of Time Tokens
 
@@ -446,11 +446,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzY4MjY4MTksMTIyMTk3NDc5NCwtMT
-M3NTE1MjUsMTA2NjI5NzM5MSwxNjkzNjA3NzEwLC03NjYyNTY2
-NjYsLTE1NzIzMDQzMDEsNjE5OTM4Mzg4LDE3MjY4MjIwNjQsLT
-E4NjQ0Njg1NjAsMTgzNzM5Njg1NCwtNDUzODIwMDg3LDc0MjU1
-MTgwNCwtMzQ1MDg1OTAzLC0xMzI0NDQ2NTcyLC0xMzcyMDAzND
-M2LDQzNDcwMjI3MywxMDE0MjY0MDM2LDE2MDE1NjUxOTUsLTEw
-OTkwNzYxNzhdfQ==
+eyJoaXN0b3J5IjpbMTI0Mzk3ODc1MSwxMjIxOTc0Nzk0LC0xMz
+c1MTUyNSwxMDY2Mjk3MzkxLDE2OTM2MDc3MTAsLTc2NjI1NjY2
+NiwtMTU3MjMwNDMwMSw2MTk5MzgzODgsMTcyNjgyMjA2NCwtMT
+g2NDQ2ODU2MCwxODM3Mzk2ODU0LC00NTM4MjAwODcsNzQyNTUx
+ODA0LC0zNDUwODU5MDMsLTEzMjQ0NDY1NzIsLTEzNzIwMDM0Mz
+YsNDM0NzAyMjczLDEwMTQyNjQwMzYsMTYwMTU2NTE5NSwtMTA5
+OTA3NjE3OF19
 -->
