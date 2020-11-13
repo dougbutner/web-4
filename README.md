@@ -295,11 +295,11 @@ For the purpose of any geo-social system, geographic association with each actor
 Traditionally, it's the existence within a certain area, such as a place of residence or business, that is of importance. When building a geo-social system, it's only necessary that association is declared at the lowest level of geographic stratification, from which the rest can be extrapolated. 
 
 ## Social 
-Because each person can be associated to either a community, or a city, we can develop systems within web 4 that allow coordination at each stratum with just this one piece of data for each person. 
+Because each person can be associated to either a community, or a city, we can develop systems within web 4 that allow coordination at every strata with just this one piece of data for each person. 
 
 ## Usefulness of Geosocial in Web 4 
 
-Throu
+By offering time tokens to the indivicut
 
 
 # Roadmap to Web 4 Reality
@@ -362,7 +362,7 @@ It is my hope and desire that the information presented here will be **expanded*
 **Notes + References**
 ___
 
-[1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
+[1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification. Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 
 
 # Appendices
@@ -436,11 +436,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTk3MTEwMTgsLTk1MzI0MzQ4MCwtMT
-IzOTkwNTYzNiwtMTk5NzMyNzEsLTUwNTI1MjgzNyw5NzA0NjQ0
-OTAsMTAzMzgwMjUyLC00MjczODM2NzIsLTM3MTQ1MTE0MywtMT
-Y4MzU4NDQ0MSwtMjExODMwMzY3MSwtODk0NzczNDE2LC0yMTA4
-MDA5MTE0LC0xODkyMzgwMDQ5LDM5NzY3MDMsLTE3OTcwNDI4OD
-IsLTEwOTQ2MzA4NDksLTEwMTU2MzY1NjcsLTM1MjkzMDY0NCwx
-Mzk3Mzc4MzA0XX0=
+eyJoaXN0b3J5IjpbMTUxMjYyNjUxNCwtMTIxOTcxMTAxOCwtOT
+UzMjQzNDgwLC0xMjM5OTA1NjM2LC0xOTk3MzI3MSwtNTA1MjUy
+ODM3LDk3MDQ2NDQ5MCwxMDMzODAyNTIsLTQyNzM4MzY3MiwtMz
+cxNDUxMTQzLC0xNjgzNTg0NDQxLC0yMTE4MzAzNjcxLC04OTQ3
+NzM0MTYsLTIxMDgwMDkxMTQsLTE4OTIzODAwNDksMzk3NjcwMy
+wtMTc5NzA0Mjg4MiwtMTA5NDYzMDg0OSwtMTAxNTYzNjU2Nywt
+MzUyOTMwNjQ0XX0=
 -->
