@@ -345,7 +345,7 @@ Social Verification and solutions like Facetec are still used, while biocryptogr
 
 **Provable Identity** is now possible as suggested in this manifesto through the maturity of the biometric secrets. Standards are being created openly, 
 
-**GeoSocial layers** are starting to be built, but not used for "real applications" like voting because of lack of true provable individuality. 
+**GeoSocial layers** are being used to run and govern communities which are not dependent on traditional representative government.
 
 ## **Phase Four**
 **Information entropy** is added to the systems where it can be of use. For example this could make a person's biometric data less knowable over time by increasing the amount of **CPU time** needed to guess the biosecret. 
@@ -445,11 +445,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NzcxMzYzMywtMTIxOTcxMTAxOCwtOT
-UzMjQzNDgwLC0xMjM5OTA1NjM2LC0xOTk3MzI3MSwtNTA1MjUy
-ODM3LDk3MDQ2NDQ5MCwxMDMzODAyNTIsLTQyNzM4MzY3MiwtMz
-cxNDUxMTQzLC0xNjgzNTg0NDQxLC0yMTE4MzAzNjcxLC04OTQ3
-NzM0MTYsLTIxMDgwMDkxMTQsLTE4OTIzODAwNDksMzk3NjcwMy
-wtMTc5NzA0Mjg4MiwtMTA5NDYzMDg0OSwtMTAxNTYzNjU2Nywt
-MzUyOTMwNjQ0XX0=
+eyJoaXN0b3J5IjpbNjA0NjkwMzI5LC0xMjE5NzExMDE4LC05NT
+MyNDM0ODAsLTEyMzk5MDU2MzYsLTE5OTczMjcxLC01MDUyNTI4
+MzcsOTcwNDY0NDkwLDEwMzM4MDI1MiwtNDI3MzgzNjcyLC0zNz
+E0NTExNDMsLTE2ODM1ODQ0NDEsLTIxMTgzMDM2NzEsLTg5NDc3
+MzQxNiwtMjEwODAwOTExNCwtMTg5MjM4MDA0OSwzOTc2NzAzLC
+0xNzk3MDQyODgyLC0xMDk0NjMwODQ5LC0xMDE1NjM2NTY3LC0z
+NTI5MzA2NDRdfQ==
 -->
