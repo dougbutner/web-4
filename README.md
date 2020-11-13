@@ -40,7 +40,7 @@ Before we define web 4 fully, we must look briefly at the concepts of web 1, web
 **Dynamic web**. Web pages take a user's information and desires into account to build a unique experience for them. Asynchronous requests allow single page applications to thrive. Applications are still served from a central server.
 
  - **Web 3**
-**Decentralized web**. Open-source applications exist in distributed networks instead of a central server. This unfederated model trades control and censorship ability for freedom and lack of opinion. 
+**Decentralized web**. Applications, often open-source, exist in distributed networks instead of a central server. This unfederated model trades control and censorship ability for freedom and autonomy. 
 
  - **Web 4**
 **Democratic web**. Enabling meaningful layers on top of current socioeconomic systems built on time-minted crypto versatile which gains utility in how it is spent. Open source, unfederated biocryptography allows democratic systems to flourish, and takes government identification and corporate oversight out of the picture. Intentional degradation of information changes blockchain paradigms and brings meaning to time-based information models. 
@@ -456,11 +456,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE0MjkxMDEyLDQzNDcwMjI3MywxMDE0Mj
-Y0MDM2LDE2MDE1NjUxOTUsLTEwOTkwNzYxNzgsLTE1MTUwMjM1
-MDMsODQ2NDMzMjEyLC01ODAwMTEzNSwxODkyNjYwNDcxLC0xND
-U5NTUxMzQsLTg1NjQ4NzY2OSwtMTIxOTcxMTAxOCwtOTUzMjQz
-NDgwLC0xMjM5OTA1NjM2LC0xOTk3MzI3MSwtNTA1MjUyODM3LD
-k3MDQ2NDQ5MCwxMDMzODAyNTIsLTQyNzM4MzY3MiwtMzcxNDUx
-MTQzXX0=
+eyJoaXN0b3J5IjpbLTEzNzIwMDM0MzYsNDM0NzAyMjczLDEwMT
+QyNjQwMzYsMTYwMTU2NTE5NSwtMTA5OTA3NjE3OCwtMTUxNTAy
+MzUwMyw4NDY0MzMyMTIsLTU4MDAxMTM1LDE4OTI2NjA0NzEsLT
+E0NTk1NTEzNCwtODU2NDg3NjY5LC0xMjE5NzExMDE4LC05NTMy
+NDM0ODAsLTEyMzk5MDU2MzYsLTE5OTczMjcxLC01MDUyNTI4Mz
+csOTcwNDY0NDkwLDEwMzM4MDI1MiwtNDI3MzgzNjcyLC0zNzE0
+NTExNDNdfQ==
 -->
