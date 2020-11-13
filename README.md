@@ -209,7 +209,7 @@ ___
 
 **Biometric secrets** are akin to any cryptographic secret key, they are a hash of information. The information hashed in a biometric secret comes from a person's biometric expression. In today's biometric space,  static images are most commonly used for things like fingerprint and facial recognition, and geometry is the means to compare this data. 
 
-Biometric secrets generated from static images are not secure, as static images can be easily faked in innumerable ways [GETCIT]. Video offers a better solution to this problem, as it is harder to fake, can include audio, and lets developers create a whole new set of algorithms based on a changing stream of data. 
+Biometric secrets generated from static images are not secure, as static images can be easily faked in innumerable ways []. Video offers a better solution to this problem, as it is harder to fake, can include audio, and lets developers create a whole new set of algorithms based on a changing stream of data. 
 
 ### What is used to generate a biosecret?
 This stream of data (video + audio biometric expression) could be a user doing a series of hand gestures, singing a part of a song, speaking a phrase, speaking a phrase in different voices, clapping, making a series of facial expressions, or anything else one can imagine.
@@ -373,6 +373,8 @@ ___
 
 [1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification. Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
 
+[2] - https://www.technologyreview.com/2020/08/05/1006008/ai-face-recognition-hack-misidentifies-person/
+
 
 # Appendices
 
@@ -445,11 +447,11 @@ ___
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MjY2MDQ3MSwtMTQ1OTU1MTM0LC04NT
-Y0ODc2NjksLTEyMTk3MTEwMTgsLTk1MzI0MzQ4MCwtMTIzOTkw
-NTYzNiwtMTk5NzMyNzEsLTUwNTI1MjgzNyw5NzA0NjQ0OTAsMT
-AzMzgwMjUyLC00MjczODM2NzIsLTM3MTQ1MTE0MywtMTY4MzU4
-NDQ0MSwtMjExODMwMzY3MSwtODk0NzczNDE2LC0yMTA4MDA5MT
-E0LC0xODkyMzgwMDQ5LDM5NzY3MDMsLTE3OTcwNDI4ODIsLTEw
-OTQ2MzA4NDldfQ==
+eyJoaXN0b3J5IjpbMTczMDExMjk0NywxODkyNjYwNDcxLC0xND
+U5NTUxMzQsLTg1NjQ4NzY2OSwtMTIxOTcxMTAxOCwtOTUzMjQz
+NDgwLC0xMjM5OTA1NjM2LC0xOTk3MzI3MSwtNTA1MjUyODM3LD
+k3MDQ2NDQ5MCwxMDMzODAyNTIsLTQyNzM4MzY3MiwtMzcxNDUx
+MTQzLC0xNjgzNTg0NDQxLC0yMTE4MzAzNjcxLC04OTQ3NzM0MT
+YsLTIxMDgwMDkxMTQsLTE4OTIzODAwNDksMzk3NjcwMywtMTc5
+NzA0Mjg4Ml19
 -->
