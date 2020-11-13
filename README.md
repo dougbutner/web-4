@@ -47,7 +47,7 @@ Before we define web 4 fully, we must look briefly at the concepts of web 1, web
 
 Today, the top 100 websites by traffic are [all](https://www.alexa.com/topsites) web 2 websites. The web 2 paradigm fits closely with the wider environment of **corporate-owned information.** 
 
-As more and more individuals and societies are reconsidering the place of **government, censorship, centralization and federated power**, web 3 has emerged as a powerful, provable option to **shape the evolution of society** on planet Earth. 
+As more and more individuals and societies are reconsidering the place of **government, censorship, centralization and federated power**, web 3 has emerged as a powerful, provable option to shape the evolution of society on planet Earth. 
 
 A growing portion of web 2 websites and applications today have elements of web 3, like [cryptoblogs](https://peakd.com) and [games](https://www.stateofthedapps.com/rankings/category/games). While web 2 and web 3 can operate independently, web 3 enhances the abilities of web 2. 
 
@@ -456,11 +456,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjQ0Njg1NjAsMTgzNzM5Njg1NCwtND
-UzODIwMDg3LDc0MjU1MTgwNCwtMzQ1MDg1OTAzLC0xMzI0NDQ2
-NTcyLC0xMzcyMDAzNDM2LDQzNDcwMjI3MywxMDE0MjY0MDM2LD
-E2MDE1NjUxOTUsLTEwOTkwNzYxNzgsLTE1MTUwMjM1MDMsODQ2
-NDMzMjEyLC01ODAwMTEzNSwxODkyNjYwNDcxLC0xNDU5NTUxMz
-QsLTg1NjQ4NzY2OSwtMTIxOTcxMTAxOCwtOTUzMjQzNDgwLC0x
-MjM5OTA1NjM2XX0=
+eyJoaXN0b3J5IjpbMTcyNjgyMjA2NCwtMTg2NDQ2ODU2MCwxOD
+M3Mzk2ODU0LC00NTM4MjAwODcsNzQyNTUxODA0LC0zNDUwODU5
+MDMsLTEzMjQ0NDY1NzIsLTEzNzIwMDM0MzYsNDM0NzAyMjczLD
+EwMTQyNjQwMzYsMTYwMTU2NTE5NSwtMTA5OTA3NjE3OCwtMTUx
+NTAyMzUwMyw4NDY0MzMyMTIsLTU4MDAxMTM1LDE4OTI2NjA0Nz
+EsLTE0NTk1NTEzNCwtODU2NDg3NjY5LC0xMjE5NzExMDE4LC05
+NTMyNDM0ODBdfQ==
 -->
