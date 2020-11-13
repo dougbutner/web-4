@@ -60,12 +60,12 @@ I believe when we create information systems in **harmonic resonance** with natu
 ## Defining Web 4
 Web 4 introduces **four modular components** for **provably democratic systems** built on top of web 3's open-source decentralized networks. 
 
-There are 4 conceptual underpinnings (modules) of web 4
+There are four conceptual underpinnings (modules) of web 4
 
  1. **Time-issued cryptocurrency** 
-	 Individuals may receive "Time Tokens" at given intervals
+	 Individuals may receive "Time Tokens" at given intervals, but never more frequently, and can't hold another's time tokens.
  2. **Proof of Individuality**
-	 Biometric Secrets, Social Verification, more
+	 Biometric Secrets, Social Verification, Proof of  more
  3. **Pseudonymity and Information Entropy**
 	 Information degradation over time, pseudo accounts in sensitive systems
  4. **Harmonic GeoSocial Systems**
@@ -448,7 +448,7 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM2NTcwODU5LDE2OTM2MDc3MTAsLTc2Nj
+eyJoaXN0b3J5IjpbNjI1ODY2ODgyLDE2OTM2MDc3MTAsLTc2Nj
 I1NjY2NiwtMTU3MjMwNDMwMSw2MTk5MzgzODgsMTcyNjgyMjA2
 NCwtMTg2NDQ2ODU2MCwxODM3Mzk2ODU0LC00NTM4MjAwODcsNz
 QyNTUxODA0LC0zNDUwODU5MDMsLTEzMjQ0NDY1NzIsLTEzNzIw
