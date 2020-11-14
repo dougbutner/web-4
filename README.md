@@ -15,9 +15,7 @@ Provable Democracy [Alt title]
 
 This README features a description of the next evolution of the web, **web 4**. As the technologies emerge, this repo will also feature code and links to the associated technologies. For more cool Web 4 stuff, visit the [**Awesome Web 4**](https://github.com/dougbutner/awesome-web4) **repo**.
 
-## What is Web 4?
-
-
+# What is Web 4?
 
 Web 4 is a set of four **modular paradigms** and practices that allow integration of **provable democracy in any social system** that seeks to be more collaborative (organization, government, community, etc.). Modularity allows any project to adopt one or more of these principles to **increase the accuracy, fairness, and transparency** of each individual's role in **collaboration**. 
 
@@ -446,11 +444,11 @@ function snapBioDataToGranularPath(rangedBioDataParam){
 	//returns data snapped to grid (recursively scans object passed)
 }
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0ODA4MTQyMywxOTcxMTUwMTg3LC0xMT
-I4MTM5NTkyLDMxNDE0MDQ0MiwtMTQ2NjYyNTgwNywyMTQ0NjU1
-Nzk3LDE0OTg1NDk1MDYsLTE1NDczOTEyMiwtMTkwNDg2NDI1LD
-Q3MDU2ODgzLDE2Nzc2Nzc4NTAsMTIyMTk3NDc5NCwtMTM3NTE1
-MjUsMTA2NjI5NzM5MSwxNjkzNjA3NzEwLC03NjYyNTY2NjYsLT
-E1NzIzMDQzMDEsNjE5OTM4Mzg4LDE3MjY4MjIwNjQsLTE4NjQ0
-Njg1NjBdfQ==
+eyJoaXN0b3J5IjpbODU4ODM3NiwtNjQ4MDgxNDIzLDE5NzExNT
+AxODcsLTExMjgxMzk1OTIsMzE0MTQwNDQyLC0xNDY2NjI1ODA3
+LDIxNDQ2NTU3OTcsMTQ5ODU0OTUwNiwtMTU0NzM5MTIyLC0xOT
+A0ODY0MjUsNDcwNTY4ODMsMTY3NzY3Nzg1MCwxMjIxOTc0Nzk0
+LC0xMzc1MTUyNSwxMDY2Mjk3MzkxLDE2OTM2MDc3MTAsLTc2Nj
+I1NjY2NiwtMTU3MjMwNDMwMSw2MTk5MzgzODgsMTcyNjgyMjA2
+NF19
 -->
