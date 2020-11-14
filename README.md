@@ -369,7 +369,7 @@ ___
 # Notes + References
 ___
 
-[1] - Solutions like Civic and Facetec have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification. Until the technology is developed for a biometric system resembling the ideas here, these option is viable, though not fully embodying the idea of web 4. 
+[1] - Solutions like Civic and Facetec have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification. Until the technology is developed for a biometric system resembling the ideas here, these options (as well as social verification) are viable, though not fully embodying the idea of web 4. 
 
 [2] - Hao, K. & O'Neill P. (2020, August 06). The hack that could make face recognition think someone else is you. Originally Published at https://www.technologyreview.com/2020/08/05/1006008/ai-face-recognition-hack-misidentifies-person/
 
@@ -450,7 +450,7 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NDkxNTcwOSwtMTEyODEzOTU5MiwzMT
+eyJoaXN0b3J5IjpbMTU3NDQyMzQxMSwtMTEyODEzOTU5MiwzMT
 QxNDA0NDIsLTE0NjY2MjU4MDcsMjE0NDY1NTc5NywxNDk4NTQ5
 NTA2LC0xNTQ3MzkxMjIsLTE5MDQ4NjQyNSw0NzA1Njg4MywxNj
 c3Njc3ODUwLDEyMjE5NzQ3OTQsLTEzNzUxNTI1LDEwNjYyOTcz
