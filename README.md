@@ -266,7 +266,7 @@ A geo-social layer is something that affects people (social) at a given location
 
 Across the globe, one geopolitical pattern seem to emerge. Cities are within Counties, are within Districts (States in the USA), are within nations, are within the world. 
 
-1. Cities (aka Towns, Commonwealths, C, etc.)
+1. Cities (aka Towns, Commonwealths, etc.)
 2. Counties (aka Divisions
 3. Districts (aka States, Provinces)
 4. Nations (aka Countries, States, Republics, etc)
@@ -437,11 +437,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5ODU0OTUwNiwtMTU0NzM5MTIyLC0xOT
-A0ODY0MjUsNDcwNTY4ODMsMTY3NzY3Nzg1MCwxMjIxOTc0Nzk0
-LC0xMzc1MTUyNSwxMDY2Mjk3MzkxLDE2OTM2MDc3MTAsLTc2Nj
-I1NjY2NiwtMTU3MjMwNDMwMSw2MTk5MzgzODgsMTcyNjgyMjA2
-NCwtMTg2NDQ2ODU2MCwxODM3Mzk2ODU0LC00NTM4MjAwODcsNz
-QyNTUxODA0LC0zNDUwODU5MDMsLTEzMjQ0NDY1NzIsLTEzNzIw
-MDM0MzZdfQ==
+eyJoaXN0b3J5IjpbMjE0NDY1NTc5NywxNDk4NTQ5NTA2LC0xNT
+Q3MzkxMjIsLTE5MDQ4NjQyNSw0NzA1Njg4MywxNjc3Njc3ODUw
+LDEyMjE5NzQ3OTQsLTEzNzUxNTI1LDEwNjYyOTczOTEsMTY5Mz
+YwNzcxMCwtNzY2MjU2NjY2LC0xNTcyMzA0MzAxLDYxOTkzODM4
+OCwxNzI2ODIyMDY0LC0xODY0NDY4NTYwLDE4MzczOTY4NTQsLT
+Q1MzgyMDA4Nyw3NDI1NTE4MDQsLTM0NTA4NTkwMywtMTMyNDQ0
+NjU3Ml19
 -->
