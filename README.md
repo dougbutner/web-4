@@ -224,7 +224,7 @@ There will always be **security concerns** with biometrics. For example, if a us
 The upside of biometric secrets is they **cannot be lost**, and the account will always be recoverable by the individual. In a web 4 ecosystem, where the tokens are distributed daily and often spent daily, a hack would be much less catastrophic. The attacker will be able to access the user's balance, but not alter the past transactions, nor continue to collect the future deposits, because the real user will (in theory) quickly recover the account and change the biometric secret generation means so that the hacker's biofake is no longer working. 
 
 ___
-# **<center>**3**</center>**
+# <center>**3**</center>
 
 ___
 
@@ -235,21 +235,22 @@ This idea hinges upon incremental time units, the number of which is used to dec
 
 With **pseudonymity**, it is difficult, but not impossible, to piece together a story about an individual user by knowing they are responsible for a set of transactions over time. The further back in time a transaction is, the **harder** it is to link it to another transaction with any **certainty**. 
 
-## **Degradation of Information Fidelity**
+## Degradation of Information Fidelity
 Information fidelity requirements can also be degraded over time. For example, when generating a users biosecret, it can be assumed that the more time that passes, the more the bioinformation of the individual will change. 
 
-## **Degradation of Biosecrets**
+## Degradation of Biosecrets
 **Biosecrets** are generated from a **range of biometric values**. This range of values can be expanded over time. The effect is, instead of having one hashed biosecret for eternity, the generation process will create a set of biosecrets from an increasingly **wide range of data**. This concept may be needed to keep people in control of their accounts as they age. There is considerable work to be done to develop this concept, as each data type has its own complications. 
 
 In this case, as time goes on, someone attempting to prove their individuality would have to spend a lot **more effort** to run the algorithms against their collected biodata, and the data **precision** needed to match the person's identity is actually **lower**. This is one example of **fidelity change**; others can make it more expensive to change a record from the past, make it harder to find out the ID of a voter, or even limit a past state's effect on the future of a blockchain. 
 
+## Realism
 While the inclusion of this concept into web 4 may seem **unnecessary** at the moment, it is another guarantee of the privacy that is needed for many **social applications**. Philosophically, degradation of information also fits in with the general web 4 desire to reflect systems in nature. 
 
 Before moving on, I do wish to stress the modularity of web 4, and that this (perhaps the most radical idea presented) is not going to fit into every web 4 system, nor should it. This idea will find its usefulness when it is time, and should NOT be adopted without clear reasoning. 
 
 
 ___
-# **<center>**4**</center>**
+# <center>**4**</center>
 
 ___
 # Geo-Social Harmonic Layers
@@ -437,11 +438,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzQ0MDk2OTgsMjE0NDY1NTc5NywxND
-k4NTQ5NTA2LC0xNTQ3MzkxMjIsLTE5MDQ4NjQyNSw0NzA1Njg4
-MywxNjc3Njc3ODUwLDEyMjE5NzQ3OTQsLTEzNzUxNTI1LDEwNj
-YyOTczOTEsMTY5MzYwNzcxMCwtNzY2MjU2NjY2LC0xNTcyMzA0
-MzAxLDYxOTkzODM4OCwxNzI2ODIyMDY0LC0xODY0NDY4NTYwLD
-E4MzczOTY4NTQsLTQ1MzgyMDA4Nyw3NDI1NTE4MDQsLTM0NTA4
-NTkwM119
+eyJoaXN0b3J5IjpbMzUyOTkyMzA5LDIxNDQ2NTU3OTcsMTQ5OD
+U0OTUwNiwtMTU0NzM5MTIyLC0xOTA0ODY0MjUsNDcwNTY4ODMs
+MTY3NzY3Nzg1MCwxMjIxOTc0Nzk0LC0xMzc1MTUyNSwxMDY2Mj
+k3MzkxLDE2OTM2MDc3MTAsLTc2NjI1NjY2NiwtMTU3MjMwNDMw
+MSw2MTk5MzgzODgsMTcyNjgyMjA2NCwtMTg2NDQ2ODU2MCwxOD
+M3Mzk2ODU0LC00NTM4MjAwODcsNzQyNTUxODA0LC0zNDUwODU5
+MDNdfQ==
 -->
