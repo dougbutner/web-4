@@ -219,7 +219,7 @@ The biggest issue with biometrics is the lack of trust, mostly due to the growin
 2) ran entirely on the individual's hardware (client-side), and 
 3) not expose any biometric data to any other users or the system itself. 
 
-There will always be **security concerns** with biometrics. For example, if a user uses their biometric secret to unlock their mobile device, another app could be secretly recording the camera in the background. A person could record them doing their secret, and try to play that video back to the camera to gain access. Also, *[deepfakes.](https://github.com/aerophile/awesome-deepfakes)* These concerns must be addressed before this web 4 reaches mass adoption. 
+There will always be **security concerns** with biometrics. For example, if a user uses their biometric secret to unlock their mobile device, another app could be secretly recording the camera in the background. A person could record them doing their secret, and try to play that video back to the camera to gain access. Also, *[deepfakes.](https://github.com/aerophile/awesome-deepfakes)* exist. These concerns must be addressed before this web 4 reaches mass adoption. 
 
 The upside of biometric secrets is they **cannot be lost**, and the account will always be recoverable by the individual. In a web 4 ecosystem, where the tokens are distributed daily and often spent daily, a hack would be much less catastrophic. The attacker will be able to access the user's balance, but not alter the past transactions, nor continue to collect the future deposits, because the real user will (in theory) quickly recover the account and change the biometric secret generation means so that the hacker's biofake is no longer working. 
 
@@ -437,11 +437,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkzNTU3MzQwLDIxNDQ2NTU3OTcsMTQ5OD
-U0OTUwNiwtMTU0NzM5MTIyLC0xOTA0ODY0MjUsNDcwNTY4ODMs
-MTY3NzY3Nzg1MCwxMjIxOTc0Nzk0LC0xMzc1MTUyNSwxMDY2Mj
-k3MzkxLDE2OTM2MDc3MTAsLTc2NjI1NjY2NiwtMTU3MjMwNDMw
-MSw2MTk5MzgzODgsMTcyNjgyMjA2NCwtMTg2NDQ2ODU2MCwxOD
-M3Mzk2ODU0LC00NTM4MjAwODcsNzQyNTUxODA0LC0zNDUwODU5
-MDNdfQ==
+eyJoaXN0b3J5IjpbLTIxMDQxNzA0NjUsMjE0NDY1NTc5NywxND
+k4NTQ5NTA2LC0xNTQ3MzkxMjIsLTE5MDQ4NjQyNSw0NzA1Njg4
+MywxNjc3Njc3ODUwLDEyMjE5NzQ3OTQsLTEzNzUxNTI1LDEwNj
+YyOTczOTEsMTY5MzYwNzcxMCwtNzY2MjU2NjY2LC0xNTcyMzA0
+MzAxLDYxOTkzODM4OCwxNzI2ODIyMDY0LC0xODY0NDY4NTYwLD
+E4MzczOTY4NTQsLTQ1MzgyMDA4Nyw3NDI1NTE4MDQsLTM0NTA4
+NTkwM119
 -->
