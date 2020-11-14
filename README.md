@@ -219,10 +219,9 @@ The biggest issue with biometrics is the lack of trust, mostly due to the growin
 2) ran entirely on the individual's hardware (client-side), and 
 3) not expose any biometric data to any other users or the system itself. 
 
-There will always be **security concerns** with biometrics. For example, if a user uses their biometric secret to unlock their mobile device, another app could be secretly recording the camera in the background. A person could record them doing their secret, and try to play that video back to the camera to gain access. Also, *[deepfakes.](https://github.com/aerophile/awesome-deepfakes)* exist. These concerns must be addressed before this web 4 reaches mass adoption. 
+There will always be **security concerns** with biometrics. For example, if a user uses their biometric secret to unlock their mobile device, another app could be secretly recording the camera in the background. A person could record them doing their secret, and try to play that video back to the camera to gain access. Also, *[deepfakes.](https://github.com/aerophile/awesome-deepfakes)* exist. These concerns must be addressed before this module of web 4 reaches mass adoption. 
 
 The upside of biometric secrets is they **cannot be lost**, and the account will always be recoverable by the individual. In a web 4 ecosystem, where the tokens are distributed daily and often spent daily, a hack would be much less catastrophic. The attacker will be able to access the user's balance, but not alter the past transactions, nor continue to collect the future deposits, because the real user will (in theory) quickly recover the account and change the biometric secret generation means so that the hacker's biofake is no longer working. 
-
 
 ___
 # **<center>**3**</center>**
@@ -237,7 +236,7 @@ This idea hinges upon incremental time units, the number of which is used to dec
 With **pseudonymity**, it is difficult, but not impossible, to piece together a story about an individual user by knowing they are responsible for a set of transactions over time. The further back in time a transaction is, the **harder** it is to link it to another transaction with any **certainty**. 
 
 ## **Degradation of Information Fidelity**
-Information fidelity requirements can also be degraded over time. For example, when generating a users **biosecret**, it can be assumed that the more time that passes, the more the **bioinformation** of the individual will **change**. 
+Information fidelity requirements can also be degraded over time. For example, when generating a users biosecret, it can be assumed that the more time that passes, the more the bioinformation of the individual will change. 
 
 **Biosecrets** are generated from a **range of biometric values**. This range of values can be expanded over time. The effect is, instead of having one hashed biosecret for eternity, the generation process will create a set of biosecrets from an increasingly **wide range of data**. This concept may be needed to keep people in control of their accounts as they age. There is considerable work to be done to develop this concept, as each data type has its own complications. 
 
@@ -437,11 +436,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDQxNzA0NjUsMjE0NDY1NTc5NywxND
-k4NTQ5NTA2LC0xNTQ3MzkxMjIsLTE5MDQ4NjQyNSw0NzA1Njg4
-MywxNjc3Njc3ODUwLDEyMjE5NzQ3OTQsLTEzNzUxNTI1LDEwNj
-YyOTczOTEsMTY5MzYwNzcxMCwtNzY2MjU2NjY2LC0xNTcyMzA0
-MzAxLDYxOTkzODM4OCwxNzI2ODIyMDY0LC0xODY0NDY4NTYwLD
-E4MzczOTY4NTQsLTQ1MzgyMDA4Nyw3NDI1NTE4MDQsLTM0NTA4
-NTkwM119
+eyJoaXN0b3J5IjpbMTEyMTg1NTQ5MCwyMTQ0NjU1Nzk3LDE0OT
+g1NDk1MDYsLTE1NDczOTEyMiwtMTkwNDg2NDI1LDQ3MDU2ODgz
+LDE2Nzc2Nzc4NTAsMTIyMTk3NDc5NCwtMTM3NTE1MjUsMTA2Nj
+I5NzM5MSwxNjkzNjA3NzEwLC03NjYyNTY2NjYsLTE1NzIzMDQz
+MDEsNjE5OTM4Mzg4LDE3MjY4MjIwNjQsLTE4NjQ0Njg1NjAsMT
+gzNzM5Njg1NCwtNDUzODIwMDg3LDc0MjU1MTgwNCwtMzQ1MDg1
+OTAzXX0=
 -->
