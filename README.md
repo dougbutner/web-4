@@ -335,12 +335,19 @@ Social Verification and solutions like Facetec are still used, while biocryptogr
 
 **GeoSocial layers** are being used to run and govern communities which are not dependent on traditional representative government. Existing governments are adopting time tokens to get a better read on what legislation the people want. 
 
+**Phase 3 Action Point**: 
+- Creating provable identity solutions that satisfy all requirements
+
 ## **Phase Four**
 > Geo-social systems
 
 **Information entropy** is added to the systems where it can be of use. For example, this could make a person's (anonymous) voting record less knowable over time by increasing the amount of CPU time needed to associate one vote with another. 
 
 **GeoSocial layers** are being used as a replacement for representative government where it is the will of the people. Voter informedness is measured and known, as are the exact desires of the people. This creates collaboration and a renewed faith in democracy, and a feeling of belongingness and appreciation for each individual. 
+
+**Phase 4 Action Points**: 
+- Building and operating geo-social layers for the benefit of society and any collaborating group
+- Exploring use cases in
 
 # Author notes
 
@@ -443,7 +450,7 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODIxMTMzOCwtMTEyODEzOTU5MiwzMT
+eyJoaXN0b3J5IjpbLTI1NDM4OTgxNywtMTEyODEzOTU5MiwzMT
 QxNDA0NDIsLTE0NjY2MjU4MDcsMjE0NDY1NTc5NywxNDk4NTQ5
 NTA2LC0xNTQ3MzkxMjIsLTE5MDQ4NjQyNSw0NzA1Njg4MywxNj
 c3Njc3ODUwLDEyMjE5NzQ3OTQsLTEzNzUxNTI1LDEwNjYyOTcz
