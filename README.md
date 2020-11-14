@@ -250,7 +250,7 @@ Before moving on, I do wish to stress the modularity of web 4, and that this (pe
 
 
 ___
-# <center>**4**</center>
+# <center>4</center>
 
 ___
 # Geo-Social Harmonic Layers
@@ -438,7 +438,7 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4OTI5NjQ1MiwyMTQ0NjU1Nzk3LDE0OT
+eyJoaXN0b3J5IjpbMTI1NTgzMTg2OCwyMTQ0NjU1Nzk3LDE0OT
 g1NDk1MDYsLTE1NDczOTEyMiwtMTkwNDg2NDI1LDQ3MDU2ODgz
 LDE2Nzc2Nzc4NTAsMTIyMTk3NDc5NCwtMTM3NTE1MjUsMTA2Nj
 I5NzM5MSwxNjkzNjA3NzEwLC03NjYyNTY2NjYsLTE1NzIzMDQz
