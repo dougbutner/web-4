@@ -265,7 +265,7 @@ A geo-social layer is something that affects people (social) at a given location
 
 ## Geographic Stratification  
 
-Across the globe, one geopolitical pattern seem to emerge. Cities are within Counties, are within Districts (States in the USA), are within nations, are within the world. 
+Across the globe, one geopolitical pattern seems to emerge. Cities are within Counties, are within Districts (States in the USA), are within nations, are within the world. 
 
 1. Cities (aka Towns, Commonwealths, etc.)
 2. Counties (aka Divisions
@@ -438,7 +438,7 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMTM4ODY5LC0xNDY2NjI1ODA3LDIxND
+eyJoaXN0b3J5IjpbMzE0MTQwNDQyLC0xNDY2NjI1ODA3LDIxND
 Q2NTU3OTcsMTQ5ODU0OTUwNiwtMTU0NzM5MTIyLC0xOTA0ODY0
 MjUsNDcwNTY4ODMsMTY3NzY3Nzg1MCwxMjIxOTc0Nzk0LC0xMz
 c1MTUyNSwxMDY2Mjk3MzkxLDE2OTM2MDc3MTAsLTc2NjI1NjY2
