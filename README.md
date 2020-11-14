@@ -417,7 +417,8 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	
 	// For this to work, a matrix-like object containing every single possible hashed value for every point of data 
 	// ..must be stored on an authentication server for each data input. 
-	// Data must also exhibit granularity (snap to an integer path)
+	// Data must also exhibit granularity (snap to an integer path). Without granularity, the hashes will never match a new input's hash. 
+
 	// This matrix of values is used to compare the biosecret with in the future
 	// This must be made more efficient to use with today's computers
 
@@ -450,11 +451,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NDQyMzQxMSwtMTEyODEzOTU5MiwzMT
-QxNDA0NDIsLTE0NjY2MjU4MDcsMjE0NDY1NTc5NywxNDk4NTQ5
-NTA2LC0xNTQ3MzkxMjIsLTE5MDQ4NjQyNSw0NzA1Njg4MywxNj
-c3Njc3ODUwLDEyMjE5NzQ3OTQsLTEzNzUxNTI1LDEwNjYyOTcz
-OTEsMTY5MzYwNzcxMCwtNzY2MjU2NjY2LC0xNTcyMzA0MzAxLD
-YxOTkzODM4OCwxNzI2ODIyMDY0LC0xODY0NDY4NTYwLDE4Mzcz
-OTY4NTRdfQ==
+eyJoaXN0b3J5IjpbMTE5MjU5NTAwLC0xMTI4MTM5NTkyLDMxND
+E0MDQ0MiwtMTQ2NjYyNTgwNywyMTQ0NjU1Nzk3LDE0OTg1NDk1
+MDYsLTE1NDczOTEyMiwtMTkwNDg2NDI1LDQ3MDU2ODgzLDE2Nz
+c2Nzc4NTAsMTIyMTk3NDc5NCwtMTM3NTE1MjUsMTA2NjI5NzM5
+MSwxNjkzNjA3NzEwLC03NjYyNTY2NjYsLTE1NzIzMDQzMDEsNj
+E5OTM4Mzg4LDE3MjY4MjIwNjQsLTE4NjQ0Njg1NjAsMTgzNzM5
+Njg1NF19
 -->
