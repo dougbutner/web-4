@@ -243,8 +243,8 @@ Information fidelity requirements can also be degraded over time. For example, w
 
 In this case, as time goes on, someone attempting to prove their individuality would have to spend a lot **more effort** to run the algorithms against their collected biodata, and the data **precision** needed to match the person's identity is actually **lower**. This is one example of **fidelity change**; others can make it more expensive to change a record from the past, make it harder to find out the ID of a voter, or even limit a past state's effect on the future of a blockchain. 
 
-## Realism
-While the inclusion of this concept into web 4 may seem **unnecessary** at the moment, it is another guarantee of the privacy that is needed for many **social applications**. Philosophically, degradation of information also fits in with the general web 4 desire to reflect systems in nature. 
+## Proceed with Caution 
+While the inclusion of this concept into web 4 may seem **unnecessary** at the moment, it is another guarantee of the privacy that is needed for many **social applications**. Philosophically, degradation of information also fits in with the general web 4 desire to reflect [systems in nature](https://en.wikipedia.org/wiki/Second_law_of_thermodynamics). 
 
 Before moving on, I do wish to stress the modularity of web 4, and that this (perhaps the most radical idea presented) is not going to fit into every web 4 system, nor should it. This idea will find its usefulness when it is time, and should NOT be adopted without clear reasoning. 
 
@@ -438,11 +438,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUyOTkyMzA5LDIxNDQ2NTU3OTcsMTQ5OD
-U0OTUwNiwtMTU0NzM5MTIyLC0xOTA0ODY0MjUsNDcwNTY4ODMs
-MTY3NzY3Nzg1MCwxMjIxOTc0Nzk0LC0xMzc1MTUyNSwxMDY2Mj
-k3MzkxLDE2OTM2MDc3MTAsLTc2NjI1NjY2NiwtMTU3MjMwNDMw
-MSw2MTk5MzgzODgsMTcyNjgyMjA2NCwtMTg2NDQ2ODU2MCwxOD
-M3Mzk2ODU0LC00NTM4MjAwODcsNzQyNTUxODA0LC0zNDUwODU5
-MDNdfQ==
+eyJoaXN0b3J5IjpbLTY4OTI5NjQ1MiwyMTQ0NjU1Nzk3LDE0OT
+g1NDk1MDYsLTE1NDczOTEyMiwtMTkwNDg2NDI1LDQ3MDU2ODgz
+LDE2Nzc2Nzc4NTAsMTIyMTk3NDc5NCwtMTM3NTE1MjUsMTA2Nj
+I5NzM5MSwxNjkzNjA3NzEwLC03NjYyNTY2NjYsLTE1NzIzMDQz
+MDEsNjE5OTM4Mzg4LDE3MjY4MjIwNjQsLTE4NjQ0Njg1NjAsMT
+gzNzM5Njg1NCwtNDUzODIwMDg3LDc0MjU1MTgwNCwtMzQ1MDg1
+OTAzXX0=
 -->
