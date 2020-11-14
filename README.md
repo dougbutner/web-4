@@ -288,7 +288,7 @@ Because each person can be associated to either a community or a city, we can de
 
 By offering time tokens to the individual that correspond to each stratum we can create **high-fidelity democratic systems** that better represent each and every person's desires. We can know exactly what the people want, with no guesswork, in a very short period of time. 
 
-For example, a person may be given 12 time tokens at each stratum to vote on the initiatives that they would like to see passed. They may vote all 12 tokens for an inititive they are most passionate about, or 1 token to 12 different initiatives (or 2 to 6 initiatives, etc). By collecting and counting these tokens, the governing body can **know exactly what their constituents want**, without the direct need to elect a representative who only estimates these desires. 
+For example, a person may be given 12 time tokens per month at each stratum to vote on the initiatives that they would like to see passed. They may vote all 12 tokens for an initiative they are most passionate about, or 1 token to 12 different initiatives (or 2 to 6 initiatives, etc). By collecting and counting these tokens, the governing body can **know exactly what their constituents want**, without the direct need to elect a representative who only estimates these desires. 
 
 The democratic system described in this paper does not solve all problems, as there are still issues of voter informedness, unseen actors, and more, but it is a skeleton to build a collaborative social system that are an **improvement to the representative governments** which were once as revolutionary as these ideas are. 
 
@@ -333,6 +333,8 @@ Social Verification and solutions like Facetec are still used, while biocryptogr
 **GeoSocial layers** are being used to run and govern communities which are not dependent on traditional representative government. Existing governments are adopting time tokens to get a better read on what legislation the people want. 
 
 ## **Phase Four**
+> Geo-social systems
+
 **Information entropy** is added to the systems where it can be of use. For example, this could make a person's (anonymous) voting record less knowable over time by increasing the amount of CPU time needed to associate one vote with another. 
 
 **GeoSocial layers** are being used as a replacement for representative government where it is the will of the people. Voter informedness is measured and known, as are the exact desires of the people. This creates collaboration and a renewed faith in democracy, and a feeling of belongingness and appreciation for each individual. 
@@ -438,11 +440,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNjA0MzE5MSwzMTQxNDA0NDIsLTE0Nj
-Y2MjU4MDcsMjE0NDY1NTc5NywxNDk4NTQ5NTA2LC0xNTQ3Mzkx
-MjIsLTE5MDQ4NjQyNSw0NzA1Njg4MywxNjc3Njc3ODUwLDEyMj
-E5NzQ3OTQsLTEzNzUxNTI1LDEwNjYyOTczOTEsMTY5MzYwNzcx
-MCwtNzY2MjU2NjY2LC0xNTcyMzA0MzAxLDYxOTkzODM4OCwxNz
-I2ODIyMDY0LC0xODY0NDY4NTYwLDE4MzczOTY4NTQsLTQ1Mzgy
-MDA4N119
+eyJoaXN0b3J5IjpbLTExMjgxMzk1OTIsMzE0MTQwNDQyLC0xND
+Y2NjI1ODA3LDIxNDQ2NTU3OTcsMTQ5ODU0OTUwNiwtMTU0NzM5
+MTIyLC0xOTA0ODY0MjUsNDcwNTY4ODMsMTY3NzY3Nzg1MCwxMj
+IxOTc0Nzk0LC0xMzc1MTUyNSwxMDY2Mjk3MzkxLDE2OTM2MDc3
+MTAsLTc2NjI1NjY2NiwtMTU3MjMwNDMwMSw2MTk5MzgzODgsMT
+cyNjgyMjA2NCwtMTg2NDQ2ODU2MCwxODM3Mzk2ODU0LC00NTM4
+MjAwODddfQ==
 -->
