@@ -437,20 +437,20 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 
-	// Finally, the real biosecret is returned
+	// Finally, the real biosecret is returned as an object of hashed biometric data, which will be checked by comparing each granular piece of data's hash to the incoming granular hashes
 	return bioMatrix; // Biosecret
 
 	}
 
 function snapBioDataToGranularPath(rangedBioDataParam){
-	//returns data snapped to grid (recursivly scans object passed)
+	//returns data snapped to grid (recursively scans object passed)
 }
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzQ2NzYxMjAsMTk3MTE1MDE4NywtMT
-EyODEzOTU5MiwzMTQxNDA0NDIsLTE0NjY2MjU4MDcsMjE0NDY1
-NTc5NywxNDk4NTQ5NTA2LC0xNTQ3MzkxMjIsLTE5MDQ4NjQyNS
-w0NzA1Njg4MywxNjc3Njc3ODUwLDEyMjE5NzQ3OTQsLTEzNzUx
-NTI1LDEwNjYyOTczOTEsMTY5MzYwNzcxMCwtNzY2MjU2NjY2LC
-0xNTcyMzA0MzAxLDYxOTkzODM4OCwxNzI2ODIyMDY0LC0xODY0
-NDY4NTYwXX0=
+eyJoaXN0b3J5IjpbLTY0ODA4MTQyMywxOTcxMTUwMTg3LC0xMT
+I4MTM5NTkyLDMxNDE0MDQ0MiwtMTQ2NjYyNTgwNywyMTQ0NjU1
+Nzk3LDE0OTg1NDk1MDYsLTE1NDczOTEyMiwtMTkwNDg2NDI1LD
+Q3MDU2ODgzLDE2Nzc2Nzc4NTAsMTIyMTk3NDc5NCwtMTM3NTE1
+MjUsMTA2NjI5NzM5MSwxNjkzNjA3NzEwLC03NjYyNTY2NjYsLT
+E1NzIzMDQzMDEsNjE5OTM4Mzg4LDE3MjY4MjIwNjQsLTE4NjQ0
+Njg1NjBdfQ==
 -->
