@@ -263,10 +263,9 @@ Collaborative social environments are always happening everywhere humans live. C
 
 A geo-social layer is something that affects **people** (social) at a given **location** (Geo). A simple example is the governing body of an area, including all of the legislation. Another example is the customs and culture of a group of people. 
 
-The geo-social layers apt to be improved by web 4 are those which involve people collaborating; government/legislation, food and water management, community projects, educat
+The geo-social layers apt to be improved by web 4 are those which involve **people collaborating**; government/legislation, food and water management, community projects, education, events, charities, environmental protection and much more. 
 
 ## Geographic Stratification  
-
 Across the globe, one geopolitical pattern seems to emerge. Cities are within Counties, are within Districts (States in the USA), are within nations, are within the world. 
 
 1. Cities (aka Towns, Commonwealths, etc.)
@@ -277,14 +276,13 @@ Across the globe, one geopolitical pattern seems to emerge. Cities are within Co
 
 For communication, we will consider cities as the "lowest" and global as the "highest" stratification level.
  
-Additionally, a **community level** may be added below cities to further add accuracy and usefulness. 
+> Additionally, a **community level** may be added below cities to further add accuracy and usefulness. 
 
 For the purpose of any geo-social system, **geographic association with each actor** must be defined. 
 
 Traditionally, it's the existence within a certain area, such as a place of residence or business, that is of importance. When building a geo-social system, it's only necessary that association is declared at the lowest level of geographic stratification, from which the rest can be extrapolated. 
 
-## Social 
-Because each person can be associated to either a community, or a city, we can develop systems within web 4 that allow coordination at every strata with just this one piece of data for each person. 
+Because each person can be associated to either a community or a city, we can develop systems within web 4 that allow coordination at every strata with just this one piece of data for each person. 
 
 # Democracy, Collaboration, and ever-redefining Utopia
 
@@ -440,11 +438,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODcwNzYxMzksMzE0MTQwNDQyLC0xND
-Y2NjI1ODA3LDIxNDQ2NTU3OTcsMTQ5ODU0OTUwNiwtMTU0NzM5
-MTIyLC0xOTA0ODY0MjUsNDcwNTY4ODMsMTY3NzY3Nzg1MCwxMj
-IxOTc0Nzk0LC0xMzc1MTUyNSwxMDY2Mjk3MzkxLDE2OTM2MDc3
-MTAsLTc2NjI1NjY2NiwtMTU3MjMwNDMwMSw2MTk5MzgzODgsMT
-cyNjgyMjA2NCwtMTg2NDQ2ODU2MCwxODM3Mzk2ODU0LC00NTM4
-MjAwODddfQ==
+eyJoaXN0b3J5IjpbLTIzNjA0MzE5MSwzMTQxNDA0NDIsLTE0Nj
+Y2MjU4MDcsMjE0NDY1NTc5NywxNDk4NTQ5NTA2LC0xNTQ3Mzkx
+MjIsLTE5MDQ4NjQyNSw0NzA1Njg4MywxNjc3Njc3ODUwLDEyMj
+E5NzQ3OTQsLTEzNzUxNTI1LDEwNjYyOTczOTEsMTY5MzYwNzcx
+MCwtNzY2MjU2NjY2LC0xNTcyMzA0MzAxLDYxOTkzODM4OCwxNz
+I2ODIyMDY0LC0xODY0NDY4NTYwLDE4MzczOTY4NTQsLTQ1Mzgy
+MDA4N119
 -->
