@@ -299,9 +299,9 @@ The democratic system described in this paper does not solve all problems, as th
 ## **Phase One**
 > Implementing time tokens
 
-**Time Tokens** are implemented on any and all blockchains where developers see the value. These developers provide open-source instructions and tools to helps others make their own time tokens. 
+**Time Tokens** are implemented on any and all blockchains where developers see the value. These developers provide open-source instructions and tools to helps other developers incorporate time tokens into their applications. 
 
-**Provable individuality** for Time Tokens is up to each application and blockchain, and these application can choose to ignore this requirement, risking their systems' integrity. **Federated** (Facetec) and **decentralized** options (Civic) may be used, and so can social verification.
+**Provable individuality** for Time Tokens is up to each application and blockchain, and these application can choose to ignore this requirement, risking their systems' integrity. **Federated** (Facetec) and **decentralized** (Civic) options may be used, and so can social verification.
 
 
 **Information entropy** and **geosocial layers** are starting to be theorized, but not showing up. 
@@ -440,11 +440,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjgxMzk1OTIsMzE0MTQwNDQyLC0xND
-Y2NjI1ODA3LDIxNDQ2NTU3OTcsMTQ5ODU0OTUwNiwtMTU0NzM5
-MTIyLC0xOTA0ODY0MjUsNDcwNTY4ODMsMTY3NzY3Nzg1MCwxMj
-IxOTc0Nzk0LC0xMzc1MTUyNSwxMDY2Mjk3MzkxLDE2OTM2MDc3
-MTAsLTc2NjI1NjY2NiwtMTU3MjMwNDMwMSw2MTk5MzgzODgsMT
-cyNjgyMjA2NCwtMTg2NDQ2ODU2MCwxODM3Mzk2ODU0LC00NTM4
-MjAwODddfQ==
+eyJoaXN0b3J5IjpbLTE4MDExNDIwODMsLTExMjgxMzk1OTIsMz
+E0MTQwNDQyLC0xNDY2NjI1ODA3LDIxNDQ2NTU3OTcsMTQ5ODU0
+OTUwNiwtMTU0NzM5MTIyLC0xOTA0ODY0MjUsNDcwNTY4ODMsMT
+Y3NzY3Nzg1MCwxMjIxOTc0Nzk0LC0xMzc1MTUyNSwxMDY2Mjk3
+MzkxLDE2OTM2MDc3MTAsLTc2NjI1NjY2NiwtMTU3MjMwNDMwMS
+w2MTk5MzgzODgsMTcyNjgyMjA2NCwtMTg2NDQ2ODU2MCwxODM3
+Mzk2ODU0XX0=
 -->
