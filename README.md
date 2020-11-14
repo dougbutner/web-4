@@ -386,7 +386,7 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	function bioKeyGenerator(bioData){
 		// Function takes data in the form of user input into their browser or smartphone.
 		let recievedData = bioData;
-		
+
 		// With data, quantifyable points are taken algorithmically
 		let processedBioData = {
 			point1:recievedData.point1,
@@ -394,17 +394,17 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 			point3:recievedData.point3
 			...
 		}
-		
+
 	// These points expanded to a pre-defined margin of error geometrically for each input type
 	const expander = 20; // Set amount to expand dataset based on data type
 
 	let rangedBioData = {
 		point1: {
-			upperRight: { 
+			upperRight: {
 				x : processedBioData.point1.x + expander,
 				y : processedBioData.point1.y + expander
 			},
-			lowerLeft: { 
+			lowerLeft: {
 				x : processedBioData.point1.x - expander,
 				y : processedBioData.point1.y - expander
 		},
@@ -414,51 +414,43 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		...
 	}
 
-	
-	// For this to work, a matrix-like object containing every single possible hashed value for every point of data 
-	// ..must be stored on an authentication server for each data input. 
-	// Data must also exhibit granularity (snap to an integer path). 
-	// Without granularity, the hashes will never match a new input's hash. 
+	let snappedBioData = snapBioDataToGranularPath(rangedBioData);
+
+
+	// For this to work, a matrix-like object containing every single possible hashed value for every point of data
+	// ..must be stored on an authentication server for each data input.
+	// Data must also exhibit granularity (snap to an integer path).
+	// Without granularity, the hashes will never match a new input's hash.
 	// This matrix of values is used to compare the biosecret with in the future
 	// This must be made more efficient to use with today's computers
 
 	let x;
 	let y;
 	let bioMatrix = {};
-	for (x = rangedBioData.point1.lowerLeft.x; x <= (expander*2) ; x++) {
+	for (x = snappedBioData.point1.lowerLeft.x; x <= (expander*2) ; x++) {
 		let curXRow = "x"+x;
 		let bioMatrix[curXRow] = [];
-		for (y = rangedBioData.point1.lowerLeft.y; y < (expander*2) ; y++) {
-			bioMatrix[curXRow].push(sha256(y));
+		for (y = snappedBioData.point1.lowerLeft.y; y < (expander*2) ; y++) {
+			curYRow = "y"+y;
+			bioMatrix[curYRow].push(sha256(y));
 		}
 	}
 
-	sendToAuthServer({
-		point1: {
-			x : bioMatrix
-		},
-		point2: {
-			x : bioMatrix
-		},
-		...
-		
-	})
-	
-	// Finally, the real biosecret is returned 
-	return sha256(processedBioData); // Biosecret
-	
+
+	// Finally, the real biosecret is returned
+	return bioMatrix; // Biosecret
+
 	}
 
-	function sendToAuthServer(){
-		// Send data to registered auth server
-	}
-
+function snapBioDataToGranularPath(rangedBioDataParam){
+	//returns data snapped to grid (recursivly scans object passed)
+}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MTE1MDE4NywtMTEyODEzOTU5MiwzMT
-QxNDA0NDIsLTE0NjY2MjU4MDcsMjE0NDY1NTc5NywxNDk4NTQ5
-NTA2LC0xNTQ3MzkxMjIsLTE5MDQ4NjQyNSw0NzA1Njg4MywxNj
-c3Njc3ODUwLDEyMjE5NzQ3OTQsLTEzNzUxNTI1LDEwNjYyOTcz
-OTEsMTY5MzYwNzcxMCwtNzY2MjU2NjY2LC0xNTcyMzA0MzAxLD
-YxOTkzODM4OCwxNzI2ODIyMDY0LC0xODY0NDY4NTYwLDE4Mzcz
-OTY4NTRdfQ==
+eyJoaXN0b3J5IjpbLTE5MzQ2NzYxMjAsMTk3MTE1MDE4NywtMT
+EyODEzOTU5MiwzMTQxNDA0NDIsLTE0NjY2MjU4MDcsMjE0NDY1
+NTc5NywxNDk4NTQ5NTA2LC0xNTQ3MzkxMjIsLTE5MDQ4NjQyNS
+w0NzA1Njg4MywxNjc3Njc3ODUwLDEyMjE5NzQ3OTQsLTEzNzUx
+NTI1LDEwNjYyOTczOTEsMTY5MzYwNzcxMCwtNzY2MjU2NjY2LC
+0xNTcyMzA0MzAxLDYxOTkzODM4OCwxNzI2ODIyMDY0LC0xODY0
+NDY4NTYwXX0=
 -->
