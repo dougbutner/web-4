@@ -303,7 +303,6 @@ The democratic system described in this paper does not solve all problems, as th
 
 **Provable individuality** for Time Tokens is up to each application and blockchain, and these application can choose to ignore this requirement, risking their systems' integrity. **Federated** (Facetec) and **decentralized** (Civic) options may be used, and so can social verification.
 
-
 **Information entropy** and **geosocial layers** are starting to be theorized, but not showing up. 
 
 **Phase 1 Action Points**: 
@@ -322,7 +321,11 @@ Social Verification and solutions like Facetec are still used, while biocryptogr
 
 **Information entropy** principles are starting to be implemented, when required.
 
-**GeoSocial layers** are starting to be built, but not used for "real applications" like voting because of lack of true provable individuality. 
+**Geo-social layers** are starting to be built, but not used for "real applications" like voting because of lack of true provable individuality. 
+
+**Phase 2 Action Points**: 
+- Proposing the best uses for geo-social layers using time tokens
+- Incorporating different provable identity methods
 
 
 ## **Phase Three**
@@ -440,11 +443,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDExNDIwODMsLTExMjgxMzk1OTIsMz
-E0MTQwNDQyLC0xNDY2NjI1ODA3LDIxNDQ2NTU3OTcsMTQ5ODU0
-OTUwNiwtMTU0NzM5MTIyLC0xOTA0ODY0MjUsNDcwNTY4ODMsMT
-Y3NzY3Nzg1MCwxMjIxOTc0Nzk0LC0xMzc1MTUyNSwxMDY2Mjk3
-MzkxLDE2OTM2MDc3MTAsLTc2NjI1NjY2NiwtMTU3MjMwNDMwMS
-w2MTk5MzgzODgsMTcyNjgyMjA2NCwtMTg2NDQ2ODU2MCwxODM3
-Mzk2ODU0XX0=
+eyJoaXN0b3J5IjpbLTE5ODIxMTMzOCwtMTEyODEzOTU5MiwzMT
+QxNDA0NDIsLTE0NjY2MjU4MDcsMjE0NDY1NTc5NywxNDk4NTQ5
+NTA2LC0xNTQ3MzkxMjIsLTE5MDQ4NjQyNSw0NzA1Njg4MywxNj
+c3Njc3ODUwLDEyMjE5NzQ3OTQsLTEzNzUxNTI1LDEwNjYyOTcz
+OTEsMTY5MzYwNzcxMCwtNzY2MjU2NjY2LC0xNTcyMzA0MzAxLD
+YxOTkzODM4OCwxNzI2ODIyMDY0LC0xODY0NDY4NTYwLDE4Mzcz
+OTY4NTRdfQ==
 -->
