@@ -238,6 +238,7 @@ With **pseudonymity**, it is difficult, but not impossible, to piece together a 
 ## **Degradation of Information Fidelity**
 Information fidelity requirements can also be degraded over time. For example, when generating a users biosecret, it can be assumed that the more time that passes, the more the bioinformation of the individual will change. 
 
+## **Degradation of Biosecrets**
 **Biosecrets** are generated from a **range of biometric values**. This range of values can be expanded over time. The effect is, instead of having one hashed biosecret for eternity, the generation process will create a set of biosecrets from an increasingly **wide range of data**. This concept may be needed to keep people in control of their accounts as they age. There is considerable work to be done to develop this concept, as each data type has its own complications. 
 
 In this case, as time goes on, someone attempting to prove their individuality would have to spend a lot **more effort** to run the algorithms against their collected biodata, and the data **precision** needed to match the person's identity is actually **lower**. This is one example of **fidelity change**; others can make it more expensive to change a record from the past, make it harder to find out the ID of a voter, or even limit a past state's effect on the future of a blockchain. 
@@ -436,11 +437,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMTg1NTQ5MCwyMTQ0NjU1Nzk3LDE0OT
-g1NDk1MDYsLTE1NDczOTEyMiwtMTkwNDg2NDI1LDQ3MDU2ODgz
-LDE2Nzc2Nzc4NTAsMTIyMTk3NDc5NCwtMTM3NTE1MjUsMTA2Nj
-I5NzM5MSwxNjkzNjA3NzEwLC03NjYyNTY2NjYsLTE1NzIzMDQz
-MDEsNjE5OTM4Mzg4LDE3MjY4MjIwNjQsLTE4NjQ0Njg1NjAsMT
-gzNzM5Njg1NCwtNDUzODIwMDg3LDc0MjU1MTgwNCwtMzQ1MDg1
-OTAzXX0=
+eyJoaXN0b3J5IjpbLTIwNzQ0MDk2OTgsMjE0NDY1NTc5NywxND
+k4NTQ5NTA2LC0xNTQ3MzkxMjIsLTE5MDQ4NjQyNSw0NzA1Njg4
+MywxNjc3Njc3ODUwLDEyMjE5NzQ3OTQsLTEzNzUxNTI1LDEwNj
+YyOTczOTEsMTY5MzYwNzcxMCwtNzY2MjU2NjY2LC0xNTcyMzA0
+MzAxLDYxOTkzODM4OCwxNzI2ODIyMDY0LC0xODY0NDY4NTYwLD
+E4MzczOTY4NTQsLTQ1MzgyMDA4Nyw3NDI1NTE4MDQsLTM0NTA4
+NTkwM119
 -->
