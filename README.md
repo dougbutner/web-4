@@ -347,7 +347,7 @@ Social Verification and solutions like Facetec are still used, while biocryptogr
 
 **Phase 4 Action Points**: 
 - Building and operating geo-social layers for the benefit of society and any collaborating group
-- Exploring use cases in
+- Exploring use cases and integrating information entropy where appropriate
 
 # Author notes
 
@@ -359,7 +359,7 @@ If and when the "old system" meets its demise, as all things do, **we can transi
 ## Why use the term "Web 4"
 It is my belief that each version of the web must 1) be built on top of the previous version, 2) be fundamentally different than the previous version by introducing new technology, and 3) have meaningful impact on society. 
 
-This proposal for the next iteration of the web is an effort to both expand and shift the path of information science in a direction where the **meaningful impact** of society involves: 1) empowerment of each individual, which serve as the basis for collective (social), economic, and novel applications; 2) provable identity verification while maintaining complete separation from any federated system, including government, with the side-benefit of lifelong recoverability of private keys; and 3) resonance with our contained and containing systems, like our human organs and the Solar system, which provides us with free energy daily, akin to free time tokens.
+This proposal for the next iteration of the web is an effort to both expand and shift the path of information science in a direction where the **meaningful impact** of society involves: 1) empowerment of each individual, which serve as the basis for collective (social), economic, and novel applications; 2) provable identity verification while maintaining complete separation from any federated system, including government, with the side-benefit of lifelong recoverability of private keys; and 3) resonance with our contained and containing systems, like our human organs and the Solar system, which provides us with life and free energy daily, akin to free time tokens.
 
 While an argument could easily be made that DeFi is Web 4, or another emerging tech, like layers on top of blockchains (sidechains) are web 4, both of these are **not new**. DeFi mimics and improves the systems of the past. Sidechains are merely making web 3 **more efficient**. 
 
@@ -450,7 +450,7 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NDM4OTgxNywtMTEyODEzOTU5MiwzMT
+eyJoaXN0b3J5IjpbMTg4ODM0NTk5OSwtMTEyODEzOTU5MiwzMT
 QxNDA0NDIsLTE0NjY2MjU4MDcsMjE0NDY1NTc5NywxNDk4NTQ5
 NTA2LC0xNTQ3MzkxMjIsLTE5MDQ4NjQyNSw0NzA1Njg4MywxNj
 c3Njc3ODUwLDEyMjE5NzQ3OTQsLTEzNzUxNTI1LDEwNjYyOTcz
