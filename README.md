@@ -193,7 +193,7 @@ ___
 
 **Biometric secrets** are akin to any cryptographic secret key, they are a hash of information. The information hashed in a biometric secret comes from a person's biometric expression. In today's biometric space, static images are most commonly used for things like fingerprint and facial recognition, and geometry is the means to compare this data. 
 
-Biometric secrets generated from static images are not secure, as static images can be faked. [2] Video offers a better solution to this problem, as it is harder to fake, can include audio, and lets developers create a whole new set of algorithms based on a changing stream of data. Facetec is one company using video in this way. 
+Biometric secrets generated from static images are not secure, as static images can be faked. [2] Video offers a better solution to this problem, as it is harder to fake, can include audio, and lets developers create a whole new set of algorithms based on a changing stream of data. [Facetec](https://www.facetec.com/) is one company using video for biometric verification. 
 
 ### What is used to generate a biosecret?
 This stream of data (video + audio biometric expression) could be a user doing a series of hand gestures, singing a part of a song, speaking a phrase, speaking a phrase in different voices, clapping, making a series of facial expressions or movements, or anything else one can imagine.
@@ -437,7 +437,7 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIzNzQwOTc2LDIxNDQ2NTU3OTcsMTQ5OD
+eyJoaXN0b3J5IjpbMjkzNTU3MzQwLDIxNDQ2NTU3OTcsMTQ5OD
 U0OTUwNiwtMTU0NzM5MTIyLC0xOTA0ODY0MjUsNDcwNTY4ODMs
 MTY3NzY3Nzg1MCwxMjIxOTc0Nzk0LC0xMzc1MTUyNSwxMDY2Mj
 k3MzkxLDE2OTM2MDc3MTAsLTc2NjI1NjY2NiwtMTU3MjMwNDMw
