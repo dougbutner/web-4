@@ -359,9 +359,9 @@ If and when the "old system" meets its demise, as all things do, **we can transi
 ## Why use the term "Web 4"
 It is my belief that each version of the web must 1) be built on top of the previous version, 2) be fundamentally different than the previous version by introducing new technology, and 3) have meaningful impact on society. 
 
-This proposal for the next iteration of the web is an effort to both expand and shift the path of information science in a direction where the **meaningful impact** of society involves: 1) empowerment of each individual, which serve as the basis for collective (social), economic, and novel applications; 2) provable identity verification while maintaining complete separation from any federated system, including government, with the side-benefit of lifelong recoverability of private keys; and 3) resonance with our contained and containing systems, like our human organs and the Solar system, which provides us with life and free energy daily, akin to free time tokens.
+This proposal for the next iteration of the web is an effort to both expand and shift the path of information science in a direction where the **meaningful impact** of society involves: 1) empowerment of each individual, which serve as the basis for collective (social), economic, and novel applications; 2) provable identity verification while maintaining complete separation from any federated system, including government, with the side-benefit of lifelong recoverability of private keys; and 3) resonance with our contained and containing systems, like our human organs and the Solar system, which provide us with life and free energy daily, akin to free time tokens.
 
-While an argument could easily be made that DeFi is Web 4, or another emerging tech, like layers on top of blockchains (sidechains) are web 4, both of these are **not new**. DeFi mimics and improves the systems of the past. Sidechains are merely making web 3 **more efficient**. 
+While an argument could easily be made that DeFi is Web 4, or another emerging tech, like "layer 2" blockchains (rollups) are web 4, both of these are **not new**. DeFi mimics and improves the systems of the past. Rollups are merely making web 3 **more efficient**. 
 
 It is my hope and desire that the information presented here will be **expanded** on and **implemented** by many developers and systems in the coming years, not for the benefit of the few, but for the **empowerment** of each individual and the **harmony** of the human collective, and every layer of Gaia. 
 
@@ -369,7 +369,7 @@ ___
 # Notes + References
 ___
 
-[1] - Solutions like Civic have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification. Until the technology is developed for a biometric system resembling the ideas here, this option is viable, though not fully embodying the idea of web 4. 
+[1] - Solutions like Civic and Facetec have proved to be effective in verifying individuality. KYC services rely on government-issued identification, physical signature, and minimal, often human-checked bioverification. Until the technology is developed for a biometric system resembling the ideas here, these option is viable, though not fully embodying the idea of web 4. 
 
 [2] - Hao, K. & O'Neill P. (2020, August 06). The hack that could make face recognition think someone else is you. Originally Published at https://www.technologyreview.com/2020/08/05/1006008/ai-face-recognition-hack-misidentifies-person/
 
@@ -450,7 +450,7 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4ODM0NTk5OSwtMTEyODEzOTU5MiwzMT
+eyJoaXN0b3J5IjpbMTU5NDkxNTcwOSwtMTEyODEzOTU5MiwzMT
 QxNDA0NDIsLTE0NjY2MjU4MDcsMjE0NDY1NTc5NywxNDk4NTQ5
 NTA2LC0xNTQ3MzkxMjIsLTE5MDQ4NjQyNSw0NzA1Njg4MywxNj
 c3Njc3ODUwLDEyMjE5NzQ3OTQsLTEzNzUxNTI1LDEwNjYyOTcz
