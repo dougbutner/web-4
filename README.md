@@ -255,7 +255,7 @@ ___
 ___
 # Geo-Social Harmonic Layers
 
-Collaborative social environments are always happening everywhere humans live. Currently, we are both realizing the vast amount of ways to live abundantly, as well as deciding what direction we should be facing to grow as a society. Human growth in the past few centuries has been focused on technological improvements rather than social improvements. [3] To harness the power of the information age for collaboration instead of fueling adgendas
+Collaborative social environments are always happening everywhere humans live. Currently, we are both realizing the vast amount of ways to live abundantly, as well as deciding what direction we should be facing to grow as a society. Human growth in the past few centuries has been focused on technological improvements rather than social improvements. [3] To harness the power of the information age for the collaboration of humans, web 4 will be used to enhance, introduce, and replace current structures that organize our societies, which we term geo-social layers. 
 
 > Web 4 proposes that systems based in time token are the most apt to create and improve existing social layers. 
 
@@ -438,11 +438,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNzU3NzUxNywtMTQ2NjYyNTgwNywyMT
-Q0NjU1Nzk3LDE0OTg1NDk1MDYsLTE1NDczOTEyMiwtMTkwNDg2
-NDI1LDQ3MDU2ODgzLDE2Nzc2Nzc4NTAsMTIyMTk3NDc5NCwtMT
-M3NTE1MjUsMTA2NjI5NzM5MSwxNjkzNjA3NzEwLC03NjYyNTY2
-NjYsLTE1NzIzMDQzMDEsNjE5OTM4Mzg4LDE3MjY4MjIwNjQsLT
-E4NjQ0Njg1NjAsMTgzNzM5Njg1NCwtNDUzODIwMDg3LDc0MjU1
-MTgwNF19
+eyJoaXN0b3J5IjpbLTYwMTM4ODY5LC0xNDY2NjI1ODA3LDIxND
+Q2NTU3OTcsMTQ5ODU0OTUwNiwtMTU0NzM5MTIyLC0xOTA0ODY0
+MjUsNDcwNTY4ODMsMTY3NzY3Nzg1MCwxMjIxOTc0Nzk0LC0xMz
+c1MTUyNSwxMDY2Mjk3MzkxLDE2OTM2MDc3MTAsLTc2NjI1NjY2
+NiwtMTU3MjMwNDMwMSw2MTk5MzgzODgsMTcyNjgyMjA2NCwtMT
+g2NDQ2ODU2MCwxODM3Mzk2ODU0LC00NTM4MjAwODcsNzQyNTUx
+ODA0XX0=
 -->
