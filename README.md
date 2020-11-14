@@ -191,9 +191,9 @@ ___
 # **Proof of Individuality - Biometric Secrets + Protecting Identity**
 > **Please Note:** There are solutions available today (like [FaceTec](https://www.facetec.com/)) that solve the same issues presented here. This paper seeks to outline a "better" system (decentralized + open source) that can be ran without a centralized actor, while not providing specifics to accomplish these goals.
 
-**Biometric secrets** are akin to any cryptographic secret key, they are a hash of information. The information hashed in a biometric secret comes from a person's biometric expression. In today's biometric space,  static images are most commonly used for things like fingerprint and facial recognition, and geometry is the means to compare this data. 
+**Biometric secrets** are akin to any cryptographic secret key, they are a hash of information. The information hashed in a biometric secret comes from a person's biometric expression. In today's biometric space, static images are most commonly used for things like fingerprint and facial recognition, and geometry is the means to compare this data. 
 
-Biometric secrets generated from static images are not secure, as static images can be faked. [2] Video offers a better solution to this problem, as it is harder to fake, can include audio, and lets developers create a whole new set of algorithms based on a changing stream of data. 
+Biometric secrets generated from static images are not secure, as static images can be faked. [2] Video offers a better solution to this problem, as it is harder to fake, can include audio, and lets developers create a whole new set of algorithms based on a changing stream of data. Facetec is one company using video in this way. 
 
 ### What is used to generate a biosecret?
 This stream of data (video + audio biometric expression) could be a user doing a series of hand gestures, singing a part of a song, speaking a phrase, speaking a phrase in different voices, clapping, making a series of facial expressions or movements, or anything else one can imagine.
@@ -216,7 +216,7 @@ The biggest issue with biometrics is the lack of trust, mostly due to the growin
 
 ### To alleviate the trust issue, solutions must be: 
 1) open-source
-2) run entirely on the individual's hardware (client-side), and 
+2) ran entirely on the individual's hardware (client-side), and 
 3) not expose any biometric data to any other users or the system itself. 
 
 There will always be **security concerns** with biometrics. For example, if a user uses their biometric secret to unlock their mobile device, another app could be secretly recording the camera in the background. A person could record them doing their secret, and try to play that video back to the camera to gain access. Also, *[deepfakes.](https://github.com/aerophile/awesome-deepfakes)* These concerns must be addressed before this web 4 reaches mass adoption. 
@@ -437,11 +437,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NDY1NTc5NywxNDk4NTQ5NTA2LC0xNT
-Q3MzkxMjIsLTE5MDQ4NjQyNSw0NzA1Njg4MywxNjc3Njc3ODUw
-LDEyMjE5NzQ3OTQsLTEzNzUxNTI1LDEwNjYyOTczOTEsMTY5Mz
-YwNzcxMCwtNzY2MjU2NjY2LC0xNTcyMzA0MzAxLDYxOTkzODM4
-OCwxNzI2ODIyMDY0LC0xODY0NDY4NTYwLDE4MzczOTY4NTQsLT
-Q1MzgyMDA4Nyw3NDI1NTE4MDQsLTM0NTA4NTkwMywtMTMyNDQ0
-NjU3Ml19
+eyJoaXN0b3J5IjpbNjIzNzQwOTc2LDIxNDQ2NTU3OTcsMTQ5OD
+U0OTUwNiwtMTU0NzM5MTIyLC0xOTA0ODY0MjUsNDcwNTY4ODMs
+MTY3NzY3Nzg1MCwxMjIxOTc0Nzk0LC0xMzc1MTUyNSwxMDY2Mj
+k3MzkxLDE2OTM2MDc3MTAsLTc2NjI1NjY2NiwtMTU3MjMwNDMw
+MSw2MTk5MzgzODgsMTcyNjgyMjA2NCwtMTg2NDQ2ODU2MCwxOD
+M3Mzk2ODU0LC00NTM4MjAwODcsNzQyNTUxODA0LC0zNDUwODU5
+MDNdfQ==
 -->
