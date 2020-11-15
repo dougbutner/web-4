@@ -60,7 +60,7 @@ Web 4 introduces **four modular components** for **provably democratic systems**
 	 Individuals may receive "Time Tokens" at given intervals, but never more frequently, and can't hold another's time tokens.
  2. **Proof of Individuality**
 	 Biometric Secrets, Social Verification, Proof of Liveness, etc
- 3. **Pseudonymity and Information Entropy**
+ 3. **Information Entropy**
 	 Information degradation over time, pseudo accounts in sensitive systems
  4. **Harmonic GeoSocial Systems**
 	 Fair, transparent collaboration through accounting the opinions and desires of participants
@@ -440,11 +440,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNjY1MTE1LC0xOTcwMjM2MDgzLDg1OD
-gzNzYsLTY0ODA4MTQyMywxOTcxMTUwMTg3LC0xMTI4MTM5NTky
-LDMxNDE0MDQ0MiwtMTQ2NjYyNTgwNywyMTQ0NjU1Nzk3LDE0OT
-g1NDk1MDYsLTE1NDczOTEyMiwtMTkwNDg2NDI1LDQ3MDU2ODgz
-LDE2Nzc2Nzc4NTAsMTIyMTk3NDc5NCwtMTM3NTE1MjUsMTA2Nj
-I5NzM5MSwxNjkzNjA3NzEwLC03NjYyNTY2NjYsLTE1NzIzMDQz
-MDFdfQ==
+eyJoaXN0b3J5IjpbMzM4NzkyOTUwLC04MjY2NTExNSwtMTk3MD
+IzNjA4Myw4NTg4Mzc2LC02NDgwODE0MjMsMTk3MTE1MDE4Nywt
+MTEyODEzOTU5MiwzMTQxNDA0NDIsLTE0NjY2MjU4MDcsMjE0ND
+Y1NTc5NywxNDk4NTQ5NTA2LC0xNTQ3MzkxMjIsLTE5MDQ4NjQy
+NSw0NzA1Njg4MywxNjc3Njc3ODUwLDEyMjE5NzQ3OTQsLTEzNz
+UxNTI1LDEwNjYyOTczOTEsMTY5MzYwNzcxMCwtNzY2MjU2NjY2
+XX0=
 -->
