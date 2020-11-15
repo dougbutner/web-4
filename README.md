@@ -436,15 +436,15 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 
 	}
 
-function snapBioDataToGranularPath(rangedBioDataParam){
-	//returns data snapped to grid (recursively scans object passed)
-}
+	function snapBioDataToGranularPath(rangedBioDataParam){
+		//returns data snapped to grid (recursively scans object passed)
+	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzAyMzYwODMsODU4ODM3NiwtNjQ4MD
-gxNDIzLDE5NzExNTAxODcsLTExMjgxMzk1OTIsMzE0MTQwNDQy
-LC0xNDY2NjI1ODA3LDIxNDQ2NTU3OTcsMTQ5ODU0OTUwNiwtMT
-U0NzM5MTIyLC0xOTA0ODY0MjUsNDcwNTY4ODMsMTY3NzY3Nzg1
-MCwxMjIxOTc0Nzk0LC0xMzc1MTUyNSwxMDY2Mjk3MzkxLDE2OT
-M2MDc3MTAsLTc2NjI1NjY2NiwtMTU3MjMwNDMwMSw2MTk5Mzgz
-ODhdfQ==
+eyJoaXN0b3J5IjpbLTgyNjY1MTE1LC0xOTcwMjM2MDgzLDg1OD
+gzNzYsLTY0ODA4MTQyMywxOTcxMTUwMTg3LC0xMTI4MTM5NTky
+LDMxNDE0MDQ0MiwtMTQ2NjYyNTgwNywyMTQ0NjU1Nzk3LDE0OT
+g1NDk1MDYsLTE1NDczOTEyMiwtMTkwNDg2NDI1LDQ3MDU2ODgz
+LDE2Nzc2Nzc4NTAsMTIyMTk3NDc5NCwtMTM3NTE1MjUsMTA2Nj
+I5NzM5MSwxNjkzNjA3NzEwLC03NjYyNTY2NjYsLTE1NzIzMDQz
+MDFdfQ==
 -->
