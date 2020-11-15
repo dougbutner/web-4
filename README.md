@@ -13,7 +13,7 @@ This README features a description of the next evolution of the web, **web 4**. 
 
 # What is Web 4?
 
-Web 4 is a set of four **modular paradigms** and practices that allow integration of **provable democracy in any social system** that seeks to be more collaborative (organization, government, community, etc.). Modularity allows any project to adopt one or more of these principles to **increase the accuracy, fairness, and transparency** of each individual's role in **collaboration**. 
+Web 4 is a set of four **modular paradigms** (time tokens,  that allow integration of **provable democracy in any social system** that seeks to be more collaborative (organization, government, community, etc.). Modularity allows any project to adopt one or more of these principles to **increase the accuracy, fairness, and transparency** of each individual's role in **collaboration**. 
 
 Web 4 is **built on top of web 3** (it's blockchain-based) while being **fundamentally different** and providing enough **benefit to society** warrant the new title of web 4. 
 
@@ -63,8 +63,8 @@ Web 4 introduces **four modular components** for **provably democratic systems**
 
 ### There are four conceptual underpinnings (modules) of web 4
 
- 1. **Time-issued cryptocurrency** 
-	 Individuals may receive "Time Tokens" at given intervals, but never more frequently, and can't hold another's time tokens.
+ 1. **Time Tokens** 
+	 Individuals may receive "Time-issued cryptocurrency" at given intervals, but never more frequently, and can't hold another's time tokens.
  2. **Proof of Individuality**
 	 Biometric Secrets, Social Verification, Proof of Liveness, etc
  3. **Information Entropy**
@@ -447,11 +447,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM4MzgwNDU3LDExOTE4ODQ2MjAsLTkxND
-MzMDM0NiwxMTA3NTUzNzY3LC04OTAyNzU1MDIsLTEzMDk0MTE5
-NDYsMjA1NzE0MTk4LC04MjY2NTExNSwtMTk3MDIzNjA4Myw4NT
-g4Mzc2LC02NDgwODE0MjMsMTk3MTE1MDE4NywtMTEyODEzOTU5
-MiwzMTQxNDA0NDIsLTE0NjY2MjU4MDcsMjE0NDY1NTc5NywxND
-k4NTQ5NTA2LC0xNTQ3MzkxMjIsLTE5MDQ4NjQyNSw0NzA1Njg4
-M119
+eyJoaXN0b3J5IjpbMzgyMDY3MDAzLDkzODM4MDQ1NywxMTkxOD
+g0NjIwLC05MTQzMzAzNDYsMTEwNzU1Mzc2NywtODkwMjc1NTAy
+LC0xMzA5NDExOTQ2LDIwNTcxNDE5OCwtODI2NjUxMTUsLTE5Nz
+AyMzYwODMsODU4ODM3NiwtNjQ4MDgxNDIzLDE5NzExNTAxODcs
+LTExMjgxMzk1OTIsMzE0MTQwNDQyLC0xNDY2NjI1ODA3LDIxND
+Q2NTU3OTcsMTQ5ODU0OTUwNiwtMTU0NzM5MTIyLC0xOTA0ODY0
+MjVdfQ==
 -->
