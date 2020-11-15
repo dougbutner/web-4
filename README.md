@@ -222,7 +222,7 @@ ___
 
 ___
 
-## Degradation of Information
+##  Information Entropy
 Web 3 focuses on storing information forever in a provable way. Web 4 introduces a **counter-model** which may be **optionally** adopted by any time-token-based system. In this model, who did what becomes **harder and harder to know** the more time that passes. 
 
 This idea hinges upon incremental time units, the number of which is used to decide how difficult information about a particular individual is to access. 
@@ -440,7 +440,7 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM4NzkyOTUwLC04MjY2NTExNSwtMTk3MD
+eyJoaXN0b3J5IjpbMjA1NzE0MTk4LC04MjY2NTExNSwtMTk3MD
 IzNjA4Myw4NTg4Mzc2LC02NDgwODE0MjMsMTk3MTE1MDE4Nywt
 MTEyODEzOTU5MiwzMTQxNDA0NDIsLTE0NjY2MjU4MDcsMjE0ND
 Y1NTc5NywxNDk4NTQ5NTA2LC0xNTQ3MzkxMjIsLTE5MDQ4NjQy
