@@ -24,7 +24,7 @@ In essence, web 4 is **positive attention catalyzer**, built on providing power 
 In this manifesto, I will define each of the **components** of web 4, provide **psudeocode** to illustrate the minimum integration into web 2/3, introduce the **benefits to society**, and offer a **roadmap** to adopting these concepts.
 
 # The Problem
-Democracy, societies biggest and most successful consensus and collaboration mechanism, has become too slow to keep up with the modern world. G
+Democracy, societies biggest and most successful consensus and collaboration mechanism, has become too slow to keep up with the modern world. Groups of people organizing, whether to turn a profit as a company, or to live together as a city, are often under-, mis-, or not represented at all in the decision making process. 
 
 # The Solution
 
@@ -445,11 +445,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNDE0Mjc4MiwtMTMwOTQxMTk0NiwyMD
-U3MTQxOTgsLTgyNjY1MTE1LC0xOTcwMjM2MDgzLDg1ODgzNzYs
-LTY0ODA4MTQyMywxOTcxMTUwMTg3LC0xMTI4MTM5NTkyLDMxND
-E0MDQ0MiwtMTQ2NjYyNTgwNywyMTQ0NjU1Nzk3LDE0OTg1NDk1
-MDYsLTE1NDczOTEyMiwtMTkwNDg2NDI1LDQ3MDU2ODgzLDE2Nz
-c2Nzc4NTAsMTIyMTk3NDc5NCwtMTM3NTE1MjUsMTA2NjI5NzM5
-MV19
+eyJoaXN0b3J5IjpbNDE1NTc1NjExLC0xMzA5NDExOTQ2LDIwNT
+cxNDE5OCwtODI2NjUxMTUsLTE5NzAyMzYwODMsODU4ODM3Niwt
+NjQ4MDgxNDIzLDE5NzExNTAxODcsLTExMjgxMzk1OTIsMzE0MT
+QwNDQyLC0xNDY2NjI1ODA3LDIxNDQ2NTU3OTcsMTQ5ODU0OTUw
+NiwtMTU0NzM5MTIyLC0xOTA0ODY0MjUsNDcwNTY4ODMsMTY3Nz
+Y3Nzg1MCwxMjIxOTc0Nzk0LC0xMzc1MTUyNSwxMDY2Mjk3Mzkx
+XX0=
 -->
