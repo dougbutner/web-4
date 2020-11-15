@@ -17,9 +17,8 @@ Web 4 is a set of four **modular paradigms** and practices that allow integratio
 
 Web 4 is **built on top of web 3** (it's blockchain-based) while being **fundamentally different** and providing enough **benefit to society** warrant the new title of web 4. 
 
-In essence, web 4 is **positive attention catalyzer** that helps to manifest a shared desire, opinion, or solution by providing a fair system of accounting that takes into account time and artificial groupings of individuals
+In essence, web 4 is **positive attention catalyzer** that helps to manifest a shared desire, opinion, or solution by providing a fair system of accounting using time-limited votes, real people, and geopolitical stratification.
 
-This power is also freely given, and limited by time. 
 
 > Web 4 combines real-world components like time and geography with existing blockchain technology.
 
@@ -449,11 +448,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODg5MTM5NDAsLTkxNDMzMDM0NiwxMT
-A3NTUzNzY3LC04OTAyNzU1MDIsLTEzMDk0MTE5NDYsMjA1NzE0
-MTk4LC04MjY2NTExNSwtMTk3MDIzNjA4Myw4NTg4Mzc2LC02ND
-gwODE0MjMsMTk3MTE1MDE4NywtMTEyODEzOTU5MiwzMTQxNDA0
-NDIsLTE0NjY2MjU4MDcsMjE0NDY1NTc5NywxNDk4NTQ5NTA2LC
-0xNTQ3MzkxMjIsLTE5MDQ4NjQyNSw0NzA1Njg4MywxNjc3Njc3
-ODUwXX0=
+eyJoaXN0b3J5IjpbMTY1MDA0MTcsLTkxNDMzMDM0NiwxMTA3NT
+UzNzY3LC04OTAyNzU1MDIsLTEzMDk0MTE5NDYsMjA1NzE0MTk4
+LC04MjY2NTExNSwtMTk3MDIzNjA4Myw4NTg4Mzc2LC02NDgwOD
+E0MjMsMTk3MTE1MDE4NywtMTEyODEzOTU5MiwzMTQxNDA0NDIs
+LTE0NjY2MjU4MDcsMjE0NDY1NTc5NywxNDk4NTQ5NTA2LC0xNT
+Q3MzkxMjIsLTE5MDQ4NjQyNSw0NzA1Njg4MywxNjc3Njc3ODUw
+XX0=
 -->
