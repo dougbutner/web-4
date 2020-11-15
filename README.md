@@ -23,6 +23,10 @@ In essence, web 4 is **positive attention catalyzer**, built on providing power 
 
 In this manifesto, I will define each of the **components** of web 4, provide **psudeocode** to illustrate the minimum integration into web 2/3, introduce the **benefits to society**, and offer a **roadmap** to adopting these concepts.
 
+# The Problem
+
+# The Solution
+
 # Background
 
 Before we detail web 4, we must look briefly at the concepts of web 1, web 2, and web 3. 
@@ -440,11 +444,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NzE0MTk4LC04MjY2NTExNSwtMTk3MD
-IzNjA4Myw4NTg4Mzc2LC02NDgwODE0MjMsMTk3MTE1MDE4Nywt
-MTEyODEzOTU5MiwzMTQxNDA0NDIsLTE0NjY2MjU4MDcsMjE0ND
-Y1NTc5NywxNDk4NTQ5NTA2LC0xNTQ3MzkxMjIsLTE5MDQ4NjQy
-NSw0NzA1Njg4MywxNjc3Njc3ODUwLDEyMjE5NzQ3OTQsLTEzNz
-UxNTI1LDEwNjYyOTczOTEsMTY5MzYwNzcxMCwtNzY2MjU2NjY2
-XX0=
+eyJoaXN0b3J5IjpbLTEzMDk0MTE5NDYsMjA1NzE0MTk4LC04Mj
+Y2NTExNSwtMTk3MDIzNjA4Myw4NTg4Mzc2LC02NDgwODE0MjMs
+MTk3MTE1MDE4NywtMTEyODEzOTU5MiwzMTQxNDA0NDIsLTE0Nj
+Y2MjU4MDcsMjE0NDY1NTc5NywxNDk4NTQ5NTA2LC0xNTQ3Mzkx
+MjIsLTE5MDQ4NjQyNSw0NzA1Njg4MywxNjc3Njc3ODUwLDEyMj
+E5NzQ3OTQsLTEzNzUxNTI1LDEwNjYyOTczOTEsMTY5MzYwNzcx
+MF19
 -->
