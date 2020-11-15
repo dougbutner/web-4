@@ -27,8 +27,7 @@ In this manifesto, I will define each of the **components** of web 4, provide **
 Democracy, societies biggest and most successful consensus and collaboration mechanism, has become too slow to keep up with the modern world. Groups of people organizing, whether to turn a profit as a company, or to live together in a city, are often under-, mis-, or not represented at all in the decision making processes that affect their life. In both of these (governments and companies,) it is the few that make the decisions for the many, even with the illusion of "having a say" that exists in a representative system. 
 
 # The Solution
-By providing each individual with equal power in a transparent decision making process, the true intent of the majority can not only be known, it can be acted upon in predetermined ways through smart contracts. 
-
+By providing each individual with equal power in a transparent decision making process, the true intent of the majority can not only be known, it can be acted upon in predetermined ways through smart contracts. Though the solution seems simple, there are issues that will need to be addressed 
 
 # Background
 
@@ -447,11 +446,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMDIxNjk3OCwtODkwMjc1NTAyLC0xMz
-A5NDExOTQ2LDIwNTcxNDE5OCwtODI2NjUxMTUsLTE5NzAyMzYw
-ODMsODU4ODM3NiwtNjQ4MDgxNDIzLDE5NzExNTAxODcsLTExMj
-gxMzk1OTIsMzE0MTQwNDQyLC0xNDY2NjI1ODA3LDIxNDQ2NTU3
-OTcsMTQ5ODU0OTUwNiwtMTU0NzM5MTIyLC0xOTA0ODY0MjUsND
-cwNTY4ODMsMTY3NzY3Nzg1MCwxMjIxOTc0Nzk0LC0xMzc1MTUy
-NV19
+eyJoaXN0b3J5IjpbLTEzODI2MDc0MjAsLTg5MDI3NTUwMiwtMT
+MwOTQxMTk0NiwyMDU3MTQxOTgsLTgyNjY1MTE1LC0xOTcwMjM2
+MDgzLDg1ODgzNzYsLTY0ODA4MTQyMywxOTcxMTUwMTg3LC0xMT
+I4MTM5NTkyLDMxNDE0MDQ0MiwtMTQ2NjYyNTgwNywyMTQ0NjU1
+Nzk3LDE0OTg1NDk1MDYsLTE1NDczOTEyMiwtMTkwNDg2NDI1LD
+Q3MDU2ODgzLDE2Nzc2Nzc4NTAsMTIyMTk3NDc5NCwtMTM3NTE1
+MjVdfQ==
 -->
