@@ -1,13 +1,9 @@
-# WIP v 0.0.0
-# The Web 4 Manifesto - Awakening the Democratic Web 
+# The Web 4 Manifesto: Awakening the Democratic Web 
 
-by Douglas James Butner
+by Douglas James Butner 
+douglas@cxc.world
 
-The Democratic Web: A Manifesto for Web 4
 
-Collaborative Democracy [Alt title]
-
-Provable Democracy [Alt title]
 
 [![Mentioned in Awesome Web 4](https://awesome.re/mentioned-badge.svg)](https://github.com/dougbutner/awesome-web4)
 
@@ -29,7 +25,7 @@ In this manifesto, I will define each of the **components** of web 4, provide **
 
 # Background
 
-Before we define web 4 fully, we must look briefly at the concepts of web 1, web 2, and web 3. 
+Before we detail web 4, we must look briefly at the concepts of web 1, web 2, and web 3. 
 
  - **Web 1**
 **Static web**. Files are served from a remote server to a user's browser.
@@ -444,11 +440,11 @@ function snapBioDataToGranularPath(rangedBioDataParam){
 	//returns data snapped to grid (recursively scans object passed)
 }
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU4ODM3NiwtNjQ4MDgxNDIzLDE5NzExNT
-AxODcsLTExMjgxMzk1OTIsMzE0MTQwNDQyLC0xNDY2NjI1ODA3
-LDIxNDQ2NTU3OTcsMTQ5ODU0OTUwNiwtMTU0NzM5MTIyLC0xOT
-A0ODY0MjUsNDcwNTY4ODMsMTY3NzY3Nzg1MCwxMjIxOTc0Nzk0
-LC0xMzc1MTUyNSwxMDY2Mjk3MzkxLDE2OTM2MDc3MTAsLTc2Nj
-I1NjY2NiwtMTU3MjMwNDMwMSw2MTk5MzgzODgsMTcyNjgyMjA2
-NF19
+eyJoaXN0b3J5IjpbLTE5NzAyMzYwODMsODU4ODM3NiwtNjQ4MD
+gxNDIzLDE5NzExNTAxODcsLTExMjgxMzk1OTIsMzE0MTQwNDQy
+LC0xNDY2NjI1ODA3LDIxNDQ2NTU3OTcsMTQ5ODU0OTUwNiwtMT
+U0NzM5MTIyLC0xOTA0ODY0MjUsNDcwNTY4ODMsMTY3NzY3Nzg1
+MCwxMjIxOTc0Nzk0LC0xMzc1MTUyNSwxMDY2Mjk3MzkxLDE2OT
+M2MDc3MTAsLTc2NjI1NjY2NiwtMTU3MjMwNDMwMSw2MTk5Mzgz
+ODhdfQ==
 -->
