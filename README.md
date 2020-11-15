@@ -24,7 +24,7 @@ In essence, web 4 is **positive attention catalyzer**, built on providing power 
 In this manifesto, I will define each of the **components** of web 4, provide **psudeocode** to illustrate the minimum integration into web 2/3, introduce the **benefits to society**, and offer a **roadmap** to adopting these concepts.
 
 # The Problem
-Democracy, societies biggest and most successful consensus and collaboration mechanism, has become too slow to keep up with the modern world. Groups of people organizing, whether to turn a profit as a company, or to live together in a city, are often under-, mis-, or not represented at all in the decision making processes that affect their life. In both of these (governments and companies,) it is the few that end up making the decisions for the many, even with the illusion of "having a say" that exists in a representative system. 
+Democracy, societies biggest and most successful consensus and collaboration mechanism, has become too slow to keep up with the modern world. Groups of people organizing, whether to turn a profit as a company, or to live together in a city, are often under-, mis-, or not represented at all in the decision making processes that affect their life. In both of these (governments and companies,) it is the few that make the decisions for the many, even with the illusion of "having a say" that exists in a representative system. 
 
 # The Solution
 By providing each individual with equal power in a decision making process, the true intent of the 
@@ -447,11 +447,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MDI3NTUwMiwtMTMwOTQxMTk0NiwyMD
-U3MTQxOTgsLTgyNjY1MTE1LC0xOTcwMjM2MDgzLDg1ODgzNzYs
-LTY0ODA4MTQyMywxOTcxMTUwMTg3LC0xMTI4MTM5NTkyLDMxND
-E0MDQ0MiwtMTQ2NjYyNTgwNywyMTQ0NjU1Nzk3LDE0OTg1NDk1
-MDYsLTE1NDczOTEyMiwtMTkwNDg2NDI1LDQ3MDU2ODgzLDE2Nz
-c2Nzc4NTAsMTIyMTk3NDc5NCwtMTM3NTE1MjUsMTA2NjI5NzM5
-MV19
+eyJoaXN0b3J5IjpbMTE4MDI0NzIxNSwtODkwMjc1NTAyLC0xMz
+A5NDExOTQ2LDIwNTcxNDE5OCwtODI2NjUxMTUsLTE5NzAyMzYw
+ODMsODU4ODM3NiwtNjQ4MDgxNDIzLDE5NzExNTAxODcsLTExMj
+gxMzk1OTIsMzE0MTQwNDQyLC0xNDY2NjI1ODA3LDIxNDQ2NTU3
+OTcsMTQ5ODU0OTUwNiwtMTU0NzM5MTIyLC0xOTA0ODY0MjUsND
+cwNTY4ODMsMTY3NzY3Nzg1MCwxMjIxOTc0Nzk0LC0xMzc1MTUy
+NV19
 -->
