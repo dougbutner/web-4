@@ -27,7 +27,7 @@ In this manifesto, I will define each of the **components** of web 4, provide **
 Democracy, societies biggest and most successful consensus and collaboration mechanism, has become too slow to keep up with the modern world. Groups of people organizing, whether to turn a profit as a company, or to live together in a city, are often under-, mis-, or not represented at all in the decision making processes that affect their life. In both of these (governments and companies,) it is the few that make the decisions for the many, even with the illusion of "having a say" that exists in a representative system. 
 
 # The Solution
-By providing each individual with equal power in a transparent decision making process, the true intent of the majority can not only be known, it can be acted upon in predetermined ways through smart contracts. Though the solution seems simple, there are issues that will need to be addressed according to the needs of each group of collaborating people, such as ensuring one person per account, and limiting the minting of voting tokens with time, as well as protecting the privacy of decision makers where appropriate. This paper will detail these solutions, though they may not be needed for each system. For example, systems can (and sh be built using time tokens that do not use biometric data at all. 
+By providing each individual with equal power in a transparent decision making process, the true intent of the majority can not only be known, it can be acted upon in predetermined ways through smart contracts. Though the solution seems simple, there are issues that will need to be addressed according to the needs of each group of collaborating people, such as ensuring one person per account, and limiting the minting of voting tokens with time, as well as protecting the privacy of decision makers where appropriate. This paper will detail these solutions, though they may not be needed for each system. For example, systems can (and should) be built using time tokens that do not use biometric data at all. 
 
 
 # Background
@@ -447,11 +447,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NTE3NDg1LDExMDc1NTM3NjcsLTg5MD
-I3NTUwMiwtMTMwOTQxMTk0NiwyMDU3MTQxOTgsLTgyNjY1MTE1
-LC0xOTcwMjM2MDgzLDg1ODgzNzYsLTY0ODA4MTQyMywxOTcxMT
-UwMTg3LC0xMTI4MTM5NTkyLDMxNDE0MDQ0MiwtMTQ2NjYyNTgw
-NywyMTQ0NjU1Nzk3LDE0OTg1NDk1MDYsLTE1NDczOTEyMiwtMT
-kwNDg2NDI1LDQ3MDU2ODgzLDE2Nzc2Nzc4NTAsMTIyMTk3NDc5
-NF19
+eyJoaXN0b3J5IjpbLTkxNDMzMDM0NiwxMTA3NTUzNzY3LC04OT
+AyNzU1MDIsLTEzMDk0MTE5NDYsMjA1NzE0MTk4LC04MjY2NTEx
+NSwtMTk3MDIzNjA4Myw4NTg4Mzc2LC02NDgwODE0MjMsMTk3MT
+E1MDE4NywtMTEyODEzOTU5MiwzMTQxNDA0NDIsLTE0NjY2MjU4
+MDcsMjE0NDY1NTc5NywxNDk4NTQ5NTA2LC0xNTQ3MzkxMjIsLT
+E5MDQ4NjQyNSw0NzA1Njg4MywxNjc3Njc3ODUwLDEyMjE5NzQ3
+OTRdfQ==
 -->
