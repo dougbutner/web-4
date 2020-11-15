@@ -24,7 +24,7 @@ In essence, web 4 is **positive attention catalyzer**, built on providing power 
 In this manifesto, I will define each of the **components** of web 4, provide **psudeocode** to illustrate the minimum integration into web 2/3, introduce the **benefits to society**, and offer a **roadmap** to adopting these concepts.
 
 # The Problem
-Democracy, societies biggest and most successful consensus and collaboration mechanism, has become too slow to keep up with the modern world. Groups of people organizing, whether to turn a profit as a company, or to live together as a city, are often under-, mis-, or not represented at all in the decision making process. 
+Democracy, societies biggest and most successful consensus and collaboration mechanism, has become too slow to keep up with the modern world. Groups of people organizing, whether to turn a profit as a company, or to live together in a city, are often under-, mis-, or not represented at all in the decision making processes that affect their life. In both of these (governments and companies) it is the few that end up making the decisions for the many, even with the illusion of democracy in a representative system
 
 # The Solution
 
@@ -445,11 +445,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE1NTc1NjExLC0xMzA5NDExOTQ2LDIwNT
-cxNDE5OCwtODI2NjUxMTUsLTE5NzAyMzYwODMsODU4ODM3Niwt
-NjQ4MDgxNDIzLDE5NzExNTAxODcsLTExMjgxMzk1OTIsMzE0MT
-QwNDQyLC0xNDY2NjI1ODA3LDIxNDQ2NTU3OTcsMTQ5ODU0OTUw
-NiwtMTU0NzM5MTIyLC0xOTA0ODY0MjUsNDcwNTY4ODMsMTY3Nz
-Y3Nzg1MCwxMjIxOTc0Nzk0LC0xMzc1MTUyNSwxMDY2Mjk3Mzkx
-XX0=
+eyJoaXN0b3J5IjpbLTEwNjUyMTIwNzIsLTEzMDk0MTE5NDYsMj
+A1NzE0MTk4LC04MjY2NTExNSwtMTk3MDIzNjA4Myw4NTg4Mzc2
+LC02NDgwODE0MjMsMTk3MTE1MDE4NywtMTEyODEzOTU5MiwzMT
+QxNDA0NDIsLTE0NjY2MjU4MDcsMjE0NDY1NTc5NywxNDk4NTQ5
+NTA2LC0xNTQ3MzkxMjIsLTE5MDQ4NjQyNSw0NzA1Njg4MywxNj
+c3Njc3ODUwLDEyMjE5NzQ3OTQsLTEzNzUxNTI1LDEwNjYyOTcz
+OTFdfQ==
 -->
