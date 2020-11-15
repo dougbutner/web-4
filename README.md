@@ -17,7 +17,7 @@ Web 4 is a set of four **modular paradigms** and practices that allow integratio
 
 Web 4 is **built on top of web 3** (it's blockchain-based) while being **fundamentally different** and providing enough **benefit to society** warrant the new title of web 4. 
 
-In essence, web 4 is **positive attention catalyzer** that helps to manifest a shared desire when that desire
+In essence, web 4 is **positive attention catalyzer** that helps to manifest a shared desire, opinion, or solution by providing a fair system of accounting that takes into account time and artificial groupings of individuals
 
 This power is also freely given, and limited by time. 
 
@@ -449,7 +449,7 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzAxNjg3OTEsLTkxNDMzMDM0NiwxMT
+eyJoaXN0b3J5IjpbLTEwODg5MTM5NDAsLTkxNDMzMDM0NiwxMT
 A3NTUzNzY3LC04OTAyNzU1MDIsLTEzMDk0MTE5NDYsMjA1NzE0
 MTk4LC04MjY2NTExNSwtMTk3MDIzNjA4Myw4NTg4Mzc2LC02ND
 gwODE0MjMsMTk3MTE1MDE4NywtMTEyODEzOTU5MiwzMTQxNDA0
