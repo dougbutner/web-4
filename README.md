@@ -69,7 +69,7 @@ Web 4 introduces **four modular components** for **provably democratic systems**
 	 Biometric Secrets, Social Verification, Proof of Liveness, etc
  3. **Information Entropy**
 	 Information degradation over time, pseudo accounts in sensitive systems
- 4. **Harmonic GeoSocial Systems**
+ 4. **Harmonic Geo-social Systems**
 	 Fair, transparent collaboration through accounting the opinions and desires of participants
 
 Each module can be used separately or in tandem. This paper invites you to involve any of these ideas into your current and future projects. We will discuss these concepts one at a time, but first let's examine why we need them in the first place. 
@@ -447,11 +447,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxODEzOTkzNCwxNTM2OTM3NTI0LDM4Mj
-A2NzAwMyw5MzgzODA0NTcsMTE5MTg4NDYyMCwtOTE0MzMwMzQ2
-LDExMDc1NTM3NjcsLTg5MDI3NTUwMiwtMTMwOTQxMTk0NiwyMD
-U3MTQxOTgsLTgyNjY1MTE1LC0xOTcwMjM2MDgzLDg1ODgzNzYs
-LTY0ODA4MTQyMywxOTcxMTUwMTg3LC0xMTI4MTM5NTkyLDMxND
-E0MDQ0MiwtMTQ2NjYyNTgwNywyMTQ0NjU1Nzk3LDE0OTg1NDk1
-MDZdfQ==
+eyJoaXN0b3J5IjpbNjAxMjcyNzM1LDE1MzY5Mzc1MjQsMzgyMD
+Y3MDAzLDkzODM4MDQ1NywxMTkxODg0NjIwLC05MTQzMzAzNDYs
+MTEwNzU1Mzc2NywtODkwMjc1NTAyLC0xMzA5NDExOTQ2LDIwNT
+cxNDE5OCwtODI2NjUxMTUsLTE5NzAyMzYwODMsODU4ODM3Niwt
+NjQ4MDgxNDIzLDE5NzExNTAxODcsLTExMjgxMzk1OTIsMzE0MT
+QwNDQyLC0xNDY2NjI1ODA3LDIxNDQ2NTU3OTcsMTQ5ODU0OTUw
+Nl19
 -->
