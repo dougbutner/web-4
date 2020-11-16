@@ -24,7 +24,7 @@ In essence, web 4 is **collaboration consensus tool** that helps to manifest a s
 In this manifesto, I will define each of the **components** of web 4, provide **psudeocode** to illustrate the minimum integration into web 2/3, introduce the **benefits to society**, and offer a **roadmap** to adopting these concepts.
 
 # The Problem
-Democracy, society's biggest and most successful consensus and collaboration mechanism, has become too slow to keep up with the modern world. Groups of people organizing, whether to turn a profit as a company, or to live together in a city, are often under-, mis-, or not represented at all in the decision making processes that affect their lives. In both of these (governments and companies,) it is the few that make the decisions for the many, even with the illusion of "having a say" that exists in a representative system. 
+Democracy, society's biggest and most successful consensus and collaboration mechanism, has become too slow to keep up with the modern world. Groups of people organizing, whether to turn a profit as a company, or to live together in a city, are often under-, mis-, or not represented at all in the decision making processes that affect their lives and work. In both of these (governments and companies,) it is the few that make the decisions for the many, even with the illusion of "having a say" that exists in a representative system. 
 
 # The Solution
 By providing each individual with equal power in a transparent decision making process, the true intent of the majority can not only be known, it can be acted upon in predetermined ways through smart contracts. Though the solution seems simple, there are issues that will need to be addressed according to the needs of each group of collaborating people, such as ensuring one person per account, and limiting the minting of voting tokens with time, as well as protecting the privacy of decision makers where appropriate. This paper will detail these solutions, though they may not be needed for each system. For example, systems can (and should) be built using time tokens that do not use biometric data at all. 
@@ -447,11 +447,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ0NTg1ODMwLDE1MzY5Mzc1MjQsMzgyMD
-Y3MDAzLDkzODM4MDQ1NywxMTkxODg0NjIwLC05MTQzMzAzNDYs
-MTEwNzU1Mzc2NywtODkwMjc1NTAyLC0xMzA5NDExOTQ2LDIwNT
-cxNDE5OCwtODI2NjUxMTUsLTE5NzAyMzYwODMsODU4ODM3Niwt
-NjQ4MDgxNDIzLDE5NzExNTAxODcsLTExMjgxMzk1OTIsMzE0MT
-QwNDQyLC0xNDY2NjI1ODA3LDIxNDQ2NTU3OTcsMTQ5ODU0OTUw
-Nl19
+eyJoaXN0b3J5IjpbLTgxODEzOTkzNCwxNTM2OTM3NTI0LDM4Mj
+A2NzAwMyw5MzgzODA0NTcsMTE5MTg4NDYyMCwtOTE0MzMwMzQ2
+LDExMDc1NTM3NjcsLTg5MDI3NTUwMiwtMTMwOTQxMTk0NiwyMD
+U3MTQxOTgsLTgyNjY1MTE1LC0xOTcwMjM2MDgzLDg1ODgzNzYs
+LTY0ODA4MTQyMywxOTcxMTUwMTg3LC0xMTI4MTM5NTkyLDMxND
+E0MDQ0MiwtMTQ2NjYyNTgwNywyMTQ0NjU1Nzk3LDE0OTg1NDk1
+MDZdfQ==
 -->
