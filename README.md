@@ -13,7 +13,7 @@ This README features a description of the next evolution of the web, **web 4**. 
 
 # What is Web 4?
 
-Web 4 is a set of four **modular paradigms** (time tokens, biosecrets, information entropy, and geo-social layers)  that allow integration of **provable democracy in any social system** that seeks to be more collaborative (organization, government, community, etc.). Modularity allows any project to adopt one or more of these principles to **increase the accuracy, fairness, and transparency** of each individual's role in **collaboration**. 
+Web 4 is a set of four **modular paradigms** (time tokens, biosecrets, information entropy, and geo-social layers) that allow integration of **provable democracy in any social system** that seeks to be more collaborative (organization, government, community, etc.). Modularity allows any project to adopt one or more of these principles to **increase the accuracy, fairness, and transparency** of each individual's role in **collaboration**. 
 
 Web 4 is **built on top of web 3** (it's blockchain-based) while being **fundamentally different** and providing enough **benefit to society** warrant the new title of web 4. 
 
@@ -447,11 +447,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTAzMTgzNzgsMzgyMDY3MDAzLDkzOD
-M4MDQ1NywxMTkxODg0NjIwLC05MTQzMzAzNDYsMTEwNzU1Mzc2
-NywtODkwMjc1NTAyLC0xMzA5NDExOTQ2LDIwNTcxNDE5OCwtOD
-I2NjUxMTUsLTE5NzAyMzYwODMsODU4ODM3NiwtNjQ4MDgxNDIz
-LDE5NzExNTAxODcsLTExMjgxMzk1OTIsMzE0MTQwNDQyLC0xND
-Y2NjI1ODA3LDIxNDQ2NTU3OTcsMTQ5ODU0OTUwNiwtMTU0NzM5
-MTIyXX0=
+eyJoaXN0b3J5IjpbMTUzNjkzNzUyNCwzODIwNjcwMDMsOTM4Mz
+gwNDU3LDExOTE4ODQ2MjAsLTkxNDMzMDM0NiwxMTA3NTUzNzY3
+LC04OTAyNzU1MDIsLTEzMDk0MTE5NDYsMjA1NzE0MTk4LC04Mj
+Y2NTExNSwtMTk3MDIzNjA4Myw4NTg4Mzc2LC02NDgwODE0MjMs
+MTk3MTE1MDE4NywtMTEyODEzOTU5MiwzMTQxNDA0NDIsLTE0Nj
+Y2MjU4MDcsMjE0NDY1NTc5NywxNDk4NTQ5NTA2LC0xNTQ3Mzkx
+MjJdfQ==
 -->
