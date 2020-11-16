@@ -70,7 +70,7 @@ Web 4 introduces **four modular components** for **provably democratic systems**
  3. **Information Entropy**
 	 Information degradation over time, pseudo accounts in sensitive systems
  4. **Harmonic Geo-social Systems**
-	 Fair, transparent collaboration through accounting the opinions and desires of participants
+	 Fair, transparent collaboration through accounting the opinions and desires of participants, including in existing geopolitical 
 
 Each module can be used separately or in tandem. This paper invites you to involve any of these ideas into your current and future projects. We will discuss these concepts one at a time, but first let's examine why we need them in the first place. 
 
@@ -447,11 +447,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAxMjcyNzM1LDE1MzY5Mzc1MjQsMzgyMD
-Y3MDAzLDkzODM4MDQ1NywxMTkxODg0NjIwLC05MTQzMzAzNDYs
-MTEwNzU1Mzc2NywtODkwMjc1NTAyLC0xMzA5NDExOTQ2LDIwNT
-cxNDE5OCwtODI2NjUxMTUsLTE5NzAyMzYwODMsODU4ODM3Niwt
-NjQ4MDgxNDIzLDE5NzExNTAxODcsLTExMjgxMzk1OTIsMzE0MT
-QwNDQyLC0xNDY2NjI1ODA3LDIxNDQ2NTU3OTcsMTQ5ODU0OTUw
-Nl19
+eyJoaXN0b3J5IjpbLTE5MTE3NjA0ODYsMTUzNjkzNzUyNCwzOD
+IwNjcwMDMsOTM4MzgwNDU3LDExOTE4ODQ2MjAsLTkxNDMzMDM0
+NiwxMTA3NTUzNzY3LC04OTAyNzU1MDIsLTEzMDk0MTE5NDYsMj
+A1NzE0MTk4LC04MjY2NTExNSwtMTk3MDIzNjA4Myw4NTg4Mzc2
+LC02NDgwODE0MjMsMTk3MTE1MDE4NywtMTEyODEzOTU5MiwzMT
+QxNDA0NDIsLTE0NjY2MjU4MDcsMjE0NDY1NTc5NywxNDk4NTQ5
+NTA2XX0=
 -->
