@@ -302,7 +302,7 @@ The democratic system described in this paper does not solve all problems, as th
 
 **Time Tokens** are implemented on any and all blockchains where developers see the value. These developers provide open-source instructions and tools to helps other developers incorporate time tokens into their applications. 
 
-**Provable individuality** for Time Tokens is up to each application and blockchain, and these application can choose to ignore this requirement, risking their systems' integrity. **Federated** (Facetec) and **decentralized** (Civic) options may be used, and so can social verification.
+**Provable individuality** for Time Tokens is up to each application and blockchain, and these application can choose to ignore this requirement, risking their systems' integrity. **Federated** (Facetec) and **decentralized** (Civic) options may be used, and so can social verification (BrightID).
 
 **Information entropy** and **geosocial layers** are starting to be theorized, but not showing up. 
 
@@ -318,7 +318,7 @@ The democratic system described in this paper does not solve all problems, as th
 
 **Provable identity** **issues** are becoming apparent, as certain applications with **lax rules** are being manipulated, showing the need for true provable identity. 
 
-Social Verification and solutions like Facetec are still used, while biocryptography standards and biometric secret technology are being developed to allow true provable identity (in Phase Three).
+Social Verification like BrightID and biometric solutions like Facetec are still used, while biocryptography standards and biometric secret technology are being developed to allow true provable identity (in Phase Three).
 
 **Information entropy** principles are starting to be implemented, when required.
 
@@ -447,11 +447,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTE3NjA0ODYsMTUzNjkzNzUyNCwzOD
-IwNjcwMDMsOTM4MzgwNDU3LDExOTE4ODQ2MjAsLTkxNDMzMDM0
-NiwxMTA3NTUzNzY3LC04OTAyNzU1MDIsLTEzMDk0MTE5NDYsMj
-A1NzE0MTk4LC04MjY2NTExNSwtMTk3MDIzNjA4Myw4NTg4Mzc2
-LC02NDgwODE0MjMsMTk3MTE1MDE4NywtMTEyODEzOTU5MiwzMT
-QxNDA0NDIsLTE0NjY2MjU4MDcsMjE0NDY1NTc5NywxNDk4NTQ5
-NTA2XX0=
+eyJoaXN0b3J5IjpbMTMyMzE4MTM3NiwtMTkxMTc2MDQ4NiwxNT
+M2OTM3NTI0LDM4MjA2NzAwMyw5MzgzODA0NTcsMTE5MTg4NDYy
+MCwtOTE0MzMwMzQ2LDExMDc1NTM3NjcsLTg5MDI3NTUwMiwtMT
+MwOTQxMTk0NiwyMDU3MTQxOTgsLTgyNjY1MTE1LC0xOTcwMjM2
+MDgzLDg1ODgzNzYsLTY0ODA4MTQyMywxOTcxMTUwMTg3LC0xMT
+I4MTM5NTkyLDMxNDE0MDQ0MiwtMTQ2NjYyNTgwNywyMTQ0NjU1
+Nzk3XX0=
 -->
