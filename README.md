@@ -202,7 +202,7 @@ This stream of data (video + audio biometric expression) could be a user doing a
 For security, biometric expressions must be unique (for example, which combination of words to speak) and many types (gesture, singing, clapping) must be available and used in combination. If each person's biometric secret was generated from the same single biometric expression, it would be a matter of time before specific AI could be developed to deepfake it for anyone. If the user is the only one that knows their biometric expressions it becomes nearly impossible to guess the type and nature of the expression, and even if that is known, difficult to use the same technique on more than one account. The nature of the uniqueness could be chosen by the user, or generated at random from the biosecret software which would prompt the user to complete an action in a specific way. 
 
 ## Why do we need this, again?
-Democratic systems certainly are being built without biometric verification, and will continue to be until suitable biometric technology develops along the open source, client-side requirements. For now, **decentralized solutions** like [Civic](https://www.civic.com/), and centralized tech like [Facetec](https://www.facetec.com/FaceTec_3D_Face_Matching_Whitepaper.pdf) provide the necessary individuality at the cost of trust and requirement of citizenship. As different projects implement web 4 in their own ways, the ideas presented thus far will develop as flaws are found. 
+Democratic systems certainly are being built without biometric verification, and will continue to be until suitable biometric technology develops along the open source, client-side requirements. For now, **decentralized solutions** like [Civic](https://www.civic.com/), and centralized tech like [Facetec](https://www.facetec.com/FaceTec_3D_Face_Matching_Whitepaper.pdf) provide the necessary individuality at the cost of trust and requirement of citizenship. Additionally, biometric data can be avoided entirely by using a social verification platform like [BrightID](https://www.brightid.org/) As different projects implement web 4 in their own ways, the ideas presented thus far will develop as flaws are found. 
 
 We will present the ideas that are crucial for this system to be different, and represent true growth into web 4.
 
@@ -447,11 +447,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMzE4MTM3NiwtMTkxMTc2MDQ4NiwxNT
-M2OTM3NTI0LDM4MjA2NzAwMyw5MzgzODA0NTcsMTE5MTg4NDYy
-MCwtOTE0MzMwMzQ2LDExMDc1NTM3NjcsLTg5MDI3NTUwMiwtMT
-MwOTQxMTk0NiwyMDU3MTQxOTgsLTgyNjY1MTE1LC0xOTcwMjM2
-MDgzLDg1ODgzNzYsLTY0ODA4MTQyMywxOTcxMTUwMTg3LC0xMT
-I4MTM5NTkyLDMxNDE0MDQ0MiwtMTQ2NjYyNTgwNywyMTQ0NjU1
-Nzk3XX0=
+eyJoaXN0b3J5IjpbLTEwMTcxMjU1MzMsLTE5MTE3NjA0ODYsMT
+UzNjkzNzUyNCwzODIwNjcwMDMsOTM4MzgwNDU3LDExOTE4ODQ2
+MjAsLTkxNDMzMDM0NiwxMTA3NTUzNzY3LC04OTAyNzU1MDIsLT
+EzMDk0MTE5NDYsMjA1NzE0MTk4LC04MjY2NTExNSwtMTk3MDIz
+NjA4Myw4NTg4Mzc2LC02NDgwODE0MjMsMTk3MTE1MDE4NywtMT
+EyODEzOTU5MiwzMTQxNDA0NDIsLTE0NjY2MjU4MDcsMjE0NDY1
+NTc5N119
 -->
