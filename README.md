@@ -86,7 +86,7 @@ POS and DPOS are additionally used in projects like [**Hive**](https://peakd.com
 
 However, both of these POS/DPOS use cases (curation and resource allocation) are not democratic in the sense that **each account is not equal**. In both cases, the root of democracy is in the token, not the individual, and the ownership of tokens determines the voting power or computing power held by an individual. 
 
-In the end, the only way to implement true democracy in any system is through giving **each individual equal power**. The only way to do this while keeping web3's decentralized nature is to implement the technological (biosecrets) and idealogical (time tokens) advancements needed to be sure an account is owned by **one individual**, and that individual has **only one account**. These advancements  are, for simplicity and communication, called web 4. 
+In the end, the only way to implement true democracy in any system is through giving **each individual equal power**. The only way to do this while keeping web 3's decentralized nature is to implement the technological and idealogical advancements needed for a **one individual,  one account** syste,. These advancements  are, for simplicity and communication, called web 4. 
 
 ___
 # **<center>**1**</center>**
@@ -447,11 +447,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3Mjg4MzI4MSwzMzcxNzY1NzIsMjEyMT
-IyMTE3LDk2MjQ0MDYwNSwyNDUyOTM4ODEsMjAzMDg0NDcyMywt
-MTcwOTIxNTUxOCwxMTEzMjg4NjU5LDEwODc4ODIzODQsMTg0MD
-U2MjMwMiwtMTAxNzEyNTUzMywtMTkxMTc2MDQ4NiwxNTM2OTM3
-NTI0LDM4MjA2NzAwMyw5MzgzODA0NTcsMTE5MTg4NDYyMCwtOT
-E0MzMwMzQ2LDExMDc1NTM3NjcsLTg5MDI3NTUwMiwtMTMwOTQx
-MTk0Nl19
+eyJoaXN0b3J5IjpbLTEyNTEzMTE5MzUsMzM3MTc2NTcyLDIxMj
+EyMjExNyw5NjI0NDA2MDUsMjQ1MjkzODgxLDIwMzA4NDQ3MjMs
+LTE3MDkyMTU1MTgsMTExMzI4ODY1OSwxMDg3ODgyMzg0LDE4ND
+A1NjIzMDIsLTEwMTcxMjU1MzMsLTE5MTE3NjA0ODYsMTUzNjkz
+NzUyNCwzODIwNjcwMDMsOTM4MzgwNDU3LDExOTE4ODQ2MjAsLT
+kxNDMzMDM0NiwxMTA3NTUzNzY3LC04OTAyNzU1MDIsLTEzMDk0
+MTE5NDZdfQ==
 -->
