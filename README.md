@@ -55,7 +55,7 @@ A growing portion of web 2 websites and applications today have elements of web 
 ## Guiding Philosophy
 Web 4 seeks to implement [biomimetic](https://biomimicry.org/what-is-biomimicry/) systems in **harmony with the universe itself** by replicating nature: the **abundance** of the Sun, rising **entropy**, and the **equality** of each human being. 
 
-I believe when we create information systems in **harmonic resonance** with natural systems, our society will be able to advance more rapidly than ever before, as we will be able to **synchronize energetically** with the larger systems of information processing around us (the Earth, Sun, and Galactic core). 
+I believe when we create information systems in **harmonic resonance** with natural systems, our society will be able to advance more rapidly than ever before, as we will be able to **synchronize energetically** with the larger systems of bioelectromagnetic information processing around us (the Earth, Sun, and Galactic core). 
 
 
 ## Defining Web 4
@@ -447,11 +447,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYxNDAwMjA1LDEwODc4ODIzODQsMTg0MD
-U2MjMwMiwtMTAxNzEyNTUzMywtMTkxMTc2MDQ4NiwxNTM2OTM3
-NTI0LDM4MjA2NzAwMyw5MzgzODA0NTcsMTE5MTg4NDYyMCwtOT
-E0MzMwMzQ2LDExMDc1NTM3NjcsLTg5MDI3NTUwMiwtMTMwOTQx
-MTk0NiwyMDU3MTQxOTgsLTgyNjY1MTE1LC0xOTcwMjM2MDgzLD
-g1ODgzNzYsLTY0ODA4MTQyMywxOTcxMTUwMTg3LC0xMTI4MTM5
-NTkyXX0=
+eyJoaXN0b3J5IjpbMTExMzI4ODY1OSwxMDg3ODgyMzg0LDE4ND
+A1NjIzMDIsLTEwMTcxMjU1MzMsLTE5MTE3NjA0ODYsMTUzNjkz
+NzUyNCwzODIwNjcwMDMsOTM4MzgwNDU3LDExOTE4ODQ2MjAsLT
+kxNDMzMDM0NiwxMTA3NTUzNzY3LC04OTAyNzU1MDIsLTEzMDk0
+MTE5NDYsMjA1NzE0MTk4LC04MjY2NTExNSwtMTk3MDIzNjA4My
+w4NTg4Mzc2LC02NDgwODE0MjMsMTk3MTE1MDE4NywtMTEyODEz
+OTU5Ml19
 -->
