@@ -24,10 +24,10 @@ In essence, web 4 is **collaboration consensus tool** that helps to manifest a s
 In this manifesto, I will define each of the **components** of web 4, provide **psudeocode** to illustrate the minimum integration into web 2/3, introduce the **benefits to society**, and offer a **roadmap** to adopting these concepts.
 
 # The Problem
-Democracy, society's biggest and most successful consensus and collaboration mechanism, has become **too slow to keep up** with the modern world. Groups of people organizing, whether to turn a profit as a company, or to live together in a city, are often **under-, mis-, or not represented at all** in the decision making processes that affect their lives and work. In both governments and companies it is the few that make the decisions for the many, even with the illusion of "having a say" that exists in a representative system. 
+Democracy, society's biggest and most successful consensus and collaboration mechanism, has become **too slow to keep up** with the modern world. Groups of people organizing, whether to turn a profit as a company, or to live together in a city, are often **under-, mis-, or not represented at all** in the decision making processes that affect their lives and work. In both governments and companies it is the few that make the decisions for the many, even with the **illusion** of "having a say" that exists in a **representative system**. 
 
 # The Solution
-By providing each individual with equal power in a transparent decision making process, the true intent of the majority can not only be known, it can be acted upon in predetermined ways through smart contracts. Though the solution seems simple, there are issues that will need to be addressed according to the needs of each group of collaborating people, such as ensuring one person per account, and limiting the minting of voting tokens with time, as well as protecting the privacy of decision makers where appropriate. This paper will detail these solutions, though they may not be needed for each system. For example, systems can (and should) be built using time tokens that do not use biometric data at all. 
+By providing each individual with **equal power** in a **transparent decision making process**, the true intent of the majority can not only be known, it can be acted upon in predetermined ways through smart contracts. Though this solution seems simple, there are issues that will need to be addressed according to the needs of each group of collaborating people, such as ensuring **ne person per account**, and limiting the minting of voting tokens with time, as well as protecting the privacy of decision makers where appropriate. This paper will detail these solutions, though they may not be needed for each system. For example, systems can (and should) be built using time tokens that do not use biometric data at all. 
 
 
 # Background
@@ -447,11 +447,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NzI1MzY1NywxODQwNTYyMzAyLC0xMD
-E3MTI1NTMzLC0xOTExNzYwNDg2LDE1MzY5Mzc1MjQsMzgyMDY3
-MDAzLDkzODM4MDQ1NywxMTkxODg0NjIwLC05MTQzMzAzNDYsMT
-EwNzU1Mzc2NywtODkwMjc1NTAyLC0xMzA5NDExOTQ2LDIwNTcx
-NDE5OCwtODI2NjUxMTUsLTE5NzAyMzYwODMsODU4ODM3NiwtNj
-Q4MDgxNDIzLDE5NzExNTAxODcsLTExMjgxMzk1OTIsMzE0MTQw
-NDQyXX0=
+eyJoaXN0b3J5IjpbNjMwNjYzNjgxLDE4NDA1NjIzMDIsLTEwMT
+cxMjU1MzMsLTE5MTE3NjA0ODYsMTUzNjkzNzUyNCwzODIwNjcw
+MDMsOTM4MzgwNDU3LDExOTE4ODQ2MjAsLTkxNDMzMDM0NiwxMT
+A3NTUzNzY3LC04OTAyNzU1MDIsLTEzMDk0MTE5NDYsMjA1NzE0
+MTk4LC04MjY2NTExNSwtMTk3MDIzNjA4Myw4NTg4Mzc2LC02ND
+gwODE0MjMsMTk3MTE1MDE4NywtMTEyODEzOTU5MiwzMTQxNDA0
+NDJdfQ==
 -->
