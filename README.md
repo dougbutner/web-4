@@ -97,7 +97,7 @@ ___
 
 # Time-issued cryptocurrency (Time Tokens) 
 
-Time tokens may be offered or directly distributed to users' wallets periodically as time passes, or offered to be claimed manually. They work by hashing a unique personal identifier (address) with a time identifier, linking each token to a **person and a span of time**.
+Time tokens may be offered or directly distributed to users' wallets periodically. They work by hashing a unique personal identifier (address) with a time identifier, **linking each token to a person and a span of time**.
 
 These tokens provide the user with a function or action. The action burns the token, which may cause some change in the state of a system, minting of another token, or any other action. 
 
@@ -448,11 +448,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjU4NzAxMDYsMzM3MTc2NTcyLDIxMj
-EyMjExNyw5NjI0NDA2MDUsMjQ1MjkzODgxLDIwMzA4NDQ3MjMs
-LTE3MDkyMTU1MTgsMTExMzI4ODY1OSwxMDg3ODgyMzg0LDE4ND
-A1NjIzMDIsLTEwMTcxMjU1MzMsLTE5MTE3NjA0ODYsMTUzNjkz
-NzUyNCwzODIwNjcwMDMsOTM4MzgwNDU3LDExOTE4ODQ2MjAsLT
-kxNDMzMDM0NiwxMTA3NTUzNzY3LC04OTAyNzU1MDIsLTEzMDk0
-MTE5NDZdfQ==
+eyJoaXN0b3J5IjpbNjI5MjczNDcyLDMzNzE3NjU3MiwyMTIxMj
+IxMTcsOTYyNDQwNjA1LDI0NTI5Mzg4MSwyMDMwODQ0NzIzLC0x
+NzA5MjE1NTE4LDExMTMyODg2NTksMTA4Nzg4MjM4NCwxODQwNT
+YyMzAyLC0xMDE3MTI1NTMzLC0xOTExNzYwNDg2LDE1MzY5Mzc1
+MjQsMzgyMDY3MDAzLDkzODM4MDQ1NywxMTkxODg0NjIwLC05MT
+QzMzAzNDYsMTEwNzU1Mzc2NywtODkwMjc1NTAyLC0xMzA5NDEx
+OTQ2XX0=
 -->
