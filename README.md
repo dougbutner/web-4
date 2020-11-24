@@ -75,14 +75,14 @@ Web 4 introduces **four modular components** for **provably democratic systems**
 Each module can be used separately or in tandem. This paper invites you to involve any of these ideas into your current and future projects. We will discuss these concepts one at a time, but first let's examine why we need them in the first place. 
 
 
-# Why we can't have Provable democracy with web 3
+# Why we must grow from web 3 to evolve democracy
 > Provable democracy cannot be fully achieved in web 3 as-is because there is no inherit limit over how many accounts a user may control.
 
 **Democracy** is essentially reaching a consensus with the idea that **each person is equal** in their influence on that consensus within defined bounds.
 
-Many different consensus models have been developed in web 3, most notably, [proof of work](https://www.ledger.com/academy/blockchain/what-is-proof-of-work) (**POW**), [proof of stake](https://www.ledger.com/academy/blockchain/what-is-proof-of-stake) (**POS**), and [delegated proof of stake ](https://academy.binance.com/en/articles/delegated-proof-of-stake-explained)(**DPOS**). These paradigms of consensus are used primarily to determine which chain of transaction records (blocks) is considered valid, "securing" a blockchain. 
+Many different **consensus models** have been developed in web 3, most notably, [proof of work](https://www.ledger.com/academy/blockchain/what-is-proof-of-work) (**POW**), [proof of stake](https://www.ledger.com/academy/blockchain/what-is-proof-of-stake) (**POS**), and [delegated proof of stake ](https://academy.binance.com/en/articles/delegated-proof-of-stake-explained)(**DPOS**). These paradigms of consensus are used primarily to determine which chain of transaction records (blocks) is considered valid, "securing" a blockchain. 
 
-POS and DPOS is additionally used to in projects like [**Hive**](https://peakd.com) to allow users to "vote" on valuable content, an early example of the democratic web. DPOS is also used for networks to determine who can access network resources, such as in [EOSIO blockchains](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md).
+POS and DPOS are additionally used in projects like [**Hive**](https://peakd.com) to allow users to "vote" on valuable content, an early example of the democratic web. DPOS is also used for networks to determine who can access network resources, such as in [EOSIO blockchains](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md).
 
 However, both of these POS/DPOS use cases (curation and resource allocation) are not democratic in the sense that **each account is not equal**. In both cases, the root of democracy is in the token, not the individual, and the ownership of tokens determines the voting power or computing power held by an individual. 
 
@@ -447,11 +447,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM3MTc2NTcyLDIxMjEyMjExNyw5NjI0ND
-A2MDUsMjQ1MjkzODgxLDIwMzA4NDQ3MjMsLTE3MDkyMTU1MTgs
-MTExMzI4ODY1OSwxMDg3ODgyMzg0LDE4NDA1NjIzMDIsLTEwMT
-cxMjU1MzMsLTE5MTE3NjA0ODYsMTUzNjkzNzUyNCwzODIwNjcw
-MDMsOTM4MzgwNDU3LDExOTE4ODQ2MjAsLTkxNDMzMDM0NiwxMT
-A3NTUzNzY3LC04OTAyNzU1MDIsLTEzMDk0MTE5NDYsMjA1NzE0
-MTk4XX0=
+eyJoaXN0b3J5IjpbLTg3Mjg4MzI4MSwzMzcxNzY1NzIsMjEyMT
+IyMTE3LDk2MjQ0MDYwNSwyNDUyOTM4ODEsMjAzMDg0NDcyMywt
+MTcwOTIxNTUxOCwxMTEzMjg4NjU5LDEwODc4ODIzODQsMTg0MD
+U2MjMwMiwtMTAxNzEyNTUzMywtMTkxMTc2MDQ4NiwxNTM2OTM3
+NTI0LDM4MjA2NzAwMyw5MzgzODA0NTcsMTE5MTg4NDYyMCwtOT
+E0MzMwMzQ2LDExMDc1NTM3NjcsLTg5MDI3NTUwMiwtMTMwOTQx
+MTk0Nl19
 -->
