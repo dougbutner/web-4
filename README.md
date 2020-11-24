@@ -99,7 +99,7 @@ ___
 
 Time tokens may be offered or directly distributed to users' wallets periodically. They work by hashing a unique personal identifier (address) with a time identifier, **linking each token to a person and a span of time**.
 
-These tokens provide the user with a function or action. The action burns the token, which may cause some change in the state of a system, minting of another token, or any other action. 
+These tokens provide the user with a function or action. The action burns the token, which may cause some change in the state of a system, such as minting another token, registering a vote, or any other action. 
 
 ## The Gears of Time Tokens
 
@@ -448,11 +448,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI5MjczNDcyLDMzNzE3NjU3MiwyMTIxMj
-IxMTcsOTYyNDQwNjA1LDI0NTI5Mzg4MSwyMDMwODQ0NzIzLC0x
-NzA5MjE1NTE4LDExMTMyODg2NTksMTA4Nzg4MjM4NCwxODQwNT
-YyMzAyLC0xMDE3MTI1NTMzLC0xOTExNzYwNDg2LDE1MzY5Mzc1
-MjQsMzgyMDY3MDAzLDkzODM4MDQ1NywxMTkxODg0NjIwLC05MT
-QzMzAzNDYsMTEwNzU1Mzc2NywtODkwMjc1NTAyLC0xMzA5NDEx
-OTQ2XX0=
+eyJoaXN0b3J5IjpbMTQxOTMxMTEwMiwzMzcxNzY1NzIsMjEyMT
+IyMTE3LDk2MjQ0MDYwNSwyNDUyOTM4ODEsMjAzMDg0NDcyMywt
+MTcwOTIxNTUxOCwxMTEzMjg4NjU5LDEwODc4ODIzODQsMTg0MD
+U2MjMwMiwtMTAxNzEyNTUzMywtMTkxMTc2MDQ4NiwxNTM2OTM3
+NTI0LDM4MjA2NzAwMyw5MzgzODA0NTcsMTE5MTg4NDYyMCwtOT
+E0MzMwMzQ2LDExMDc1NTM3NjcsLTg5MDI3NTUwMiwtMTMwOTQx
+MTk0Nl19
 -->
