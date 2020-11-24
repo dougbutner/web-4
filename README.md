@@ -27,7 +27,7 @@ In this manifesto, I will define each of the **components** of web 4, provide **
 Democracy, society's biggest and most successful consensus and collaboration mechanism, has become **too slow to keep up** with the modern world. Groups of people organizing, whether to turn a profit as a company, or to live together in a city, are often **under-, mis-, or not represented at all** in the decision making processes that affect their lives and work. In both governments and companies it is the few that make the decisions for the many, even with the **illusion** of "having a say" that exists in a **representative system**. 
 
 # The Solution
-By providing each individual with **equal power** in a **transparent decision making process**, the true intent of the majority can not only be known, it can be acted upon in predetermined ways through smart contracts. Though this solution seems simple, there are issues that will need to be addressed according to the needs of each group of collaborating people, such as ensuring **one person per account**, and **limiting the minting of voting tokens with time**, as well as protecting the **privacy of decision makers** where appropriate. This paper will detail these solutions, and recommend that each system decide what components of web 4 to use or not use. For example, systems can (and should) be built using time tokens that do not use biometric data at all, a common concern in our modern world. 
+By providing each individual with **equal power** in a **transparent decision making process**, the true intent of the majority can not only be known, it can be acted upon in predetermined ways through smart contracts. Though this solution seems simple, there are issues that will need to be addressed according to the needs of each group of collaborating people, such as ensuring **one person per account**, and **limiting the minting of voting tokens with time**, as well as protecting the **privacy of decision makers** where appropriate. This paper will detail these solutions, and recommend that each system decide what components of web 4 to use or not use. For example, systems can (and should) be built using time tokens that **do not use biometric data at all**, a common concern in our modern world. 
 
 
 # Background
@@ -447,11 +447,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4Nzg4MjM4NCwxODQwNTYyMzAyLC0xMD
-E3MTI1NTMzLC0xOTExNzYwNDg2LDE1MzY5Mzc1MjQsMzgyMDY3
-MDAzLDkzODM4MDQ1NywxMTkxODg0NjIwLC05MTQzMzAzNDYsMT
-EwNzU1Mzc2NywtODkwMjc1NTAyLC0xMzA5NDExOTQ2LDIwNTcx
-NDE5OCwtODI2NjUxMTUsLTE5NzAyMzYwODMsODU4ODM3NiwtNj
-Q4MDgxNDIzLDE5NzExNTAxODcsLTExMjgxMzk1OTIsMzE0MTQw
-NDQyXX0=
+eyJoaXN0b3J5IjpbNTg2NTM1MjQ4LDEwODc4ODIzODQsMTg0MD
+U2MjMwMiwtMTAxNzEyNTUzMywtMTkxMTc2MDQ4NiwxNTM2OTM3
+NTI0LDM4MjA2NzAwMyw5MzgzODA0NTcsMTE5MTg4NDYyMCwtOT
+E0MzMwMzQ2LDExMDc1NTM3NjcsLTg5MDI3NTUwMiwtMTMwOTQx
+MTk0NiwyMDU3MTQxOTgsLTgyNjY1MTE1LC0xOTcwMjM2MDgzLD
+g1ODgzNzYsLTY0ODA4MTQyMywxOTcxMTUwMTg3LC0xMTI4MTM5
+NTkyXX0=
 -->
