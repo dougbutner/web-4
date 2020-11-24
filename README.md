@@ -76,9 +76,9 @@ Each module can be used separately or in tandem. This paper invites you to invol
 
 
 # Why we can't have Provable democracy with web 3
-> Provable democracy cannot be fully achieved in web 3 itself because there is intentionally no limit over how many accounts a user may control.
+> Provable democracy cannot be fully achieved in web 3 as-is because there is no inherit limit over how many accounts a user may control.
 
-Democracy is essentially reaching a consensus with the idea that **each person is equal** in their influence on that consensus within defined bounds.
+**Democracy** is essentially reaching a consensus with the idea that **each person is equal** in their influence on that consensus within defined bounds.
 
 Many different consensus models have been developed in web 3, most notably, [proof of work](https://www.ledger.com/academy/blockchain/what-is-proof-of-work) (**POW**), [proof of stake](https://www.ledger.com/academy/blockchain/what-is-proof-of-stake) (**POS**), and [delegated proof of stake ](https://academy.binance.com/en/articles/delegated-proof-of-stake-explained)(**DPOS**). These paradigms of consensus are used primarily to determine which chain of transaction records (blocks) is considered valid, "securing" a blockchain. 
 
@@ -447,11 +447,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMDg0NDcyMywtMTcwOTIxNTUxOCwxMT
-EzMjg4NjU5LDEwODc4ODIzODQsMTg0MDU2MjMwMiwtMTAxNzEy
-NTUzMywtMTkxMTc2MDQ4NiwxNTM2OTM3NTI0LDM4MjA2NzAwMy
-w5MzgzODA0NTcsMTE5MTg4NDYyMCwtOTE0MzMwMzQ2LDExMDc1
-NTM3NjcsLTg5MDI3NTUwMiwtMTMwOTQxMTk0NiwyMDU3MTQxOT
-gsLTgyNjY1MTE1LC0xOTcwMjM2MDgzLDg1ODgzNzYsLTY0ODA4
-MTQyM119
+eyJoaXN0b3J5IjpbLTEyOTYyMzE0NzYsMjAzMDg0NDcyMywtMT
+cwOTIxNTUxOCwxMTEzMjg4NjU5LDEwODc4ODIzODQsMTg0MDU2
+MjMwMiwtMTAxNzEyNTUzMywtMTkxMTc2MDQ4NiwxNTM2OTM3NT
+I0LDM4MjA2NzAwMyw5MzgzODA0NTcsMTE5MTg4NDYyMCwtOTE0
+MzMwMzQ2LDExMDc1NTM3NjcsLTg5MDI3NTUwMiwtMTMwOTQxMT
+k0NiwyMDU3MTQxOTgsLTgyNjY1MTE1LC0xOTcwMjM2MDgzLDg1
+ODgzNzZdfQ==
 -->
