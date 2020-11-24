@@ -59,14 +59,14 @@ I believe when we create information systems in **harmonic resonance** with natu
 
 
 ## Defining Web 4
-Web 4 introduces **four modular components** for **provably democratic systems**, as suggested to be built on top of web 3's open-source decentralized networks. 
+Web 4 introduces **four modular components** for **provably democratic systems**, suggested to be built on top of web 3's open-source decentralized networks. 
 
 ### There are four conceptual underpinnings (modules) of web 4
 
  1. **Time Tokens** 
-	 Individuals may receive "Time-issued cryptocurrency" at given intervals, but never more frequently, and can't hold another's time tokens.
+	 Individuals may claim time-limited tokens at given intervals that represent that interval. No two time tokens can represent the same interval and individual, and one individuals can't hold another's time tokens.
  2. **Proof of Individuality**
-	 Biometric Secrets, Social Verification, Proof of Liveness, etc
+	 Biometric Secrets, Social Verification, Proof of Liveness, etc. are used to guarantee no one can collect two time tokens for a given interval by holding two accounts. 
  3. **Information Entropy**
 	 Information degradation over time, pseudo accounts in sensitive systems
  4. **Harmonic Geo-social Systems**
@@ -447,11 +447,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDkyMTU1MTgsMTExMzI4ODY1OSwxMD
-g3ODgyMzg0LDE4NDA1NjIzMDIsLTEwMTcxMjU1MzMsLTE5MTE3
-NjA0ODYsMTUzNjkzNzUyNCwzODIwNjcwMDMsOTM4MzgwNDU3LD
-ExOTE4ODQ2MjAsLTkxNDMzMDM0NiwxMTA3NTUzNzY3LC04OTAy
-NzU1MDIsLTEzMDk0MTE5NDYsMjA1NzE0MTk4LC04MjY2NTExNS
-wtMTk3MDIzNjA4Myw4NTg4Mzc2LC02NDgwODE0MjMsMTk3MTE1
-MDE4N119
+eyJoaXN0b3J5IjpbMTI4MTQ0ODc1NiwtMTcwOTIxNTUxOCwxMT
+EzMjg4NjU5LDEwODc4ODIzODQsMTg0MDU2MjMwMiwtMTAxNzEy
+NTUzMywtMTkxMTc2MDQ4NiwxNTM2OTM3NTI0LDM4MjA2NzAwMy
+w5MzgzODA0NTcsMTE5MTg4NDYyMCwtOTE0MzMwMzQ2LDExMDc1
+NTM3NjcsLTg5MDI3NTUwMiwtMTMwOTQxMTk0NiwyMDU3MTQxOT
+gsLTgyNjY1MTE1LC0xOTcwMjM2MDgzLDg1ODgzNzYsLTY0ODA4
+MTQyM119
 -->
