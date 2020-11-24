@@ -48,7 +48,7 @@ Before we detail web 4, we must look briefly at the concepts of web 1, web 2, an
 
 Today, the top 100 websites/apps by traffic are [all](https://www.alexa.com/topsites) web 2-based. The web 2 paradigm fits closely with the wider environment of **corporate-owned information.** 
 
-As more and more individuals and societies are reconsidering the place of **government, censorship, centralization and federated power**, web 3 has emerged as a powerful, provable option to shape the evolution of society on planet Earth. 
+As more and more individuals and societies are reconsidering the place of **government, censorship, centralization and federated power**, web 3 has emerged as a powerful, provable option to shape the evolution of information and society on planet Earth. 
 
 A growing portion of web 2 websites and applications today have elements of web 3, like [cryptoblogs](https://peakd.com) and [games](https://www.stateofthedapps.com/rankings/category/games). While web 2 and web 3 can operate independently, web 3 enhances the abilities of web 2. Similarly, web 3 and web 4 can operate independently, but it makes the most sense for web 4 to be built on blockchains to gain the benefits of reliability and transparency. 
 
@@ -447,11 +447,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NTA5NzI4MCwyNDUyOTM4ODEsMjAzMD
-g0NDcyMywtMTcwOTIxNTUxOCwxMTEzMjg4NjU5LDEwODc4ODIz
-ODQsMTg0MDU2MjMwMiwtMTAxNzEyNTUzMywtMTkxMTc2MDQ4Ni
-wxNTM2OTM3NTI0LDM4MjA2NzAwMyw5MzgzODA0NTcsMTE5MTg4
-NDYyMCwtOTE0MzMwMzQ2LDExMDc1NTM3NjcsLTg5MDI3NTUwMi
-wtMTMwOTQxMTk0NiwyMDU3MTQxOTgsLTgyNjY1MTE1LC0xOTcw
-MjM2MDgzXX0=
+eyJoaXN0b3J5IjpbOTYyNDQwNjA1LDI0NTI5Mzg4MSwyMDMwOD
+Q0NzIzLC0xNzA5MjE1NTE4LDExMTMyODg2NTksMTA4Nzg4MjM4
+NCwxODQwNTYyMzAyLC0xMDE3MTI1NTMzLC0xOTExNzYwNDg2LD
+E1MzY5Mzc1MjQsMzgyMDY3MDAzLDkzODM4MDQ1NywxMTkxODg0
+NjIwLC05MTQzMzAzNDYsMTEwNzU1Mzc2NywtODkwMjc1NTAyLC
+0xMzA5NDExOTQ2LDIwNTcxNDE5OCwtODI2NjUxMTUsLTE5NzAy
+MzYwODNdfQ==
 -->
