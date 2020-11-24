@@ -109,8 +109,8 @@ Time tokens rely on the following concepts:
 A time unit MUST be a superset of a timestamp. This means that a time unit is some amount (or fraction) of seconds. Each time token MUST be the only one in existence stamped with a particular time unit for each user (wallet). Thus, each time token is unique and semi-fungible.
  2. **Time Faucet**
 A time faucet is a smart contract that offers any qualified account EXACTLY one time token per unit of time passed since their last faucet. This can be an active faucet; requiring some action by the recipient, or a passive faucet; automatically sending the cryptocurrency to the user.
- 3. **Verified Recipients**
-Recipients of the system MUST be verified to be an actual human in order to receive time tokens. 
+ 3. **Qualified Accounts**
+Qualified accounts are a list of accounts in any time token systme that 
 
 For a full description of Time Tokens, visit the  [Time Token repository](https://github.com/dougbutner/time-token). 
 
@@ -448,7 +448,7 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjM4MzU1NzgsMzM3MTc2NTcyLDIxMj
+eyJoaXN0b3J5IjpbLTEyODIxNTkxODYsMzM3MTc2NTcyLDIxMj
 EyMjExNyw5NjI0NDA2MDUsMjQ1MjkzODgxLDIwMzA4NDQ3MjMs
 LTE3MDkyMTU1MTgsMTExMzI4ODY1OSwxMDg3ODgyMzg0LDE4ND
 A1NjIzMDIsLTEwMTcxMjU1MzMsLTE5MTE3NjA0ODYsMTUzNjkz
