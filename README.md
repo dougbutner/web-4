@@ -46,7 +46,7 @@ Before we detail web 4, we must look briefly at the concepts of web 1, web 2, an
  - **Web 4**
 **Democratic web**. Time-limited cryptographic tokens are given to each individual, and used as a measure of opinion or desire in collaborative systems.
 
-Today, the top 100 websites/apps by traffic are [all](https://www.alexa.com/topsites) web 2 websites. The web 2 paradigm fits closely with the wider environment of **corporate-owned information.** 
+Today, the top 100 websites/apps by traffic are [all](https://www.alexa.com/topsites) web 2-based. The web 2 paradigm fits closely with the wider environment of **corporate-owned information.** 
 
 As more and more individuals and societies are reconsidering the place of **government, censorship, centralization and federated power**, web 3 has emerged as a powerful, provable option to shape the evolution of society on planet Earth. 
 
@@ -447,11 +447,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDU0MDk4MDksMjAzMDg0NDcyMywtMT
-cwOTIxNTUxOCwxMTEzMjg4NjU5LDEwODc4ODIzODQsMTg0MDU2
-MjMwMiwtMTAxNzEyNTUzMywtMTkxMTc2MDQ4NiwxNTM2OTM3NT
-I0LDM4MjA2NzAwMyw5MzgzODA0NTcsMTE5MTg4NDYyMCwtOTE0
-MzMwMzQ2LDExMDc1NTM3NjcsLTg5MDI3NTUwMiwtMTMwOTQxMT
-k0NiwyMDU3MTQxOTgsLTgyNjY1MTE1LC0xOTcwMjM2MDgzLDg1
-ODgzNzZdfQ==
+eyJoaXN0b3J5IjpbMjQ1MjkzODgxLDIwMzA4NDQ3MjMsLTE3MD
+kyMTU1MTgsMTExMzI4ODY1OSwxMDg3ODgyMzg0LDE4NDA1NjIz
+MDIsLTEwMTcxMjU1MzMsLTE5MTE3NjA0ODYsMTUzNjkzNzUyNC
+wzODIwNjcwMDMsOTM4MzgwNDU3LDExOTE4ODQ2MjAsLTkxNDMz
+MDM0NiwxMTA3NTUzNzY3LC04OTAyNzU1MDIsLTEzMDk0MTE5ND
+YsMjA1NzE0MTk4LC04MjY2NTExNSwtMTk3MDIzNjA4Myw4NTg4
+Mzc2XX0=
 -->
