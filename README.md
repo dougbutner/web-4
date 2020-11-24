@@ -59,7 +59,7 @@ I believe when we create information systems in **harmonic resonance** with natu
 
 
 ## Defining Web 4
-Web 4 introduces **four modular components** for **provably democratic systems** built on top of web 3's open-source decentralized networks. 
+Web 4 introduces **four modular components** for **provably democratic systems**, as suggested to be built on top of web 3's open-source decentralized networks. 
 
 ### There are four conceptual underpinnings (modules) of web 4
 
@@ -447,11 +447,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMzI4ODY1OSwxMDg3ODgyMzg0LDE4ND
-A1NjIzMDIsLTEwMTcxMjU1MzMsLTE5MTE3NjA0ODYsMTUzNjkz
-NzUyNCwzODIwNjcwMDMsOTM4MzgwNDU3LDExOTE4ODQ2MjAsLT
-kxNDMzMDM0NiwxMTA3NTUzNzY3LC04OTAyNzU1MDIsLTEzMDk0
-MTE5NDYsMjA1NzE0MTk4LC04MjY2NTExNSwtMTk3MDIzNjA4My
-w4NTg4Mzc2LC02NDgwODE0MjMsMTk3MTE1MDE4NywtMTEyODEz
-OTU5Ml19
+eyJoaXN0b3J5IjpbLTE3MDkyMTU1MTgsMTExMzI4ODY1OSwxMD
+g3ODgyMzg0LDE4NDA1NjIzMDIsLTEwMTcxMjU1MzMsLTE5MTE3
+NjA0ODYsMTUzNjkzNzUyNCwzODIwNjcwMDMsOTM4MzgwNDU3LD
+ExOTE4ODQ2MjAsLTkxNDMzMDM0NiwxMTA3NTUzNzY3LC04OTAy
+NzU1MDIsLTEzMDk0MTE5NDYsMjA1NzE0MTk4LC04MjY2NTExNS
+wtMTk3MDIzNjA4Myw4NTg4Mzc2LC02NDgwODE0MjMsMTk3MTE1
+MDE4N119
 -->
