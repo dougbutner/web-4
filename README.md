@@ -65,7 +65,7 @@ Web 4 introduces **four modular components** for **provably democratic systems**
 
  1. **Time Tokens** 
 	 Individuals may claim time-limited tokens at given intervals that represent that interval. No two time tokens can represent the same interval and individual, and one individuals can't hold another's time tokens.
- 2. **Proof of Individuality**
+ 2. **Proof of Individuality (One Person, One Account)**
 	 Biometric Secrets, Social Verification, Proof of Liveness, etc. are used to guarantee no one can collect two time tokens for a given interval by holding two accounts. 
  3. **Information Entropy**
 	 Information degradation over time, pseudo accounts in sensitive systems
@@ -447,7 +447,7 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MTQ0ODc1NiwtMTcwOTIxNTUxOCwxMT
+eyJoaXN0b3J5IjpbMjAzMDg0NDcyMywtMTcwOTIxNTUxOCwxMT
 EzMjg4NjU5LDEwODc4ODIzODQsMTg0MDU2MjMwMiwtMTAxNzEy
 NTUzMywtMTkxMTc2MDQ4NiwxNTM2OTM3NTI0LDM4MjA2NzAwMy
 w5MzgzODA0NTcsMTE5MTg4NDYyMCwtOTE0MzMwMzQ2LDExMDc1
