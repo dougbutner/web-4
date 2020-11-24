@@ -104,11 +104,11 @@ Time tokens may be offered or directly distributed to users' wallets periodicall
 
 Time tokens rely on the following concepts:
  1. **Time Tokens** 
-	 Individuals may claim time-limited tokens at given intervals, which represent that interval. Only **one time tokens can represent the one interval and individual**, and one individuals can't hold another's time tokens.
-	 These tokens provide the user with a function or action. The action burns the token, which may cause some change in the state of a system, such as minting another token, registering a vote, or any other action. 
+	 Individuals may claim time-limited tokens at given intervals, which represent that interval. Only **one time token can represent the one interval and individual**, and one individual can't hold another's time tokens.
+	 These tokens provide the user with a function or action. The action burns the token, which may cause some change in the state of a system, such as minting another token, registering a vote, or any other action. Thus, **each time token is unique yet semi-fungible**. Time tokens can also be checked for freshness when needed. 
 
  2. **Time Unit**
-A time unit MUST be a superset of a timestamp. This means that a time unit is some amount (or fraction) of seconds. Each time token MUST be the only one in existence stamped with a particular time unit for each user (wallet). Thus, **each time token is unique yet semi-fungible**.
+A time unit MUST be a superset of a timestamp. This means that a time unit is some amount (or fraction) of seconds. Each time token MUST be the only one in existence stamped with a particular time unit for each user (wallet). .
  2. **Time Faucet**
 A time faucet is a smart contract that offers any qualified account EXACTLY one time token per unit of time passed since their last faucet. This can be an active faucet; requiring some action by the recipient, or a passive faucet; automatically sending the cryptocurrency to the user.
  3. **Qualified Accounts**
@@ -450,7 +450,7 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MTQzMjM5LDQ3MTg1OTExMiwtMTI4Mj
+eyJoaXN0b3J5IjpbNjEwNjI2OTc0LDQ3MTg1OTExMiwtMTI4Mj
 E1OTE4NiwzMzcxNzY1NzIsMjEyMTIyMTE3LDk2MjQ0MDYwNSwy
 NDUyOTM4ODEsMjAzMDg0NDcyMywtMTcwOTIxNTUxOCwxMTEzMj
 g4NjU5LDEwODc4ODIzODQsMTg0MDU2MjMwMiwtMTAxNzEyNTUz
