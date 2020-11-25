@@ -211,9 +211,9 @@ ___
 ## How this can go wrong
 In today's biometric space, static images are most commonly used for things like fingerprint and facial recognition, and geometry is the means to compare this data. Biometric secrets generated from static images are not secure, as static images can be faked. [2] Video offers a better solution to this problem, as it is harder to fake, can include audio, and lets developers create a whole new set of algorithms based on a changing stream of data. [Facetec](https://www.facetec.com/) is one company using video for biometric verification. 
 
-We don't want this to go poorly 
 
-### What is used to generate a biokey?
+
+## What could be used to generate a biokey?
 This stream of data (video + audio biometric expression) could be a user doing a series of hand gestures, singing a part of a song, speaking a phrase, speaking a phrase in different voices, clapping, making a series of facial expressions or movements, or anything else one can imagine.
 
 For security, biometric expressions must be unique (for example, which combination of words to speak) and many types (gesture, singing, clapping) must be available and used in combination. If each person's biometric secret was generated from the same single biometric expression, it would be a matter of time before specific AI could be developed to deepfake it for anyone. If the user is the only one that knows their biometric expressions it becomes nearly impossible to guess the type and nature of the expression, and even if that is known, difficult to use the same technique on more than one account. The nature of the uniqueness could be chosen by the user, or generated at random from the biokey software which would prompt the user to complete an action in a specific way. 
@@ -465,11 +465,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjE3MTc4OTEsLTE0NjQ4MTc2NzYsOT
-E1MTUxOTYyLDE1NDAyMTE0MTcsMTI3NzAwMDg2OCwtMTI1NTM2
-NDc0OCw2MTA2MjY5NzQsNDcxODU5MTEyLC0xMjgyMTU5MTg2LD
-MzNzE3NjU3MiwyMTIxMjIxMTcsOTYyNDQwNjA1LDI0NTI5Mzg4
-MSwyMDMwODQ0NzIzLC0xNzA5MjE1NTE4LDExMTMyODg2NTksMT
-A4Nzg4MjM4NCwxODQwNTYyMzAyLC0xMDE3MTI1NTMzLC0xOTEx
-NzYwNDg2XX0=
+eyJoaXN0b3J5IjpbLTEyNTQ0NzYyNTYsLTE3MjE3MTc4OTEsLT
+E0NjQ4MTc2NzYsOTE1MTUxOTYyLDE1NDAyMTE0MTcsMTI3NzAw
+MDg2OCwtMTI1NTM2NDc0OCw2MTA2MjY5NzQsNDcxODU5MTEyLC
+0xMjgyMTU5MTg2LDMzNzE3NjU3MiwyMTIxMjIxMTcsOTYyNDQw
+NjA1LDI0NTI5Mzg4MSwyMDMwODQ0NzIzLC0xNzA5MjE1NTE4LD
+ExMTMyODg2NTksMTA4Nzg4MjM4NCwxODQwNTYyMzAyLC0xMDE3
+MTI1NTMzXX0=
 -->
