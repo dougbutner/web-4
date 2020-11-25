@@ -203,7 +203,7 @@ ___
 
 ___
 
-# **Proof of Individuality - Biometric Secret Keys + Protecting Identity**
+# **Proof of Individuality - Biokeys + Biosecrets**
 > **Please Note:** There are solutions available today (like [FaceTec](https://www.facetec.com/) and [BrightID](https://www.brightid.org/)) that solve the same issues presented here. This paper seeks to outline a web 3-based system (decentralized + open source) that can run without a centralized actor, while not providing specifics to accomplish these goals. This is more of a thought experiment than a suggestion or requirement. 
 
 **Biometric secrets** are akin to any cryptographic private key, but they are your actual biological data. Instead of a private key generated alongside a public key, **a hash of quantized biometric data becomes your public key**, which is paired with your **actual flesh-and-blood-and-sound-and-movement-data, your private key**, which isn't stored on any server or blockchain. 
@@ -224,8 +224,8 @@ Democratic systems certainly are being built without biometric verification, and
 We will present the ideas that are crucial for a biometric system to be different, and represent true growth into web 4.
 
 
-**Key Aspects** 
-1. **Biometric Expression**: A user is presented with a choice of different biometric options used to generate a hash that can only belong to this person. 
+**Key Points** 
+1. **Biosecrets**: A user is presented with a choice of different biometric options used to generate a hash that can only belong to this person. 
 User can choose to either perform a chosen biometric task to receive their hashed biokey (trustless) or generate it at any time from a third-party provider (trust). Any third-party provider will generate the same hash by a set of open-source algorithms. 
 
 2. **Biokey Generation**: User's sensitive biological information and generated algorithmic results are destroyed (made impossible to reconstruct) at the layer of hashing, and data not stored in any way, public or private, as the user runs the software on their local machine (assuming they choose the open-source software, not a third party).
@@ -465,11 +465,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTQ0NzYyNTYsLTE3MjE3MTc4OTEsLT
-E0NjQ4MTc2NzYsOTE1MTUxOTYyLDE1NDAyMTE0MTcsMTI3NzAw
-MDg2OCwtMTI1NTM2NDc0OCw2MTA2MjY5NzQsNDcxODU5MTEyLC
-0xMjgyMTU5MTg2LDMzNzE3NjU3MiwyMTIxMjIxMTcsOTYyNDQw
-NjA1LDI0NTI5Mzg4MSwyMDMwODQ0NzIzLC0xNzA5MjE1NTE4LD
-ExMTMyODg2NTksMTA4Nzg4MjM4NCwxODQwNTYyMzAyLC0xMDE3
-MTI1NTMzXX0=
+eyJoaXN0b3J5IjpbOTA2MjkyMzQ3LC0xNzIxNzE3ODkxLC0xND
+Y0ODE3Njc2LDkxNTE1MTk2MiwxNTQwMjExNDE3LDEyNzcwMDA4
+NjgsLTEyNTUzNjQ3NDgsNjEwNjI2OTc0LDQ3MTg1OTExMiwtMT
+I4MjE1OTE4NiwzMzcxNzY1NzIsMjEyMTIyMTE3LDk2MjQ0MDYw
+NSwyNDUyOTM4ODEsMjAzMDg0NDcyMywtMTcwOTIxNTUxOCwxMT
+EzMjg4NjU5LDEwODc4ODIzODQsMTg0MDU2MjMwMiwtMTAxNzEy
+NTUzM119
 -->
