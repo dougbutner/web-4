@@ -225,9 +225,8 @@ We will present the ideas that are crucial for a biometric system to be differen
 
 **Key Points** 
 1. **Biosecrets**:  Biosecrets are a specific biometric expression that is quantified into data points with a precision that makes it replicable for the individual in the future, but impossible for another person to duplicate, even an identical twin.
-User can choose to either perform a chosen biometric task to receive their hashed biokey (trustless) or generate it at any time from a third-party provider (trust). Any third-party provider will generate the same hash by a set of open-source algorithms. 
 
-3. **Biokey **: User's sensitive biological information and generated algorithmic results are destroyed (made impossible to reconstruct) at the layer of hashing, and data not stored in any way, public or private, as the user runs the software on their local machine (assuming they choose the open-source software, not a third party).
+3. **Biokey **: Sensitive biological information and generated are destroyed (made impossible to reconstruct) at the layer of hashing, and data not stored in any way, public or private, as the user runs the software on their local machine (assuming they choose the open-source software, not a third party).
 
 The biggest issue with biometrics is the lack of trust, mostly due to the growing number of facial recognition softwares and databases. The lack of trust is almost always associated with an individual's lack of consent, not the technology itself. 
 
@@ -464,11 +463,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTgyODA0OSwtMTcyMTcxNzg5MSwtMT
-Q2NDgxNzY3Niw5MTUxNTE5NjIsMTU0MDIxMTQxNywxMjc3MDAw
-ODY4LC0xMjU1MzY0NzQ4LDYxMDYyNjk3NCw0NzE4NTkxMTIsLT
-EyODIxNTkxODYsMzM3MTc2NTcyLDIxMjEyMjExNyw5NjI0NDA2
-MDUsMjQ1MjkzODgxLDIwMzA4NDQ3MjMsLTE3MDkyMTU1MTgsMT
-ExMzI4ODY1OSwxMDg3ODgyMzg0LDE4NDA1NjIzMDIsLTEwMTcx
-MjU1MzNdfQ==
+eyJoaXN0b3J5IjpbLTEyMDE4MzI2NjIsLTExNTgyODA0OSwtMT
+cyMTcxNzg5MSwtMTQ2NDgxNzY3Niw5MTUxNTE5NjIsMTU0MDIx
+MTQxNywxMjc3MDAwODY4LC0xMjU1MzY0NzQ4LDYxMDYyNjk3NC
+w0NzE4NTkxMTIsLTEyODIxNTkxODYsMzM3MTc2NTcyLDIxMjEy
+MjExNyw5NjI0NDA2MDUsMjQ1MjkzODgxLDIwMzA4NDQ3MjMsLT
+E3MDkyMTU1MTgsMTExMzI4ODY1OSwxMDg3ODgyMzg0LDE4NDA1
+NjIzMDJdfQ==
 -->
