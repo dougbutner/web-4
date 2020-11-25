@@ -226,9 +226,11 @@ We will present the ideas that are crucial for a biometric system to be differen
 **Key Points** 
 1. **Biosecrets**: A biosecret is a specific biometric expression that is quantified into data points with a precision that makes it replicable for the individual in the future, but impossible for another person to duplicate, even an identical twin.
 
-3. **Biokey **: The biological information that makes up a biosecret is hashed into a public biokey, making the original, public or private, as the user runs the software on their local machine (assuming they choose the open-source software, not a third party).
+3. **Biokey **: The biometric information that makes up a biosecret is hashed into a public biokey, making the original biometrics practically impossible to reconstruct for a biokey.
 
-The biggest issue with biometrics is the lack of trust, mostly due to the growing number of facial recognition softwares and databases. The lack of trust is almost always associated with an individual's lack of consent, not the technology itself. 
+
+## Trust Issues
+The biggest issue with biometrics is the lack of trust the general population has with giving up their b, mostly due to the growing number of facial recognition softwares and databases. The lack of trust is almost always associated with an individual's lack of consent, not the technology itself. 
 
 ### To alleviate the trust issue, solutions must be: 
 1) open-source
@@ -463,11 +465,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzE4MDMwNCwxNzI1NjgyNDEyLC0xMT
-U4MjgwNDksLTE3MjE3MTc4OTEsLTE0NjQ4MTc2NzYsOTE1MTUx
-OTYyLDE1NDAyMTE0MTcsMTI3NzAwMDg2OCwtMTI1NTM2NDc0OC
-w2MTA2MjY5NzQsNDcxODU5MTEyLC0xMjgyMTU5MTg2LDMzNzE3
-NjU3MiwyMTIxMjIxMTcsOTYyNDQwNjA1LDI0NTI5Mzg4MSwyMD
-MwODQ0NzIzLC0xNzA5MjE1NTE4LDExMTMyODg2NTksMTA4Nzg4
-MjM4NF19
+eyJoaXN0b3J5IjpbODcwMjE2MTI2LDE3MjU2ODI0MTIsLTExNT
+gyODA0OSwtMTcyMTcxNzg5MSwtMTQ2NDgxNzY3Niw5MTUxNTE5
+NjIsMTU0MDIxMTQxNywxMjc3MDAwODY4LC0xMjU1MzY0NzQ4LD
+YxMDYyNjk3NCw0NzE4NTkxMTIsLTEyODIxNTkxODYsMzM3MTc2
+NTcyLDIxMjEyMjExNyw5NjI0NDA2MDUsMjQ1MjkzODgxLDIwMz
+A4NDQ3MjMsLTE3MDkyMTU1MTgsMTExMzI4ODY1OSwxMDg3ODgy
+Mzg0XX0=
 -->
