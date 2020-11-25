@@ -206,9 +206,9 @@ ___
 # **Proof of Individuality - Biometric Secret Keys + Protecting Identity**
 > **Please Note:** There are solutions available today (like [FaceTec](https://www.facetec.com/) and [BrightID](https://www.brightid.org/)) that solve the same issues presented here. This paper seeks to outline a web 3-based system (decentralized + open source) that can run without a centralized actor, while not providing specifics to accomplish these goals. This is more of a thought experiment than a suggestion or requirement. 
 
-Biometric Secret Keys
-**Biometric secrets** are akin to any cryptographic private key, but they are your actual biological data. Instead of a private key generated alongside a public key, the information hashed in a biometric expression becomes your public key, which is paired with your actual flesh-and-blood-and-sound-and-movement-data, that isn't stored on any server or blockchain. 
+**Biometric secrets** are akin to any cryptographic private key, but they are your actual biological data. Instead of a private key generated alongside a public key, the information hashed in **a biometric expression becomes your public key**, which is paired with your actual flesh-and-blood-and-sound-and-movement-data, the private key, that isn't stored on any server or blockchain. 
 
+## 
 In today's biometric space, static images are most commonly used for things like fingerprint and facial recognition, and geometry is the means to compare this data. Biometric secrets generated from static images are not secure, as static images can be faked. [2] Video offers a better solution to this problem, as it is harder to fake, can include audio, and lets developers create a whole new set of algorithms based on a changing stream of data. [Facetec](https://www.facetec.com/) is one company using video for biometric verification. 
 
 ### What is used to generate a biokey?
@@ -463,11 +463,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjQ4MTc2NzYsOTE1MTUxOTYyLDE1ND
-AyMTE0MTcsMTI3NzAwMDg2OCwtMTI1NTM2NDc0OCw2MTA2MjY5
-NzQsNDcxODU5MTEyLC0xMjgyMTU5MTg2LDMzNzE3NjU3MiwyMT
-IxMjIxMTcsOTYyNDQwNjA1LDI0NTI5Mzg4MSwyMDMwODQ0NzIz
-LC0xNzA5MjE1NTE4LDExMTMyODg2NTksMTA4Nzg4MjM4NCwxOD
-QwNTYyMzAyLC0xMDE3MTI1NTMzLC0xOTExNzYwNDg2LDE1MzY5
-Mzc1MjRdfQ==
+eyJoaXN0b3J5IjpbMzU0MTYzMywtMTQ2NDgxNzY3Niw5MTUxNT
+E5NjIsMTU0MDIxMTQxNywxMjc3MDAwODY4LC0xMjU1MzY0NzQ4
+LDYxMDYyNjk3NCw0NzE4NTkxMTIsLTEyODIxNTkxODYsMzM3MT
+c2NTcyLDIxMjEyMjExNyw5NjI0NDA2MDUsMjQ1MjkzODgxLDIw
+MzA4NDQ3MjMsLTE3MDkyMTU1MTgsMTExMzI4ODY1OSwxMDg3OD
+gyMzg0LDE4NDA1NjIzMDIsLTEwMTcxMjU1MzMsLTE5MTE3NjA0
+ODZdfQ==
 -->
