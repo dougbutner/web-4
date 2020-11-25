@@ -130,7 +130,7 @@ If we were to create a time token for a US citizen to vote in the US presidentia
 
 > This example intentionally doesn't account for anonymity
 
-This example is trivial. It becomes beneficial when we realize that we can just as easily send the person 12 voting tokens so they can vote on their first, second and third choice. It becomes even more interesting when we send tokens every month and allow the people to vote directly on the bills that are being presented to a legislative body. It becomes even more expansive when we have the faucet smart contract require e
+This example is trivial. It becomes beneficial when we realize that we can just as easily send the person 12 voting tokens so they can vote on their first, second and third choice. It becomes even more interesting when we send tokens every month and allow the people to vote directly on the bills that are being presented to their resp legislative bodies. It becomes even more expansive when we have the faucet smart contract require educational actions, such as opening a link to information on these bills, such as a summary and the full text. 
 
 Here is the minimum information stored in a time token, using [JSON Web Token (JWT)](https://jwt.io/introduction/) as an example
 ```
@@ -461,11 +461,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MDM5MTQ4OSwxMjc3MDAwODY4LC0xMj
-U1MzY0NzQ4LDYxMDYyNjk3NCw0NzE4NTkxMTIsLTEyODIxNTkx
-ODYsMzM3MTc2NTcyLDIxMjEyMjExNyw5NjI0NDA2MDUsMjQ1Mj
-kzODgxLDIwMzA4NDQ3MjMsLTE3MDkyMTU1MTgsMTExMzI4ODY1
-OSwxMDg3ODgyMzg0LDE4NDA1NjIzMDIsLTEwMTcxMjU1MzMsLT
-E5MTE3NjA0ODYsMTUzNjkzNzUyNCwzODIwNjcwMDMsOTM4Mzgw
-NDU3XX0=
+eyJoaXN0b3J5IjpbOTE3NjE0MTk4LDEyNzcwMDA4NjgsLTEyNT
+UzNjQ3NDgsNjEwNjI2OTc0LDQ3MTg1OTExMiwtMTI4MjE1OTE4
+NiwzMzcxNzY1NzIsMjEyMTIyMTE3LDk2MjQ0MDYwNSwyNDUyOT
+M4ODEsMjAzMDg0NDcyMywtMTcwOTIxNTUxOCwxMTEzMjg4NjU5
+LDEwODc4ODIzODQsMTg0MDU2MjMwMiwtMTAxNzEyNTUzMywtMT
+kxMTc2MDQ4NiwxNTM2OTM3NTI0LDM4MjA2NzAwMyw5MzgzODA0
+NTddfQ==
 -->
