@@ -215,12 +215,12 @@ In today's biometric space, static images are most commonly used for things like
 
 
 ## What could be used to generate a biokey?
-This stream of data (video + audio biometric expression) could be a user doing a series of hand gestures, facial exp, singing a part of a song, speaking a phrase, speaking a phrase in different voices, clapping, making a series of facial expressions or movements, or anything else one can imagine.
+This stream of data (video + audio biometric expression) could be a user doing a series of hand gestures, singing a part of a song, speaking a phrase, speaking a phrase in different voices, clapping, making a series of facial expressions or movements, or anything else one can imagine.
 
-For security, biometric expressions (used to make a biokey) must be unique (for example, which combination of words to speak) and many types must be available (gestures, movement, singing, clapping, etc) and used in combination. If each person's biokey was generated from the same single biometric expression, it would be a matter of time before specific AI could be developed to deepfake it for anyone. If the user is the only one that knows their biometric expressions it becomes nearly impossible to guess the type and nature of the expression, and even if that is known, difficult to use the same technique on more than one account. The nature of the uniqueness could be chosen by the user, or generated at random from the biokey software which would prompt the user to complete an action in a specific way. 
+For security, biometric expressions (used to make a biokey) must be unique (for example, which combination of words to speak) and many types must be available (gestures, movement, singing, clapping, etc) and used in combination. **If each person's biokey was generated from the same single biometric expression, it would be a matter of time before specific AI could be developed to deepfake it for anyone**. If the user is the only one that knows their biometric expressions it becomes nearly impossible to guess the type and nature of the expression, and even if that is known, difficult to use the same technique on more than one account. The nature of the uniqueness could be chosen by the user, or generated at random from the biokey software which would prompt the user to complete an action in a specific way. 
 
 ## Why do we need this, again?
-Democratic systems certainly are being built without biometric verification, and will continue to be until suitable biometric technology develops along the open source, client-side requirements. For now, **decentralized solutions** like [Civic](https://www.civic.com/), and centralized tech like [Facetec](https://www.facetec.com/FaceTec_3D_Face_Matching_Whitepaper.pdf) provide the necessary individuality at the cost of trust and requirement of citizenship. Additionally, **biometric data can be avoided entirely** by using a social verification platform like [BrightID](https://www.brightid.org/) As different projects implement web 4 in their own ways, the ideas presented thus far will develop as flaws are found. 
+Democratic systems certainly are being built without biometric verification, and will continue to be even after suitable biometric technology develops along the open source, client-side requirements. For now, **decentralized solutions** like [Civic](https://www.civic.com/), and centralized tech like [Facetec](https://www.facetec.com/FaceTec_3D_Face_Matching_Whitepaper.pdf) provide the necessary individuality at the cost of trust and requirement of citizenship. Additionally, **biometric data can be avoided entirely** by using a social verification platform like [BrightID](https://www.brightid.org/) As different projects implement web 4 in their own ways, the ideas presented thus far will develop as flaws are found. And there's always
 
 We will present the ideas that are crucial for a biometric system to be different, and represent true growth into web 4.
 
@@ -467,11 +467,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMxODE2MjEwLDQzOTA0MTgyMywtNzIyMT
-MyNDgxLDE3MjU2ODI0MTIsLTExNTgyODA0OSwtMTcyMTcxNzg5
-MSwtMTQ2NDgxNzY3Niw5MTUxNTE5NjIsMTU0MDIxMTQxNywxMj
-c3MDAwODY4LC0xMjU1MzY0NzQ4LDYxMDYyNjk3NCw0NzE4NTkx
-MTIsLTEyODIxNTkxODYsMzM3MTc2NTcyLDIxMjEyMjExNyw5Nj
-I0NDA2MDUsMjQ1MjkzODgxLDIwMzA4NDQ3MjMsLTE3MDkyMTU1
-MThdfQ==
+eyJoaXN0b3J5IjpbMTk1ODI0NjcsNDM5MDQxODIzLC03MjIxMz
+I0ODEsMTcyNTY4MjQxMiwtMTE1ODI4MDQ5LC0xNzIxNzE3ODkx
+LC0xNDY0ODE3Njc2LDkxNTE1MTk2MiwxNTQwMjExNDE3LDEyNz
+cwMDA4NjgsLTEyNTUzNjQ3NDgsNjEwNjI2OTc0LDQ3MTg1OTEx
+MiwtMTI4MjE1OTE4NiwzMzcxNzY1NzIsMjEyMTIyMTE3LDk2Mj
+Q0MDYwNSwyNDUyOTM4ODEsMjAzMDg0NDcyMywtMTcwOTIxNTUx
+OF19
 -->
