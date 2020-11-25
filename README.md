@@ -120,9 +120,11 @@ Qualified accounts adhere to the individuality requirements of a given system. E
 ## How do Time Tokens work?
 Time tokens operate like non-fungible tokens in their structure, storing a time unit (integer) with a unique user identifier (string) as the payload data. 
 
-The user's identifier can also be a biocryptographic key (biokey,) discussed in the next section.
+The user's identifier may also be a biocryptographic key (biokey) discussed in the next section.
 
-Time tokens are platform independent, and need only store simple data involving time unit and an account identifier at the most bare level.
+Time tokens are platform independent, and need only store simple data involving time unit and an account identifier at the most bare level. 
+
+Typically, the time unit is an integer that counts up the number of pre-defined time spans that have passed since an epoch point, or, when the system went live. For example, to create a time unit sys
 
 Here is the minimum information stored in a time token, using [JSON Web Token (JWT)](https://jwt.io/introduction/) as an example
 ```
@@ -453,11 +455,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM3NzM0MzcsMTI3NzAwMDg2OCwtMTI1NT
-M2NDc0OCw2MTA2MjY5NzQsNDcxODU5MTEyLC0xMjgyMTU5MTg2
-LDMzNzE3NjU3MiwyMTIxMjIxMTcsOTYyNDQwNjA1LDI0NTI5Mz
-g4MSwyMDMwODQ0NzIzLC0xNzA5MjE1NTE4LDExMTMyODg2NTks
-MTA4Nzg4MjM4NCwxODQwNTYyMzAyLC0xMDE3MTI1NTMzLC0xOT
-ExNzYwNDg2LDE1MzY5Mzc1MjQsMzgyMDY3MDAzLDkzODM4MDQ1
-N119
+eyJoaXN0b3J5IjpbLTc3NzI4ODUxMSwxMjc3MDAwODY4LC0xMj
+U1MzY0NzQ4LDYxMDYyNjk3NCw0NzE4NTkxMTIsLTEyODIxNTkx
+ODYsMzM3MTc2NTcyLDIxMjEyMjExNyw5NjI0NDA2MDUsMjQ1Mj
+kzODgxLDIwMzA4NDQ3MjMsLTE3MDkyMTU1MTgsMTExMzI4ODY1
+OSwxMDg3ODgyMzg0LDE4NDA1NjIzMDIsLTEwMTcxMjU1MzMsLT
+E5MTE3NjA0ODYsMTUzNjkzNzUyNCwzODIwNjcwMDMsOTM4Mzgw
+NDU3XX0=
 -->
