@@ -279,7 +279,7 @@ Collaborative social environments are always happening everywhere humans live. C
 
 ## What is a Geo-Social Layer?
 
-A geo-social layer is something that affects **people** (social) at a given **locale** (Geo). A simple example is the governing body of an area, including all of the legislation and officials. Another example is the customs and culture of a group of people. 
+A geo-social layer is something that affects **people** (social) at a given **location** (Geo). A simple example is the governing body of an area, including all of the legislation and officials. Another example is the customs and culture of a group of people. 
 
 The geo-social layers apt to be improved by web 4 are those which involve **people collaborating**, like government/legislation, food and water management, community projects, education, events, charities, environmental protection and much more. 
 
@@ -468,11 +468,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4OTU4Mzc2MCwtMTg5NDYwMjU4MiwtMT
-I4OTU2NTM2NSwtMTU1NTMzNDI2NCwxNTQ2ODg3ODM2LC0xOTg5
-NzIxMDMxLDQzOTA0MTgyMywtNzIyMTMyNDgxLDE3MjU2ODI0MT
-IsLTExNTgyODA0OSwtMTcyMTcxNzg5MSwtMTQ2NDgxNzY3Niw5
-MTUxNTE5NjIsMTU0MDIxMTQxNywxMjc3MDAwODY4LC0xMjU1Mz
-Y0NzQ4LDYxMDYyNjk3NCw0NzE4NTkxMTIsLTEyODIxNTkxODYs
-MzM3MTc2NTcyXX0=
+eyJoaXN0b3J5IjpbMTk1NDg5MzI2OSwyMDg5NTgzNzYwLC0xOD
+k0NjAyNTgyLC0xMjg5NTY1MzY1LC0xNTU1MzM0MjY0LDE1NDY4
+ODc4MzYsLTE5ODk3MjEwMzEsNDM5MDQxODIzLC03MjIxMzI0OD
+EsMTcyNTY4MjQxMiwtMTE1ODI4MDQ5LC0xNzIxNzE3ODkxLC0x
+NDY0ODE3Njc2LDkxNTE1MTk2MiwxNTQwMjExNDE3LDEyNzcwMD
+A4NjgsLTEyNTUzNjQ3NDgsNjEwNjI2OTc0LDQ3MTg1OTExMiwt
+MTI4MjE1OTE4Nl19
 -->
