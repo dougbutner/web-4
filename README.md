@@ -279,9 +279,9 @@ Collaborative social environments are always happening everywhere humans live. C
 
 ## What is a Geo-Social Layer?
 
-A geo-social layer is something that affects people (**social**) at a given bounded area (**geo**). A simple example is the governing body of an area, including all of the legislation and officials,  also the customs and culture of a group of people. 
+A geo-social layer is something that affects people (**social**) at a given bounded area (**geo**). A simple example is the governing body of an area, including all of the legislation and officials.
 
-The geo-social layers apt to be improved by web 4 are those which involve **people collaborating**, like government/legislation, food and water management, community projects, education, events, charities, environmental protection and much more. 
+The geo-social layers apt to be improved by web 4 are those which involve **people collaborating**, like government/legislation, food and water management, community projects, education, events, charities, environmental protection and more. 
 
 ## Creating Geo-social Layers
 To create geo-social layers, you first must define the geographic boundaries, and then the requirements for an individual to be associated with that location
@@ -468,11 +468,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMTU5ODc3OCwtMTA5ODE1NTQwMywyMD
-g5NTgzNzYwLC0xODk0NjAyNTgyLC0xMjg5NTY1MzY1LC0xNTU1
-MzM0MjY0LDE1NDY4ODc4MzYsLTE5ODk3MjEwMzEsNDM5MDQxOD
-IzLC03MjIxMzI0ODEsMTcyNTY4MjQxMiwtMTE1ODI4MDQ5LC0x
-NzIxNzE3ODkxLC0xNDY0ODE3Njc2LDkxNTE1MTk2MiwxNTQwMj
-ExNDE3LDEyNzcwMDA4NjgsLTEyNTUzNjQ3NDgsNjEwNjI2OTc0
-LDQ3MTg1OTExMl19
+eyJoaXN0b3J5IjpbODI1NjM3ODgxLC0xMDk4MTU1NDAzLDIwOD
+k1ODM3NjAsLTE4OTQ2MDI1ODIsLTEyODk1NjUzNjUsLTE1NTUz
+MzQyNjQsMTU0Njg4NzgzNiwtMTk4OTcyMTAzMSw0MzkwNDE4Mj
+MsLTcyMjEzMjQ4MSwxNzI1NjgyNDEyLC0xMTU4MjgwNDksLTE3
+MjE3MTc4OTEsLTE0NjQ4MTc2NzYsOTE1MTUxOTYyLDE1NDAyMT
+E0MTcsMTI3NzAwMDg2OCwtMTI1NTM2NDc0OCw2MTA2MjY5NzQs
+NDcxODU5MTEyXX0=
 -->
