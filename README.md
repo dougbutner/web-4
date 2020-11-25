@@ -224,7 +224,7 @@ We will present the ideas that are crucial for a biometric system to be differen
 
 
 **Key Points** 
-1. **Biosecrets**:  Biosecrets are a specific biometric expression that is quantified into data points with a precision that makes it replicatable for the individual in the future, but impossible for another person to duplicate, even an identical twin.
+1. **Biosecrets**:  Biosecrets are a specific biometric expression that is quantified into data points with a precision that makes it replicable for the individual in the future, but impossible for another person to duplicate, even an identical twin.
 User can choose to either perform a chosen biometric task to receive their hashed biokey (trustless) or generate it at any time from a third-party provider (trust). Any third-party provider will generate the same hash by a set of open-source algorithms. 
 
 3. **Biokey **: User's sensitive biological information and generated algorithmic results are destroyed (made impossible to reconstruct) at the layer of hashing, and data not stored in any way, public or private, as the user runs the software on their local machine (assuming they choose the open-source software, not a third party).
@@ -464,7 +464,7 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzOTExMDExNCwtMTcyMTcxNzg5MSwtMT
+eyJoaXN0b3J5IjpbLTExNTgyODA0OSwtMTcyMTcxNzg5MSwtMT
 Q2NDgxNzY3Niw5MTUxNTE5NjIsMTU0MDIxMTQxNywxMjc3MDAw
 ODY4LC0xMjU1MzY0NzQ4LDYxMDYyNjk3NCw0NzE4NTkxMTIsLT
 EyODIxNTkxODYsMzM3MTc2NTcyLDIxMjEyMjExNyw5NjI0NDA2
