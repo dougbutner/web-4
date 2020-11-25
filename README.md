@@ -224,7 +224,7 @@ We will present the ideas that are crucial for a biometric system to be differen
 
 
 **Key Points** 
-1. **Biosecrets**:  Biosecrets are a specific biometric expression that is quantified into data points with a precision that makes it replicable for the individual in the future, but impossible for another person to duplicate, even an identical twin.
+1. **Biosecrets**: A Biosecrets are a specific biometric expression that is quantified into data points with a precision that makes it replicable for the individual in the future, but impossible for another person to duplicate, even an identical twin.
 
 3. **Biokey **: The biological information that makes up a biosecret is made impossible to reconstruct by hashing it into a public biokey and data not stored in any way, public or private, as the user runs the software on their local machine (assuming they choose the open-source software, not a third party).
 
@@ -463,11 +463,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNTY4MjQxMiwtMTE1ODI4MDQ5LC0xNz
-IxNzE3ODkxLC0xNDY0ODE3Njc2LDkxNTE1MTk2MiwxNTQwMjEx
-NDE3LDEyNzcwMDA4NjgsLTEyNTUzNjQ3NDgsNjEwNjI2OTc0LD
-Q3MTg1OTExMiwtMTI4MjE1OTE4NiwzMzcxNzY1NzIsMjEyMTIy
-MTE3LDk2MjQ0MDYwNSwyNDUyOTM4ODEsMjAzMDg0NDcyMywtMT
-cwOTIxNTUxOCwxMTEzMjg4NjU5LDEwODc4ODIzODQsMTg0MDU2
-MjMwMl19
+eyJoaXN0b3J5IjpbMjM0MzU1MjMzLDE3MjU2ODI0MTIsLTExNT
+gyODA0OSwtMTcyMTcxNzg5MSwtMTQ2NDgxNzY3Niw5MTUxNTE5
+NjIsMTU0MDIxMTQxNywxMjc3MDAwODY4LC0xMjU1MzY0NzQ4LD
+YxMDYyNjk3NCw0NzE4NTkxMTIsLTEyODIxNTkxODYsMzM3MTc2
+NTcyLDIxMjEyMjExNyw5NjI0NDA2MDUsMjQ1MjkzODgxLDIwMz
+A4NDQ3MjMsLTE3MDkyMTU1MTgsMTExMzI4ODY1OSwxMDg3ODgy
+Mzg0XX0=
 -->
