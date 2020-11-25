@@ -279,9 +279,9 @@ Collaborative social environments are always happening everywhere humans live. C
 
 ## What is a Geo-Social Layer?
 
-A geo-social layer is something that affects **people** (social) at a given **location** (Geo). A simple example is the governing body of an area, including all of the legislation. Another example is the customs and culture of a group of people. 
+A geo-social layer is something that affects **people** (social) at a given **location** (Geo). A simple example is the governing body of an area, including all of the legislation and officials. Another example is the customs and culture of a group of people. 
 
-The geo-social layers apt to be improved by web 4 are those which involve **people collaborating**; government/legislation, food and water management, community projects, education, events, charities, environmental protection and much more. 
+The geo-social layers apt to be improved by web 4 are those which involve **people collaborating**, like government/legislation, food and water management, community projects, education, events, charities, environmental protection and much more. 
 
 ## Geographic Stratification  
 Across the globe, one geopolitical pattern seems to emerge. Cities are within Counties, are within Districts (States in the USA), are within nations, are within the world. 
@@ -465,11 +465,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTUzMzQyNjQsMTU0Njg4NzgzNiwtMT
-k4OTcyMTAzMSw0MzkwNDE4MjMsLTcyMjEzMjQ4MSwxNzI1Njgy
-NDEyLC0xMTU4MjgwNDksLTE3MjE3MTc4OTEsLTE0NjQ4MTc2Nz
-YsOTE1MTUxOTYyLDE1NDAyMTE0MTcsMTI3NzAwMDg2OCwtMTI1
-NTM2NDc0OCw2MTA2MjY5NzQsNDcxODU5MTEyLC0xMjgyMTU5MT
-g2LDMzNzE3NjU3MiwyMTIxMjIxMTcsOTYyNDQwNjA1LDI0NTI5
-Mzg4MV19
+eyJoaXN0b3J5IjpbLTEyODk1NjUzNjUsLTE1NTUzMzQyNjQsMT
+U0Njg4NzgzNiwtMTk4OTcyMTAzMSw0MzkwNDE4MjMsLTcyMjEz
+MjQ4MSwxNzI1NjgyNDEyLC0xMTU4MjgwNDksLTE3MjE3MTc4OT
+EsLTE0NjQ4MTc2NzYsOTE1MTUxOTYyLDE1NDAyMTE0MTcsMTI3
+NzAwMDg2OCwtMTI1NTM2NDc0OCw2MTA2MjY5NzQsNDcxODU5MT
+EyLC0xMjgyMTU5MTg2LDMzNzE3NjU3MiwyMTIxMjIxMTcsOTYy
+NDQwNjA1XX0=
 -->
