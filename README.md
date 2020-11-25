@@ -279,12 +279,12 @@ Collaborative social environments are always happening everywhere humans live. C
 
 ## What is a Geo-Social Layer?
 
-A geo-social layer is something that affects **people** (social) at a given **location** (Geo). A simple example is the governing body of an area, including all of the legislation and officials. Another example is the customs and culture of a group of people. 
+A geo-social layer is something that affects **people** (social) at a given **locale** (Geo). A simple example is the governing body of an area, including all of the legislation and officials. Another example is the customs and culture of a group of people. 
 
 The geo-social layers apt to be improved by web 4 are those which involve **people collaborating**, like government/legislation, food and water management, community projects, education, events, charities, environmental protection and much more. 
 
 ## Creating Geo-social Layers
-To create geo-social layers, you first must define the geographic boundaries, and then the requirements for an individual to be associated with that 
+To create geo-social layers, you first must define the geographic boundaries, and then the requirements for an individual to be associated with that location
 
 ### Geographic Stratification  
 Across the globe, one geopolitical pattern seems to emerge. Cities are within Counties, are within Districts (States in the USA), are within nations, are within the world. 
@@ -468,11 +468,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTQ2MDI1ODIsLTEyODk1NjUzNjUsLT
-E1NTUzMzQyNjQsMTU0Njg4NzgzNiwtMTk4OTcyMTAzMSw0Mzkw
-NDE4MjMsLTcyMjEzMjQ4MSwxNzI1NjgyNDEyLC0xMTU4MjgwND
-ksLTE3MjE3MTc4OTEsLTE0NjQ4MTc2NzYsOTE1MTUxOTYyLDE1
-NDAyMTE0MTcsMTI3NzAwMDg2OCwtMTI1NTM2NDc0OCw2MTA2Mj
-Y5NzQsNDcxODU5MTEyLC0xMjgyMTU5MTg2LDMzNzE3NjU3Miwy
-MTIxMjIxMTddfQ==
+eyJoaXN0b3J5IjpbMjA4OTU4Mzc2MCwtMTg5NDYwMjU4MiwtMT
+I4OTU2NTM2NSwtMTU1NTMzNDI2NCwxNTQ2ODg3ODM2LC0xOTg5
+NzIxMDMxLDQzOTA0MTgyMywtNzIyMTMyNDgxLDE3MjU2ODI0MT
+IsLTExNTgyODA0OSwtMTcyMTcxNzg5MSwtMTQ2NDgxNzY3Niw5
+MTUxNTE5NjIsMTU0MDIxMTQxNywxMjc3MDAwODY4LC0xMjU1Mz
+Y0NzQ4LDYxMDYyNjk3NCw0NzE4NTkxMTIsLTEyODIxNTkxODYs
+MzM3MTc2NTcyXX0=
 -->
