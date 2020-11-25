@@ -206,9 +206,10 @@ ___
 # **Proof of Individuality - Biometric Secret Keys + Protecting Identity**
 > **Please Note:** There are solutions available today (like [FaceTec](https://www.facetec.com/) and [BrightID](https://www.brightid.org/)) that solve the same issues presented here. This paper seeks to outline a web 3-based system (decentralized + open source) that can run without a centralized actor, while not providing specifics to accomplish these goals. This is more of a thought experiment than a suggestion or requirement. 
 
-**Biometric secrets** are akin to any cryptographic private key, but they are your actual biological data. Instead of a private key generated alongside a public key, the information hashed in a biometric expression becomes your public key, which is paired with your actual flesh-and-blood-and-sound-and-movement-data, that isn't stored on any server or blockchain. In today's biometric space, static images are most commonly used for things like fingerprint and facial recognition, and geometry is the means to compare this data. 
+Biometric Secret Keys
+**Biometric secrets** are akin to any cryptographic private key, but they are your actual biological data. Instead of a private key generated alongside a public key, the information hashed in a biometric expression becomes your public key, which is paired with your actual flesh-and-blood-and-sound-and-movement-data, that isn't stored on any server or blockchain. 
 
-Biometric secrets generated from static images are not secure, as static images can be faked. [2] Video offers a better solution to this problem, as it is harder to fake, can include audio, and lets developers create a whole new set of algorithms based on a changing stream of data. [Facetec](https://www.facetec.com/) is one company using video for biometric verification. 
+In today's biometric space, static images are most commonly used for things like fingerprint and facial recognition, and geometry is the means to compare this data. Biometric secrets generated from static images are not secure, as static images can be faked. [2] Video offers a better solution to this problem, as it is harder to fake, can include audio, and lets developers create a whole new set of algorithms based on a changing stream of data. [Facetec](https://www.facetec.com/) is one company using video for biometric verification. 
 
 ### What is used to generate a biokey?
 This stream of data (video + audio biometric expression) could be a user doing a series of hand gestures, singing a part of a song, speaking a phrase, speaking a phrase in different voices, clapping, making a series of facial expressions or movements, or anything else one can imagine.
@@ -462,11 +463,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM2Njg2NzcyLDkxNTE1MTk2MiwxNTQwMj
-ExNDE3LDEyNzcwMDA4NjgsLTEyNTUzNjQ3NDgsNjEwNjI2OTc0
-LDQ3MTg1OTExMiwtMTI4MjE1OTE4NiwzMzcxNzY1NzIsMjEyMT
-IyMTE3LDk2MjQ0MDYwNSwyNDUyOTM4ODEsMjAzMDg0NDcyMywt
-MTcwOTIxNTUxOCwxMTEzMjg4NjU5LDEwODc4ODIzODQsMTg0MD
-U2MjMwMiwtMTAxNzEyNTUzMywtMTkxMTc2MDQ4NiwxNTM2OTM3
-NTI0XX0=
+eyJoaXN0b3J5IjpbLTE0NjQ4MTc2NzYsOTE1MTUxOTYyLDE1ND
+AyMTE0MTcsMTI3NzAwMDg2OCwtMTI1NTM2NDc0OCw2MTA2MjY5
+NzQsNDcxODU5MTEyLC0xMjgyMTU5MTg2LDMzNzE3NjU3MiwyMT
+IxMjIxMTcsOTYyNDQwNjA1LDI0NTI5Mzg4MSwyMDMwODQ0NzIz
+LC0xNzA5MjE1NTE4LDExMTMyODg2NTksMTA4Nzg4MjM4NCwxOD
+QwNTYyMzAyLC0xMDE3MTI1NTMzLC0xOTExNzYwNDg2LDE1MzY5
+Mzc1MjRdfQ==
 -->
