@@ -249,7 +249,7 @@ ___
 ##  Information Entropy
 Web 3 focuses on storing information forever in a provable way. Web 4 introduces a **counter-model** which may be **optionally** adopted by any time-token-based system. In this model, who did what becomes **harder and harder to know** the more time that passes. 
 
-This idea hinges upon incremental time units, the number of which is used to decide how difficult information about a particular individual is to access. 
+This idea hinges upon incremental time units, the number of which is used to decide how difficult information about a particular individual is to access. For example, you could subtrace t
 
 With **information entropy**, it is difficult, but not impossible, to piece together a story about an individual user by knowing they are responsible for a set of transactions over time. The further back in time a transaction is, the **harder** it is to link it to another transaction with any **certainty**. 
 
@@ -465,11 +465,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjc2MTY3OTQsLTE5ODk3MjEwMzEsND
-M5MDQxODIzLC03MjIxMzI0ODEsMTcyNTY4MjQxMiwtMTE1ODI4
-MDQ5LC0xNzIxNzE3ODkxLC0xNDY0ODE3Njc2LDkxNTE1MTk2Mi
-wxNTQwMjExNDE3LDEyNzcwMDA4NjgsLTEyNTUzNjQ3NDgsNjEw
-NjI2OTc0LDQ3MTg1OTExMiwtMTI4MjE1OTE4NiwzMzcxNzY1Nz
-IsMjEyMTIyMTE3LDk2MjQ0MDYwNSwyNDUyOTM4ODEsMjAzMDg0
-NDcyM119
+eyJoaXN0b3J5IjpbNDEwMjkzNzc4LC0xOTg5NzIxMDMxLDQzOT
+A0MTgyMywtNzIyMTMyNDgxLDE3MjU2ODI0MTIsLTExNTgyODA0
+OSwtMTcyMTcxNzg5MSwtMTQ2NDgxNzY3Niw5MTUxNTE5NjIsMT
+U0MDIxMTQxNywxMjc3MDAwODY4LC0xMjU1MzY0NzQ4LDYxMDYy
+Njk3NCw0NzE4NTkxMTIsLTEyODIxNTkxODYsMzM3MTc2NTcyLD
+IxMjEyMjExNyw5NjI0NDA2MDUsMjQ1MjkzODgxLDIwMzA4NDQ3
+MjNdfQ==
 -->
