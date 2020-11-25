@@ -204,7 +204,7 @@ ___
 ___
 
 # **Proof of Individuality - Biometric Secret Keys + Protecting Identity**
-> **Please Note:** There are solutions available today (like [FaceTec](https://www.facetec.com/) and [BrightID](https://www.brightid.org/)) that solve the same issues presented here. This paper seeks to outline a web 3-based system (decentralized + open source) that can run without a centralized actor, while not providing specifics to accomplish these goals. This is more of a thought experiment than a suggestion or requirement. U
+> **Please Note:** There are solutions available today (like [FaceTec](https://www.facetec.com/) and [BrightID](https://www.brightid.org/)) that solve the same issues presented here. This paper seeks to outline a web 3-based system (decentralized + open source) that can run without a centralized actor, while not providing specifics to accomplish these goals. This is more of a thought experiment than a suggestion or requirement. I do not endorse nor
 
 **Biometric secrets** are akin to any cryptographic private key, but they are your actual biological data. Instead of being generated alongside a public key, the information hashed in a biometric expression becomes your public key, which is paired with your actual flesh-and-blood-and-sound-and-movement-data, that isn't stored on any server or blockchain. In today's biometric space, static images are most commonly used for things like fingerprint and facial recognition, and geometry is the means to compare this data. 
 
@@ -462,11 +462,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MDIxMTQxNywxMjc3MDAwODY4LC0xMj
-U1MzY0NzQ4LDYxMDYyNjk3NCw0NzE4NTkxMTIsLTEyODIxNTkx
-ODYsMzM3MTc2NTcyLDIxMjEyMjExNyw5NjI0NDA2MDUsMjQ1Mj
-kzODgxLDIwMzA4NDQ3MjMsLTE3MDkyMTU1MTgsMTExMzI4ODY1
-OSwxMDg3ODgyMzg0LDE4NDA1NjIzMDIsLTEwMTcxMjU1MzMsLT
-E5MTE3NjA0ODYsMTUzNjkzNzUyNCwzODIwNjcwMDMsOTM4Mzgw
-NDU3XX0=
+eyJoaXN0b3J5IjpbOTE1MTUxOTYyLDE1NDAyMTE0MTcsMTI3Nz
+AwMDg2OCwtMTI1NTM2NDc0OCw2MTA2MjY5NzQsNDcxODU5MTEy
+LC0xMjgyMTU5MTg2LDMzNzE3NjU3MiwyMTIxMjIxMTcsOTYyND
+QwNjA1LDI0NTI5Mzg4MSwyMDMwODQ0NzIzLC0xNzA5MjE1NTE4
+LDExMTMyODg2NTksMTA4Nzg4MjM4NCwxODQwNTYyMzAyLC0xMD
+E3MTI1NTMzLC0xOTExNzYwNDg2LDE1MzY5Mzc1MjQsMzgyMDY3
+MDAzXX0=
 -->
