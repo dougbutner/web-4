@@ -230,11 +230,11 @@ We will present the ideas that are crucial for a biometric system to be differen
 
 
 ## Trust Issues
-The biggest issue with biometrics is the lack of trust the general population has (or should have) with giving up their biometric data, incl to the growing number of facial recognition softwares and databases. The lack of trust is almost always associated with an individual's lack of consent, not the technology itself. 
+The biggest issue with biometrics is the lack of trust the general population has (or should have) with giving up their biometric data, including the growing number of facial recognition softwares and databases. The lack of trust is almost always associated with an individual's **lack of clear consent**, and lack of understanding the technology itself. 
 
-### To alleviate the trust issue, solutions must be: 
+### To alleviate the trust issue, biokey generators must be: 
 1) open-source
-2) ran entirely on the individual's hardware (client-side), and 
+2) entirely run on the individual's hardware (client-side), and 
 3) not expose any biometric data to any other users or the system itself. 
 
 There will always be **security concerns** with biometrics. For example, if a user uses their biometric secret to unlock their mobile device, another app could be secretly recording the camera in the background. A person could record them doing their secret, and try to play that video back to the camera to gain access. Also, *[deepfakes.](https://github.com/aerophile/awesome-deepfakes)* exist. These concerns must be addressed before this module of web 4 reaches mass adoption. 
@@ -465,11 +465,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NDcxMjgxMSwtNzIyMTMyNDgxLDE3Mj
-U2ODI0MTIsLTExNTgyODA0OSwtMTcyMTcxNzg5MSwtMTQ2NDgx
-NzY3Niw5MTUxNTE5NjIsMTU0MDIxMTQxNywxMjc3MDAwODY4LC
-0xMjU1MzY0NzQ4LDYxMDYyNjk3NCw0NzE4NTkxMTIsLTEyODIx
-NTkxODYsMzM3MTc2NTcyLDIxMjEyMjExNyw5NjI0NDA2MDUsMj
-Q1MjkzODgxLDIwMzA4NDQ3MjMsLTE3MDkyMTU1MTgsMTExMzI4
-ODY1OV19
+eyJoaXN0b3J5IjpbLTcxMTE3MDkxLC03MjIxMzI0ODEsMTcyNT
+Y4MjQxMiwtMTE1ODI4MDQ5LC0xNzIxNzE3ODkxLC0xNDY0ODE3
+Njc2LDkxNTE1MTk2MiwxNTQwMjExNDE3LDEyNzcwMDA4NjgsLT
+EyNTUzNjQ3NDgsNjEwNjI2OTc0LDQ3MTg1OTExMiwtMTI4MjE1
+OTE4NiwzMzcxNzY1NzIsMjEyMTIyMTE3LDk2MjQ0MDYwNSwyND
+UyOTM4ODEsMjAzMDg0NDcyMywtMTcwOTIxNTUxOCwxMTEzMjg4
+NjU5XX0=
 -->
