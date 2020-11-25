@@ -210,8 +210,8 @@ ___
 
 Instead of a private key generated alongside a public key, **a hash of quantized biometric data becomes your public key**, which is paired with your **actual flesh-and-blood-and-sound-and-movement-data, your private/secret key**, or as we call it "**biosecret**" which isn't stored on any server or blockchain. 
 
-## The 
-1. **Biosecret**: A biosecret is a specific biometric expression that is quantified and quan into data points with a precision that makes it replicable for the individual in the future, but impossible for another person to duplicate, even an identical twin.
+## Pr
+1. **Biosecret**: A biosecret is a specific biometric expression that is quantized using cartesian grids into data points with a precision that makes it replicable for the individual in the future, but impossible for another person to duplicate, even an identical twin.
 
 3. **Biokey**: The biometric information that makes up a biosecret is hashed into a public biokey, making the original biometrics practically impossible to reconstruct for a biokey.
 
@@ -471,7 +471,7 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg4NTI3NDU5LDQzOTA0MTgyMywtNzIyMT
+eyJoaXN0b3J5IjpbODI4MDIxMjcwLDQzOTA0MTgyMywtNzIyMT
 MyNDgxLDE3MjU2ODI0MTIsLTExNTgyODA0OSwtMTcyMTcxNzg5
 MSwtMTQ2NDgxNzY3Niw5MTUxNTE5NjIsMTU0MDIxMTQxNywxMj
 c3MDAwODY4LC0xMjU1MzY0NzQ4LDYxMDYyNjk3NCw0NzE4NTkx
