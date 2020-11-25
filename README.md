@@ -194,7 +194,7 @@ The notable parts here are the `time-unit` and `userid` in the payload, and the 
 
 We have said we web 4 is based on web 3 (blockchain), but this example intentionally used  **web 2 technology**. Much of the rest of this paper goes over ways to avoid trust by incorporating biometric data in a specific way, but that's not always needed, or helpful. We have to trust a government to run our elections. We have to trust social media platforms with our photos. We have to trust the Sun will rise, and a. giant meteor won't crash into Earth. 
 
-The truth is, all systems have some level of trust, even if that's just in the system itself. If we try to get rid of this trust by implementing a system so good we are our own private key, it can backfire, and if we built it because we were fearful instead of trusting, that's super lame. 
+The truth is, **all systems have some level of trust**, even if that's just in the system itself. If we try to get rid of this trust by implementing a system so good we are our own private key, it can backfire, and when it does, if we built it because we were fearful instead of trusting, that's super lame. 
 
 While I'm going to lay out a possible solution to use biometrics in a "trustless" way that fits with web 3 ideals, I don't personally think it's a good idea, and I won't be designing my Web 4 apps with it for quite some times, if ever. 
 
@@ -206,7 +206,7 @@ ___
 # **Proof of Individuality - Biometric Secret Keys + Protecting Identity**
 > **Please Note:** There are solutions available today (like [FaceTec](https://www.facetec.com/) and [BrightID](https://www.brightid.org/)) that solve the same issues presented here. This paper seeks to outline a web 3-based system (decentralized + open source) that can run without a centralized actor, while not providing specifics to accomplish these goals. This is more of a thought experiment than a suggestion or requirement. 
 
-**Biometric secrets** are akin to any cryptographic private key, but they are your actual biological data. Instead of a private key generated alongside a public key, the information hashed in **a biometric expression becomes your public key**, which is paired with your actual flesh-and-blood-and-sound-and-movement-data, the private key, that isn't stored on any server or blockchain. 
+**Biometric secrets** are akin to any cryptographic private key, but they are your actual biological data. Instead of a private key generated alongside a public key, the information hashed in **a biometric expression becomes your public key, which is paired with your actual flesh-and-blood-and-sound-and-movement-data, the private key, that isn't stored on any server or blockchain. 
 
 ## 
 In today's biometric space, static images are most commonly used for things like fingerprint and facial recognition, and geometry is the means to compare this data. Biometric secrets generated from static images are not secure, as static images can be faked. [2] Video offers a better solution to this problem, as it is harder to fake, can include audio, and lets developers create a whole new set of algorithms based on a changing stream of data. [Facetec](https://www.facetec.com/) is one company using video for biometric verification. 
@@ -463,11 +463,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU0MTYzMywtMTQ2NDgxNzY3Niw5MTUxNT
-E5NjIsMTU0MDIxMTQxNywxMjc3MDAwODY4LC0xMjU1MzY0NzQ4
-LDYxMDYyNjk3NCw0NzE4NTkxMTIsLTEyODIxNTkxODYsMzM3MT
-c2NTcyLDIxMjEyMjExNyw5NjI0NDA2MDUsMjQ1MjkzODgxLDIw
-MzA4NDQ3MjMsLTE3MDkyMTU1MTgsMTExMzI4ODY1OSwxMDg3OD
-gyMzg0LDE4NDA1NjIzMDIsLTEwMTcxMjU1MzMsLTE5MTE3NjA0
-ODZdfQ==
+eyJoaXN0b3J5IjpbMTAxNTUxMzgyMSwtMTQ2NDgxNzY3Niw5MT
+UxNTE5NjIsMTU0MDIxMTQxNywxMjc3MDAwODY4LC0xMjU1MzY0
+NzQ4LDYxMDYyNjk3NCw0NzE4NTkxMTIsLTEyODIxNTkxODYsMz
+M3MTc2NTcyLDIxMjEyMjExNyw5NjI0NDA2MDUsMjQ1MjkzODgx
+LDIwMzA4NDQ3MjMsLTE3MDkyMTU1MTgsMTExMzI4ODY1OSwxMD
+g3ODgyMzg0LDE4NDA1NjIzMDIsLTEwMTcxMjU1MzMsLTE5MTE3
+NjA0ODZdfQ==
 -->
