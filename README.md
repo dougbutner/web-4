@@ -124,7 +124,7 @@ The user's identifier may also be a biocryptographic key (biokey) discussed in t
 
 Time tokens are platform independent, and need only the ability to store simple data: a time unit and user identifier. 
 
-In practice, a time unit is an integer that counts up the number of pre-defined time spans that have passed since an **epoch**. The epoch is typically when the system went live. For example, if we were to create a time token for a US citizen to vote in the presidential election, the time span would be 126144000, and the epoch would be at a timestamp representing the start of the election day previous to the first one to use a timestamp. 
+In practice, a time unit is an integer that counts up the number of pre-defined time spans that have passed since an **epoch**. The epoch is typically when the system went live, and represents 0 in the first time interval. For example, if we were to create a time token for a US citizen to vote in the presidential election, the time span would be 126144000 seconds (four years), and the epoch would be at a timestamp representing the start of the election day previous to the first election to use time tokens. On election day, a active faucet would send one time token to each registered voter (aka Qualified Account)
 
 Here is the minimum information stored in a time token, using [JSON Web Token (JWT)](https://jwt.io/introduction/) as an example
 ```
@@ -455,11 +455,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MDU1ODY1OCwxMjc3MDAwODY4LC0xMj
-U1MzY0NzQ4LDYxMDYyNjk3NCw0NzE4NTkxMTIsLTEyODIxNTkx
-ODYsMzM3MTc2NTcyLDIxMjEyMjExNyw5NjI0NDA2MDUsMjQ1Mj
-kzODgxLDIwMzA4NDQ3MjMsLTE3MDkyMTU1MTgsMTExMzI4ODY1
-OSwxMDg3ODgyMzg0LDE4NDA1NjIzMDIsLTEwMTcxMjU1MzMsLT
-E5MTE3NjA0ODYsMTUzNjkzNzUyNCwzODIwNjcwMDMsOTM4Mzgw
-NDU3XX0=
+eyJoaXN0b3J5IjpbOTA0ODA0OTU4LDEyNzcwMDA4NjgsLTEyNT
+UzNjQ3NDgsNjEwNjI2OTc0LDQ3MTg1OTExMiwtMTI4MjE1OTE4
+NiwzMzcxNzY1NzIsMjEyMTIyMTE3LDk2MjQ0MDYwNSwyNDUyOT
+M4ODEsMjAzMDg0NDcyMywtMTcwOTIxNTUxOCwxMTEzMjg4NjU5
+LDEwODc4ODIzODQsMTg0MDU2MjMwMiwtMTAxNzEyNTUzMywtMT
+kxMTc2MDQ4NiwxNTM2OTM3NTI0LDM4MjA2NzAwMyw5MzgzODA0
+NTddfQ==
 -->
