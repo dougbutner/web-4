@@ -203,8 +203,8 @@ ___
 
 ___
 
-# **Proof of Individuality - Biometric Secrets + Protecting Identity**
-> **Please Note:** There are solutions available today (like [FaceTec](https://www.facetec.com/) and [BrightID](https://www.brightid.org/)) that solve the same issues presented here. This paper seeks to outline a "better" system (decentralized + open source) that can be ran without a centralized actor, while not providing specifics to accomplish these goals.
+# **Proof of Individuality - Biometric Secret Keys + Protecting Identity**
+> **Please Note:** There are solutions available today (like [FaceTec](https://www.facetec.com/) and [BrightID](https://www.brightid.org/)) that solve the same issues presented here. This paper seeks to outline a web 3-based system (decentralized + open source) that can run without a centralized actor, while not providing specifics to accomplish these goals. This is more of a thought experiement.
 
 **Biometric secrets** are akin to any cryptographic secret key, they are a hash of information. Instead of being generated alongside a public key, the information hashed in a biometric secret comes from a person's biometric expression. In today's biometric space, static images are most commonly used for things like fingerprint and facial recognition, and geometry is the means to compare this data. 
 
@@ -462,11 +462,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzMwNDAxNTksMTI3NzAwMDg2OCwtMT
-I1NTM2NDc0OCw2MTA2MjY5NzQsNDcxODU5MTEyLC0xMjgyMTU5
-MTg2LDMzNzE3NjU3MiwyMTIxMjIxMTcsOTYyNDQwNjA1LDI0NT
-I5Mzg4MSwyMDMwODQ0NzIzLC0xNzA5MjE1NTE4LDExMTMyODg2
-NTksMTA4Nzg4MjM4NCwxODQwNTYyMzAyLC0xMDE3MTI1NTMzLC
-0xOTExNzYwNDg2LDE1MzY5Mzc1MjQsMzgyMDY3MDAzLDkzODM4
-MDQ1N119
+eyJoaXN0b3J5IjpbMTYwMjA4ODcxMiwxMjc3MDAwODY4LC0xMj
+U1MzY0NzQ4LDYxMDYyNjk3NCw0NzE4NTkxMTIsLTEyODIxNTkx
+ODYsMzM3MTc2NTcyLDIxMjEyMjExNyw5NjI0NDA2MDUsMjQ1Mj
+kzODgxLDIwMzA4NDQ3MjMsLTE3MDkyMTU1MTgsMTExMzI4ODY1
+OSwxMDg3ODgyMzg0LDE4NDA1NjIzMDIsLTEwMTcxMjU1MzMsLT
+E5MTE3NjA0ODYsMTUzNjkzNzUyNCwzODIwNjcwMDMsOTM4Mzgw
+NDU3XX0=
 -->
