@@ -126,7 +126,7 @@ Time tokens are platform independent, and need only the ability to store simple 
 
 In practice, a time unit is an integer that counts up the number of pre-defined time spans that have passed since an **epoch**. The epoch is typically when the system went live, and represents 0 in the first time interval. 
 
-If we were to create a time token for a US citizen to vote in the US presidential election, the time span would be 126144000 seconds (four years), and the epoch would be at a timestamp representing the start of the election day previous to the first election to use time tokens. On election day, an active faucet would send one time token to each registered voter (aka Qualified Account) with a payload of the user's unique identifier and the integer 1 as the time unit (the next election would be 2, and so on.) The user could then send the token to the polling address with a memo of their vote to be burnt. A GUI . When voted, the system would check the identity of the voter, and the timeunit
+If we were to create a time token for a US citizen to vote in the US presidential election, the time span would be 126144000 seconds (four years), and the epoch would be at a timestamp representing the start of the election day previous to the first election to use time tokens. On election day, an active faucet would send one time token to each registered voter (aka Qualified Account) with a payload of the user's unique identifier and the integer 1 as the time unit (the next election would be 2, and so on.) The user could then send the token to the election's smart contract address with a memo of their vote. , the system would check the identity of the voter, and the time unit against their list to ensure they are voting in the correct election, and they
 
 Here is the minimum information stored in a time token, using [JSON Web Token (JWT)](https://jwt.io/introduction/) as an example
 ```
@@ -457,11 +457,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MTY4ODg3OSwxMjc3MDAwODY4LC0xMj
-U1MzY0NzQ4LDYxMDYyNjk3NCw0NzE4NTkxMTIsLTEyODIxNTkx
-ODYsMzM3MTc2NTcyLDIxMjEyMjExNyw5NjI0NDA2MDUsMjQ1Mj
-kzODgxLDIwMzA4NDQ3MjMsLTE3MDkyMTU1MTgsMTExMzI4ODY1
-OSwxMDg3ODgyMzg0LDE4NDA1NjIzMDIsLTEwMTcxMjU1MzMsLT
-E5MTE3NjA0ODYsMTUzNjkzNzUyNCwzODIwNjcwMDMsOTM4Mzgw
-NDU3XX0=
+eyJoaXN0b3J5IjpbLTE2NjY5NDA0NDgsMTI3NzAwMDg2OCwtMT
+I1NTM2NDc0OCw2MTA2MjY5NzQsNDcxODU5MTEyLC0xMjgyMTU5
+MTg2LDMzNzE3NjU3MiwyMTIxMjIxMTcsOTYyNDQwNjA1LDI0NT
+I5Mzg4MSwyMDMwODQ0NzIzLC0xNzA5MjE1NTE4LDExMTMyODg2
+NTksMTA4Nzg4MjM4NCwxODQwNTYyMzAyLC0xMDE3MTI1NTMzLC
+0xOTExNzYwNDg2LDE1MzY5Mzc1MjQsMzgyMDY3MDAzLDkzODM4
+MDQ1N119
 -->
