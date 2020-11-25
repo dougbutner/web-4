@@ -289,7 +289,7 @@ This paper is called "The Democratic Web" because the most obvious use of these 
 It makes sense that we start to build social systems alongside the existing geopolitical boundaries. 
 
 ## Creating Geo-social Layers
-To create geo-social layers, you first must define the **geographic stratification, and then the requirements for an individual to be associated with that location. 
+To create geo-social layers, you first must define the **geographic stratification**, and then the requirements for an individual to be associated with that location. 
 
 ### Geographic Stratification  
 Across the globe, one geopolitical pattern seems to emerge. Cities are within Counties, are within Districts (States in the USA), are within nations, are within the world. 
@@ -474,11 +474,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAzOTcyODI2LDE5NzI2NDA2MzAsLTE1NT
-Y0OTcwNjgsNDM3NDY0OTc0LDgyNTYzNzg4MSwtMTA5ODE1NTQw
-MywyMDg5NTgzNzYwLC0xODk0NjAyNTgyLC0xMjg5NTY1MzY1LC
-0xNTU1MzM0MjY0LDE1NDY4ODc4MzYsLTE5ODk3MjEwMzEsNDM5
-MDQxODIzLC03MjIxMzI0ODEsMTcyNTY4MjQxMiwtMTE1ODI4MD
-Q5LC0xNzIxNzE3ODkxLC0xNDY0ODE3Njc2LDkxNTE1MTk2Miwx
-NTQwMjExNDE3XX0=
+eyJoaXN0b3J5IjpbMTExOTYyMzUxNCwxOTcyNjQwNjMwLC0xNT
+U2NDk3MDY4LDQzNzQ2NDk3NCw4MjU2Mzc4ODEsLTEwOTgxNTU0
+MDMsMjA4OTU4Mzc2MCwtMTg5NDYwMjU4MiwtMTI4OTU2NTM2NS
+wtMTU1NTMzNDI2NCwxNTQ2ODg3ODM2LC0xOTg5NzIxMDMxLDQz
+OTA0MTgyMywtNzIyMTMyNDgxLDE3MjU2ODI0MTIsLTExNTgyOD
+A0OSwtMTcyMTcxNzg5MSwtMTQ2NDgxNzY3Niw5MTUxNTE5NjIs
+MTU0MDIxMTQxN119
 -->
