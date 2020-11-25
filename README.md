@@ -284,10 +284,12 @@ A geo-social layer is something that affects people (**social**) at a given boun
 The geo-social layers apt to be improved by web 4 are those which involve **people collaborating**, like government/legislation, food and water management, community projects, education, events, charities, environmental protection and more. 
 
 ## The Democratic Web
-This paper is called "The Democratic Web" because the most obvious use of these ideas is to create a democracy for the purpose of running an organization (company, non-profit, etc) or a society (community, nation, etc). 
+This paper is called "The Democratic Web" because the most obvious use of these ideas is to create a democracy for the purpose of running an organization (company, non-profit, etc) or a society (community, city, nation, etc). 
+
+It makes sense that we start to build social systems alongside the existing geopolitical boundaries. 
 
 ## Creating Geo-social Layers
-To create geo-social layers, you first must define the geographic boundaries, and then the requirements for an individual to be associated with that location
+To create geo-social layers, you first must define the **geographic stratification, and then the requirements for an individual to be associated with that location. 
 
 ### Geographic Stratification  
 Across the globe, one geopolitical pattern seems to emerge. Cities are within Counties, are within Districts (States in the USA), are within nations, are within the world. 
@@ -303,6 +305,7 @@ For communication, we will consider cities as the "lowest" and global as the "hi
 > Additionally, a **community level** may be added below cities to further add accuracy and usefulness. 
 
 For the purpose of any geo-social system, **geographic association with each actor** must be defined. 
+
 
 Traditionally, it's the existence within a certain area, such as a place of residence or business, that is of importance. When building a geo-social system, it's only necessary that association is declared at the lowest level of geographic stratification, from which the rest can be extrapolated. 
 
@@ -471,11 +474,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MjY0MDYzMCwtMTU1NjQ5NzA2OCw0Mz
-c0NjQ5NzQsODI1NjM3ODgxLC0xMDk4MTU1NDAzLDIwODk1ODM3
-NjAsLTE4OTQ2MDI1ODIsLTEyODk1NjUzNjUsLTE1NTUzMzQyNj
-QsMTU0Njg4NzgzNiwtMTk4OTcyMTAzMSw0MzkwNDE4MjMsLTcy
-MjEzMjQ4MSwxNzI1NjgyNDEyLC0xMTU4MjgwNDksLTE3MjE3MT
-c4OTEsLTE0NjQ4MTc2NzYsOTE1MTUxOTYyLDE1NDAyMTE0MTcs
-MTI3NzAwMDg2OF19
+eyJoaXN0b3J5IjpbNTAzOTcyODI2LDE5NzI2NDA2MzAsLTE1NT
+Y0OTcwNjgsNDM3NDY0OTc0LDgyNTYzNzg4MSwtMTA5ODE1NTQw
+MywyMDg5NTgzNzYwLC0xODk0NjAyNTgyLC0xMjg5NTY1MzY1LC
+0xNTU1MzM0MjY0LDE1NDY4ODc4MzYsLTE5ODk3MjEwMzEsNDM5
+MDQxODIzLC03MjIxMzI0ODEsMTcyNTY4MjQxMiwtMTE1ODI4MD
+Q5LC0xNzIxNzE3ODkxLC0xNDY0ODE3Njc2LDkxNTE1MTk2Miwx
+NTQwMjExNDE3XX0=
 -->
