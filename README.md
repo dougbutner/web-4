@@ -196,13 +196,7 @@ We have said we web 4 is based on web 3 (blockchain), but this example intention
 
 The truth is, all systems have some level of trust, even if that's just in the system itself. If we try to get rid of this trust by designing a system so good we are our own key, it can backfire. 
 
-While I'm going to lay out a possible way to use biometr 
-
-## Why can't web 2 be used for Time Tokens?
-
-Of course it can! It's just not viable to fulfill all principles of web 4, but can be done to an extent. 
-
-Web 2 is not a viable candidate for **provable democracy** because the federated nature means that your biometric data **must be trusted** to a third party, possibly a government, large corporation or malicious actor. Time tokens do not rely on blockchain technology, but benefit from it to remove trust and add transparency. 
+While I'm going to lay out a possible solution to use biometrics in a "trustless" way that fits with web 3 ideals, I don't think it's a good idea, and I won't be designing my Web 4 apps with it for quite some times, if ever. 
 
 ___
 # **<center>**2**</center>**
@@ -468,7 +462,7 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MjU5ODc2OCwxMjc3MDAwODY4LC0xMj
+eyJoaXN0b3J5IjpbLTUxMTYwOTI2NywxMjc3MDAwODY4LC0xMj
 U1MzY0NzQ4LDYxMDYyNjk3NCw0NzE4NTkxMTIsLTEyODIxNTkx
 ODYsMzM3MTc2NTcyLDIxMjEyMjExNyw5NjI0NDA2MDUsMjQ1Mj
 kzODgxLDIwMzA4NDQ3MjMsLTE3MDkyMTU1MTgsMTExMzI4ODY1
