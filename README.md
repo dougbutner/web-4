@@ -224,10 +224,10 @@ We will present the ideas that are crucial for a biometric system to be differen
 
 
 **Key Points** 
-1. **Biosecrets**: A user is presented with a choice of different biometric options used to generate a hash that can only belong to this person. 
+1. **Biosecrets**:  Biosecrets are a specific biometric expression that is quantified into data points with a pres 
 User can choose to either perform a chosen biometric task to receive their hashed biokey (trustless) or generate it at any time from a third-party provider (trust). Any third-party provider will generate the same hash by a set of open-source algorithms. 
 
-2. **Biokey Generation**: User's sensitive biological information and generated algorithmic results are destroyed (made impossible to reconstruct) at the layer of hashing, and data not stored in any way, public or private, as the user runs the software on their local machine (assuming they choose the open-source software, not a third party).
+2. **Biokey **: User's sensitive biological information and generated algorithmic results are destroyed (made impossible to reconstruct) at the layer of hashing, and data not stored in any way, public or private, as the user runs the software on their local machine (assuming they choose the open-source software, not a third party).
 
 The biggest issue with biometrics is the lack of trust, mostly due to the growing number of facial recognition softwares and databases. The lack of trust is almost always associated with an individual's lack of consent, not the technology itself. 
 
@@ -464,7 +464,7 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzg5NjUwNTAsLTE3MjE3MTc4OTEsLT
+eyJoaXN0b3J5IjpbLTE2NzEyNjQwNDcsLTE3MjE3MTc4OTEsLT
 E0NjQ4MTc2NzYsOTE1MTUxOTYyLDE1NDAyMTE0MTcsMTI3NzAw
 MDg2OCwtMTI1NTM2NDc0OCw2MTA2MjY5NzQsNDcxODU5MTEyLC
 0xMjgyMTU5MTg2LDMzNzE3NjU3MiwyMTIxMjIxMTcsOTYyNDQw
