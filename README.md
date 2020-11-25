@@ -230,7 +230,7 @@ We will present the ideas that are crucial for a biometric system to be differen
 
 
 ## Trust Issues
-The biggest issue with biometrics is the lack of trust the general population has (or should have) with giving up their biometric data, mostly due to the growing number of facial recognition softwares and databases. The lack of trust is almost always associated with an individual's lack of consent, not the technology itself. 
+The biggest issue with biometrics is the lack of trust the general population has (or should have) with giving up their biometric data, incl to the growing number of facial recognition softwares and databases. The lack of trust is almost always associated with an individual's lack of consent, not the technology itself. 
 
 ### To alleviate the trust issue, solutions must be: 
 1) open-source
@@ -465,11 +465,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMjEzMjQ4MSwxNzI1NjgyNDEyLC0xMT
-U4MjgwNDksLTE3MjE3MTc4OTEsLTE0NjQ4MTc2NzYsOTE1MTUx
-OTYyLDE1NDAyMTE0MTcsMTI3NzAwMDg2OCwtMTI1NTM2NDc0OC
-w2MTA2MjY5NzQsNDcxODU5MTEyLC0xMjgyMTU5MTg2LDMzNzE3
-NjU3MiwyMTIxMjIxMTcsOTYyNDQwNjA1LDI0NTI5Mzg4MSwyMD
-MwODQ0NzIzLC0xNzA5MjE1NTE4LDExMTMyODg2NTksMTA4Nzg4
-MjM4NF19
+eyJoaXN0b3J5IjpbLTU5NDcxMjgxMSwtNzIyMTMyNDgxLDE3Mj
+U2ODI0MTIsLTExNTgyODA0OSwtMTcyMTcxNzg5MSwtMTQ2NDgx
+NzY3Niw5MTUxNTE5NjIsMTU0MDIxMTQxNywxMjc3MDAwODY4LC
+0xMjU1MzY0NzQ4LDYxMDYyNjk3NCw0NzE4NTkxMTIsLTEyODIx
+NTkxODYsMzM3MTc2NTcyLDIxMjEyMjExNyw5NjI0NDA2MDUsMj
+Q1MjkzODgxLDIwMzA4NDQ3MjMsLTE3MDkyMTU1MTgsMTExMzI4
+ODY1OV19
 -->
