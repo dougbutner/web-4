@@ -215,7 +215,7 @@ In today's biometric space, static images are most commonly used for things like
 
 
 ## What could be used to generate a biokey?
-This stream of data (video + audio biometric expression) could be a user doing a series of hand gestures, singing a part of a song, speaking a phrase, speaking a phrase in different voices, clapping, making a series of facial expressions or movements, or anything else one can imagine.
+This stream of data (video + audio biometric expression) could be a user doing a series of hand gestures, facial exp, singing a part of a song, speaking a phrase, speaking a phrase in different voices, clapping, making a series of facial expressions or movements, or anything else one can imagine.
 
 For security, biometric expressions (used to make a biokey) must be unique (for example, which combination of words to speak) and many types must be available (gestures, movement, singing, clapping, etc) and used in combination. If each person's biokey was generated from the same single biometric expression, it would be a matter of time before specific AI could be developed to deepfake it for anyone. If the user is the only one that knows their biometric expressions it becomes nearly impossible to guess the type and nature of the expression, and even if that is known, difficult to use the same technique on more than one account. The nature of the uniqueness could be chosen by the user, or generated at random from the biokey software which would prompt the user to complete an action in a specific way. 
 
@@ -467,11 +467,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1Mjc2OTQ1MSw0MzkwNDE4MjMsLTcyMj
-EzMjQ4MSwxNzI1NjgyNDEyLC0xMTU4MjgwNDksLTE3MjE3MTc4
-OTEsLTE0NjQ4MTc2NzYsOTE1MTUxOTYyLDE1NDAyMTE0MTcsMT
-I3NzAwMDg2OCwtMTI1NTM2NDc0OCw2MTA2MjY5NzQsNDcxODU5
-MTEyLC0xMjgyMTU5MTg2LDMzNzE3NjU3MiwyMTIxMjIxMTcsOT
-YyNDQwNjA1LDI0NTI5Mzg4MSwyMDMwODQ0NzIzLC0xNzA5MjE1
-NTE4XX0=
+eyJoaXN0b3J5IjpbNjMxODE2MjEwLDQzOTA0MTgyMywtNzIyMT
+MyNDgxLDE3MjU2ODI0MTIsLTExNTgyODA0OSwtMTcyMTcxNzg5
+MSwtMTQ2NDgxNzY3Niw5MTUxNTE5NjIsMTU0MDIxMTQxNywxMj
+c3MDAwODY4LC0xMjU1MzY0NzQ4LDYxMDYyNjk3NCw0NzE4NTkx
+MTIsLTEyODIxNTkxODYsMzM3MTc2NTcyLDIxMjEyMjExNyw5Nj
+I0NDA2MDUsMjQ1MjkzODgxLDIwMzA4NDQ3MjMsLTE3MDkyMTU1
+MThdfQ==
 -->
