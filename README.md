@@ -283,6 +283,9 @@ A geo-social layer is something that affects people (**social**) at a given boun
 
 The geo-social layers apt to be improved by web 4 are those which involve **people collaborating**, like government/legislation, food and water management, community projects, education, events, charities, environmental protection and more. 
 
+## The Democratic Web
+This paper is called "The Democratic Web" because the most obvious use of these ideas is to create a parallel government
+
 ## Creating Geo-social Layers
 To create geo-social layers, you first must define the geographic boundaries, and then the requirements for an individual to be associated with that location
 
@@ -468,11 +471,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI1NjM3ODgxLC0xMDk4MTU1NDAzLDIwOD
-k1ODM3NjAsLTE4OTQ2MDI1ODIsLTEyODk1NjUzNjUsLTE1NTUz
-MzQyNjQsMTU0Njg4NzgzNiwtMTk4OTcyMTAzMSw0MzkwNDE4Mj
-MsLTcyMjEzMjQ4MSwxNzI1NjgyNDEyLC0xMTU4MjgwNDksLTE3
-MjE3MTc4OTEsLTE0NjQ4MTc2NzYsOTE1MTUxOTYyLDE1NDAyMT
-E0MTcsMTI3NzAwMDg2OCwtMTI1NTM2NDc0OCw2MTA2MjY5NzQs
-NDcxODU5MTEyXX0=
+eyJoaXN0b3J5IjpbNDM3NDY0OTc0LDgyNTYzNzg4MSwtMTA5OD
+E1NTQwMywyMDg5NTgzNzYwLC0xODk0NjAyNTgyLC0xMjg5NTY1
+MzY1LC0xNTU1MzM0MjY0LDE1NDY4ODc4MzYsLTE5ODk3MjEwMz
+EsNDM5MDQxODIzLC03MjIxMzI0ODEsMTcyNTY4MjQxMiwtMTE1
+ODI4MDQ5LC0xNzIxNzE3ODkxLC0xNDY0ODE3Njc2LDkxNTE1MT
+k2MiwxNTQwMjExNDE3LDEyNzcwMDA4NjgsLTEyNTUzNjQ3NDgs
+NjEwNjI2OTc0XX0=
 -->
