@@ -194,7 +194,9 @@ The notable parts here are the `time-unit` and `userid` in the payload, and the 
 
 We have said we web 4 is based on web 3 (blockchain), but this example intentionally used  **web 2 technology**. Much of the rest of this paper goes over ways to avoid trust by incorporating biometric data in a specific way, but that's not always needed, or helpful. We have to trust a government to run our elections. We have to trust social media platforms with our photos. 
 
-The truth is, all systems have some level of trust, even if that is just in the system itself. 
+The truth is, all systems have some level of trust, even if that's just in the system itself. If we try to get rid of this trust by designing a system so good we are our own key, it can backfire. 
+
+While I'm going to lay out a possible way to use biometr 
 
 ## Why can't web 2 be used for Time Tokens?
 
@@ -466,11 +468,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTEzOTg4ODgsMTI3NzAwMDg2OCwtMT
-I1NTM2NDc0OCw2MTA2MjY5NzQsNDcxODU5MTEyLC0xMjgyMTU5
-MTg2LDMzNzE3NjU3MiwyMTIxMjIxMTcsOTYyNDQwNjA1LDI0NT
-I5Mzg4MSwyMDMwODQ0NzIzLC0xNzA5MjE1NTE4LDExMTMyODg2
-NTksMTA4Nzg4MjM4NCwxODQwNTYyMzAyLC0xMDE3MTI1NTMzLC
-0xOTExNzYwNDg2LDE1MzY5Mzc1MjQsMzgyMDY3MDAzLDkzODM4
-MDQ1N119
+eyJoaXN0b3J5IjpbLTc2MjU5ODc2OCwxMjc3MDAwODY4LC0xMj
+U1MzY0NzQ4LDYxMDYyNjk3NCw0NzE4NTkxMTIsLTEyODIxNTkx
+ODYsMzM3MTc2NTcyLDIxMjEyMjExNyw5NjI0NDA2MDUsMjQ1Mj
+kzODgxLDIwMzA4NDQ3MjMsLTE3MDkyMTU1MTgsMTExMzI4ODY1
+OSwxMDg3ODgyMzg0LDE4NDA1NjIzMDIsLTEwMTcxMjU1MzMsLT
+E5MTE3NjA0ODYsMTUzNjkzNzUyNCwzODIwNjcwMDMsOTM4Mzgw
+NDU3XX0=
 -->
