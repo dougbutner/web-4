@@ -210,7 +210,7 @@ ___
 
 Instead of a private key generated alongside a public key, **a hash of quantized biometric data becomes your public key**, which is paired with your **actual flesh-and-blood-and-sound-and-movement-data, your private/secret key**, or as we call it "**biosecret**" which isn't stored on any server or blockchain. 
 
-## Pr
+## Keys  
 1. **Biosecret**: A biosecret is a specific biometric expression that is quantized using cartesian grids into data points with a precision that makes it replicable for the individual in the future, but impossible for another person to duplicate, even an identical twin.
 
 3. **Biokey**: The biometric information that makes up a biosecret is hashed into a public biokey, making the original biometrics practically impossible to reconstruct for a biokey.
@@ -229,19 +229,13 @@ For security, biometric expressions (used to make a biokey) must be unique (for 
 ## Why do we need this, again?
 Democratic systems certainly are being built without biometric verification, and will continue to be even after suitable biometric technology develops along the open source, client-side requirements. For now, **decentralized solutions** like [Civic](https://www.civic.com/), and centralized tech like [Facetec](https://www.facetec.com/FaceTec_3D_Face_Matching_Whitepaper.pdf) provide the necessary individuality at the cost of trust and requirement of citizenship. Additionally, **biometric data can be avoided entirely** by using a social verification platform like [BrightID](https://www.brightid.org/) As different projects implement web 4 in their own ways, the ideas presented thus far will develop as flaws are found. And there's always the ability to use a whitelist, the most low-tech, high-trust, and simplest solution.
 
-We will present the ideas that are crucial for a biometric system to be different, and represent true growth into web 4.
-
-
-
-
-
 ## Trust Issues
 The biggest issue with biometrics is the lack of trust the general population has (or should have) with giving up their biometric data, including the growing number of facial recognition softwares and databases. The lack of trust is almost always associated with an individual's **lack of clear consent**, and lack of understanding the technology itself. 
 
 ### To alleviate the trust issue, biokey generators must be: 
-1) open-source
-2) entirely run on the individual's hardware (client-side), and 
-3) not expose any biometric data to any other users or to a web 4 system itself (the biosecret is never stored or transmitted in any way). 
+1) **open-source**
+2) entirely run on the individual's hardware (**client-side**), and 
+3) **not expose any biometric data** to any other users or to a web 4 system itself (the biosecret is never stored or transmitted in any way). 
 
 There will always be **security concerns** with biometrics. For example, if a user uses their biometric secret to unlock their mobile device, another app could be secretly recording the camera in the background. A person could record them doing their secret, and try to play that video back to the camera to gain access. Also, *[deepfakes.](https://github.com/aerophile/awesome-deepfakes)* exist. These concerns must be addressed before this module of web 4 reaches mass adoption. 
 
@@ -471,7 +465,7 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI4MDIxMjcwLDQzOTA0MTgyMywtNzIyMT
+eyJoaXN0b3J5IjpbMjUzNTQyMDM4LDQzOTA0MTgyMywtNzIyMT
 MyNDgxLDE3MjU2ODI0MTIsLTExNTgyODA0OSwtMTcyMTcxNzg5
 MSwtMTQ2NDgxNzY3Niw5MTUxNTE5NjIsMTU0MDIxMTQxNywxMj
 c3MDAwODY4LC0xMjU1MzY0NzQ4LDYxMDYyNjk3NCw0NzE4NTkx
