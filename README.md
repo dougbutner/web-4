@@ -208,7 +208,7 @@ ___
 
 **Biometric secrets (biosecrets)** are akin to any cryptographic private key, but they are your actual biological data, or, more specifically, a four dimensional expression of your humanness from which biometric data is collected. 
 
-Instead of a private key generated alongside a public key, **a hash of quantized biometric data becomes your public key**, which is paired with your **actual flesh-and-blood-and-sound-and-movement-data, your private key**, or as we call it "biokey" which isn't stored on any server or blockchain. 
+Instead of a private key generated alongside a public key, **a hash of quantized biometric data becomes your public key**, which is paired with your **actual flesh-and-blood-and-sound-and-movement-data, your private/secret key**, or as we call it "**biosecret**" which isn't stored on any server or blockchain. 
 
 ## How this can go wrong
 In today's biometric space, static images are most commonly used for things like fingerprint and facial recognition, and geometry is the means to compare this data. Biometric secrets generated from static images are not secure, as static images can be faked. [2] Video offers a better solution to this problem, as it is harder to fake, can include audio, and lets developers create a whole new set of algorithms based on a changing stream of data. [Facetec](https://www.facetec.com/) is one company using video for biometric verification. 
@@ -467,11 +467,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTQzNjk5NDUsNDM5MDQxODIzLC03Mj
-IxMzI0ODEsMTcyNTY4MjQxMiwtMTE1ODI4MDQ5LC0xNzIxNzE3
-ODkxLC0xNDY0ODE3Njc2LDkxNTE1MTk2MiwxNTQwMjExNDE3LD
-EyNzcwMDA4NjgsLTEyNTUzNjQ3NDgsNjEwNjI2OTc0LDQ3MTg1
-OTExMiwtMTI4MjE1OTE4NiwzMzcxNzY1NzIsMjEyMTIyMTE3LD
-k2MjQ0MDYwNSwyNDUyOTM4ODEsMjAzMDg0NDcyMywtMTcwOTIx
-NTUxOF19
+eyJoaXN0b3J5IjpbLTQ1Mjc2OTQ1MSw0MzkwNDE4MjMsLTcyMj
+EzMjQ4MSwxNzI1NjgyNDEyLC0xMTU4MjgwNDksLTE3MjE3MTc4
+OTEsLTE0NjQ4MTc2NzYsOTE1MTUxOTYyLDE1NDAyMTE0MTcsMT
+I3NzAwMDg2OCwtMTI1NTM2NDc0OCw2MTA2MjY5NzQsNDcxODU5
+MTEyLC0xMjgyMTU5MTg2LDMzNzE3NjU3MiwyMTIxMjIxMTcsOT
+YyNDQwNjA1LDI0NTI5Mzg4MSwyMDMwODQ0NzIzLC0xNzA5MjE1
+NTE4XX0=
 -->
