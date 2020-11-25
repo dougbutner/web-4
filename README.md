@@ -253,11 +253,11 @@ This idea hinges upon incremental time units, the number of which is used to dec
 
 With **information entropy**, it is difficult, but not impossible, to piece together a story about an individual user by knowing they are responsible for a set of transactions over time. The further back in time a transaction is, the **harder** it is to link it to another transaction with any **certainty**. 
 
-## Degradation of Information Fidelity
-Information fidelity requirements can also be degraded over time. For example, when generating a users biokey, it can be assumed that the more time that passes, the more the bioinformation of the individual will change. 
+## Information Entropy and Biosecrets
+Information fidelity requirements can also be degraded over time. For example, when generating a user's biokey, it can be assumed that the more time that passes, the more the biometrics of the individual will change. 
 
 ## Degradation of Biokeys
-**Biokeys** are generated from a **range of biometric values**. This range of values can be expanded over time. The effect is, instead of having one hashed biokey for eternity, the generation process will create a set of biokeys from an increasingly **wide range of data**. This concept may be needed to keep people in control of their accounts as they age. There is considerable work to be done to develop this concept, as each data type has its own complications. 
+**Biokeys** are generated from a **range of biometric values**. This range of values can be expanded over time based on specific, well researched paths. The effect is, instead of having one hashed biokey for eternity, the generation process will create a set of biokeys from an increasingly **wide range of data**. This concept may be needed to keep people in control of their accounts as they age. There is considerable work to be done to develop this concept, as each data type has its own complications. 
 
 In this case, as time goes on, someone attempting to prove their individuality would have to spend a lot **more effort** to run the algorithms against their collected biodata, and the data **precision** needed to match the person's identity is actually **lower**. This is one example of **fidelity change**; others can make it more expensive to change a record from the past, make it harder to find out the ID of a voter, or even limit a past state's effect on the future of a blockchain. 
 
@@ -465,7 +465,7 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDU5Nzg3MjcsNDM5MDQxODIzLC03Mj
+eyJoaXN0b3J5IjpbLTE5ODk3MjEwMzEsNDM5MDQxODIzLC03Mj
 IxMzI0ODEsMTcyNTY4MjQxMiwtMTE1ODI4MDQ5LC0xNzIxNzE3
 ODkxLC0xNDY0ODE3Njc2LDkxNTE1MTk2MiwxNTQwMjExNDE3LD
 EyNzcwMDA4NjgsLTEyNTUzNjQ3NDgsNjEwNjI2OTc0LDQ3MTg1
