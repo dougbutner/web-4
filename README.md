@@ -128,9 +128,9 @@ In practice, a time unit is an integer that counts up the number of pre-defined 
 
 If we were to create a time token for a US citizen to vote in the US presidential election, the time span would be 126144000 seconds (four years), and the epoch would be at a timestamp representing the start of the election day previous to the first election to use time tokens. On election day, an active faucet would send one time token to each registered voter (aka Qualified Account) with a payload of the user's unique identifier and the integer 1 as the time unit (the next election would be 2, and so on.) The user would then send the token to the election's smart contract address with a memo of their vote. The system would check the identity of the voter, and the time unit against their list to ensure they are voting in the correct election, burn the token, and send the user back another token representing a "I Voted" sticker. 
 
-> This example doesn't acco
+> This example intentionally doesn't account for anonymity
 
-This example is trivial. It becomes beneficial when we realize that we can just as easily send the person 12 voting tokens so they can vote on their first, second and third choice. It becomes even more interesting when we send tokens every month and allos the 
+This example is trivial. It becomes beneficial when we realize that we can just as easily send the person 12 voting tokens so they can vote on their first, second and third choice. It becomes even more interesting when we send tokens every month and allow the people to vote directly on the bills that are being presented to a legislative body. It becomes even more expansive when we have the faucet smart contract require e
 
 Here is the minimum information stored in a time token, using [JSON Web Token (JWT)](https://jwt.io/introduction/) as an example
 ```
@@ -461,7 +461,7 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNDQ2MjYxMSwxMjc3MDAwODY4LC0xMj
+eyJoaXN0b3J5IjpbLTY3MDM5MTQ4OSwxMjc3MDAwODY4LC0xMj
 U1MzY0NzQ4LDYxMDYyNjk3NCw0NzE4NTkxMTIsLTEyODIxNTkx
 ODYsMzM3MTc2NTcyLDIxMjEyMjExNyw5NjI0NDA2MDUsMjQ1Mj
 kzODgxLDIwMzA4NDQ3MjMsLTE3MDkyMTU1MTgsMTExMzI4ODY1
