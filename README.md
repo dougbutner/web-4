@@ -235,11 +235,11 @@ The biggest issue with biometrics is the lack of trust the general population ha
 ### To alleviate the trust issue, biokey generators must be: 
 1) open-source
 2) entirely run on the individual's hardware (client-side), and 
-3) not expose any biometric data to any other users or the system itself. 
+3) not expose any biometric data to any other users or to a web 4 system itself (the biosecret is never stored or transmitted in any way). 
 
 There will always be **security concerns** with biometrics. For example, if a user uses their biometric secret to unlock their mobile device, another app could be secretly recording the camera in the background. A person could record them doing their secret, and try to play that video back to the camera to gain access. Also, *[deepfakes.](https://github.com/aerophile/awesome-deepfakes)* exist. These concerns must be addressed before this module of web 4 reaches mass adoption. 
 
-The upside of biometric secrets is they **cannot be lost**, and the account will always be recoverable by the individual. In a web 4 ecosystem, where the tokens are distributed daily and often spent daily, a hack would be much less catastrophic. The attacker will be able to access the user's balance, but not alter the past transactions, nor continue to collect the future deposits, because the real user will (in theory) quickly recover the account and change the biometric secret generation means so that the hacker's biofake is no longer working. 
+The upside of biosecrets is they **cannot be lost**, and the account will always be recoverable by the individual. In a web 4 ecosystem, where the tokens are distributed daily and often spent daily, a hack would be much less catastrophic. The attacker will be able to access the user's balance, but not alter the past transactions, nor continue to collect the future deposits, because the real user will (in theory) quickly recover the account and change the biometric secret generation means so that the hacker's biofake is no longer working. 
 
 ___
 # <center>**3**</center>
@@ -465,7 +465,7 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMTE3MDkxLC03MjIxMzI0ODEsMTcyNT
+eyJoaXN0b3J5IjpbNDM5MDQxODIzLC03MjIxMzI0ODEsMTcyNT
 Y4MjQxMiwtMTE1ODI4MDQ5LC0xNzIxNzE3ODkxLC0xNDY0ODE3
 Njc2LDkxNTE1MTk2MiwxNTQwMjExNDE3LDEyNzcwMDA4NjgsLT
 EyNTUzNjQ3NDgsNjEwNjI2OTc0LDQ3MTg1OTExMiwtMTI4MjE1
