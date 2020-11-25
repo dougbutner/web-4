@@ -206,10 +206,12 @@ ___
 # **Proof of Individuality - Biometric Secret Keys + Protecting Identity**
 > **Please Note:** There are solutions available today (like [FaceTec](https://www.facetec.com/) and [BrightID](https://www.brightid.org/)) that solve the same issues presented here. This paper seeks to outline a web 3-based system (decentralized + open source) that can run without a centralized actor, while not providing specifics to accomplish these goals. This is more of a thought experiment than a suggestion or requirement. 
 
-**Biometric secrets** are akin to any cryptographic private key, but they are your actual biological data. Instead of a private key generated alongside a public key, **a hash of quantized biometric data becomes your public key**, which is paired with your actual flesh-and-blood-and-sound-and-movement-data, the private key, that isn't stored on any server or blockchain. 
+**Biometric secrets** are akin to any cryptographic private key, but they are your actual biological data. Instead of a private key generated alongside a public key, **a hash of quantized biometric data becomes your public key**, which is paired with your **actual flesh-and-blood-and-sound-and-movement-data, your private key**, which isn't stored on any server or blockchain. 
 
-## 
+## How this can go wrong
 In today's biometric space, static images are most commonly used for things like fingerprint and facial recognition, and geometry is the means to compare this data. Biometric secrets generated from static images are not secure, as static images can be faked. [2] Video offers a better solution to this problem, as it is harder to fake, can include audio, and lets developers create a whole new set of algorithms based on a changing stream of data. [Facetec](https://www.facetec.com/) is one company using video for biometric verification. 
+
+We don't want this to go poorly 
 
 ### What is used to generate a biokey?
 This stream of data (video + audio biometric expression) could be a user doing a series of hand gestures, singing a part of a song, speaking a phrase, speaking a phrase in different voices, clapping, making a series of facial expressions or movements, or anything else one can imagine.
@@ -463,7 +465,7 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTg0MzA3MDIsLTE0NjQ4MTc2NzYsOT
+eyJoaXN0b3J5IjpbLTE3MjE3MTc4OTEsLTE0NjQ4MTc2NzYsOT
 E1MTUxOTYyLDE1NDAyMTE0MTcsMTI3NzAwMDg2OCwtMTI1NTM2
 NDc0OCw2MTA2MjY5NzQsNDcxODU5MTEyLC0xMjgyMTU5MTg2LD
 MzNzE3NjU3MiwyMTIxMjIxMTcsOTYyNDQwNjA1LDI0NTI5Mzg4
