@@ -206,7 +206,7 @@ ___
 # **Proof of Individuality - Biokeys + Biosecrets**
 > **Please Note:** There are solutions available today (like [FaceTec](https://www.facetec.com/) and [BrightID](https://www.brightid.org/)) that solve the same issues presented here. This paper seeks to outline a web 3-based system (decentralized + open source) that can run without a centralized actor, while not providing specifics to accomplish these goals. This is more of a thought experiment than a suggestion or requirement. 
 
-**Biometric secrets** are akin to any cryptographic private key, but they are your actual biological data. Instead of a private key generated alongside a public key, **a hash of quantized biometric data becomes your public key**, which is paired with your **actual flesh-and-blood-and-sound-and-movement-data, your private key**, which isn't stored on any server or blockchain. 
+**Biometric secrets (biosecrets)** are akin to any cryptographic private key, but they are your actual biological data. Instead of a private key generated alongside a public key, **a hash of quantized biometric data becomes your public key**, which is paired with your **actual flesh-and-blood-and-sound-and-movement-data, your private key**, which isn't stored on any server or blockchain. 
 
 ## How this can go wrong
 In today's biometric space, static images are most commonly used for things like fingerprint and facial recognition, and geometry is the means to compare this data. Biometric secrets generated from static images are not secure, as static images can be faked. [2] Video offers a better solution to this problem, as it is harder to fake, can include audio, and lets developers create a whole new set of algorithms based on a changing stream of data. [Facetec](https://www.facetec.com/) is one company using video for biometric verification. 
@@ -465,7 +465,7 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA2MjkyMzQ3LC0xNzIxNzE3ODkxLC0xND
+eyJoaXN0b3J5IjpbOTIzMjg5MzEzLC0xNzIxNzE3ODkxLC0xND
 Y0ODE3Njc2LDkxNTE1MTk2MiwxNTQwMjExNDE3LDEyNzcwMDA4
 NjgsLTEyNTUzNjQ3NDgsNjEwNjI2OTc0LDQ3MTg1OTExMiwtMT
 I4MjE1OTE4NiwzMzcxNzY1NzIsMjEyMTIyMTE3LDk2MjQ0MDYw
