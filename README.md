@@ -206,17 +206,16 @@ ___
 # **Proof of Individuality - Biokeys + Biosecrets**
 > **Please Note:** There are solutions available today (like [FaceTec](https://www.facetec.com/) and [BrightID](https://www.brightid.org/)) that solve the same issues presented here. This paper seeks to outline a web 3-based system (decentralized + open source) that can run without a centralized actor, while not providing specifics to accomplish these goals. This is more of a thought experiment than a suggestion or requirement. 
 
-**Biometric secrets (biosecrets)** are akin to any cryptographic private key, but they are your actual biological data. Instead of a private key generated alongside a public key, **a hash of quantized biometric data becomes your public key**, which is paired with your **actual flesh-and-blood-and-sound-and-movement-data, your private key**, which isn't stored on any server or blockchain. 
+**Biometric secrets (biosecrets)** are akin to any cryptographic private key, but they are your actual biological data. Instead of a private key generated alongside a public key, **a hash of quantized biometric data becomes your public key**, which is paired with your **actual flesh-and-blood-and-sound-and-movement-data, your private key**, or as we call it "biokey" which isn't stored on any server or blockchain. 
 
 ## How this can go wrong
 In today's biometric space, static images are most commonly used for things like fingerprint and facial recognition, and geometry is the means to compare this data. Biometric secrets generated from static images are not secure, as static images can be faked. [2] Video offers a better solution to this problem, as it is harder to fake, can include audio, and lets developers create a whole new set of algorithms based on a changing stream of data. [Facetec](https://www.facetec.com/) is one company using video for biometric verification. 
 
 
-
 ## What could be used to generate a biokey?
 This stream of data (video + audio biometric expression) could be a user doing a series of hand gestures, singing a part of a song, speaking a phrase, speaking a phrase in different voices, clapping, making a series of facial expressions or movements, or anything else one can imagine.
 
-For security, biometric expressions must be unique (for example, which combination of words to speak) and many types (gesture, singing, clapping) must be available and used in combination. If each person's biometric secret was generated from the same single biometric expression, it would be a matter of time before specific AI could be developed to deepfake it for anyone. If the user is the only one that knows their biometric expressions it becomes nearly impossible to guess the type and nature of the expression, and even if that is known, difficult to use the same technique on more than one account. The nature of the uniqueness could be chosen by the user, or generated at random from the biokey software which would prompt the user to complete an action in a specific way. 
+For security, biometric expressions (used to make a biokey) must be unique (for example, which combination of words to speak) and many types (gesture, singing, clapping) must be available and used in combination. If each person's biometric secret was generated from the same single biometric expression, it would be a matter of time before specific AI could be developed to deepfake it for anyone. If the user is the only one that knows their biometric expressions it becomes nearly impossible to guess the type and nature of the expression, and even if that is known, difficult to use the same technique on more than one account. The nature of the uniqueness could be chosen by the user, or generated at random from the biokey software which would prompt the user to complete an action in a specific way. 
 
 ## Why do we need this, again?
 Democratic systems certainly are being built without biometric verification, and will continue to be until suitable biometric technology develops along the open source, client-side requirements. For now, **decentralized solutions** like [Civic](https://www.civic.com/), and centralized tech like [Facetec](https://www.facetec.com/FaceTec_3D_Face_Matching_Whitepaper.pdf) provide the necessary individuality at the cost of trust and requirement of citizenship. Additionally, **biometric data can be avoided entirely** by using a social verification platform like [BrightID](https://www.brightid.org/) As different projects implement web 4 in their own ways, the ideas presented thus far will develop as flaws are found. 
@@ -465,11 +464,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIzMjg5MzEzLC0xNzIxNzE3ODkxLC0xND
-Y0ODE3Njc2LDkxNTE1MTk2MiwxNTQwMjExNDE3LDEyNzcwMDA4
-NjgsLTEyNTUzNjQ3NDgsNjEwNjI2OTc0LDQ3MTg1OTExMiwtMT
-I4MjE1OTE4NiwzMzcxNzY1NzIsMjEyMTIyMTE3LDk2MjQ0MDYw
-NSwyNDUyOTM4ODEsMjAzMDg0NDcyMywtMTcwOTIxNTUxOCwxMT
-EzMjg4NjU5LDEwODc4ODIzODQsMTg0MDU2MjMwMiwtMTAxNzEy
-NTUzM119
+eyJoaXN0b3J5IjpbLTQ3NDM3NTQ0OSwtMTcyMTcxNzg5MSwtMT
+Q2NDgxNzY3Niw5MTUxNTE5NjIsMTU0MDIxMTQxNywxMjc3MDAw
+ODY4LC0xMjU1MzY0NzQ4LDYxMDYyNjk3NCw0NzE4NTkxMTIsLT
+EyODIxNTkxODYsMzM3MTc2NTcyLDIxMjEyMjExNyw5NjI0NDA2
+MDUsMjQ1MjkzODgxLDIwMzA4NDQ3MjMsLTE3MDkyMTU1MTgsMT
+ExMzI4ODY1OSwxMDg3ODgyMzg0LDE4NDA1NjIzMDIsLTEwMTcx
+MjU1MzNdfQ==
 -->
