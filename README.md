@@ -237,9 +237,9 @@ The biggest issue with biometrics is the lack of trust the general population ha
 2) entirely run on the individual's hardware (**client-side**), and 
 3) **not expose any biometric data** to any other users or to a web 4 system itself (the biosecret is never stored or transmitted in any way). 
 
-There will always be **security concerns** with biometrics. For example, if a user uses their biometric secret to unlock their mobile device, another app could be secretly recording the camera in the background. A person could record them doing their secret, and try to play that video back to the camera to gain access. Also, *[deepfakes.](https://github.com/aerophile/awesome-deepfakes)* exist. These concerns must be addressed before this module of web 4 reaches mass adoption. 
+There will always be **security concerns** with biometrics. For example, if a user uses their biometric secret to unlock their mobile device, another app could be secretly recording the camera in the background. A person could record them doing their secret, and try to play that video back to the camera to gain access. Also, *[deepfakes](https://github.com/aerophile/awesome-deepfakes) exist*. These concerns must be addressed before this module of web 4 reaches mass adoption. 
 
-The upside of biosecrets is they **cannot be lost**, and the account will always be recoverable by the individual. In a web 4 ecosystem, where the tokens are distributed daily and often spent daily, a hack would be much less catastrophic. The attacker will be able to access the user's balance, but not alter the past transactions, nor continue to collect the future deposits, because the real user will (in theory) quickly recover the account and change the biometric secret generation means so that the hacker's biofake is no longer working. 
+The upside of biosecrets is they **cannot be lost**, and the account will always be **recoverable by the individual**. In a web 4 ecosystem, where the tokens are distributed daily and often spent daily, a hack would be much less catastrophic. The attacker will be able to access the user's balance, but not alter the past transactions, nor continue to collect the future deposits, because the real user will (in theory) quickly recover the account and change the biometric secret generation means so that the hacker's biofake is no longer working. 
 
 ___
 # <center>**3**</center>
@@ -251,7 +251,7 @@ Web 3 focuses on storing information forever in a provable way. Web 4 introduces
 
 This idea hinges upon incremental time units, the number of which is used to decide how difficult information about a particular individual is to access. 
 
-With **pseudonymity**, it is difficult, but not impossible, to piece together a story about an individual user by knowing they are responsible for a set of transactions over time. The further back in time a transaction is, the **harder** it is to link it to another transaction with any **certainty**. 
+With **information entropy**, it is difficult, but not impossible, to piece together a story about an individual user by knowing they are responsible for a set of transactions over time. The further back in time a transaction is, the **harder** it is to link it to another transaction with any **certainty**. 
 
 ## Degradation of Information Fidelity
 Information fidelity requirements can also be degraded over time. For example, when generating a users biokey, it can be assumed that the more time that passes, the more the bioinformation of the individual will change. 
@@ -465,11 +465,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUzNTQyMDM4LDQzOTA0MTgyMywtNzIyMT
-MyNDgxLDE3MjU2ODI0MTIsLTExNTgyODA0OSwtMTcyMTcxNzg5
-MSwtMTQ2NDgxNzY3Niw5MTUxNTE5NjIsMTU0MDIxMTQxNywxMj
-c3MDAwODY4LC0xMjU1MzY0NzQ4LDYxMDYyNjk3NCw0NzE4NTkx
-MTIsLTEyODIxNTkxODYsMzM3MTc2NTcyLDIxMjEyMjExNyw5Nj
-I0NDA2MDUsMjQ1MjkzODgxLDIwMzA4NDQ3MjMsLTE3MDkyMTU1
-MThdfQ==
+eyJoaXN0b3J5IjpbLTE1MDU5Nzg3MjcsNDM5MDQxODIzLC03Mj
+IxMzI0ODEsMTcyNTY4MjQxMiwtMTE1ODI4MDQ5LC0xNzIxNzE3
+ODkxLC0xNDY0ODE3Njc2LDkxNTE1MTk2MiwxNTQwMjExNDE3LD
+EyNzcwMDA4NjgsLTEyNTUzNjQ3NDgsNjEwNjI2OTc0LDQ3MTg1
+OTExMiwtMTI4MjE1OTE4NiwzMzcxNzY1NzIsMjEyMTIyMTE3LD
+k2MjQ0MDYwNSwyNDUyOTM4ODEsMjAzMDg0NDcyMywtMTcwOTIx
+NTUxOF19
 -->
