@@ -206,7 +206,7 @@ ___
 # **Proof of Individuality - Biometric Secret Keys + Protecting Identity**
 > **Please Note:** There are solutions available today (like [FaceTec](https://www.facetec.com/) and [BrightID](https://www.brightid.org/)) that solve the same issues presented here. This paper seeks to outline a web 3-based system (decentralized + open source) that can run without a centralized actor, while not providing specifics to accomplish these goals. This is more of a thought experiment than a suggestion or requirement. 
 
-**Biometric secrets** are akin to any cryptographic private key, but they are your actual biological data. Instead of a private key generated alongside a public key, the information hashed in **a biometric expression becomes your public key, which is paired with your actual flesh-and-blood-and-sound-and-movement-data, the private key, that isn't stored on any server or blockchain. 
+**Biometric secrets** are akin to any cryptographic private key, but they are your actual biological data. Instead of a private key generated alongside a public key, **a hash of quantized biometric data becomes your public key**, which is paired with your actual flesh-and-blood-and-sound-and-movement-data, the private key, that isn't stored on any server or blockchain. 
 
 ## 
 In today's biometric space, static images are most commonly used for things like fingerprint and facial recognition, and geometry is the means to compare this data. Biometric secrets generated from static images are not secure, as static images can be faked. [2] Video offers a better solution to this problem, as it is harder to fake, can include audio, and lets developers create a whole new set of algorithms based on a changing stream of data. [Facetec](https://www.facetec.com/) is one company using video for biometric verification. 
@@ -463,11 +463,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNTUxMzgyMSwtMTQ2NDgxNzY3Niw5MT
-UxNTE5NjIsMTU0MDIxMTQxNywxMjc3MDAwODY4LC0xMjU1MzY0
-NzQ4LDYxMDYyNjk3NCw0NzE4NTkxMTIsLTEyODIxNTkxODYsMz
-M3MTc2NTcyLDIxMjEyMjExNyw5NjI0NDA2MDUsMjQ1MjkzODgx
-LDIwMzA4NDQ3MjMsLTE3MDkyMTU1MTgsMTExMzI4ODY1OSwxMD
-g3ODgyMzg0LDE4NDA1NjIzMDIsLTEwMTcxMjU1MzMsLTE5MTE3
-NjA0ODZdfQ==
+eyJoaXN0b3J5IjpbLTEwMTg0MzA3MDIsLTE0NjQ4MTc2NzYsOT
+E1MTUxOTYyLDE1NDAyMTE0MTcsMTI3NzAwMDg2OCwtMTI1NTM2
+NDc0OCw2MTA2MjY5NzQsNDcxODU5MTEyLC0xMjgyMTU5MTg2LD
+MzNzE3NjU3MiwyMTIxMjIxMTcsOTYyNDQwNjA1LDI0NTI5Mzg4
+MSwyMDMwODQ0NzIzLC0xNzA5MjE1NTE4LDExMTMyODg2NTksMT
+A4Nzg4MjM4NCwxODQwNTYyMzAyLC0xMDE3MTI1NTMzLC0xOTEx
+NzYwNDg2XX0=
 -->
