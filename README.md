@@ -108,7 +108,7 @@ Time tokens rely on the following concepts:
 	 These tokens provide the user with a function or action. The action burns the token, which may cause some change in the state of a system, such as minting another token, registering a vote, or any other action. Thus, **each time token is unique yet semi-fungible**. Time tokens can also be checked for freshness when needed, for example a user may have to use a certain time period's token to cast a vote in an election, which SHOULD also exclude that particular time token from all other functions. 
 	 
  2. **Time Unit**
-A time unit MUST be a superset of a timestamp. This means that a time unit is some amount (or fraction) of seconds. Each time token MUST be the only one in existence stamped with a particular time unit for each user (wallet). 
+A time unit is an interval that MUST be a superset of a timestamp. This means that a time unit is some amount (or fraction) of seconds. Each time token MUST be the only one in existence stamped with a particular time unit for each user (wallet). 
 
  2. **Time Faucet**
 A time faucet is a smart contract that offers any qualified account EXACTLY one time token per unit of time passed since their last faucet. This can be an active faucet; requiring some action by the recipient, or a passive faucet; automatically sending the cryptocurrency to the user. 
@@ -124,7 +124,7 @@ The user's identifier may also be a biocryptographic key (biokey) discussed in t
 
 Time tokens are platform independent, and need only the ability to store simple data: a time unit and user identifier. 
 
-In practice, a time unit is an integer that counts up the number of pre-defined time spans that have passed since an epoch point. The epoch point is typically when the system went live. For example, if we were to create a time token for a US citizen to vote in the election, the time span would be 
+In practice, a time unit is an integer that counts up the number of pre-defined time spans that have passed since an epoch point. The epoch point is typically when the system went live. For example, if we were to create a time token for a US citizen to vote in the election, the time span would be 126144000, and the epoc  at a timestamp representing the start of the election day previous to the first one to use a timestamp. 
 
 Here is the minimum information stored in a time token, using [JSON Web Token (JWT)](https://jwt.io/introduction/) as an example
 ```
@@ -455,7 +455,7 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MTA1NDkxNywxMjc3MDAwODY4LC0xMj
+eyJoaXN0b3J5IjpbMTM5MzE2NjY4NywxMjc3MDAwODY4LC0xMj
 U1MzY0NzQ4LDYxMDYyNjk3NCw0NzE4NTkxMTIsLTEyODIxNTkx
 ODYsMzM3MTc2NTcyLDIxMjEyMjExNyw5NjI0NDA2MDUsMjQ1Mj
 kzODgxLDIwMzA4NDQ3MjMsLTE3MDkyMTU1MTgsMTExMzI4ODY1
