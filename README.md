@@ -213,7 +213,7 @@ Instead of a private key generated alongside a public key, **a hash of quantized
 ## Keys  
 1. **Biosecret**: A biosecret is a specific biometric expression that is quantized using cartesian grids into data points with a precision that makes it replicable for the individual in the future, but impossible for another person to duplicate, even an identical twin.
 
-3. **Biokey**: The biometric information that makes up a biosecret is hashed into a public biokey, making the original biometrics practically impossible to reconstruct for a biokey.
+2. **Biokey**: The biometric information that makes up a biosecret is hashed into a public biokey, making the original biometrics practically impossible to reconstruct for a biokey.
 
 
 
@@ -279,7 +279,9 @@ Collaborative social environments are always happening everywhere humans live. C
 
 ## What is a Geo-Social Layer?
 
-A geo-social layer is something that affects people (**social**) at a given bounded area (**geo**). To refer to a group of people associated with a certain area, we'll call them a **geotribe**. 
+A geo-social layer is something that affects people (**social**) at a given bounded area (**geo**). To refer to a group of people associated with a certain area, we'll call them a **geotribe**, and to refer to that area we'll call it a **geodomain**. 
+
+
 
 These geotribes can be nested, with a finite number of smaller areas making up the larger area (geopolitics), or overlapping, such as with cultures and 
 
@@ -478,11 +480,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODI1OTk2NjEsMTQ4MDM2OTU3NywtND
-k2NDMzMzgwLDExMTk2MjM1MTQsMTk3MjY0MDYzMCwtMTU1NjQ5
-NzA2OCw0Mzc0NjQ5NzQsODI1NjM3ODgxLC0xMDk4MTU1NDAzLD
-IwODk1ODM3NjAsLTE4OTQ2MDI1ODIsLTEyODk1NjUzNjUsLTE1
-NTUzMzQyNjQsMTU0Njg4NzgzNiwtMTk4OTcyMTAzMSw0MzkwND
-E4MjMsLTcyMjEzMjQ4MSwxNzI1NjgyNDEyLC0xMTU4MjgwNDks
-LTE3MjE3MTc4OTFdfQ==
+eyJoaXN0b3J5IjpbLTIwNjE2Mjk4OTcsLTE0ODI1OTk2NjEsMT
+Q4MDM2OTU3NywtNDk2NDMzMzgwLDExMTk2MjM1MTQsMTk3MjY0
+MDYzMCwtMTU1NjQ5NzA2OCw0Mzc0NjQ5NzQsODI1NjM3ODgxLC
+0xMDk4MTU1NDAzLDIwODk1ODM3NjAsLTE4OTQ2MDI1ODIsLTEy
+ODk1NjUzNjUsLTE1NTUzMzQyNjQsMTU0Njg4NzgzNiwtMTk4OT
+cyMTAzMSw0MzkwNDE4MjMsLTcyMjEzMjQ4MSwxNzI1NjgyNDEy
+LC0xMTU4MjgwNDldfQ==
 -->
