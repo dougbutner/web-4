@@ -279,7 +279,9 @@ Collaborative social environments are always happening everywhere humans live. C
 
 ## What is a Geo-Social Layer?
 
-A geo-social layer is something that affects people (**social**) at a given bounded area (**geo**). These layers can be nested, with a finite number of smaller areas making up the larger area (geopolitics), or overlapping, such as with cultures and 
+A geo-social layer is something that affects people (**social**) at a given bounded area (**geo**). To refer to a group of people at a certain are, we'll call them 
+
+These layers can be nested, with a finite number of smaller areas making up the larger area (geopolitics), or overlapping, such as with cultures and 
 
 An example is the governing body of an area, including all of the legislation and officials. A corporate example is the sales representatives for a certain area of the country. A civilian example is regional spelling bees that filter to national and international levels. 
 
@@ -476,11 +478,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NjQzMzM4MCwxMTE5NjIzNTE0LDE5Nz
-I2NDA2MzAsLTE1NTY0OTcwNjgsNDM3NDY0OTc0LDgyNTYzNzg4
-MSwtMTA5ODE1NTQwMywyMDg5NTgzNzYwLC0xODk0NjAyNTgyLC
-0xMjg5NTY1MzY1LC0xNTU1MzM0MjY0LDE1NDY4ODc4MzYsLTE5
-ODk3MjEwMzEsNDM5MDQxODIzLC03MjIxMzI0ODEsMTcyNTY4Mj
-QxMiwtMTE1ODI4MDQ5LC0xNzIxNzE3ODkxLC0xNDY0ODE3Njc2
-LDkxNTE1MTk2Ml19
+eyJoaXN0b3J5IjpbMTQ4MDM2OTU3NywtNDk2NDMzMzgwLDExMT
+k2MjM1MTQsMTk3MjY0MDYzMCwtMTU1NjQ5NzA2OCw0Mzc0NjQ5
+NzQsODI1NjM3ODgxLC0xMDk4MTU1NDAzLDIwODk1ODM3NjAsLT
+E4OTQ2MDI1ODIsLTEyODk1NjUzNjUsLTE1NTUzMzQyNjQsMTU0
+Njg4NzgzNiwtMTk4OTcyMTAzMSw0MzkwNDE4MjMsLTcyMjEzMj
+Q4MSwxNzI1NjgyNDEyLC0xMTU4MjgwNDksLTE3MjE3MTc4OTEs
+LTE0NjQ4MTc2NzZdfQ==
 -->
