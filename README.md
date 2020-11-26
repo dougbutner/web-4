@@ -279,7 +279,7 @@ Collaborative social environments are always happening everywhere humans live. C
 
 ## What is a Geo-Social Layer?
 
-A geo-social layer is something that affects people (**social**) at a given bounded area (**geo**). To refer to a group of people at a certain are, we'll call them 
+A geo-social layer is something that affects people (**social**) at a given bounded area (**geo**). To refer to a group of people associated with a certain area, we'll call them 
 
 These layers can be nested, with a finite number of smaller areas making up the larger area (geopolitics), or overlapping, such as with cultures and 
 
@@ -478,11 +478,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MDM2OTU3NywtNDk2NDMzMzgwLDExMT
-k2MjM1MTQsMTk3MjY0MDYzMCwtMTU1NjQ5NzA2OCw0Mzc0NjQ5
-NzQsODI1NjM3ODgxLC0xMDk4MTU1NDAzLDIwODk1ODM3NjAsLT
-E4OTQ2MDI1ODIsLTEyODk1NjUzNjUsLTE1NTUzMzQyNjQsMTU0
-Njg4NzgzNiwtMTk4OTcyMTAzMSw0MzkwNDE4MjMsLTcyMjEzMj
-Q4MSwxNzI1NjgyNDEyLC0xMTU4MjgwNDksLTE3MjE3MTc4OTEs
-LTE0NjQ4MTc2NzZdfQ==
+eyJoaXN0b3J5IjpbMzc2NzIyOTIxLDE0ODAzNjk1NzcsLTQ5Nj
+QzMzM4MCwxMTE5NjIzNTE0LDE5NzI2NDA2MzAsLTE1NTY0OTcw
+NjgsNDM3NDY0OTc0LDgyNTYzNzg4MSwtMTA5ODE1NTQwMywyMD
+g5NTgzNzYwLC0xODk0NjAyNTgyLC0xMjg5NTY1MzY1LC0xNTU1
+MzM0MjY0LDE1NDY4ODc4MzYsLTE5ODk3MjEwMzEsNDM5MDQxOD
+IzLC03MjIxMzI0ODEsMTcyNTY4MjQxMiwtMTE1ODI4MDQ5LC0x
+NzIxNzE3ODkxXX0=
 -->
