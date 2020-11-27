@@ -306,7 +306,7 @@ Across the globe, **one geopolitical pattern** seems to emerge, though names var
  
 > Additionally, a **community level** may be added within cities to further add accuracy and usefulness. 
 
-Using this existing geopolitical stratification is recommended for those wishing to build a web 4 system because it makes global systems easily storable in a relational database or other data structure, and is understood by local people, governments, etc. 
+Using this existing geopolitical stratification is recommended for those wishing to build a web 4 system because it makes varying global systems easily storable in a one relational database model or similar data structure, and is understood by local people, governments, etc. 
 
 For the purpose of any geo-social system, **geographic association with each actor** must be defined. 
 
@@ -485,11 +485,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NTk3OTI3OSwxMDc5NTcxMTg5LDkzMz
-A0NzM0OSwtNjY3MzAxMTg4LDEyNzI2NTc4ODMsLTI1MjIwNTY4
-NSwtODYxMjE2MDcwLC02NzE4MTQwODksLTk5MjQ4NzY2LDIxNT
-U3ODE2NywtMTQ4MjU5OTY2MSwxNDgwMzY5NTc3LC00OTY0MzMz
-ODAsMTExOTYyMzUxNCwxOTcyNjQwNjMwLC0xNTU2NDk3MDY4LD
-QzNzQ2NDk3NCw4MjU2Mzc4ODEsLTEwOTgxNTU0MDMsMjA4OTU4
-Mzc2MF19
+eyJoaXN0b3J5IjpbLTEzNTE2NTk4OTEsLTU2NTk3OTI3OSwxMD
+c5NTcxMTg5LDkzMzA0NzM0OSwtNjY3MzAxMTg4LDEyNzI2NTc4
+ODMsLTI1MjIwNTY4NSwtODYxMjE2MDcwLC02NzE4MTQwODksLT
+k5MjQ4NzY2LDIxNTU3ODE2NywtMTQ4MjU5OTY2MSwxNDgwMzY5
+NTc3LC00OTY0MzMzODAsMTExOTYyMzUxNCwxOTcyNjQwNjMwLC
+0xNTU2NDk3MDY4LDQzNzQ2NDk3NCw4MjU2Mzc4ODEsLTEwOTgx
+NTU0MDNdfQ==
 -->
