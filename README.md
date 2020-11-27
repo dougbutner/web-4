@@ -285,9 +285,9 @@ A geo-social layer is something that affects people (**social**) at a given boun
 
 1. **Geodomain**: A bounded area that has an associated group of people who are running a democratic (web 4) system. 
 
-2. **Geotribe**: The group of people associated with a geodomain that are participants or 
+2. **Geotribe**: The group of people associated with a geodomain that are participants or benefactors of a web 4 system.
 
-These geotribes can be nested, with a finite number of smaller areas making up the larger area (geopolitics), or overlapping, such as with cultures and 
+These geotribes can be nested, with a finite number of smaller areas making up the larger area, common in geopolitics. Alternatively, geotribes can 
 
 An example is the governing body of an area, including all of the legislation and officials. A corporate example is the sales representatives for a certain area of the country. A civilian example is regional spelling bees that filter to national and international levels. 
 
@@ -484,11 +484,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MTIxNjA3MCwtNjcxODE0MDg5LC05OT
-I0ODc2NiwyMTU1NzgxNjcsLTE0ODI1OTk2NjEsMTQ4MDM2OTU3
-NywtNDk2NDMzMzgwLDExMTk2MjM1MTQsMTk3MjY0MDYzMCwtMT
-U1NjQ5NzA2OCw0Mzc0NjQ5NzQsODI1NjM3ODgxLC0xMDk4MTU1
-NDAzLDIwODk1ODM3NjAsLTE4OTQ2MDI1ODIsLTEyODk1NjUzNj
-UsLTE1NTUzMzQyNjQsMTU0Njg4NzgzNiwtMTk4OTcyMTAzMSw0
-MzkwNDE4MjNdfQ==
+eyJoaXN0b3J5IjpbLTI1MjIwNTY4NSwtODYxMjE2MDcwLC02Nz
+E4MTQwODksLTk5MjQ4NzY2LDIxNTU3ODE2NywtMTQ4MjU5OTY2
+MSwxNDgwMzY5NTc3LC00OTY0MzMzODAsMTExOTYyMzUxNCwxOT
+cyNjQwNjMwLC0xNTU2NDk3MDY4LDQzNzQ2NDk3NCw4MjU2Mzc4
+ODEsLTEwOTgxNTU0MDMsMjA4OTU4Mzc2MCwtMTg5NDYwMjU4Mi
+wtMTI4OTU2NTM2NSwtMTU1NTMzNDI2NCwxNTQ2ODg3ODM2LC0x
+OTg5NzIxMDMxXX0=
 -->
