@@ -300,11 +300,11 @@ It makes sense that we start to build social systems alongside the existing geop
 To create a geo-social system, we first must define the requirements of the geodomain, and then the requirements for an individual to be a part of the geotribe within that geodomain. 
 
 ### Geodomain Stratification  
-Across the globe, one geopolitical pattern seems to emerge. Cities are within Counties, are within Districts (States in the USA), are within nations, are within the world. 
+Across the globe, one geopolitical pattern seems to emerge, though names vary. Cities are within Counties, are within States, are within Nations, are within the World. 
 
 1. Cities (aka Towns, Commonwealths, etc.)
 2. Counties (aka Divisions
-3. Districts (aka States, Provinces)
+3. States (aka Districts, Provinces)
 4. Nations (aka Countries, States, Republics, etc)
 5. Global
 
@@ -482,7 +482,7 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjgwMTYwNTEsOTMzMDQ3MzQ5LC02Nj
+eyJoaXN0b3J5IjpbLTIwNDgzMjcyOTUsOTMzMDQ3MzQ5LC02Nj
 czMDExODgsMTI3MjY1Nzg4MywtMjUyMjA1Njg1LC04NjEyMTYw
 NzAsLTY3MTgxNDA4OSwtOTkyNDg3NjYsMjE1NTc4MTY3LC0xND
 gyNTk5NjYxLDE0ODAzNjk1NzcsLTQ5NjQzMzM4MCwxMTE5NjIz
