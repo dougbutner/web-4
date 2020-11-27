@@ -322,7 +322,7 @@ If a geopolitically-based geodomain system allows geotribe members to declare th
 All "non-proof" systems should place restrictions on switching voluntarily-given geodomain association too often (such as once per 6 months) to prevent influencing foreign affairs. 
  
 
-# Democracy, Collaboration, and ever-redefining Utopia
+# Democracy, Collaboration, and Government
 
 By offering time tokens to the individual that correspond to each stratum we can create **high-fidelity democratic systems** that better represent each and every person's desires. We can know exactly what the people want, with no guesswork, in a very short period of time. 
 
@@ -485,7 +485,7 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzU4MDUyOTcsMTI0MjAxODEsLTU2NT
+eyJoaXN0b3J5IjpbLTE3MTIxNDg0ODQsMTI0MjAxODEsLTU2NT
 k3OTI3OSwxMDc5NTcxMTg5LDkzMzA0NzM0OSwtNjY3MzAxMTg4
 LDEyNzI2NTc4ODMsLTI1MjIwNTY4NSwtODYxMjE2MDcwLC02Nz
 E4MTQwODksLTk5MjQ4NzY2LDIxNTU3ODE2NywtMTQ4MjU5OTY2
