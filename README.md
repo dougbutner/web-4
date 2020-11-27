@@ -317,7 +317,11 @@ For the purpose of any geo-social system, **geographic association with each act
 ### Geotribal Bonds
 Traditionally, it's the existence within a certain area, such as a place of residence or business, that is of importance for things like taxes, voting, and citizenship. When building a geo-social system, it's only necessary that association is declared that is relevant for that system. 
 
+It is important that each individual only exist within one geotribe (excluding those extrapolated). This is
+
 When using stratified geodomains, only the deepest level of association is needed (city/community), from which the rest can be extrapolated. 
+
+Because 
 
 # Democracy, Collaboration, and ever-redefining Utopia
 
@@ -482,11 +486,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMzk0MTg0NSwxMDc5NTcxMTg5LDkzMz
-A0NzM0OSwtNjY3MzAxMTg4LDEyNzI2NTc4ODMsLTI1MjIwNTY4
-NSwtODYxMjE2MDcwLC02NzE4MTQwODksLTk5MjQ4NzY2LDIxNT
-U3ODE2NywtMTQ4MjU5OTY2MSwxNDgwMzY5NTc3LC00OTY0MzMz
-ODAsMTExOTYyMzUxNCwxOTcyNjQwNjMwLC0xNTU2NDk3MDY4LD
-QzNzQ2NDk3NCw4MjU2Mzc4ODEsLTEwOTgxNTU0MDMsMjA4OTU4
-Mzc2MF19
+eyJoaXN0b3J5IjpbNzYzMDAyMjI2LDEwNzk1NzExODksOTMzMD
+Q3MzQ5LC02NjczMDExODgsMTI3MjY1Nzg4MywtMjUyMjA1Njg1
+LC04NjEyMTYwNzAsLTY3MTgxNDA4OSwtOTkyNDg3NjYsMjE1NT
+c4MTY3LC0xNDgyNTk5NjYxLDE0ODAzNjk1NzcsLTQ5NjQzMzM4
+MCwxMTE5NjIzNTE0LDE5NzI2NDA2MzAsLTE1NTY0OTcwNjgsND
+M3NDY0OTc0LDgyNTYzNzg4MSwtMTA5ODE1NTQwMywyMDg5NTgz
+NzYwXX0=
 -->
