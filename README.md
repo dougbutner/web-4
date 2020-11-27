@@ -322,14 +322,13 @@ If a geopolitically-based geodomain system allows geotribe members to declare th
 All "non-proof" systems should place restrictions on switching voluntarily-given geodomain association too often (such as once per 6 months) to prevent influencing foreign affairs. 
  
 
-# High-Fidelity Democ 
+# High-Fidelity Democracy 
 
-By offering time tokens to the individual that correspond to each stratum we can create **high-fidelity democratic systems** that better represent each and every person's desires. We can know exactly what the people want, with no guesswork, in a very short period of time. 
+By offering time tokens to the individual that correspond to each stratum we can create **high-fidelity democratic systems** that better represent each and every person's desires. We can know exactly what the people want, with no guesswork and 0 middlemen, in a very short period of time. 
 
 For example, a person may be given 12 time tokens per month at each stratum to vote on the initiatives that they would like to see passed. They may vote all 12 tokens for an initiative they are most passionate about, or 1 token to 12 different initiatives (or 2 to 6 initiatives, etc). By collecting and counting these tokens, the governing body can **know exactly what their constituents want**, without the direct need to elect a representative who only estimates these desires. 
 
 The democratic system described in this paper does not solve all problems, as there are still issues of voter informedness, unseen actors, and more, but it is a skeleton to build a collaborative social system that are an **improvement to the representative governments** which were once as revolutionary as these ideas are. 
-
 
 
 # Roadmap to Web 4 Reality
@@ -337,7 +336,7 @@ The democratic system described in this paper does not solve all problems, as th
 ## **Phase One**
 > Implementing time tokens
 
-**Time Tokens** are implemented on any and all blockchains where developers see the value. These developers provide open-source instructions and tools to helps other developers incorporate time tokens into their applications. 
+**Time Tokens** are implemented on any and all blockchains where developers see the value. These developers provide open-source instructions and tools to helps other developers incorporate time tokens into  applications. 
 
 **Provable individuality** for Time Tokens is up to each application and blockchain, and these application can choose to ignore this requirement, risking their systems' integrity. **Federated** (Facetec) and **decentralized** (Civic) options may be used, and so can social verification (BrightID).
 
@@ -485,11 +484,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI5NjMyOTk5LDEyNDIwMTgxLC01NjU5Nz
-kyNzksMTA3OTU3MTE4OSw5MzMwNDczNDksLTY2NzMwMTE4OCwx
-MjcyNjU3ODgzLC0yNTIyMDU2ODUsLTg2MTIxNjA3MCwtNjcxOD
-E0MDg5LC05OTI0ODc2NiwyMTU1NzgxNjcsLTE0ODI1OTk2NjEs
-MTQ4MDM2OTU3NywtNDk2NDMzMzgwLDExMTk2MjM1MTQsMTk3Mj
-Y0MDYzMCwtMTU1NjQ5NzA2OCw0Mzc0NjQ5NzQsODI1NjM3ODgx
-XX0=
+eyJoaXN0b3J5IjpbMTkyNzcyNDE0OCwxMjQyMDE4MSwtNTY1OT
+c5Mjc5LDEwNzk1NzExODksOTMzMDQ3MzQ5LC02NjczMDExODgs
+MTI3MjY1Nzg4MywtMjUyMjA1Njg1LC04NjEyMTYwNzAsLTY3MT
+gxNDA4OSwtOTkyNDg3NjYsMjE1NTc4MTY3LC0xNDgyNTk5NjYx
+LDE0ODAzNjk1NzcsLTQ5NjQzMzM4MCwxMTE5NjIzNTE0LDE5Nz
+I2NDA2MzAsLTE1NTY0OTcwNjgsNDM3NDY0OTc0LDgyNTYzNzg4
+MV19
 -->
