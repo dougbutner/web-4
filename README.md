@@ -480,7 +480,7 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 
 	// Finally, the real biokey is returned as an object of hashed biometric data, which will be checked by comparing each granular piece of data's hash to the incoming granular hashes
 
-  return bioMatrix; // Biokey
+	  return bioMatrix; // Biokey
 
 	}
 
@@ -488,11 +488,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc2NTI1OTQ3LDE2MTA3OTYzOTMsLTE0Mj
-Q1MzM5NzksLTIxMzE4MDk1MjksMTM5MDI1NjA4MiwxMjQyMDE4
-MSwtNTY1OTc5Mjc5LDEwNzk1NzExODksOTMzMDQ3MzQ5LC02Nj
-czMDExODgsMTI3MjY1Nzg4MywtMjUyMjA1Njg1LC04NjEyMTYw
-NzAsLTY3MTgxNDA4OSwtOTkyNDg3NjYsMjE1NTc4MTY3LC0xND
-gyNTk5NjYxLDE0ODAzNjk1NzcsLTQ5NjQzMzM4MCwxMTE5NjIz
-NTE0XX0=
+eyJoaXN0b3J5IjpbOTUwNTE3OTg3LDI3NjUyNTk0NywxNjEwNz
+k2MzkzLC0xNDI0NTMzOTc5LC0yMTMxODA5NTI5LDEzOTAyNTYw
+ODIsMTI0MjAxODEsLTU2NTk3OTI3OSwxMDc5NTcxMTg5LDkzMz
+A0NzM0OSwtNjY3MzAxMTg4LDEyNzI2NTc4ODMsLTI1MjIwNTY4
+NSwtODYxMjE2MDcwLC02NzE4MTQwODksLTk5MjQ4NzY2LDIxNT
+U3ODE2NywtMTQ4MjU5OTY2MSwxNDgwMzY5NTc3LC00OTY0MzMz
+ODBdfQ==
 -->
