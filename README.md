@@ -307,10 +307,8 @@ Across the globe, one geopolitical pattern seems to emerge, though names vary. C
 3. States (aka Districts, Provinces)
 4. Nations (aka Countries, States, Republics, etc)
 5. Global
-
-For this paper, we will consider cities as the "lowest" and global as the "highest" stratification level.
  
-> Additionally, a **community level** may be added below cities to further add accuracy and usefulness. 
+> Additionally, a **community level** may be added within cities to further add accuracy and usefulness. 
 
 For the purpose of any geo-social system, **geographic association with each actor** must be defined. 
 
@@ -482,7 +480,7 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDgzMjcyOTUsOTMzMDQ3MzQ5LC02Nj
+eyJoaXN0b3J5IjpbLTExMzA2MjgyMzAsOTMzMDQ3MzQ5LC02Nj
 czMDExODgsMTI3MjY1Nzg4MywtMjUyMjA1Njg1LC04NjEyMTYw
 NzAsLTY3MTgxNDA4OSwtOTkyNDg3NjYsMjE1NTc4MTY3LC0xND
 gyNTk5NjYxLDE0ODAzNjk1NzcsLTQ5NjQzMzM4MCwxMTE5NjIz
