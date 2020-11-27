@@ -393,9 +393,9 @@ Organizations of all sizes are using time tokens to shift power to employees.
 # Author notes
 
 ## Change Without Conflict
-**No one can stop us** from building collaborative systems with web 4 and even **self-governing**. **We don't need** to "tear down the system" or separate from society to do so. **Web 4 can exist** fully embedded in the geopolitical systems around us, while implementing and improving web 4 concepts, the underpinnings of collaborative democracy.
+**No one can stop us** from building collaborative systems with web 4 and even **self-governing**. **We don't need** to "tear down the system" or separate from society to do so. **Web 4 can exist** fully embedded in the geopolitical systems around us, while implementing and improving the four concepts, the underpinnings of collaborative democracy.
 
-If and when the "old system" meets its demise, as all things do, **we can transition rapidly** to a web 4 system like [Effective Collective](https://github.com/dougbutner/effective-collective) or any other, as it will already be in place. 
+If and when the "old system" meets its demise, as all things do, **we can transition rapidly** to a web 4 system like [Effective Collective](https://github.com/dougbutner/effective-collective) or any other, as this solution will already be in place. 
 
 ## Why use the term "Web 4"
 It is my belief that each version of the web must 1) be built on top of the previous version, 2) be fundamentally different than the previous version by introducing new technology, and 3) have meaningful impact on society. 
@@ -488,7 +488,7 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTkwMTg1MDYsLTE0MjQ1MzM5NzksLT
+eyJoaXN0b3J5IjpbLTEzMDYzNDYxOTcsLTE0MjQ1MzM5NzksLT
 IxMzE4MDk1MjksMTM5MDI1NjA4MiwxMjQyMDE4MSwtNTY1OTc5
 Mjc5LDEwNzk1NzExODksOTMzMDQ3MzQ5LC02NjczMDExODgsMT
 I3MjY1Nzg4MywtMjUyMjA1Njg1LC04NjEyMTYwNzAsLTY3MTgx
