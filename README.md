@@ -91,7 +91,7 @@ In the end, the only way to implement true democracy in any system is through gi
 Let's review the concepts one by one.
 
 ___
-# **<center>**1**</center>**
+# **1**
 
 ___
 
@@ -199,7 +199,7 @@ The truth is, **all systems have some level of trust**, even if that's just in t
 While I'm going to lay out a possible solution to use biometrics in a "trustless" way that fits with web 3 ideals, I don't personally think it's a good idea, and I won't be designing my Web 4 apps with it for quite some times, if ever. 
 
 ___
-# **<center>**2**</center>**
+# **2**
 
 ___
 
@@ -242,7 +242,7 @@ There will always be **security concerns** with biometrics. For example, if a us
 The upside of biosecrets is they **cannot be lost**, and the account will always be **recoverable by the individual**. In a web 4 ecosystem, where the tokens are distributed daily and often spent daily, a hack would be much less catastrophic. The attacker will be able to access the user's balance, but not alter the past transactions, nor continue to collect the future deposits, because the real user will (in theory) quickly recover the account and change the biometric secret generation means so that the hacker's biofake is no longer working. 
 
 ___
-# <center>**3**</center>
+# **3**
 
 ___
 
@@ -268,7 +268,7 @@ Before moving on, I do wish to stress the modularity of web 4, and that this (pe
 
 
 ___
-# <center>4</center>
+# **4**
 
 ___
 # Geo-Social Systems: Geotribes + Geodomains
@@ -488,11 +488,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMDc5NjM5MywtMTQyNDUzMzk3OSwtMj
-EzMTgwOTUyOSwxMzkwMjU2MDgyLDEyNDIwMTgxLC01NjU5Nzky
-NzksMTA3OTU3MTE4OSw5MzMwNDczNDksLTY2NzMwMTE4OCwxMj
-cyNjU3ODgzLC0yNTIyMDU2ODUsLTg2MTIxNjA3MCwtNjcxODE0
-MDg5LC05OTI0ODc2NiwyMTU1NzgxNjcsLTE0ODI1OTk2NjEsMT
-Q4MDM2OTU3NywtNDk2NDMzMzgwLDExMTk2MjM1MTQsMTk3MjY0
-MDYzMF19
+eyJoaXN0b3J5IjpbMjc2NTI1OTQ3LDE2MTA3OTYzOTMsLTE0Mj
+Q1MzM5NzksLTIxMzE4MDk1MjksMTM5MDI1NjA4MiwxMjQyMDE4
+MSwtNTY1OTc5Mjc5LDEwNzk1NzExODksOTMzMDQ3MzQ5LC02Nj
+czMDExODgsMTI3MjY1Nzg4MywtMjUyMjA1Njg1LC04NjEyMTYw
+NzAsLTY3MTgxNDA4OSwtOTkyNDg3NjYsMjE1NTc4MTY3LC0xND
+gyNTk5NjYxLDE0ODAzNjk1NzcsLTQ5NjQzMzM4MCwxMTE5NjIz
+NTE0XX0=
 -->
