@@ -359,7 +359,7 @@ Social Verification like BrightID and biometric solutions like Facetec are still
 **Geo-social systems** are starting to be built, but not used for "real applications" like voting because of lack of true provable individuality. 
 
 **Phase 2 Action Points**: 
-- Proposing the best uses for geo-social layers using time tokens
+- Proposing the best uses for geo-social systems using time tokens
 - Incorporating different provable identity methods
 
 
@@ -381,7 +381,7 @@ Social Verification like BrightID and biometric solutions like Facetec are still
 **GeoSocial layers** are being used as a replacement for representative government where it is the will of the people. Voter informedness is measured and known, as are the exact desires of the people. This creates collaboration and a renewed faith in democracy, and a feeling of belongingness and appreciation for each individual. 
 
 **Phase 4 Action Points**: 
-- Building and operating geo-social layers for the benefit of society and any collaborating group
+- Building and operating geo-social systems for the benefit of society and any collaborating group
 - Exploring use cases and integrating information entropy where appropriate
 
 # Author notes
@@ -482,11 +482,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NzEyMjk0MywtNjY3MzAxMTg4LDEyNz
-I2NTc4ODMsLTI1MjIwNTY4NSwtODYxMjE2MDcwLC02NzE4MTQw
-ODksLTk5MjQ4NzY2LDIxNTU3ODE2NywtMTQ4MjU5OTY2MSwxND
-gwMzY5NTc3LC00OTY0MzMzODAsMTExOTYyMzUxNCwxOTcyNjQw
-NjMwLC0xNTU2NDk3MDY4LDQzNzQ2NDk3NCw4MjU2Mzc4ODEsLT
-EwOTgxNTU0MDMsMjA4OTU4Mzc2MCwtMTg5NDYwMjU4MiwtMTI4
-OTU2NTM2NV19
+eyJoaXN0b3J5IjpbOTMzMDQ3MzQ5LC02NjczMDExODgsMTI3Mj
+Y1Nzg4MywtMjUyMjA1Njg1LC04NjEyMTYwNzAsLTY3MTgxNDA4
+OSwtOTkyNDg3NjYsMjE1NTc4MTY3LC0xNDgyNTk5NjYxLDE0OD
+AzNjk1NzcsLTQ5NjQzMzM4MCwxMTE5NjIzNTE0LDE5NzI2NDA2
+MzAsLTE1NTY0OTcwNjgsNDM3NDY0OTc0LDgyNTYzNzg4MSwtMT
+A5ODE1NTQwMywyMDg5NTgzNzYwLC0xODk0NjAyNTgyLC0xMjg5
+NTY1MzY1XX0=
 -->
