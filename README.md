@@ -350,9 +350,9 @@ The democratic system described in this paper does not solve all problems, as th
 ## **Phase Two**
 > dApps and discovering issues
 
-**Applications using Time Tokens** are widespread, and issues in implementations are becoming known and solved. Developers who make time token faucets are opening up their own tokens to be used to third part a
+**Applications using Time Tokens** are widespread, and issues in implementations are becoming known and solved. Developers who open time token faucets are seeing their token be used in third-party apps in ways they didn't foresee. 
 
-**Provable identity** **issues** are becoming apparent, as certain applications with **lax rules** are being manipulated, showing the need for true provable identity. 
+**Provable identity issues** are becoming apparent, as certain applications with **lax rules** are being manipulated, showing the need for true provable identity. The best solutions are becoming known alongside the problems.
 
 Social Verification like BrightID and biometric solutions like Facetec are still used, while biocryptography standards and biometric secret technology are being developed to allow true provable identity (in Phase Three).
 
@@ -484,11 +484,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4ODIyNTI3NSwxMjQyMDE4MSwtNTY1OT
-c5Mjc5LDEwNzk1NzExODksOTMzMDQ3MzQ5LC02NjczMDExODgs
-MTI3MjY1Nzg4MywtMjUyMjA1Njg1LC04NjEyMTYwNzAsLTY3MT
-gxNDA4OSwtOTkyNDg3NjYsMjE1NTc4MTY3LC0xNDgyNTk5NjYx
-LDE0ODAzNjk1NzcsLTQ5NjQzMzM4MCwxMTE5NjIzNTE0LDE5Nz
-I2NDA2MzAsLTE1NTY0OTcwNjgsNDM3NDY0OTc0LDgyNTYzNzg4
-MV19
+eyJoaXN0b3J5IjpbLTEwNDIzNDUyOTcsMTI0MjAxODEsLTU2NT
+k3OTI3OSwxMDc5NTcxMTg5LDkzMzA0NzM0OSwtNjY3MzAxMTg4
+LDEyNzI2NTc4ODMsLTI1MjIwNTY4NSwtODYxMjE2MDcwLC02Nz
+E4MTQwODksLTk5MjQ4NzY2LDIxNTU3ODE2NywtMTQ4MjU5OTY2
+MSwxNDgwMzY5NTc3LC00OTY0MzMzODAsMTExOTYyMzUxNCwxOT
+cyNjQwNjMwLC0xNTU2NDk3MDY4LDQzNzQ2NDk3NCw4MjU2Mzc4
+ODFdfQ==
 -->
