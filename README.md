@@ -273,7 +273,9 @@ ___
 ___
 # Geo-Social Systems: Geotribes + Geodomains
 
-Collaborative social environments are always happening everywhere humans live. Currently, we are both realizing the vast amount of ways to live abundantly, as well as collectively deciding what direction we should be moving as a society with every idea that gains attention through every medium from legislation to social media. Human growth in the past few centuries has been focused on technological improvements rather than social improvements. [3] To harness the power of the information age for the collaboration of humans, web 4 will be used to enhance, introduce, and replace current structures that organize our societies. 
+The geo-social systems apt to be improved by web 4 are those which involve **people collaborating**, like government/legislation, food and water management, community projects, education, events, charities, environmental protection and more. 
+
+Collaborative geo-social systems are always happening everywhere humans live. Currently, we are both realizing the vast amount of ways to live abundantly, as well as collectively deciding what direction we should be moving as a society with every idea that gains attention through every medium from legislation to social media. Human growth in the past few centuries has been focused on technological improvements rather than social improvements. [3] To harness the power of the information age for the collaboration of humans, web 4 will be used to enhance, introduce, and replace current structures that organize our societies. 
 
 > Web 4 proposes that systems based in time token are the most apt to create and improve existing social layers. 
 
@@ -289,7 +291,7 @@ A geo-social system is something that affects people (**social**) at a given bou
 
 Geodomains can be nested, with a finite set of smaller areas making up the larger area, common in geopolitics, but this is not required. Geodomains can also be overlapping or non-overlapping.
 
-The geo-social systems apt to be improved by web 4 are those which involve **people collaborating**, like government/legislation, food and water management, community projects, education, events, charities, environmental protection and more. 
+
 
 ## The Democratic Web
 This paper is called "The Democratic Web" because the most obvious use of these ideas is to create a democracy for the purpose of running an organization (company, non-profit, etc) or a society (community, city, nation, etc). 
@@ -489,11 +491,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzg0MzQwNDEsMTA3OTU3MTE4OSw5Mz
-MwNDczNDksLTY2NzMwMTE4OCwxMjcyNjU3ODgzLC0yNTIyMDU2
-ODUsLTg2MTIxNjA3MCwtNjcxODE0MDg5LC05OTI0ODc2NiwyMT
-U1NzgxNjcsLTE0ODI1OTk2NjEsMTQ4MDM2OTU3NywtNDk2NDMz
-MzgwLDExMTk2MjM1MTQsMTk3MjY0MDYzMCwtMTU1NjQ5NzA2OC
-w0Mzc0NjQ5NzQsODI1NjM3ODgxLC0xMDk4MTU1NDAzLDIwODk1
-ODM3NjBdfQ==
+eyJoaXN0b3J5IjpbLTY1NTczMjY2OSwxMDc5NTcxMTg5LDkzMz
+A0NzM0OSwtNjY3MzAxMTg4LDEyNzI2NTc4ODMsLTI1MjIwNTY4
+NSwtODYxMjE2MDcwLC02NzE4MTQwODksLTk5MjQ4NzY2LDIxNT
+U3ODE2NywtMTQ4MjU5OTY2MSwxNDgwMzY5NTc3LC00OTY0MzMz
+ODAsMTExOTYyMzUxNCwxOTcyNjQwNjMwLC0xNTU2NDk3MDY4LD
+QzNzQ2NDk3NCw4MjU2Mzc4ODEsLTEwOTgxNTU0MDMsMjA4OTU4
+Mzc2MF19
 -->
