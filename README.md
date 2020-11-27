@@ -281,6 +281,8 @@ Collaborative social environments are always happening everywhere humans live. C
 
 A geo-social layer is something that affects people (**social**) at a given bounded area (**geo**). To refer to a group of people associated with a certain area, we'll call them a **geotribe**, and to refer to that area we'll call it a **geodomain**. 
 
+## Concepts
+
 1. **Geodomain**: A bounded area that has an associated group of people who are running a democratic (web 4) system. 
 
 2. **Geotribe**: The group of people associated with a geodomain that are participants or 
@@ -482,11 +484,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MTgxNDA4OSwtOTkyNDg3NjYsMjE1NT
-c4MTY3LC0xNDgyNTk5NjYxLDE0ODAzNjk1NzcsLTQ5NjQzMzM4
-MCwxMTE5NjIzNTE0LDE5NzI2NDA2MzAsLTE1NTY0OTcwNjgsND
-M3NDY0OTc0LDgyNTYzNzg4MSwtMTA5ODE1NTQwMywyMDg5NTgz
-NzYwLC0xODk0NjAyNTgyLC0xMjg5NTY1MzY1LC0xNTU1MzM0Mj
-Y0LDE1NDY4ODc4MzYsLTE5ODk3MjEwMzEsNDM5MDQxODIzLC03
-MjIxMzI0ODFdfQ==
+eyJoaXN0b3J5IjpbLTg2MTIxNjA3MCwtNjcxODE0MDg5LC05OT
+I0ODc2NiwyMTU1NzgxNjcsLTE0ODI1OTk2NjEsMTQ4MDM2OTU3
+NywtNDk2NDMzMzgwLDExMTk2MjM1MTQsMTk3MjY0MDYzMCwtMT
+U1NjQ5NzA2OCw0Mzc0NjQ5NzQsODI1NjM3ODgxLC0xMDk4MTU1
+NDAzLDIwODk1ODM3NjAsLTE4OTQ2MDI1ODIsLTEyODk1NjUzNj
+UsLTE1NTUzMzQyNjQsMTU0Njg4NzgzNiwtMTk4OTcyMTAzMSw0
+MzkwNDE4MjNdfQ==
 -->
