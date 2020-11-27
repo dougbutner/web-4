@@ -273,7 +273,7 @@ ___
 ___
 # Geo-Social Systems: Geotribes + Geodomains
 
-The geo-social systems apt to be improved by web 4 are those which involve **people collaborating**, like government/legislation, food and water management, community projects, education, events, charities, environmental protection and more. Web 4 can also be used by organizations to operate in a way where employees can have a direct s
+The geo-social systems apt to be improved by web 4 are those which involve **people collaborating**, like government/legislation, food and water management, community projects, education, events, charities, environmental protection and more. Web 4 can also be used by organizations so employees can have a direct say in the actions and direction of their companies and non-profits.
 
 Collaborative geo-social systems are always happening everywhere humans live. Currently, we are collectively deciding what direction we should be moving as a society, from representative governments, to social media. However, human growth in the past few centuries has been focused on technological improvements rather than social improvements. [3] To harness the power of the information age for the collaboration of humans, web 4 should be used to enhance, introduce, and replace current structures that organize our societies. 
 
@@ -291,11 +291,6 @@ A geo-social system is something that affects people (**social**) at a given bou
 
 Geodomains can be nested, with a finite set of smaller areas making up the larger area, common in geopolitics, but this is not required. Geodomains can also be overlapping or non-overlapping.
 
-
-## The Democratic Web
-This paper is called "The Democratic Web" because the most obvious use of these ideas is to create a democracy for the purpose of running an organization (company, non-profit, etc) or a society (community, city, nation, etc). 
-
-It makes sense that we start to build social systems alongside the existing geopolitical boundaries. 
 
 ## Creating Geo-social Systems
 To create a geo-social system, we first must define the requirements of the geodomain, and then the requirements for an individual to be a part of the geotribe within that geodomain. 
@@ -490,7 +485,7 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MjQ2NTIxNCwxMDc5NTcxMTg5LDkzMz
+eyJoaXN0b3J5IjpbLTU2NTk3OTI3OSwxMDc5NTcxMTg5LDkzMz
 A0NzM0OSwtNjY3MzAxMTg4LDEyNzI2NTc4ODMsLTI1MjIwNTY4
 NSwtODYxMjE2MDcwLC02NzE4MTQwODksLTk5MjQ4NzY2LDIxNT
 U3ODE2NywtMTQ4MjU5OTY2MSwxNDgwMzY5NTc3LC00OTY0MzMz
