@@ -300,7 +300,7 @@ It makes sense that we start to build social systems alongside the existing geop
 To create a geo-social system, we first must define the requirements of the geodomain, and then the requirements for an individual to be a part of the geotribe within that geodomain. 
 
 ### Geodomain Stratification  
-Across the globe, one geopolitical pattern seems to emerge, though names vary. Cities are within Counties, are within States, are within Nations, are within the World. 
+Across the globe, **one geopolitical pattern** seems to emerge, though names vary. Cities are within Counties, are within States, are within Nations, are within the World. 
 
 1. Cities (aka Towns, Commonwealths, etc.)
 2. Counties (aka Divisions
@@ -314,8 +314,8 @@ Using this existing geopolitical stratification is recommended for those wishing
 
 For the purpose of any geo-social system, **geographic association with each actor** must be defined. 
 
-
-Traditionally, it's the existence within a certain area, such as a place of residence or business, that is of importance. When building a geo-social system, it's only necessary that association is declared at the lowest level of geographic stratification, from which the rest can be extrapolated. 
+### Geotribal Bonds
+Traditionally, it's the existence within a certain area, such as a place of residence or business, that is of importance for things like taxes, voting, and citizenship. When building a geo-social system, it's only necessary that association is declared.  at the lowest level of geographic stratification, from which the rest can be extrapolated. 
 
 Because each person can be associated to either a community or a city, we can develop systems within web 4 that allow coordination at every strata with just this one piece of data for each person. 
 
@@ -482,11 +482,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3OTU3MTE4OSw5MzMwNDczNDksLTY2Nz
-MwMTE4OCwxMjcyNjU3ODgzLC0yNTIyMDU2ODUsLTg2MTIxNjA3
-MCwtNjcxODE0MDg5LC05OTI0ODc2NiwyMTU1NzgxNjcsLTE0OD
-I1OTk2NjEsMTQ4MDM2OTU3NywtNDk2NDMzMzgwLDExMTk2MjM1
-MTQsMTk3MjY0MDYzMCwtMTU1NjQ5NzA2OCw0Mzc0NjQ5NzQsOD
-I1NjM3ODgxLC0xMDk4MTU1NDAzLDIwODk1ODM3NjAsLTE4OTQ2
-MDI1ODJdfQ==
+eyJoaXN0b3J5IjpbMzIxNjY1NTYxLDEwNzk1NzExODksOTMzMD
+Q3MzQ5LC02NjczMDExODgsMTI3MjY1Nzg4MywtMjUyMjA1Njg1
+LC04NjEyMTYwNzAsLTY3MTgxNDA4OSwtOTkyNDg3NjYsMjE1NT
+c4MTY3LC0xNDgyNTk5NjYxLDE0ODAzNjk1NzcsLTQ5NjQzMzM4
+MCwxMTE5NjIzNTE0LDE5NzI2NDA2MzAsLTE1NTY0OTcwNjgsND
+M3NDY0OTc0LDgyNTYzNzg4MSwtMTA5ODE1NTQwMywyMDg5NTgz
+NzYwXX0=
 -->
