@@ -377,13 +377,14 @@ Organizations of all sizes are using time tokens to shift power to employees.
 - Possibly abandoning biometric system presented here
 - Communities running on web 4
 - Governments benefiting from web 4
+- Organizations using web 4
 
 ## **Phase Four**
 > Geo-social systems
 
 **Information entropy** is added to the systems where it can be of use. For example, this could make a person's (anonymous) voting record less knowable over time by increasing the amount of CPU time needed to associate one vote with another. 
 
-**GeoSocial layers** are being used as a replacement for representative government where it is the will of the people. Voter informedness is measured and known, as are the exact desires of the people. This creates collaboration and a renewed faith in democracy, and a feeling of belongingness and appreciation for each individual. 
+**Geo-social systems** are being used as a replacement for representative government where it is the will of the people. Voter informedness is measured and known, as are the exact desires of the people. This creates collaboration and a renewed faith in democracy, and a feeling of belongingness and appreciation for each individual. 
 
 **Phase 4 Action Points**: 
 - Building and operating geo-social systems for the benefit of society and any collaborating group
@@ -392,7 +393,7 @@ Organizations of all sizes are using time tokens to shift power to employees.
 # Author notes
 
 ## Change Without Conflict
-**No one can stop us** from building collaborative systems with web 4 and even **self-governing**. **We don't need** to "tear down the system" or separate from society to do so. **We can exist** fully embedded in the geopolitical systems around us, while implementing and improving web 4 concepts, the underpinnings of collaborative democracy.
+**No one can stop us** from building collaborative systems with web 4 and even **self-governing**. **We don't need** to "tear down the system" or separate from society to do so. **Web 4 can exist** fully embedded in the geopolitical systems around us, while implementing and improving web 4 concepts, the underpinnings of collaborative democracy.
 
 If and when the "old system" meets its demise, as all things do, **we can transition rapidly** to a web 4 system like [Effective Collective](https://github.com/dougbutner/effective-collective) or any other, as it will already be in place. 
 
@@ -487,11 +488,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MTIzNTE4MCwtMTQyNDUzMzk3OSwtMj
-EzMTgwOTUyOSwxMzkwMjU2MDgyLDEyNDIwMTgxLC01NjU5Nzky
-NzksMTA3OTU3MTE4OSw5MzMwNDczNDksLTY2NzMwMTE4OCwxMj
-cyNjU3ODgzLC0yNTIyMDU2ODUsLTg2MTIxNjA3MCwtNjcxODE0
-MDg5LC05OTI0ODc2NiwyMTU1NzgxNjcsLTE0ODI1OTk2NjEsMT
-Q4MDM2OTU3NywtNDk2NDMzMzgwLDExMTk2MjM1MTQsMTk3MjY0
-MDYzMF19
+eyJoaXN0b3J5IjpbLTEzOTkwMTg1MDYsLTE0MjQ1MzM5NzksLT
+IxMzE4MDk1MjksMTM5MDI1NjA4MiwxMjQyMDE4MSwtNTY1OTc5
+Mjc5LDEwNzk1NzExODksOTMzMDQ3MzQ5LC02NjczMDExODgsMT
+I3MjY1Nzg4MywtMjUyMjA1Njg1LC04NjEyMTYwNzAsLTY3MTgx
+NDA4OSwtOTkyNDg3NjYsMjE1NTc4MTY3LC0xNDgyNTk5NjYxLD
+E0ODAzNjk1NzcsLTQ5NjQzMzM4MCwxMTE5NjIzNTE0LDE5NzI2
+NDA2MzBdfQ==
 -->
