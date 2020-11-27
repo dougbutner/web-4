@@ -366,9 +366,11 @@ The democratic system described in this paper does not solve all problems, as th
 ## **Phase Three**
 > Implementing Provable Identity
 
-**Provable Identity** is now possible as suggested in this manifesto through the maturity of the biometric secrets. Standards are being created openly, or, it is decided that the way presented here is not needed as a better
+**Provable Identity** is now possible as suggested in this manifesto through the maturity of the biometric secrets. Standards are being created openly, or, it is decided that the way presented here is not needed as a better way is found.
 
-**GeoSocial layers** are being used to run and govern communities which are not dependent on traditional representative government. Existing governments are adopting time tokens to get a better read on what legislation the people want. 
+**Geo-social systems** are being used to run and govern communities which are not dependent on traditional representative government. Existing governments are adopting time tokens to get a better read on what legislation the people want. 
+
+Organizations of all sizes are using time tokens to 
 
 **Phase 3 Action Point**: 
 - Creating provable identity solutions that satisfy all requirements
@@ -482,7 +484,7 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1ODY2NTUzMiwxMjQyMDE4MSwtNTY1OT
+eyJoaXN0b3J5IjpbMTM5MDI1NjA4MiwxMjQyMDE4MSwtNTY1OT
 c5Mjc5LDEwNzk1NzExODksOTMzMDQ3MzQ5LC02NjczMDExODgs
 MTI3MjY1Nzg4MywtMjUyMjA1Njg1LC04NjEyMTYwNzAsLTY3MT
 gxNDA4OSwtOTkyNDg3NjYsMjE1NTc4MTY3LC0xNDgyNTk5NjYx
