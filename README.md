@@ -271,9 +271,9 @@ ___
 # <center>4</center>
 
 ___
-# Geo-Social Harmonic Layers
+# Geo-Social Harmonic Layers: Geotribes + Geodomains
 
-Collaborative social environments are always happening everywhere humans live. Currently, we are both realizing the vast amount of ways to live abundantly, as well as deciding what direction we should be facing to grow as a society. Human growth in the past few centuries has been focused on technological improvements rather than social improvements. [3] To harness the power of the information age for the collaboration of humans, web 4 will be used to enhance, introduce, and replace current structures that organize our societies, which we term **geo-social layers**. 
+Collaborative social environments are always happening everywhere humans live. Currently, we are both realizing the vast amount of ways to live abundantly, as well as collectively deciding what direction we should be moving as a society with every idea that gains attention through every medium from legislation to social media. Human growth in the past few centuries has been focused on technological improvements rather than social improvements. [3] To harness the power of the information age for the collaboration of humans, web 4 will be used to enhance, introduce, and replace current structures that organize our societies. 
 
 > Web 4 proposes that systems based in time token are the most apt to create and improve existing social layers. 
 
@@ -482,11 +482,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMDQyNDMyOSwtNjY3MzAxMTg4LDEyNz
-I2NTc4ODMsLTI1MjIwNTY4NSwtODYxMjE2MDcwLC02NzE4MTQw
-ODksLTk5MjQ4NzY2LDIxNTU3ODE2NywtMTQ4MjU5OTY2MSwxND
-gwMzY5NTc3LC00OTY0MzMzODAsMTExOTYyMzUxNCwxOTcyNjQw
-NjMwLC0xNTU2NDk3MDY4LDQzNzQ2NDk3NCw4MjU2Mzc4ODEsLT
-EwOTgxNTU0MDMsMjA4OTU4Mzc2MCwtMTg5NDYwMjU4MiwtMTI4
-OTU2NTM2NV19
+eyJoaXN0b3J5IjpbMTQyNTIxMjYyLC02NjczMDExODgsMTI3Mj
+Y1Nzg4MywtMjUyMjA1Njg1LC04NjEyMTYwNzAsLTY3MTgxNDA4
+OSwtOTkyNDg3NjYsMjE1NTc4MTY3LC0xNDgyNTk5NjYxLDE0OD
+AzNjk1NzcsLTQ5NjQzMzM4MCwxMTE5NjIzNTE0LDE5NzI2NDA2
+MzAsLTE1NTY0OTcwNjgsNDM3NDY0OTc0LDgyNTYzNzg4MSwtMT
+A5ODE1NTQwMywyMDg5NTgzNzYwLC0xODk0NjAyNTgyLC0xMjg5
+NTY1MzY1XX0=
 -->
