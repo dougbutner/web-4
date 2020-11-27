@@ -336,21 +336,21 @@ The democratic system described in this paper does not solve all problems, as th
 ## **Phase One**
 > Implementing time tokens
 
-**Time Tokens** are implemented on any and all blockchains where developers see the value. These developers provide open-source instructions and tools to helps other developers incorporate time tokens into  applications. 
+**Time Tokens** are implemented on any and all blockchains where developers see the value. These developers provide open-source instructions and tools to helps other developers incorporate time tokens into their applications. 
 
 **Provable individuality** for Time Tokens is up to each application and blockchain, and these application can choose to ignore this requirement, risking their systems' integrity. **Federated** (Facetec) and **decentralized** (Civic) options may be used, and so can social verification (BrightID).
 
-**Information entropy** and **geosocial layers** are starting to be theorized, but not showing up. 
+**Information entropy** and **geo-social systems** are starting to be theorized, but not showing up. 
 
 **Phase 1 Action Points**: 
-- Time Token ERC proposal (and similar for other blockchains)
+- Time Token ERC proposal on Ethereum (and similar for other blockchains)
 - Developers exploring use cases for Time Tokens 
 - Developers implementing Time Token in unexpected ways
 
 ## **Phase Two**
 > dApps and discovering issues
 
-**Applications using Time Tokens** are widespread, and issues in implementations are becoming known and solved. 
+**Applications using Time Tokens** are widespread, and issues in implementations are becoming known and solved. Developers who make time token faucets are opening up their own tokens to be used to third part a
 
 **Provable identity** **issues** are becoming apparent, as certain applications with **lax rules** are being manipulated, showing the need for true provable identity. 
 
@@ -484,7 +484,7 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNzcyNDE0OCwxMjQyMDE4MSwtNTY1OT
+eyJoaXN0b3J5IjpbMTU4ODIyNTI3NSwxMjQyMDE4MSwtNTY1OT
 c5Mjc5LDEwNzk1NzExODksOTMzMDQ3MzQ5LC02NjczMDExODgs
 MTI3MjY1Nzg4MywtMjUyMjA1Njg1LC04NjEyMTYwNzAsLTY3MT
 gxNDA4OSwtOTkyNDg3NjYsMjE1NTc4MTY3LC0xNDgyNTk5NjYx
