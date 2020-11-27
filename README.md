@@ -285,7 +285,7 @@ A geo-social system is something that affects people (**social**) at a given bou
 
 1. **Geodomain**: A bounded area that has an associated group of people who are running a democratic (web 4) system. 
 
-2. **Geotribe**: The group of people associated with a geodomain that are participants of a web 4 system.
+2. **Geotribe**: The group of people associated with a geodomain that are participants in a web 4 system.
 
 Geodomains can be nested, with a finite set of smaller areas making up the larger area, common in geopolitics, but this is not required. Geodomains can also be over-lapping or non-over-lapping.
 
@@ -482,11 +482,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDYzMzgwMTAsOTMzMDQ3MzQ5LC02Nj
-czMDExODgsMTI3MjY1Nzg4MywtMjUyMjA1Njg1LC04NjEyMTYw
-NzAsLTY3MTgxNDA4OSwtOTkyNDg3NjYsMjE1NTc4MTY3LC0xND
-gyNTk5NjYxLDE0ODAzNjk1NzcsLTQ5NjQzMzM4MCwxMTE5NjIz
-NTE0LDE5NzI2NDA2MzAsLTE1NTY0OTcwNjgsNDM3NDY0OTc0LD
-gyNTYzNzg4MSwtMTA5ODE1NTQwMywyMDg5NTgzNzYwLC0xODk0
-NjAyNTgyXX0=
+eyJoaXN0b3J5IjpbMTgwOTUxMDEzMiw5MzMwNDczNDksLTY2Nz
+MwMTE4OCwxMjcyNjU3ODgzLC0yNTIyMDU2ODUsLTg2MTIxNjA3
+MCwtNjcxODE0MDg5LC05OTI0ODc2NiwyMTU1NzgxNjcsLTE0OD
+I1OTk2NjEsMTQ4MDM2OTU3NywtNDk2NDMzMzgwLDExMTk2MjM1
+MTQsMTk3MjY0MDYzMCwtMTU1NjQ5NzA2OCw0Mzc0NjQ5NzQsOD
+I1NjM3ODgxLC0xMDk4MTU1NDAzLDIwODk1ODM3NjAsLTE4OTQ2
+MDI1ODJdfQ==
 -->
