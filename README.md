@@ -308,7 +308,7 @@ Across the globe, **one geopolitical pattern** seems to emerge, though names var
 
 Using this existing geopolitical stratification is recommended for those wishing to build a web 4 system because it makes varying global systems easily storable in a one relational database model or similar data structure, and is understood by local people, governments, etc. 
 
-For the purpose of any geo-social system, **geographic association with each actor** must be defined. 
+Once we have our geodomains, we must define out geotribe.  
 
 ### Geotribal Bonds
 Traditionally, it's the existence within a certain area, such as a place of residence or business, that is of importance for things like taxes, voting, and citizenship. When building a geo-social system, it's only necessary that association is declared that is relevant for that system. 
@@ -485,11 +485,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTE2NTk4OTEsLTU2NTk3OTI3OSwxMD
-c5NTcxMTg5LDkzMzA0NzM0OSwtNjY3MzAxMTg4LDEyNzI2NTc4
-ODMsLTI1MjIwNTY4NSwtODYxMjE2MDcwLC02NzE4MTQwODksLT
-k5MjQ4NzY2LDIxNTU3ODE2NywtMTQ4MjU5OTY2MSwxNDgwMzY5
-NTc3LC00OTY0MzMzODAsMTExOTYyMzUxNCwxOTcyNjQwNjMwLC
-0xNTU2NDk3MDY4LDQzNzQ2NDk3NCw4MjU2Mzc4ODEsLTEwOTgx
-NTU0MDNdfQ==
+eyJoaXN0b3J5IjpbMTI0MjAxODEsLTU2NTk3OTI3OSwxMDc5NT
+cxMTg5LDkzMzA0NzM0OSwtNjY3MzAxMTg4LDEyNzI2NTc4ODMs
+LTI1MjIwNTY4NSwtODYxMjE2MDcwLC02NzE4MTQwODksLTk5Mj
+Q4NzY2LDIxNTU3ODE2NywtMTQ4MjU5OTY2MSwxNDgwMzY5NTc3
+LC00OTY0MzMzODAsMTExOTYyMzUxNCwxOTcyNjQwNjMwLC0xNT
+U2NDk3MDY4LDQzNzQ2NDk3NCw4MjU2Mzc4ODEsLTEwOTgxNTU0
+MDNdfQ==
 -->
