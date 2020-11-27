@@ -273,7 +273,7 @@ ___
 ___
 # Geo-Social Systems: Geotribes + Geodomains
 
-The geo-social systems apt to be improved by web 4 are those which involve **people collaborating**, like government/legislation, food and water management, community projects, education, events, charities, environmental protection and more. 
+The geo-social systems apt to be improved by web 4 are those which involve **people collaborating**, like government/legislation, food and water management, community projects, education, events, charities, environmental protection and more. Web 4 can also be used by organizations to operate in a way where employees can have a direct s
 
 Collaborative geo-social systems are always happening everywhere humans live. Currently, we are collectively deciding what direction we should be moving as a society, from representative governments, to social media. However, human growth in the past few centuries has been focused on technological improvements rather than social improvements. [3] To harness the power of the information age for the collaboration of humans, web 4 should be used to enhance, introduce, and replace current structures that organize our societies. 
 
@@ -290,7 +290,6 @@ A geo-social system is something that affects people (**social**) at a given bou
 2. **Geotribe**: The group of people associated with a geodomain that are participants in a web 4 system.
 
 Geodomains can be nested, with a finite set of smaller areas making up the larger area, common in geopolitics, but this is not required. Geodomains can also be overlapping or non-overlapping.
-
 
 
 ## The Democratic Web
@@ -491,11 +490,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ4MzYyMDcxLDEwNzk1NzExODksOTMzMD
-Q3MzQ5LC02NjczMDExODgsMTI3MjY1Nzg4MywtMjUyMjA1Njg1
-LC04NjEyMTYwNzAsLTY3MTgxNDA4OSwtOTkyNDg3NjYsMjE1NT
-c4MTY3LC0xNDgyNTk5NjYxLDE0ODAzNjk1NzcsLTQ5NjQzMzM4
-MCwxMTE5NjIzNTE0LDE5NzI2NDA2MzAsLTE1NTY0OTcwNjgsND
-M3NDY0OTc0LDgyNTYzNzg4MSwtMTA5ODE1NTQwMywyMDg5NTgz
-NzYwXX0=
+eyJoaXN0b3J5IjpbMTk0MjQ2NTIxNCwxMDc5NTcxMTg5LDkzMz
+A0NzM0OSwtNjY3MzAxMTg4LDEyNzI2NTc4ODMsLTI1MjIwNTY4
+NSwtODYxMjE2MDcwLC02NzE4MTQwODksLTk5MjQ4NzY2LDIxNT
+U3ODE2NywtMTQ4MjU5OTY2MSwxNDgwMzY5NTc3LC00OTY0MzMz
+ODAsMTExOTYyMzUxNCwxOTcyNjQwNjMwLC0xNTU2NDk3MDY4LD
+QzNzQ2NDk3NCw4MjU2Mzc4ODEsLTEwOTgxNTU0MDMsMjA4OTU4
+Mzc2MF19
 -->
