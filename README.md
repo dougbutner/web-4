@@ -317,7 +317,11 @@ For the purpose of any geo-social system, **geographic association with each act
 ### Geotribal Bonds
 Traditionally, it's the existence within a certain area, such as a place of residence or business, that is of importance for things like taxes, voting, and citizenship. When building a geo-social system, it's only necessary that association is declared that is relevant for that system. 
 
-It is important that each individual only exist within one geotribe (excluding those extrapolated) so that their vote isn't counted twice. If a system allows geotribe members to declare their own location, with restrictions on switching location too often to prevent influencing foreign affairs, 
+It is important for every system that each individual only exist within one geotribe (excluding those extrapolated) so that their vote isn't counted twice. 
+
+If a system allows geotribe members to declare their own associated location without proof, the member is incentivized to be honest, as they will recieve the most benefit from having their opinion heard where it matters to the
+
+with restrictions on switching location too often to prevent influencing foreign affairs, 
 
 When using stratified geodomains, only the deepest level of association is needed (city/community), from which the rest can be extrapolated. 
 
@@ -486,11 +490,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjY1NTc5NzEsMTA3OTU3MTE4OSw5Mz
-MwNDczNDksLTY2NzMwMTE4OCwxMjcyNjU3ODgzLC0yNTIyMDU2
-ODUsLTg2MTIxNjA3MCwtNjcxODE0MDg5LC05OTI0ODc2NiwyMT
-U1NzgxNjcsLTE0ODI1OTk2NjEsMTQ4MDM2OTU3NywtNDk2NDMz
-MzgwLDExMTk2MjM1MTQsMTk3MjY0MDYzMCwtMTU1NjQ5NzA2OC
-w0Mzc0NjQ5NzQsODI1NjM3ODgxLC0xMDk4MTU1NDAzLDIwODk1
-ODM3NjBdfQ==
+eyJoaXN0b3J5IjpbLTY3NTgzMTcxOSwxMDc5NTcxMTg5LDkzMz
+A0NzM0OSwtNjY3MzAxMTg4LDEyNzI2NTc4ODMsLTI1MjIwNTY4
+NSwtODYxMjE2MDcwLC02NzE4MTQwODksLTk5MjQ4NzY2LDIxNT
+U3ODE2NywtMTQ4MjU5OTY2MSwxNDgwMzY5NTc3LC00OTY0MzMz
+ODAsMTExOTYyMzUxNCwxOTcyNjQwNjMwLC0xNTU2NDk3MDY4LD
+QzNzQ2NDk3NCw4MjU2Mzc4ODEsLTEwOTgxNTU0MDMsMjA4OTU4
+Mzc2MF19
 -->
