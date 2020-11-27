@@ -289,7 +289,7 @@ A geo-social layer is something that affects people (**social**) at a given boun
 
 These geotribes can be nested, with a finite number of smaller areas making up the larger area, common in geopolitics. Alternatively, geotribes can 
 
-An example is the governing body of an area, including all of the legislation and officials. A corporate example is the sales representatives for a certain area of the country. A civilian example is regional spelling bees that filter to national and international levels. 
+An example  is the governing body of an area, including all of the legislation and officials. A corporate example is the sales representatives for a certain area of the country. A civilian example is regional spelling bees that filter to national and international levels. 
 
 The geo-social layers apt to be improved by web 4 are those which involve **people collaborating**, like government/legislation, food and water management, community projects, education, events, charities, environmental protection and more. 
 
@@ -301,7 +301,7 @@ It makes sense that we start to build social systems alongside the existing geop
 ## Creating Geo-social Layers
 To create geo-social layers, you first must define the **geographic stratification**, and then the requirements for an individual to be associated with that location. 
 
-### Geographic Stratification  
+### Geodomain Stratification  
 Across the globe, one geopolitical pattern seems to emerge. Cities are within Counties, are within Districts (States in the USA), are within nations, are within the world. 
 
 1. Cities (aka Towns, Commonwealths, etc.)
@@ -484,11 +484,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MjIwNTY4NSwtODYxMjE2MDcwLC02Nz
-E4MTQwODksLTk5MjQ4NzY2LDIxNTU3ODE2NywtMTQ4MjU5OTY2
-MSwxNDgwMzY5NTc3LC00OTY0MzMzODAsMTExOTYyMzUxNCwxOT
-cyNjQwNjMwLC0xNTU2NDk3MDY4LDQzNzQ2NDk3NCw4MjU2Mzc4
-ODEsLTEwOTgxNTU0MDMsMjA4OTU4Mzc2MCwtMTg5NDYwMjU4Mi
-wtMTI4OTU2NTM2NSwtMTU1NTMzNDI2NCwxNTQ2ODg3ODM2LC0x
-OTg5NzIxMDMxXX0=
+eyJoaXN0b3J5IjpbMTI3MjY1Nzg4MywtMjUyMjA1Njg1LC04Nj
+EyMTYwNzAsLTY3MTgxNDA4OSwtOTkyNDg3NjYsMjE1NTc4MTY3
+LC0xNDgyNTk5NjYxLDE0ODAzNjk1NzcsLTQ5NjQzMzM4MCwxMT
+E5NjIzNTE0LDE5NzI2NDA2MzAsLTE1NTY0OTcwNjgsNDM3NDY0
+OTc0LDgyNTYzNzg4MSwtMTA5ODE1NTQwMywyMDg5NTgzNzYwLC
+0xODk0NjAyNTgyLC0xMjg5NTY1MzY1LC0xNTU1MzM0MjY0LDE1
+NDY4ODc4MzZdfQ==
 -->
