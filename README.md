@@ -345,7 +345,7 @@ The democratic system described in this paper does not solve all problems, as th
 **Phase 1 Action Points**: 
 - Time Token ERC proposal on Ethereum (and similar for other blockchains)
 - Developers exploring use cases for Time Tokens 
-- Developers implementing Time Token in unexpected ways
+
 
 ## **Phase Two**
 > dApps and discovering issues
@@ -354,21 +354,19 @@ The democratic system described in this paper does not solve all problems, as th
 
 **Provable identity issues** are becoming apparent, as certain applications with **lax rules** are being manipulated, showing the need for true provable identity. The best solutions are becoming known alongside the problems.
 
-Social Verification like BrightID and biometric solutions like Facetec are still used, while biocryptography standards and biometric secret technology are being developed to allow true provable identity (in Phase Three).
-
 **Information entropy** principles are starting to be implemented, when required.
 
-**Geo-social systems** are starting to be built, but not used for "real applications" like voting because of lack of true provable individuality. 
+**Geo-social systems** are starting to be built, but not used for "real applications" like running a government because of lack of true provable individuality, and social inertia.
 
 **Phase 2 Action Points**: 
 - Proposing the best uses for geo-social systems using time tokens
 - Incorporating different provable identity methods
-
+- Developers implementing Time Token in unexpected ways
 
 ## **Phase Three**
 > Implementing Provable Identity
 
-**Provable Identity** is now possible as suggested in this manifesto through the maturity of the biometric secrets. Standards are being created openly, 
+**Provable Identity** is now possible as suggested in this manifesto through the maturity of the biometric secrets. Standards are being created openly, or, it is decided that the way presented here is not needed as a better
 
 **GeoSocial layers** are being used to run and govern communities which are not dependent on traditional representative government. Existing governments are adopting time tokens to get a better read on what legislation the people want. 
 
@@ -484,11 +482,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDIzNDUyOTcsMTI0MjAxODEsLTU2NT
-k3OTI3OSwxMDc5NTcxMTg5LDkzMzA0NzM0OSwtNjY3MzAxMTg4
-LDEyNzI2NTc4ODMsLTI1MjIwNTY4NSwtODYxMjE2MDcwLC02Nz
-E4MTQwODksLTk5MjQ4NzY2LDIxNTU3ODE2NywtMTQ4MjU5OTY2
-MSwxNDgwMzY5NTc3LC00OTY0MzMzODAsMTExOTYyMzUxNCwxOT
-cyNjQwNjMwLC0xNTU2NDk3MDY4LDQzNzQ2NDk3NCw4MjU2Mzc4
-ODFdfQ==
+eyJoaXN0b3J5IjpbLTc1ODY2NTUzMiwxMjQyMDE4MSwtNTY1OT
+c5Mjc5LDEwNzk1NzExODksOTMzMDQ3MzQ5LC02NjczMDExODgs
+MTI3MjY1Nzg4MywtMjUyMjA1Njg1LC04NjEyMTYwNzAsLTY3MT
+gxNDA4OSwtOTkyNDg3NjYsMjE1NTc4MTY3LC0xNDgyNTk5NjYx
+LDE0ODAzNjk1NzcsLTQ5NjQzMzM4MCwxMTE5NjIzNTE0LDE5Nz
+I2NDA2MzAsLTE1NTY0OTcwNjgsNDM3NDY0OTc0LDgyNTYzNzg4
+MV19
 -->
