@@ -375,7 +375,8 @@ Organizations of all sizes are using time tokens to shift power to employees.
 **Phase 3 Action Points**: 
 - Picking provable identity solutions that satisfy all requirements
 - Possibly abandoning biometric system presented here
-- 
+- Communities running on web 4
+- Governments benefiting from web 4
 
 ## **Phase Four**
 > Geo-social systems
@@ -486,11 +487,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjQ1MzM5NzksLTIxMzE4MDk1MjksMT
-M5MDI1NjA4MiwxMjQyMDE4MSwtNTY1OTc5Mjc5LDEwNzk1NzEx
-ODksOTMzMDQ3MzQ5LC02NjczMDExODgsMTI3MjY1Nzg4MywtMj
-UyMjA1Njg1LC04NjEyMTYwNzAsLTY3MTgxNDA4OSwtOTkyNDg3
-NjYsMjE1NTc4MTY3LC0xNDgyNTk5NjYxLDE0ODAzNjk1NzcsLT
-Q5NjQzMzM4MCwxMTE5NjIzNTE0LDE5NzI2NDA2MzAsLTE1NTY0
-OTcwNjhdfQ==
+eyJoaXN0b3J5IjpbMTM0MTIzNTE4MCwtMTQyNDUzMzk3OSwtMj
+EzMTgwOTUyOSwxMzkwMjU2MDgyLDEyNDIwMTgxLC01NjU5Nzky
+NzksMTA3OTU3MTE4OSw5MzMwNDczNDksLTY2NzMwMTE4OCwxMj
+cyNjU3ODgzLC0yNTIyMDU2ODUsLTg2MTIxNjA3MCwtNjcxODE0
+MDg5LC05OTI0ODc2NiwyMTU1NzgxNjcsLTE0ODI1OTk2NjEsMT
+Q4MDM2OTU3NywtNDk2NDMzMzgwLDExMTk2MjM1MTQsMTk3MjY0
+MDYzMF19
 -->
