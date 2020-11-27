@@ -285,7 +285,7 @@ A geo-social system is something that affects people (**social**) at a given bou
 
 1. **Geodomain**: A bounded area that has an associated group of people who are running a democratic (web 4) system. 
 
-2. **Geotribe**: The group of people associated with a geodomain that are participants or benefactors of a web 4 system.
+2. **Geotribe**: The group of people associated with a geodomain that are participants of a web 4 system.
 
 Geodomains can be nested, with a finite set of smaller areas making up the larger area, common in geopolitics, but this is not required. Geodomains can also be over-lapping or non-over-lapping.
 
@@ -297,7 +297,7 @@ This paper is called "The Democratic Web" because the most obvious use of these 
 It makes sense that we start to build social systems alongside the existing geopolitical boundaries. 
 
 ## Creating Geo-social Systems
-To create geo-social systems, you first must define the **geographic stratification**, and then the requirements for an individual to be associated with that location. 
+To create a geo-social system, we first must define the requirements of the , and then the requirements for an individual to be associated with that location. 
 
 ### Geodomain Stratification  
 Across the globe, one geopolitical pattern seems to emerge. Cities are within Counties, are within Districts (States in the USA), are within nations, are within the world. 
@@ -308,7 +308,7 @@ Across the globe, one geopolitical pattern seems to emerge. Cities are within Co
 4. Nations (aka Countries, States, Republics, etc)
 5. Global
 
-For communication, we will consider cities as the "lowest" and global as the "highest" stratification level.
+For this paper, we will consider cities as the "lowest" and global as the "highest" stratification level.
  
 > Additionally, a **community level** may be added below cities to further add accuracy and usefulness. 
 
@@ -482,11 +482,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMzMDQ3MzQ5LC02NjczMDExODgsMTI3Mj
-Y1Nzg4MywtMjUyMjA1Njg1LC04NjEyMTYwNzAsLTY3MTgxNDA4
-OSwtOTkyNDg3NjYsMjE1NTc4MTY3LC0xNDgyNTk5NjYxLDE0OD
-AzNjk1NzcsLTQ5NjQzMzM4MCwxMTE5NjIzNTE0LDE5NzI2NDA2
-MzAsLTE1NTY0OTcwNjgsNDM3NDY0OTc0LDgyNTYzNzg4MSwtMT
-A5ODE1NTQwMywyMDg5NTgzNzYwLC0xODk0NjAyNTgyLC0xMjg5
-NTY1MzY1XX0=
+eyJoaXN0b3J5IjpbLTExNDYzMzgwMTAsOTMzMDQ3MzQ5LC02Nj
+czMDExODgsMTI3MjY1Nzg4MywtMjUyMjA1Njg1LC04NjEyMTYw
+NzAsLTY3MTgxNDA4OSwtOTkyNDg3NjYsMjE1NTc4MTY3LC0xND
+gyNTk5NjYxLDE0ODAzNjk1NzcsLTQ5NjQzMzM4MCwxMTE5NjIz
+NTE0LDE5NzI2NDA2MzAsLTE1NTY0OTcwNjgsNDM3NDY0OTc0LD
+gyNTYzNzg4MSwtMTA5ODE1NTQwMywyMDg5NTgzNzYwLC0xODk0
+NjAyNTgyXX0=
 -->
