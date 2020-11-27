@@ -400,7 +400,7 @@ If and when the "old system" meets its demise, as all things do, **we can transi
 ## Why use the term "Web 4"
 It is my belief that each version of the web must 1) be built on top of the previous version, 2) be fundamentally different than the previous version by introducing new technology, and 3) have meaningful impact on society. 
 
-This proposal for the next iteration of the web is an effort to both expand and shift the path of information science in a direction where the **meaningful impact** of society involves: 1) empowerment of each individual, which serve as the basis for collective (social), economic, and novel applications; 2) provable identity verification while maintaining complete separation from any federated system, including government, with the side-benefit of lifelong recoverability of biokeys with bios; and 3) resonance with our contained and containing systems, like our human organs and the Solar system, which provide us with life and free energy daily, akin to free time tokens.
+This proposal for the next iteration of the web is an effort to both expand and shift the path of information science in a direction where the **meaningful impact** of society involves: 1) empowerment of each individual, which serve as the basis for collective (social), economic, and novel applications; 2) provable identity verification while maintaining complete separation from any federated system, including government, with the side-benefit of lifelong recoverability of biokeys with biosecrets; and 3) resonance with our contained and containing systems, like our human organs and the Solar system, which provide us with life and free energy daily, akin to free time tokens.
 
 While an argument could easily be made that DeFi is Web 4, or another emerging tech, like "layer 2" blockchains (rollups) are web 4, both of these are **not new**. DeFi mimics and improves the systems of the past. Rollups are merely making web 3 **more efficient**. 
 
@@ -488,11 +488,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTkyODE3OTksLTE0MjQ1MzM5NzksLT
-IxMzE4MDk1MjksMTM5MDI1NjA4MiwxMjQyMDE4MSwtNTY1OTc5
-Mjc5LDEwNzk1NzExODksOTMzMDQ3MzQ5LC02NjczMDExODgsMT
-I3MjY1Nzg4MywtMjUyMjA1Njg1LC04NjEyMTYwNzAsLTY3MTgx
-NDA4OSwtOTkyNDg3NjYsMjE1NTc4MTY3LC0xNDgyNTk5NjYxLD
-E0ODAzNjk1NzcsLTQ5NjQzMzM4MCwxMTE5NjIzNTE0LDE5NzI2
-NDA2MzBdfQ==
+eyJoaXN0b3J5IjpbMTYxMDc5NjM5MywtMTQyNDUzMzk3OSwtMj
+EzMTgwOTUyOSwxMzkwMjU2MDgyLDEyNDIwMTgxLC01NjU5Nzky
+NzksMTA3OTU3MTE4OSw5MzMwNDczNDksLTY2NzMwMTE4OCwxMj
+cyNjU3ODgzLC0yNTIyMDU2ODUsLTg2MTIxNjA3MCwtNjcxODE0
+MDg5LC05OTI0ODc2NiwyMTU1NzgxNjcsLTE0ODI1OTk2NjEsMT
+Q4MDM2OTU3NywtNDk2NDMzMzgwLDExMTk2MjM1MTQsMTk3MjY0
+MDYzMF19
 -->
