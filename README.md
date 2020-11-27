@@ -372,8 +372,10 @@ The democratic system described in this paper does not solve all problems, as th
 
 Organizations of all sizes are using time tokens to shift power to employees. 
 
-**Phase 3 Action Point**: 
-- Creating provable identity solutions that satisfy all requirements
+**Phase 3 Action Points**: 
+- Picking provable identity solutions that satisfy all requirements
+- Possibly abandoning biometric system presented here
+- 
 
 ## **Phase Four**
 > Geo-social systems
@@ -484,11 +486,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzE4MDk1MjksMTM5MDI1NjA4MiwxMj
-QyMDE4MSwtNTY1OTc5Mjc5LDEwNzk1NzExODksOTMzMDQ3MzQ5
-LC02NjczMDExODgsMTI3MjY1Nzg4MywtMjUyMjA1Njg1LC04Nj
-EyMTYwNzAsLTY3MTgxNDA4OSwtOTkyNDg3NjYsMjE1NTc4MTY3
-LC0xNDgyNTk5NjYxLDE0ODAzNjk1NzcsLTQ5NjQzMzM4MCwxMT
-E5NjIzNTE0LDE5NzI2NDA2MzAsLTE1NTY0OTcwNjgsNDM3NDY0
-OTc0XX0=
+eyJoaXN0b3J5IjpbLTE0MjQ1MzM5NzksLTIxMzE4MDk1MjksMT
+M5MDI1NjA4MiwxMjQyMDE4MSwtNTY1OTc5Mjc5LDEwNzk1NzEx
+ODksOTMzMDQ3MzQ5LC02NjczMDExODgsMTI3MjY1Nzg4MywtMj
+UyMjA1Njg1LC04NjEyMTYwNzAsLTY3MTgxNDA4OSwtOTkyNDg3
+NjYsMjE1NTc4MTY3LC0xNDgyNTk5NjYxLDE0ODAzNjk1NzcsLT
+Q5NjQzMzM4MCwxMTE5NjIzNTE0LDE5NzI2NDA2MzAsLTE1NTY0
+OTcwNjhdfQ==
 -->
