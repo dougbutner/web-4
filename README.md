@@ -370,7 +370,7 @@ The democratic system described in this paper does not solve all problems, as th
 
 **Geo-social systems** are being used to run and govern communities which are not dependent on traditional representative government. Existing governments are adopting time tokens to get a better read on what legislation the people want. 
 
-Organizations of all sizes are using time tokens to 
+Organizations of all sizes are using time tokens to shift power to employees. 
 
 **Phase 3 Action Point**: 
 - Creating provable identity solutions that satisfy all requirements
@@ -484,11 +484,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MDI1NjA4MiwxMjQyMDE4MSwtNTY1OT
-c5Mjc5LDEwNzk1NzExODksOTMzMDQ3MzQ5LC02NjczMDExODgs
-MTI3MjY1Nzg4MywtMjUyMjA1Njg1LC04NjEyMTYwNzAsLTY3MT
-gxNDA4OSwtOTkyNDg3NjYsMjE1NTc4MTY3LC0xNDgyNTk5NjYx
-LDE0ODAzNjk1NzcsLTQ5NjQzMzM4MCwxMTE5NjIzNTE0LDE5Nz
-I2NDA2MzAsLTE1NTY0OTcwNjgsNDM3NDY0OTc0LDgyNTYzNzg4
-MV19
+eyJoaXN0b3J5IjpbLTIxMzE4MDk1MjksMTM5MDI1NjA4MiwxMj
+QyMDE4MSwtNTY1OTc5Mjc5LDEwNzk1NzExODksOTMzMDQ3MzQ5
+LC02NjczMDExODgsMTI3MjY1Nzg4MywtMjUyMjA1Njg1LC04Nj
+EyMTYwNzAsLTY3MTgxNDA4OSwtOTkyNDg3NjYsMjE1NTc4MTY3
+LC0xNDgyNTk5NjYxLDE0ODAzNjk1NzcsLTQ5NjQzMzM4MCwxMT
+E5NjIzNTE0LDE5NzI2NDA2MzAsLTE1NTY0OTcwNjgsNDM3NDY0
+OTc0XX0=
 -->
