@@ -1,4 +1,4 @@
-# The Web 4 Manifesto: Awakening the Democratic Web 
+# The Web 4 Manifesto: Awakening the Time Web 
 
 by Douglas James Butner 
 douglas@cxc.world
@@ -488,11 +488,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUwNTE3OTg3LDI3NjUyNTk0NywxNjEwNz
-k2MzkzLC0xNDI0NTMzOTc5LC0yMTMxODA5NTI5LDEzOTAyNTYw
-ODIsMTI0MjAxODEsLTU2NTk3OTI3OSwxMDc5NTcxMTg5LDkzMz
-A0NzM0OSwtNjY3MzAxMTg4LDEyNzI2NTc4ODMsLTI1MjIwNTY4
-NSwtODYxMjE2MDcwLC02NzE4MTQwODksLTk5MjQ4NzY2LDIxNT
-U3ODE2NywtMTQ4MjU5OTY2MSwxNDgwMzY5NTc3LC00OTY0MzMz
-ODBdfQ==
+eyJoaXN0b3J5IjpbNzAwNTg0ODUsOTUwNTE3OTg3LDI3NjUyNT
+k0NywxNjEwNzk2MzkzLC0xNDI0NTMzOTc5LC0yMTMxODA5NTI5
+LDEzOTAyNTYwODIsMTI0MjAxODEsLTU2NTk3OTI3OSwxMDc5NT
+cxMTg5LDkzMzA0NzM0OSwtNjY3MzAxMTg4LDEyNzI2NTc4ODMs
+LTI1MjIwNTY4NSwtODYxMjE2MDcwLC02NzE4MTQwODksLTk5Mj
+Q4NzY2LDIxNTU3ODE2NywtMTQ4MjU5OTY2MSwxNDgwMzY5NTc3
+XX0=
 -->
