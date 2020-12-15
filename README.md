@@ -44,7 +44,7 @@ Before we detail web 4, we must look briefly at the concepts of web 1, web 2, an
 **Decentralized web**. Applications, often open-source, exist in distributed networks instead of a central server. This unfederated model trades control and censorship ability for freedom and autonomy. 
 
  - **Web 4**
-**Democratic web**. Time-limited tokens are given to each individual, and used as a measure of opinion or desire in collaborative systems.
+**Time web**. Time-limited tokens are given to each individual, and used as a measure of opinion or desire in collaborative systems.
 
 Today, the top 100 websites/apps by traffic are [all](https://www.alexa.com/topsites) web 2-based. The web 2 paradigm fits closely with the wider environment of **corporate-owned information.** 
 
@@ -75,7 +75,7 @@ Web 4 introduces **four modular components** for **provably democratic systems**
 Each module can be used separately or in tandem. This paper invites you to involve any of these ideas into your current and future projects. We will discuss these concepts one at a time, but first let's examine why we need them in the first place. 
 
 
-# Why we must grow from web 3 to evolve democracy
+# Why we must grow from web 3 to evolve time
 > Provable democracy cannot be fully achieved in web 3 as-is because there is no inherit limit over how many accounts a user may control.
 
 **Democracy** is essentially reaching a consensus with the idea that **each person is equal** in their influence on that consensus within defined bounds.
@@ -488,11 +488,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAwNTg0ODUsOTUwNTE3OTg3LDI3NjUyNT
-k0NywxNjEwNzk2MzkzLC0xNDI0NTMzOTc5LC0yMTMxODA5NTI5
-LDEzOTAyNTYwODIsMTI0MjAxODEsLTU2NTk3OTI3OSwxMDc5NT
-cxMTg5LDkzMzA0NzM0OSwtNjY3MzAxMTg4LDEyNzI2NTc4ODMs
-LTI1MjIwNTY4NSwtODYxMjE2MDcwLC02NzE4MTQwODksLTk5Mj
-Q4NzY2LDIxNTU3ODE2NywtMTQ4MjU5OTY2MSwxNDgwMzY5NTc3
-XX0=
+eyJoaXN0b3J5IjpbMTkwMzE2MzU5LDk1MDUxNzk4NywyNzY1Mj
+U5NDcsMTYxMDc5NjM5MywtMTQyNDUzMzk3OSwtMjEzMTgwOTUy
+OSwxMzkwMjU2MDgyLDEyNDIwMTgxLC01NjU5NzkyNzksMTA3OT
+U3MTE4OSw5MzMwNDczNDksLTY2NzMwMTE4OCwxMjcyNjU3ODgz
+LC0yNTIyMDU2ODUsLTg2MTIxNjA3MCwtNjcxODE0MDg5LC05OT
+I0ODc2NiwyMTU1NzgxNjcsLTE0ODI1OTk2NjEsMTQ4MDM2OTU3
+N119
 -->
