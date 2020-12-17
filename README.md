@@ -314,9 +314,9 @@ Once we have our geodomains, we must define what makes a geotribe.
 ### Geotribal Bonds
 Traditionally, it's the existence within a certain area, such as a place of residence or business, that is of importance for things like taxes, voting, and citizenship. When building a geo-social system, it's only necessary that an association is declared that is relevant for that system, which may or may not involve proving residency. 
 
-It is important for every system that each individual only exist within one geotribe (excluding those extrapolated) so that their vote isn't counted twice. 
+It is important for every system that each individual declare within one geotribe hat their vote isn't counted twice. 
 
-When using stratified geodomains, such as geopolitically-based ones, only the deepest level of association is needed (city/community), from which the rest can be extrapolated.
+When using stratified geodomains, such as geopolitically-based ones, 
 
 Geodomains are layered, with each level adding definition by refining larger Geodomain layers into 
 
@@ -491,11 +491,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxODA2ODM4NiwxMjYxMjU3NzYsMTkwMz
-E2MzU5LDk1MDUxNzk4NywyNzY1MjU5NDcsMTYxMDc5NjM5Mywt
-MTQyNDUzMzk3OSwtMjEzMTgwOTUyOSwxMzkwMjU2MDgyLDEyND
-IwMTgxLC01NjU5NzkyNzksMTA3OTU3MTE4OSw5MzMwNDczNDks
-LTY2NzMwMTE4OCwxMjcyNjU3ODgzLC0yNTIyMDU2ODUsLTg2MT
-IxNjA3MCwtNjcxODE0MDg5LC05OTI0ODc2NiwyMTU1NzgxNjdd
-fQ==
+eyJoaXN0b3J5IjpbLTcwMTUwNTI1MSwtNDE4MDY4Mzg2LDEyNj
+EyNTc3NiwxOTAzMTYzNTksOTUwNTE3OTg3LDI3NjUyNTk0Nywx
+NjEwNzk2MzkzLC0xNDI0NTMzOTc5LC0yMTMxODA5NTI5LDEzOT
+AyNTYwODIsMTI0MjAxODEsLTU2NTk3OTI3OSwxMDc5NTcxMTg5
+LDkzMzA0NzM0OSwtNjY3MzAxMTg4LDEyNzI2NTc4ODMsLTI1Mj
+IwNTY4NSwtODYxMjE2MDcwLC02NzE4MTQwODksLTk5MjQ4NzY2
+XX0=
 -->
