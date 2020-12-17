@@ -318,6 +318,8 @@ It is important for every system that each individual only exist within one geot
 
 When using stratified geodomains, such as geopolitically-based ones, only the deepest level of association is needed (city/community), from which the rest can be extrapolated.
 
+Geodomains are layered, with each level adding definition by refining larger Geodomain layers into 
+
 If a geopolitically-based geodomain system allows geotribe members to declare their own associated location without proof, the member is incentivized to be honest, as they will receive the most benefit from having their opinion heard where it matters to them. 
 
 All "non-proof" systems should place restrictions on switching voluntarily-given geodomain association too often (such as once per 6 months) to prevent influencing foreign affairs. 
@@ -489,11 +491,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MTI1Nzc2LDE5MDMxNjM1OSw5NTA1MT
-c5ODcsMjc2NTI1OTQ3LDE2MTA3OTYzOTMsLTE0MjQ1MzM5Nzks
-LTIxMzE4MDk1MjksMTM5MDI1NjA4MiwxMjQyMDE4MSwtNTY1OT
-c5Mjc5LDEwNzk1NzExODksOTMzMDQ3MzQ5LC02NjczMDExODgs
-MTI3MjY1Nzg4MywtMjUyMjA1Njg1LC04NjEyMTYwNzAsLTY3MT
-gxNDA4OSwtOTkyNDg3NjYsMjE1NTc4MTY3LC0xNDgyNTk5NjYx
-XX0=
+eyJoaXN0b3J5IjpbLTQxODA2ODM4NiwxMjYxMjU3NzYsMTkwMz
+E2MzU5LDk1MDUxNzk4NywyNzY1MjU5NDcsMTYxMDc5NjM5Mywt
+MTQyNDUzMzk3OSwtMjEzMTgwOTUyOSwxMzkwMjU2MDgyLDEyND
+IwMTgxLC01NjU5NzkyNzksMTA3OTU3MTE4OSw5MzMwNDczNDks
+LTY2NzMwMTE4OCwxMjcyNjU3ODgzLC0yNTIyMDU2ODUsLTg2MT
+IxNjA3MCwtNjcxODE0MDg5LC05OTI0ODc2NiwyMTU1NzgxNjdd
+fQ==
 -->
