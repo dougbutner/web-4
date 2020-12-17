@@ -297,16 +297,15 @@ Geodomains can be nested, with a finite set of smaller areas making up the large
 To create a geo-social system, we first must define the requirements of the geodomain, and then the requirements for an individual to be a part of the geotribe within that geodomain. 
 
 ### Geodomain Stratification  
-Across the globe, **one geopolitical pattern** seems to emerge, though names vary. Cities are within Counties, are within States, are within Nations, are within the World. 
+Across the globe, **one geopolitical pattern** seems to emerge, though names vary. Communities are within Cities, are within Counties, are within States, are within Nations, are within the World. 
 
-1. Cities (aka Towns, Commonwealths, etc.)
-2. Counties (aka Divisions
-3. States (aka Districts, Provinces)
-4. Nations (aka Countries, States, Republics, etc)
-5. Global
+1. Community
+2. Cities (aka Towns, Commonwealths, etc.)
+3. Counties (aka Divisions
+4. States (aka Districts, Provinces)
+5. Nations (aka Countries, States, Republics, etc)
+6. Global
  
-> Additionally, a **community level** may be added within cities to further add accuracy and usefulness. 
-
 Using this existing geopolitical stratification is recommended for those wishing to build a web 4 system because it makes varying global systems easily storable in a one relational database model or similar data structure, and is understood by local people, governments, etc. 
 
 Once we have our geodomains, we must define what makes a geotribe.  
@@ -491,7 +490,7 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMTUwNTI1MSwtNDE4MDY4Mzg2LDEyNj
+eyJoaXN0b3J5IjpbLTkxNzgwNjQ3NSwtNDE4MDY4Mzg2LDEyNj
 EyNTc3NiwxOTAzMTYzNTksOTUwNTE3OTg3LDI3NjUyNTk0Nywx
 NjEwNzk2MzkzLC0xNDI0NTMzOTc5LC0yMTMxODA5NTI5LDEzOT
 AyNTYwODIsMTI0MjAxODEsLTU2NTk3OTI3OSwxMDc5NTcxMTg5
