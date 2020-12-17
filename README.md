@@ -68,7 +68,7 @@ Web 4 introduces **four modular components** for **provably democratic systems**
  2. **Proof of Individuality (One Person, One Account)**
 	 Biometric Secrets, Social Verification, Proof of Liveness, white lists, etc. are used to guarantee no individual can collect two time tokens for a given interval by holding two accounts. 
  3. **Information Entropy**
-	 Information degradation over time, pseudo accounts in sensitive systems
+	 Information degradation over time, increasing cost to call smart contracts over time accounts in sensitive systems
  4. **Harmonic Geo-social Systems**
 	 Fair, transparent collaboration through accounting the opinions and desires of participants, including in existing geopolitical 
 
@@ -488,11 +488,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMzE2MzU5LDk1MDUxNzk4NywyNzY1Mj
-U5NDcsMTYxMDc5NjM5MywtMTQyNDUzMzk3OSwtMjEzMTgwOTUy
-OSwxMzkwMjU2MDgyLDEyNDIwMTgxLC01NjU5NzkyNzksMTA3OT
-U3MTE4OSw5MzMwNDczNDksLTY2NzMwMTE4OCwxMjcyNjU3ODgz
-LC0yNTIyMDU2ODUsLTg2MTIxNjA3MCwtNjcxODE0MDg5LC05OT
-I0ODc2NiwyMTU1NzgxNjcsLTE0ODI1OTk2NjEsMTQ4MDM2OTU3
-N119
+eyJoaXN0b3J5IjpbLTExNTcyODA0MDcsMTkwMzE2MzU5LDk1MD
+UxNzk4NywyNzY1MjU5NDcsMTYxMDc5NjM5MywtMTQyNDUzMzk3
+OSwtMjEzMTgwOTUyOSwxMzkwMjU2MDgyLDEyNDIwMTgxLC01Nj
+U5NzkyNzksMTA3OTU3MTE4OSw5MzMwNDczNDksLTY2NzMwMTE4
+OCwxMjcyNjU3ODgzLC0yNTIyMDU2ODUsLTg2MTIxNjA3MCwtNj
+cxODE0MDg5LC05OTI0ODc2NiwyMTU1NzgxNjcsLTE0ODI1OTk2
+NjFdfQ==
 -->
