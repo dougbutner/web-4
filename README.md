@@ -250,7 +250,7 @@ ___
 ##  Information Entropy
 Web 3 focuses on storing information forever in a provable way. Web 4 introduces a **counter-model** which may be **optionally** adopted by any time-token-based system. In this model, who did what becomes **harder and harder to know** the more time that passes. 
 
-This idea hinges upon incremental time units, the number of which is used to decide how difficult information about a particular individual is to access. This can be implemented by increasing the difficulty required to verify a transaction chain, or economically by increasing the fees associated with accessing or interacting with old transactions or smart contracts. 
+This idea hinges upon incremental time units, the number of which is used to decide how difficult information about a particular individual is to access. This can be implemented by increasing the difficulty required to verify a transaction chain, or economically by increasing the fees associated with accessing or interacting with old smart contracts. 
 
 With **information entropy**, it is difficult, but not impossible, to piece together a story about an individual user by knowing they are responsible for a set of transactions over time. The further back in time a transaction is, the **harder** it is to link it to another transaction with any **certainty**. This difficulty may be overcame with resources or tokens required to execute a smart contract. 
 
@@ -490,11 +490,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1ODA0ODExMSwtNDE4MDY4Mzg2LDEyNj
-EyNTc3NiwxOTAzMTYzNTksOTUwNTE3OTg3LDI3NjUyNTk0Nywx
-NjEwNzk2MzkzLC0xNDI0NTMzOTc5LC0yMTMxODA5NTI5LDEzOT
-AyNTYwODIsMTI0MjAxODEsLTU2NTk3OTI3OSwxMDc5NTcxMTg5
-LDkzMzA0NzM0OSwtNjY3MzAxMTg4LDEyNzI2NTc4ODMsLTI1Mj
-IwNTY4NSwtODYxMjE2MDcwLC02NzE4MTQwODksLTk5MjQ4NzY2
-XX0=
+eyJoaXN0b3J5IjpbMTQ3MzIzOTQ4NywtNzU4MDQ4MTExLC00MT
+gwNjgzODYsMTI2MTI1Nzc2LDE5MDMxNjM1OSw5NTA1MTc5ODcs
+Mjc2NTI1OTQ3LDE2MTA3OTYzOTMsLTE0MjQ1MzM5NzksLTIxMz
+E4MDk1MjksMTM5MDI1NjA4MiwxMjQyMDE4MSwtNTY1OTc5Mjc5
+LDEwNzk1NzExODksOTMzMDQ3MzQ5LC02NjczMDExODgsMTI3Mj
+Y1Nzg4MywtMjUyMjA1Njg1LC04NjEyMTYwNzAsLTY3MTgxNDA4
+OV19
 -->
