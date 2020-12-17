@@ -274,7 +274,7 @@ ___
 ___
 # Geo-Social Systems: Geotribes + Geodomains
 
-Geodomains house **people collaborating**, like government/legislation, food and water management, community projects, education, events, charities, environmental protection and more. Web 4 can also be used by organizations so employees can have a direct say in the actions and direction of their companies and non-profits.
+Geodomains involve **people collaborating**, like government/legislation, food and water management, community projects, education, events, charities, environmental protection and more. Web 4 can also be used by organizations so employees can have a direct say in the actions and direction of their companies and non-profits.
 
 Collaborative geo-social systems are always happening everywhere humans live. Currently, we are collectively deciding what direction we should be moving as a society, from representative governments, to social media. However, human growth in the past few centuries has been focused on technological improvements rather than social improvements. [3] To harness the power of the information age for the collaboration of humans, web 4 should be used to enhance, introduce, and replace current structures that organize our societies. 
 
@@ -490,11 +490,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMjQzNDc0NCwtNzU4MDQ4MTExLC00MT
-gwNjgzODYsMTI2MTI1Nzc2LDE5MDMxNjM1OSw5NTA1MTc5ODcs
-Mjc2NTI1OTQ3LDE2MTA3OTYzOTMsLTE0MjQ1MzM5NzksLTIxMz
-E4MDk1MjksMTM5MDI1NjA4MiwxMjQyMDE4MSwtNTY1OTc5Mjc5
-LDEwNzk1NzExODksOTMzMDQ3MzQ5LC02NjczMDExODgsMTI3Mj
-Y1Nzg4MywtMjUyMjA1Njg1LC04NjEyMTYwNzAsLTY3MTgxNDA4
-OV19
+eyJoaXN0b3J5IjpbOTg4NTk4MzUsLTc1ODA0ODExMSwtNDE4MD
+Y4Mzg2LDEyNjEyNTc3NiwxOTAzMTYzNTksOTUwNTE3OTg3LDI3
+NjUyNTk0NywxNjEwNzk2MzkzLC0xNDI0NTMzOTc5LC0yMTMxOD
+A5NTI5LDEzOTAyNTYwODIsMTI0MjAxODEsLTU2NTk3OTI3OSwx
+MDc5NTcxMTg5LDkzMzA0NzM0OSwtNjY3MzAxMTg4LDEyNzI2NT
+c4ODMsLTI1MjIwNTY4NSwtODYxMjE2MDcwLC02NzE4MTQwODld
+fQ==
 -->
