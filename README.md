@@ -64,7 +64,8 @@ Web 4 introduces **four modular components** for **provably democratic systems**
 ### There are four conceptual underpinnings (modules) of web 4
 
  1. **Time Tokens** 
-	 Individuals may claim time-limited tokens at given intervals, which represent that interval. Only one time tokens can represent the one interval and individual, and one individuals can't hold another's time tokens.
+	 Individuals may claim time-limited tokens at given intervals, which represent that interval and the mintee. Only one time tokens can represent the one interval and individual, and one individual can't hold another's time tokens. Time tokens have functionality to the mintee only.
+	 
  2. **Proof of Individuality (One Person, One Account)**
 	 Biometric Secrets, Social Verification, Proof of Liveness, white lists, etc. are used to guarantee no individual can collect two time tokens for a given interval by holding two accounts. 
  3. **Information Entropy**
@@ -488,11 +489,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTcyODA0MDcsMTkwMzE2MzU5LDk1MD
-UxNzk4NywyNzY1MjU5NDcsMTYxMDc5NjM5MywtMTQyNDUzMzk3
-OSwtMjEzMTgwOTUyOSwxMzkwMjU2MDgyLDEyNDIwMTgxLC01Nj
-U5NzkyNzksMTA3OTU3MTE4OSw5MzMwNDczNDksLTY2NzMwMTE4
-OCwxMjcyNjU3ODgzLC0yNTIyMDU2ODUsLTg2MTIxNjA3MCwtNj
-cxODE0MDg5LC05OTI0ODc2NiwyMTU1NzgxNjcsLTE0ODI1OTk2
-NjFdfQ==
+eyJoaXN0b3J5IjpbMTI2MTI1Nzc2LDE5MDMxNjM1OSw5NTA1MT
+c5ODcsMjc2NTI1OTQ3LDE2MTA3OTYzOTMsLTE0MjQ1MzM5Nzks
+LTIxMzE4MDk1MjksMTM5MDI1NjA4MiwxMjQyMDE4MSwtNTY1OT
+c5Mjc5LDEwNzk1NzExODksOTMzMDQ3MzQ5LC02NjczMDExODgs
+MTI3MjY1Nzg4MywtMjUyMjA1Njg1LC04NjEyMTYwNzAsLTY3MT
+gxNDA4OSwtOTkyNDg3NjYsMjE1NTc4MTY3LC0xNDgyNTk5NjYx
+XX0=
 -->
