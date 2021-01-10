@@ -290,7 +290,7 @@ A geo-social system is something that affects people (**social**) at a given bou
 
 2. **Geotribe**: The group of people associated with a geodomain that are participants in a web 4 system.
 
-Geodomains are akin to a level of organization liek city a, with a finite set of smaller areas making up the larger area, common in geopolitics. Geodomains can also be overlapping if desired.
+Geodomains are akin to a level of organization like city or state, where one c, with a finite set of smaller areas making up the larger area, common in geopolitics. Geodomains can also be overlapping if desired.
 
 
 ## Creating Geo-social Systems
@@ -490,11 +490,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNjU0MDAwMCw5ODg1OTgzNSwtNzU4MD
-Q4MTExLC00MTgwNjgzODYsMTI2MTI1Nzc2LDE5MDMxNjM1OSw5
-NTA1MTc5ODcsMjc2NTI1OTQ3LDE2MTA3OTYzOTMsLTE0MjQ1Mz
-M5NzksLTIxMzE4MDk1MjksMTM5MDI1NjA4MiwxMjQyMDE4MSwt
-NTY1OTc5Mjc5LDEwNzk1NzExODksOTMzMDQ3MzQ5LC02NjczMD
-ExODgsMTI3MjY1Nzg4MywtMjUyMjA1Njg1LC04NjEyMTYwNzBd
-fQ==
+eyJoaXN0b3J5IjpbNTI3NDA3NTk3LDk4ODU5ODM1LC03NTgwND
+gxMTEsLTQxODA2ODM4NiwxMjYxMjU3NzYsMTkwMzE2MzU5LDk1
+MDUxNzk4NywyNzY1MjU5NDcsMTYxMDc5NjM5MywtMTQyNDUzMz
+k3OSwtMjEzMTgwOTUyOSwxMzkwMjU2MDgyLDEyNDIwMTgxLC01
+NjU5NzkyNzksMTA3OTU3MTE4OSw5MzMwNDczNDksLTY2NzMwMT
+E4OCwxMjcyNjU3ODgzLC0yNTIyMDU2ODUsLTg2MTIxNjA3MF19
+
 -->
