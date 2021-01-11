@@ -274,23 +274,21 @@ ___
 ___
 # Geo-Social Systems: Geotribes + Geodomains
 
-**Geodomains** involve **people collaborating**, like government/ Web 4 can also be used by organizations so employees can have a direct say in the actions and direction of their companies and non-profits.
-
 Collaborative geo-social systems are always happening everywhere humans live. Currently, we are collectively deciding what direction we should be moving as a society, from representative governments, to social media. However, human growth in the past few centuries has been focused on technological improvements rather than social improvements. [3] To harness the power of the information age for the collaboration of humans, web 4 should be used to enhance, introduce, and replace current structures that organize our societies. 
 
 > Web 4 proposes that systems based in time token are the most apt to create and improve existing social layers. 
 
 ## What is a Geo-Social System?
 
-A geo-social system is something that affects people (**social**) at a given bounded area (**geo**). To refer to a group of people associated with a certain area, we'll call them a **geotribe**, and to refer to that area we'll call it a **geodomain**. 
+A geo-social system is something that affects people (**social**) at a given bounded area (**geo**). 
 
 ## Concepts
 
-1. **Geodomain**: A bounded area that may contain or be contained by other geodomains and may have has an associated group of people (geotribe). 
+1. **Geodomain**: A bounded area that may contain or be contained by other geodomains and may have an associated group of people (geotribe). 
 
 2. **Geotribe**: The group of people associated with a geodomain that are participants in a web 4 system.
 
-Geodomains are akin to a level of organization like city or state, where one c, with a finite set of smaller areas making up the larger area, common in geopolitics. Geodomains can also be overlapping if desired.
+Geodomains are akin to a level of organization like city or state, with a finite set of smaller areas making up the larger area, common in geopolitics. Geodomains can also be overlapping if desired.
 
 
 ## Creating Geo-social Systems
@@ -490,11 +488,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDYzMzM1MDksNTI3NDA3NTk3LDk4OD
-U5ODM1LC03NTgwNDgxMTEsLTQxODA2ODM4NiwxMjYxMjU3NzYs
-MTkwMzE2MzU5LDk1MDUxNzk4NywyNzY1MjU5NDcsMTYxMDc5Nj
-M5MywtMTQyNDUzMzk3OSwtMjEzMTgwOTUyOSwxMzkwMjU2MDgy
-LDEyNDIwMTgxLC01NjU5NzkyNzksMTA3OTU3MTE4OSw5MzMwND
-czNDksLTY2NzMwMTE4OCwxMjcyNjU3ODgzLC0yNTIyMDU2ODVd
-fQ==
+eyJoaXN0b3J5IjpbNjQzNzc1NzEyLDUyNzQwNzU5Nyw5ODg1OT
+gzNSwtNzU4MDQ4MTExLC00MTgwNjgzODYsMTI2MTI1Nzc2LDE5
+MDMxNjM1OSw5NTA1MTc5ODcsMjc2NTI1OTQ3LDE2MTA3OTYzOT
+MsLTE0MjQ1MzM5NzksLTIxMzE4MDk1MjksMTM5MDI1NjA4Miwx
+MjQyMDE4MSwtNTY1OTc5Mjc5LDEwNzk1NzExODksOTMzMDQ3Mz
+Q5LC02NjczMDExODgsMTI3MjY1Nzg4MywtMjUyMjA1Njg1XX0=
+
 -->
