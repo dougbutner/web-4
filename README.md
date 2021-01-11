@@ -288,14 +288,10 @@ A geo-social system is something that affects people (**social**) at a given bou
 
 2. **Geotribe**: The group of people associated with a geodomain that are participants in a web 4 system.
 
-Geodomains are akin to a level of organization like city or state, with a finite set of smaller areas making up the larger area, common in geopolitics. Geodomains can also be overlapping if desired.
+Geodomains are akin to a level of organization like city or state, with a finite set of smaller areas making up the larger area. Geodomains can also be overlapping if desired. 
 
-
-## Creating Geo-social Systems
-To create a geo-social system, we first must define the requirements of the geodomain, and then the requirements for an individual to be a part of the geotribe within that geodomain. 
-
-### Geodomain Stratification  
-Across the globe, **one geopolitical pattern** seems to emerge, though names vary. Communities are within Cities, are within Counties, are within States, are within Nations, are within the World. 
+### Geodomain Level  
+Across the globe, **one geopolitical (geodomain) pattern** seems to emerge, though names vary. Communities are within Cities, are within Counties, are within States, are within Nations, are within the World. 
 
 1. Community
 2. Cities (aka Towns, Commonwealths, etc.)
@@ -488,11 +484,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQzNzc1NzEyLDUyNzQwNzU5Nyw5ODg1OT
-gzNSwtNzU4MDQ4MTExLC00MTgwNjgzODYsMTI2MTI1Nzc2LDE5
-MDMxNjM1OSw5NTA1MTc5ODcsMjc2NTI1OTQ3LDE2MTA3OTYzOT
-MsLTE0MjQ1MzM5NzksLTIxMzE4MDk1MjksMTM5MDI1NjA4Miwx
-MjQyMDE4MSwtNTY1OTc5Mjc5LDEwNzk1NzExODksOTMzMDQ3Mz
-Q5LC02NjczMDExODgsMTI3MjY1Nzg4MywtMjUyMjA1Njg1XX0=
+eyJoaXN0b3J5IjpbMTkwODI3NDU1Miw1Mjc0MDc1OTcsOTg4NT
+k4MzUsLTc1ODA0ODExMSwtNDE4MDY4Mzg2LDEyNjEyNTc3Niwx
+OTAzMTYzNTksOTUwNTE3OTg3LDI3NjUyNTk0NywxNjEwNzk2Mz
+kzLC0xNDI0NTMzOTc5LC0yMTMxODA5NTI5LDEzOTAyNTYwODIs
+MTI0MjAxODEsLTU2NTk3OTI3OSwxMDc5NTcxMTg5LDkzMzA0Nz
+M0OSwtNjY3MzAxMTg4LDEyNzI2NTc4ODMsLTI1MjIwNTY4NV19
 
 -->
