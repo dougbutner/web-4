@@ -280,7 +280,7 @@ Collaborative geo-social systems are always happening everywhere humans live. Cu
 
 ## What is a Geo-Social System?
 
-A geo-social system is something that affects people (**social**) at a given bounded area (**geo**). 
+A geo-social system is something that affects people (**social**) at a given bounded area (**geo**). We will introduce a model to create a bounded geo-social system on blockchain 
 
 ## Concepts
 
@@ -482,11 +482,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NTMxNDg4LDUyNzQwNzU5Nyw5ODg1OT
-gzNSwtNzU4MDQ4MTExLC00MTgwNjgzODYsMTI2MTI1Nzc2LDE5
-MDMxNjM1OSw5NTA1MTc5ODcsMjc2NTI1OTQ3LDE2MTA3OTYzOT
-MsLTE0MjQ1MzM5NzksLTIxMzE4MDk1MjksMTM5MDI1NjA4Miwx
-MjQyMDE4MSwtNTY1OTc5Mjc5LDEwNzk1NzExODksOTMzMDQ3Mz
-Q5LC02NjczMDExODgsMTI3MjY1Nzg4MywtMjUyMjA1Njg1XX0=
+eyJoaXN0b3J5IjpbLTEwMjE2NTE0ODEsMTQ1NTMxNDg4LDUyNz
+QwNzU5Nyw5ODg1OTgzNSwtNzU4MDQ4MTExLC00MTgwNjgzODYs
+MTI2MTI1Nzc2LDE5MDMxNjM1OSw5NTA1MTc5ODcsMjc2NTI1OT
+Q3LDE2MTA3OTYzOTMsLTE0MjQ1MzM5NzksLTIxMzE4MDk1Mjks
+MTM5MDI1NjA4MiwxMjQyMDE4MSwtNTY1OTc5Mjc5LDEwNzk1Nz
+ExODksOTMzMDQ3MzQ5LC02NjczMDExODgsMTI3MjY1Nzg4M119
 
 -->
