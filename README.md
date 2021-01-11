@@ -286,7 +286,7 @@ A geo-social system is something that affects people (**social**) at a given bou
 
 ## Concepts
 
-1. **Geodomain**: A bounded area that has an associated group of people who are running a democratic (web 4) system. 
+1. **Geodomain**: A bounded area that may contain or be contained by other geodomains and may have has an associated group of people (geotribe). 
 
 2. **Geotribe**: The group of people associated with a geodomain that are participants in a web 4 system.
 
@@ -490,11 +490,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI3NDA3NTk3LDk4ODU5ODM1LC03NTgwND
-gxMTEsLTQxODA2ODM4NiwxMjYxMjU3NzYsMTkwMzE2MzU5LDk1
-MDUxNzk4NywyNzY1MjU5NDcsMTYxMDc5NjM5MywtMTQyNDUzMz
-k3OSwtMjEzMTgwOTUyOSwxMzkwMjU2MDgyLDEyNDIwMTgxLC01
-NjU5NzkyNzksMTA3OTU3MTE4OSw5MzMwNDczNDksLTY2NzMwMT
-E4OCwxMjcyNjU3ODgzLC0yNTIyMDU2ODUsLTg2MTIxNjA3MF19
-
+eyJoaXN0b3J5IjpbLTE2MDYzMzM1MDksNTI3NDA3NTk3LDk4OD
+U5ODM1LC03NTgwNDgxMTEsLTQxODA2ODM4NiwxMjYxMjU3NzYs
+MTkwMzE2MzU5LDk1MDUxNzk4NywyNzY1MjU5NDcsMTYxMDc5Nj
+M5MywtMTQyNDUzMzk3OSwtMjEzMTgwOTUyOSwxMzkwMjU2MDgy
+LDEyNDIwMTgxLC01NjU5NzkyNzksMTA3OTU3MTE4OSw5MzMwND
+czNDksLTY2NzMwMTE4OCwxMjcyNjU3ODgzLC0yNTIyMDU2ODVd
+fQ==
 -->
