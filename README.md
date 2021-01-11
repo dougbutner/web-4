@@ -307,11 +307,9 @@ Once we have our geodomains, we must define what makes a geotribe.
 ### Geotribal Bonds
 Traditionally, it's the existence within a certain area, such as a place of residence or business, that is of importance for things like taxes, voting, and citizenship. When building a geo-social system, it's only necessary that an association is declared that is relevant for that system, which may or may not involve proving residency. 
 
-It is important for every system that each individual declare within one geotribe sothat their vote isn't counted twice. 
+It is important for every system that each individual declare within one geotribe so that their vote isn't counted twice. 
 
-When using stratified geodomains, such as geopolitically-based ones, 
-
-Geodomains are layered, with each level adding definition by refining larger Geodomain layers into 
+When using stratified geodomains, such as geopolitically-based ones, Geodomains are layered, with each level adding definition by refining larger Geodomain layers into 
 
 If a geopolitically-based geodomain system allows geotribe members to declare their own associated location without proof, the member is incentivized to be honest, as they will receive the most benefit from having their opinion heard where it matters to them. 
 
@@ -484,11 +482,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MDQyNDE3MCw1Mjc0MDc1OTcsOTg4NT
-k4MzUsLTc1ODA0ODExMSwtNDE4MDY4Mzg2LDEyNjEyNTc3Niwx
-OTAzMTYzNTksOTUwNTE3OTg3LDI3NjUyNTk0NywxNjEwNzk2Mz
-kzLC0xNDI0NTMzOTc5LC0yMTMxODA5NTI5LDEzOTAyNTYwODIs
-MTI0MjAxODEsLTU2NTk3OTI3OSwxMDc5NTcxMTg5LDkzMzA0Nz
-M0OSwtNjY3MzAxMTg4LDEyNzI2NTc4ODMsLTI1MjIwNTY4NV19
+eyJoaXN0b3J5IjpbMTQ1NTMxNDg4LDUyNzQwNzU5Nyw5ODg1OT
+gzNSwtNzU4MDQ4MTExLC00MTgwNjgzODYsMTI2MTI1Nzc2LDE5
+MDMxNjM1OSw5NTA1MTc5ODcsMjc2NTI1OTQ3LDE2MTA3OTYzOT
+MsLTE0MjQ1MzM5NzksLTIxMzE4MDk1MjksMTM5MDI1NjA4Miwx
+MjQyMDE4MSwtNTY1OTc5Mjc5LDEwNzk1NzExODksOTMzMDQ3Mz
+Q5LC02NjczMDExODgsMTI3MjY1Nzg4MywtMjUyMjA1Njg1XX0=
 
 -->
