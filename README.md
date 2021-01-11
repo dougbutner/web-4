@@ -290,7 +290,7 @@ A geo-social system is something that affects people (**social**) at a given bou
 
 Geodomains are akin to a level of organization like city or state, with a finite set of smaller areas making up the larger area. Geodomains can also be overlapping if desired. 
 
-### Geodomain Level  
+### Geodomain Levels  
 Across the globe, **one geopolitical (geodomain) pattern** seems to emerge, though names vary. Communities are within Cities, are within Counties, are within States, are within Nations, are within the World. 
 
 1. Community
@@ -300,7 +300,7 @@ Across the globe, **one geopolitical (geodomain) pattern** seems to emerge, thou
 5. Nations (aka Countries, States, Republics, etc)
 6. Global
  
-Using this existing geopolitical stratification is recommended for those wishing to build a web 4 system because it makes varying global systems easily storable in a one relational database model or similar data structure, and is understood by local people, governments, etc. 
+Using this existing geopolitical stratification is recommended for those wishing to build a web 4 system because it makes varying global systems easily storable in a one relational database model or similar data structure, and is understood by local people, governments, etc. Any other system is possible if one is willing to create it. 
 
 Once we have our geodomains, we must define what makes a geotribe.  
 
@@ -484,7 +484,7 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwODI3NDU1Miw1Mjc0MDc1OTcsOTg4NT
+eyJoaXN0b3J5IjpbMTMxNDI1MDEyNCw1Mjc0MDc1OTcsOTg4NT
 k4MzUsLTc1ODA0ODExMSwtNDE4MDY4Mzg2LDEyNjEyNTc3Niwx
 OTAzMTYzNTksOTUwNTE3OTg3LDI3NjUyNTk0NywxNjEwNzk2Mz
 kzLC0xNDI0NTMzOTc5LC0yMTMxODA5NTI5LDEzOTAyNTYwODIs
