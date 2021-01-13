@@ -129,7 +129,7 @@ In practice, a time unit is an integer that counts up the number of pre-defined 
 
 ## Time Tokens in practice
 
-If we were to create a time token for a US citizen to vote in the **US presidential election**, the time span would be 126144000 seconds (four years), and the epoch would be at a timestamp representing the start of the **election day previous to the first election** to use time tokens. On election day, an active faucet would send/offer one time token to each registered voter (aka Qualified Account) with a payload of the user's **unique identifier and the integer 1 as the time unit** (the next election would be 2, and so on.) The user would then send the token to the election's smart contract address with a **memo of their vote**. The system would check the identity of the voter, validity of the memo, and the time unit against their list to ensure they are voting in the correct election, **burn the token** (or else reverse the transaction if malformed), and send the user back another token representing a **"I Voted" sticker**. 
+If we were to create a time token for a US citizen to vote in the **US presidential election**, the time span would be 126144000 seconds (four years), and the epoch would be at a timestamp representing the start of the **election day previous to the first election** to use time tokens. On election day, an active faucet would send/offer one time token to each registered voter (aka Qualified Account) with a payload of the user's **unique identifier and the integer 1 as the time unit** (the next election would be 2, and so on.) The user would then send the token to the election's smart contract address with a **memo of their vote**. The system would check the identity of the voter as the one the token was minted to, validity of the memo, and the time unit against their list to ensure they are voting in the correct election, **burn the token** (or else reverse the transaction if malformed), and send the user back another token representing a **"I Voted" sticker**. 
 
 > This example intentionally doesn't account for anonymity
 
@@ -482,11 +482,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NTEwNjA2MSwtMTY4MjY1NTkwLDE5OD
-A3NjYxNTIsMTQ1NTMxNDg4LDUyNzQwNzU5Nyw5ODg1OTgzNSwt
-NzU4MDQ4MTExLC00MTgwNjgzODYsMTI2MTI1Nzc2LDE5MDMxNj
-M1OSw5NTA1MTc5ODcsMjc2NTI1OTQ3LDE2MTA3OTYzOTMsLTE0
-MjQ1MzM5NzksLTIxMzE4MDk1MjksMTM5MDI1NjA4MiwxMjQyMD
-E4MSwtNTY1OTc5Mjc5LDEwNzk1NzExODksOTMzMDQ3MzQ5XX0=
+eyJoaXN0b3J5IjpbLTEzMDY4MTI3MjEsLTE2ODI2NTU5MCwxOT
+gwNzY2MTUyLDE0NTUzMTQ4OCw1Mjc0MDc1OTcsOTg4NTk4MzUs
+LTc1ODA0ODExMSwtNDE4MDY4Mzg2LDEyNjEyNTc3NiwxOTAzMT
+YzNTksOTUwNTE3OTg3LDI3NjUyNTk0NywxNjEwNzk2MzkzLC0x
+NDI0NTMzOTc5LC0yMTMxODA5NTI5LDEzOTAyNTYwODIsMTI0Mj
+AxODEsLTU2NTk3OTI3OSwxMDc5NTcxMTg5LDkzMzA0NzM0OV19
 
 -->
