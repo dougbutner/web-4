@@ -129,7 +129,7 @@ In practice, a time unit is an integer that counts up the number of pre-defined 
 
 ## Time Tokens in practice
 
-If we were to create a time token for a US citizen to vote in the **US presidential election**, the time span would be 126144000 seconds (four years), and the epoch would be at a timestamp representing the start of the **election day previous to the first election** to use time tokens. On election day, an active faucet would send one time token to each registered voter (aka Qualified Account) with a payload of the user's **unique identifier and the integer 1 as the time unit** (the next election would be 2, and so on.) The user would then send the token to the election's smart contract address with a **memo of their vote**. The system would check the identity of the voter, validity of the memo, and the time unit against their list to ensure they are voting in the correct election, **burn the token** (or else reverse the transaction if malformed), and send the user back another token representing a **"I Voted" sticker**. 
+If we were to create a time token for a US citizen to vote in the **US presidential election**, the time span would be 126144000 seconds (four years), and the epoch would be at a timestamp representing the start of the **election day previous to the first election** to use time tokens. On election day, an active faucet would send/offer one time token to each registered voter (aka Qualified Account) with a payload of the user's **unique identifier and the integer 1 as the time unit** (the next election would be 2, and so on.) The user would then send the token to the election's smart contract address with a **memo of their vote**. The system would check the identity of the voter, validity of the memo, and the time unit against their list to ensure they are voting in the correct election, **burn the token** (or else reverse the transaction if malformed), and send the user back another token representing a **"I Voted" sticker**. 
 
 > This example intentionally doesn't account for anonymity
 
@@ -201,7 +201,6 @@ While I'm going to lay out a possible solution to use biometrics in a "trustless
 
 ___
 # **2**
-
 ___
 
 # **Proof of Individuality - Biokeys + Biosecrets**
@@ -214,8 +213,8 @@ Instead of a private key generated alongside a public key, **a hash of quantized
 ## Keys  
 1. **Biosecret**: A biosecret is a specific biometric expression that is quantized using cartesian grids into data points with a precision that makes it replicable for the individual in the future, but impossible for another person to duplicate, even an identical twin.
 
-2. **Biokey**: The biometric information that makes up a biosecret is hashed into a public biokey, making the original biometrics practically impossible to reconstruct for a biokey.
 
+2. **Biokey**: The biometric information that makes up a biosecret is hashed into a public biokey, making the original biometrics practically impossible to reconstruct for a biokey.
 
 
 ## How this can go wrong
@@ -226,6 +225,7 @@ In today's biometric space, static images are most commonly used for things like
 This stream of data (video + audio biometric expression) could be a user doing a series of hand gestures, singing a part of a song, speaking a phrase, speaking a phrase in different voices, clapping, making a series of facial expressions or movements, or anything else one can imagine.
 
 For security, biometric expressions (used to make a biokey) must be unique (for example, which combination of words to speak) and many types must be available (gestures, movement, singing, clapping, etc) and used in combination. **If each person's biokey was generated from the same single biometric expression, it would be a matter of time before specific AI could be developed to deepfake it for anyone**. If the user is the only one that knows their biometric expressions it becomes nearly impossible to guess the type and nature of the expression, and even if that is known, difficult to use the same technique on more than one account. The nature of the uniqueness could be chosen by the user, or generated at random from the biokey software which would prompt the user to complete an action in a specific way. 
+
 
 ## Why do we need this, again?
 Democratic systems certainly are being built without biometric verification, and will continue to be even after suitable biometric technology develops along the open source, client-side requirements. For now, **decentralized solutions** like [Civic](https://www.civic.com/), and centralized tech like [Facetec](https://www.facetec.com/FaceTec_3D_Face_Matching_Whitepaper.pdf) provide the necessary individuality at the cost of trust and requirement of citizenship. Additionally, **biometric data can be avoided entirely** by using a social verification platform like [BrightID](https://www.brightid.org/) As different projects implement web 4 in their own ways, the ideas presented thus far will develop as flaws are found. And there's always the ability to use a whitelist, the most low-tech, high-trust, and simplest solution.
@@ -482,11 +482,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODI2NTU5MCwxOTgwNzY2MTUyLDE0NT
-UzMTQ4OCw1Mjc0MDc1OTcsOTg4NTk4MzUsLTc1ODA0ODExMSwt
-NDE4MDY4Mzg2LDEyNjEyNTc3NiwxOTAzMTYzNTksOTUwNTE3OT
-g3LDI3NjUyNTk0NywxNjEwNzk2MzkzLC0xNDI0NTMzOTc5LC0y
-MTMxODA5NTI5LDEzOTAyNTYwODIsMTI0MjAxODEsLTU2NTk3OT
-I3OSwxMDc5NTcxMTg5LDkzMzA0NzM0OSwtNjY3MzAxMTg4XX0=
+eyJoaXN0b3J5IjpbLTI0NTEwNjA2MSwtMTY4MjY1NTkwLDE5OD
+A3NjYxNTIsMTQ1NTMxNDg4LDUyNzQwNzU5Nyw5ODg1OTgzNSwt
+NzU4MDQ4MTExLC00MTgwNjgzODYsMTI2MTI1Nzc2LDE5MDMxNj
+M1OSw5NTA1MTc5ODcsMjc2NTI1OTQ3LDE2MTA3OTYzOTMsLTE0
+MjQ1MzM5NzksLTIxMzE4MDk1MjksMTM5MDI1NjA4MiwxMjQyMD
+E4MSwtNTY1OTc5Mjc5LDEwNzk1NzExODksOTMzMDQ3MzQ5XX0=
 
 -->
