@@ -50,7 +50,7 @@ Today, the top 100 websites/apps by traffic are [all](https://www.alexa.com/tops
 
 As more and more individuals and societies are reconsidering the place of **government, censorship, centralization and federated power**, web 3 has emerged as a powerful, provable option to shape the evolution of information and society on planet Earth. 
 
-A growing portion of web 2 websites and applications today have elements of web 3, like [cryptoblogs](https://peakd.com) and [games](https://www.stateofthedapps.com/rankings/category/games). While web 2 and web 3 can operate independently, web 3 enhances the abilities of web 2. Similarly, web 3 and web 4 can operate independently, but it makes the most sense for web 4 to be built on blockchains to gain the benefits of reliability and transparency. 
+A growing portion of web 2 websites and applications today have elements of web 3, like [cryptoblogs](https://peakd.com) and [games](https://www.stateofthedapps.com/rankings/category/games). While web 2 and web 3 can operate independently. Web 3 appenhances the abilities of web 2, as any web 2 website can tokenize to access web 3 features. Similarly, web 3 and web 4 can operate independently, but it makes the most sense for web 4 to be built on blockchains to gain the benefits of reliability and transparency. 
 
 ## Guiding Philosophy
 Web 4 seeks to implement [biomimetic](https://biomimicry.org/what-is-biomimicry/) systems in **harmony with the universe itself** by replicating nature: the **abundance** of the Sun, rising **entropy**, and the **equality** of each human being. 
@@ -482,11 +482,11 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDY4MTI3MjEsLTE2ODI2NTU5MCwxOT
-gwNzY2MTUyLDE0NTUzMTQ4OCw1Mjc0MDc1OTcsOTg4NTk4MzUs
-LTc1ODA0ODExMSwtNDE4MDY4Mzg2LDEyNjEyNTc3NiwxOTAzMT
-YzNTksOTUwNTE3OTg3LDI3NjUyNTk0NywxNjEwNzk2MzkzLC0x
-NDI0NTMzOTc5LC0yMTMxODA5NTI5LDEzOTAyNTYwODIsMTI0Mj
-AxODEsLTU2NTk3OTI3OSwxMDc5NTcxMTg5LDkzMzA0NzM0OV19
-
+eyJoaXN0b3J5IjpbMTI2OTA1ODQ3OSwtMTMwNjgxMjcyMSwtMT
+Y4MjY1NTkwLDE5ODA3NjYxNTIsMTQ1NTMxNDg4LDUyNzQwNzU5
+Nyw5ODg1OTgzNSwtNzU4MDQ4MTExLC00MTgwNjgzODYsMTI2MT
+I1Nzc2LDE5MDMxNjM1OSw5NTA1MTc5ODcsMjc2NTI1OTQ3LDE2
+MTA3OTYzOTMsLTE0MjQ1MzM5NzksLTIxMzE4MDk1MjksMTM5MD
+I1NjA4MiwxMjQyMDE4MSwtNTY1OTc5Mjc5LDEwNzk1NzExODld
+fQ==
 -->
