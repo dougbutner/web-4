@@ -50,7 +50,7 @@ Today, the top 100 websites/apps by traffic are [all](https://www.alexa.com/tops
 
 As more and more individuals and societies are reconsidering the place of **government, censorship, centralization and federated power**, web 3 has emerged as a powerful, provable option to shape the evolution of information and society on planet Earth. 
 
-A growing portion of web 2 websites and applications today have elements of web 3, like [cryptoblogs](https://peakd.com) and [games](https://www.stateofthedapps.com/rankings/category/games). While web 2 and web 3 can operate independently. Web 3 apps can be completely on-chain, or integrated into any web 2 website (ie. tokenization) to access web 3 features. Similarly, web 3 and web 4 can operate independently, but it makes the most sense for web 4 to be built on blockchains to gain the benefits of reliability and transparency. 
+A growing portion of web 2 websites and applications today have elements of web 3, like [cryptoblogs](https://peakd.com) and [games](https://www.stateofthedapps.com/rankings/category/games). While web 2 and web 3 can operate independently. Web 3 apps can be completely on-chain, or integrated into any web 2 website (ie. tokenization) to access web 3 features. Similarly, web 3 and web 4 can operate independently, but it makes the most sense for web 4 to be built on blockchains (web 3) to gain the benefits of reliability and transparency. 
 
 ## Guiding Philosophy
 Web 4 seeks to implement [biomimetic](https://biomimicry.org/what-is-biomimicry/) systems in **harmony with the universe itself** by replicating nature: the **abundance** of the Sun, rising **entropy**, and the **equality** of each human being. 
@@ -482,7 +482,7 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 		//returns data snapped to grid (recursively scans object passed)
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTg2Nzc2OCwtMTMwNjgxMjcyMSwtMT
+eyJoaXN0b3J5IjpbLTcyNDI1OTQyNiwtMTMwNjgxMjcyMSwtMT
 Y4MjY1NTkwLDE5ODA3NjYxNTIsMTQ1NTMxNDg4LDUyNzQwNzU5
 Nyw5ODg1OTgzNSwtNzU4MDQ4MTExLC00MTgwNjgzODYsMTI2MT
 I1Nzc2LDE5MDMxNjM1OSw5NTA1MTc5ODcsMjc2NTI1OTQ3LDE2
