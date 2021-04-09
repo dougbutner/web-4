@@ -41,7 +41,7 @@ Before we detail web 4, we must look briefly at the concepts of web 1, web 2, an
 **Dynamic web**. Web pages take a user's information and desires into account to build a unique experience for them. Asynchronous requests allow single page applications to thrive. Applications are still served from a central server.
 
  - **Web 3**
-**Decentralized web**. Applications, often open-source, exist in distributed networks instead of a central server. This unfederated model trades control and censorship ability for freedom and autonomy. 
+**Decentralized web**. Applications, often open-source, exist in distributed networks instead of a central server. This unfederated model trades control and censorship for freedom and autonomy. 
 
  - **Web 4**
 **Time web**. Time-limited tokens are given to each individual, and used as a measure of opinion or desire in collaborative systems.
@@ -71,9 +71,9 @@ Web 4 introduces **four modular components** for **provably democratic systems**
  3. **Information Entropy**
 	 Information degradation over time, increasing cost to call smart contracts over time accounts in sensitive systems
  4. **Harmonic Geo-social Systems**
-	 Fair, transparent collaboration through accounting the opinions and desires of participants, including in existing geopolitical 
+	 Equal and transparent collaboration through accounting the opinions and desires of participants in geographic bounds which may be defined by geopolitical tradition or current collectives. 
 
-Each module can be used separately or in tandem. This paper invites you to involve any of these ideas into your current and future projects. We will discuss these concepts one at a time, but first let's examine why we need them in the first place. 
+Each module can be implemented separately or in tandem. This paper invites you to involve any of these ideas into your current or future projects. We will discuss these concepts one at a time, but first let's examine why we need them in the first place. 
 
 
 # Why we must grow from web 3 to evolve time
@@ -481,12 +481,3 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 	function snapBioDataToGranularPath(rangedBioDataParam){
 		//returns data snapped to grid (recursively scans object passed)
 	}
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NTY1MTgxMywtNzI0MjU5NDI2LC0xMz
-A2ODEyNzIxLC0xNjgyNjU1OTAsMTk4MDc2NjE1MiwxNDU1MzE0
-ODgsNTI3NDA3NTk3LDk4ODU5ODM1LC03NTgwNDgxMTEsLTQxOD
-A2ODM4NiwxMjYxMjU3NzYsMTkwMzE2MzU5LDk1MDUxNzk4Nywy
-NzY1MjU5NDcsMTYxMDc5NjM5MywtMTQyNDUzMzk3OSwtMjEzMT
-gwOTUyOSwxMzkwMjU2MDgyLDEyNDIwMTgxLC01NjU5NzkyNzld
-fQ==
--->
