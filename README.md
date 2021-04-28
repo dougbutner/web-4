@@ -1,4 +1,4 @@
-# The Web 4 Manifesto: Awakening the Time Web 
+# The Web 4 Manifesto: Awakening the Geotemporal Grid 
 
 by Douglas James Butner 
 douglas@cxc.world
