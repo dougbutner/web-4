@@ -13,7 +13,7 @@ This README features a description of the next evolution of the web, **web 4**. 
 
 # What is Web 4?
 
-Web 4 is a set of four **modular paradigms** (time tokens, biokeys, information entropy, and geo-social systems) that allow integration of **provable democracy in any social system** that seeks to be more collaborative (organization, government, community, etc.). Modularity allows any project to adopt one or more of these principles to **increase the accuracy, fairness, and transparency** of each individual's role in **collaboration**. 
+Web 4 is a set of four **modular paradigms** (time tokens, provable personhood, information entropy, and geo-social systems) that allow integration of **provable democracy in any social system** that seeks to be more collaborative (organization, government, community, etc.). Modularity allows any project to adopt one or more of these principles to **increase the accuracy, fairness, and transparency** of each individual's role in **collaboration**. 
 
 Web 4 is **built on top of web 3** (it's blockchain-based) while being **fundamentally different** and providing enough **benefit to society** warrant the new title of web 4. 
 
@@ -69,7 +69,7 @@ Web 4 introduces **four modular components** for **provably democratic systems**
  2. **Proof of Individuality (One Person, One Account)**
 	 Biometric Secrets, Social Verification, Proof of Liveness, white lists, etc. are used to guarantee no individual can collect two time tokens for a given interval by holding two accounts. 
  3. **Information Entropy**
-	 Information degradation over time, increasing cost to call smart contracts over time accounts in sensitive systems
+	 Information degradation over time, increasing cost to call smart contracts over time
  4. **Harmonic Geo-social Systems**
 	 Equal and transparent collaboration through accounting the opinions and desires of participants in geographic bounds which may be defined by geopolitical tradition or current collectives. 
 
@@ -203,8 +203,8 @@ ___
 # **2**
 ___
 
-# **Proof of Individuality - Biokeys + Biosecrets**
-> **Please Note:** There are solutions available today (like [FaceTec](https://www.facetec.com/) and [BrightID](https://www.brightid.org/)) that solve the same issues presented here. This paper seeks to outline a web 3-based system (decentralized + open source) that can run without a centralized actor, while not providing specifics to accomplish these goals. This is more of a thought experiment than a suggestion or requirement. 
+# **Proof of Individuality - Biokeys, Biosecrets, + Social Verification**
+> **Please Note:** This paper originally only spoke of biokeys and has been expanded to include social verification. There are solutions available today (like [FaceTec](https://www.facetec.com/) and [BrightID](https://www.brightid.org/)) that solve the same issues presented here. This paper seeks to outline a web 3-based system (decentralized + open source) that can run without a centralized actor, while not providing specifics to accomplish these goals. This is more of a thought experiment than a suggestion or requirement. 
 
 **Biometric secrets (biosecrets)** are akin to any cryptographic private key, but they are your actual biological data, or, more specifically, a four dimensional expression of your humanness from which biometric data is collected. 
 
