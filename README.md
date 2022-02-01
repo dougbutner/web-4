@@ -488,7 +488,7 @@ web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 
 
 	// Finally, the real biokey is returned as an object of hashed biometric data, 
-  // which will be checked by comparing each granular piece of data's hash to the incoming granular hashes
+  	// which will be checked by comparing each granular piece of data's hash to the incoming granular hashes
 
 	  return bioMatrix; // Biokey
 
