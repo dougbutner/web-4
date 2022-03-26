@@ -2,13 +2,10 @@
 
 by Douglas James Butner 
 douglas@cxc.world
- 
-
-
 
 [![Mentioned in Awesome Web 4](https://awesome.re/mentioned-badge.svg)](https://github.com/dougbutner/awesome-web4)
 
-## About This Repo 
+## About This Repo
 
 This README features a description of the next evolution of the web, **web 4**. As the technologies emerge, this repo will also feature code and links to the associated technologies. For more cool Web 4 stuff, visit the [**Awesome Web 4**](https://github.com/dougbutner/awesome-web4) repo.
 
@@ -260,13 +257,16 @@ With **information entropy**, it is difficult, but not impossible, to piece toge
 
 An extension of this idea is to require more and more time tokens be accumulated by an account to interact with a smart contract. For example, you could require an account needs to receive 1 *event participation token* to interact with an event modification contract, then increase this requirement as more events take place, which would be represented by referencing passing time units in a smart contract. 
 
+Other examples can make it more expensive to change a record from the past, make it more expensive to join a group, change probabilities an action causes another action, or even limit any past state's effect on the future of a blockchain. 
+
 ## Information Entropy and Biosecrets
 Information fidelity requirements can also be degraded over time. For example, when generating a user's biokey, it can be assumed that the more time that passes, the more the biometrics of the individual will change. 
 
 ### Degradation of Biokeys
 **Biokeys** are generated from a **range of biometric values**. This range of values can be expanded over time based on specific, well researched paths. The effect is, instead of having one hashed biokey for eternity, the generation process will create a set of biokeys from an increasingly **wide range of data**. This concept may be needed to keep people in control of their accounts as they age. There is considerable work to be done to develop this concept, as each data type has its own considerations and complications. 
 
-In this case, as time goes on, someone attempting to prove their individuality would have to spend a lot **more effort** to run the algorithms against their collected biodata, and the data **precision** needed to match the person's identity is actually **lower**. This is an example of increasing information entropy lowering **information fidelity**. Other examples can make it more expensive to change a record from the past, make it harder to find out the ID of a voter, or even limit a past state's effect on the future of a blockchain. 
+In this case, as time goes on, someone attempting to prove their individuality would have to spend a lot **more effort** to run the algorithms against their collected biodata, and the data **precision** needed to match the person's identity is actually **lower**. This is an example of increasing information entropy lowering **information fidelity**. This is possible because of the granularity of the matrix used to generate a biokey. You can compute the millions of possible hashes related to these quantized pieces of data, and expand the acceptable range over time. 
+
 
 ## Proceed with Caution 
 While the inclusion of this concept into web 4 may seem **unnecessary** at the moment, it is another guarantee of the privacy that is needed for many **social applications**. Philosophically, degradation of information also fits in with the general web 4 desire to reflect [systems in nature](https://en.wikipedia.org/wiki/Second_law_of_thermodynamics). 
