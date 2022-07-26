@@ -444,11 +444,7 @@ Here's a sample function to convert from timestamp to a time unit. Time-based sy
 
 Here's an example of a [smart contract structure](https://github.com/dougbutner/beta-pseudo/blob/main/real-contracts/ups.hpp) implementing the time token concept on EOSIO blockchain technology to make a democratic music map. The missing functionality in this example is the distribution of Time Token, handled in another contract. 
 
-<<<<<<< HEAD
 In this contract, the tokens used to do the voting are Time Tokens for the dapp cXc.world. The contract listens for transferes of this time token to the contract, and assigns an equal amount of weight to each vote in `logup()`. To view the full contract an actions, review the [open-source contract on Github](https://github.com/dougbutner/beta-pseudo/blob/main/real-contracts/ups.hpp) and to understand what the concepts are, view the [explainer document](https://github.com/currentxchange/purple-explainer).
-=======
-In this contract, the tokens used to do the voting are Time Tokens for the dapp cXc.world. The contract listens for transferes of this time token to the contract, and assigns an equal amount of weight to each vote in `logup()`. To view the full contract an actions, review the [open-source contract on Github.](https://github.com/dougbutner/beta-pseudo/blob/main/real-contracts/ups.hpp) and to understand what the concepts are, view the [explainer document]()
->>>>>>> c74d6c2615e4d7f83b55a17063745950f32429ed
 
   #include "eosio/eosio.hpp"
   #include <eosio/asset.hpp>
