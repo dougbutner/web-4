@@ -1,9 +1,11 @@
-# The Web 4 Manifesto: Awakening the Geotemporal Grid 
+# The Web 4 Manifesto: Provable Democracy 
 
 by Douglas James Butner 
 douglas@cxc.world
 
 [![Mentioned in Awesome Web 4](https://awesome.re/mentioned-badge.svg)](https://github.com/dougbutner/awesome-web4)
+
+> [Support Development ☕️](https://gitcoin.co/grants/7024/provable-democracy)
 
 ## About This Repo
 
@@ -51,9 +53,11 @@ As more and more individuals and societies are reconsidering the place of **gove
 A growing portion of web 2 websites and applications today have elements of web 3, like [cryptoblogs](https://peakd.com) and [games](https://www.stateofthedapps.com/rankings/category/games). While web 2 and web 3 can operate independently. Web 3 apps can be completely on-chain, or integrated into any web 2 website (ie. tokenization) to access web 3 features. Similarly, web 3 and web 4 can operate independently, but it makes the most sense for web 4 to be built on blockchains (web 3) to gain the benefits of reliability and transparency. 
 
 ## Guiding Philosophy
-Web 4 seeks to implement [biomimetic](https://biomimicry.org/what-is-biomimicry/) systems in **harmony with the universe itself** by replicating nature: the **abundance** of the Sun, rising **entropy**, and the **equality** of each human being. 
+Web 4 seeks to implement [biomimetic](https://biomimicry.org/what-is-biomimicry/) systems in **harmony with the universe itself** by replicating nature: the **abundance** of the Sun, rising **entropy**, and the **similarity** + **uniqueness** of each human being. 
 
 Web 4 tests the hypothesis that when we create information systems in **harmonic resonance** with natural systems, our society will be able to advance more rapidly than ever before, as we will be able to **synchronize energetically** with the larger systems of bioelectromagnetic information processing around us (the Earth, Sun, and Galactic core). 
+
+Web 4 catalyzes free will by empowering collective decision making to manifest common goals and desires. Web4 strive to make systems that are public, provable, and powerful. These systems find use in curation, community, and consensus. 
 
 
 ## Defining Web 4
@@ -84,7 +88,7 @@ POS and DPOS are additionally used in projects like [**Hive**](https://peakd.com
 
 However, both of these POS/DPOS use cases (curation and resource allocation) are not democratic in the sense that **each account is not equal**. In both cases, the root of democracy is in the token, not the individual, and the ownership of tokens determines the voting power or computing power held by an individual. 
 
-In the end, the only way to implement true democracy in any system is through giving **each individual equal power**. The only way to do this while keeping web 3's decentralized nature is to implement the technological and idealogical advancements needed for a **one individual,  one account** system. These advancements needed for provable high-fidelity democracy are, for simplicity and communication, called web 4. 
+In the end, the only way to implement true democracy in any system is through giving **each individual equal power**. The only way to do this while keeping web 3's decentralized nature is to implement the technological and idealogical advancements needed for a **one individual,  one account** system. These advancements needed for provable high-fidelity democracy are, for simplicity and communication, called web 4. These principles aren't intended to be used for block production consensus, but for  
 
 Finally, there are many times that **we don't want each person to be granted equal power** in a democratic system simply for being born a human in a place. **Merit-based** (requires certification), **choice-based** (chosen by members of the system) or **action-based** (pre-vote action like education) requirements may be implemented in smart contracts as long as that action or merit is represented in data objects, such as the [badge system in Hypha DHO](https://dho.hypha.earth/#/documents/badge). High-fidelity democracy (many integer-voting units per person's vote) can give an individual fractional or multiplied influence in a transparent way by using whole numbers as a multiplier of a set, system-wide voting power defined as the granted influence on consensus every voting member is given.
 
@@ -126,13 +130,15 @@ Time tokens are platform-independent, and need only the ability to store or impl
 
 In practice, a time unit is an integer that counts up the number of pre-defined time spans that have passed since an **epoch**. The epoch is typically when the system went live, and represents the first time unit. 
 
-## Possible Use Case of Time Tokens
+## Provable Democracy with Time Tokens
 
 If we were to create a time token for a US citizen to vote in the **US presidential election**, the time span would be 126144000 seconds (four years), and the epoch would be at a timestamp representing the start of the **election day previous to the first election** to use time tokens. On election day, an active faucet would send/offer one time token to each registered voter (requires module 2: provable individuality) with a payload of the user's **unique identifier and the integer 1 as the time unit** (the next election would be 2, and so on.) The user would then send the token to the election's smart contract address with a **memo of their vote**. The system would check the identity of the voter as the one the token was minted to, validity of the memo, and the time unit against their list to ensure they are voting in the correct election, then **burn the token** (or else reverse the transaction if malformed), and send the user back another token representing a **"I Voted" sticker**. 
 
 > This example intentionally doesn't account for anonymity
 
-**This example is trivial.** It becomes beneficial when we realize that we can just as easily send the person 12 voting tokens so they can vote on their first, second and third choice. It becomes even more interesting when we send tokens **every month** (or so) and allow the people to **vote directly on the bills that are being presented to their respective legislative bodies**. It becomes even more expansive when we have the faucet smart contract require **educational actions**, such as opening a link to information on these bills (summary and the full text) **to receive their votable time tokens**. 
+**This example is simply implementing an existing system.** It becomes beneficial when we realize that we can just as easily send the person 12 voting tokens so they can vote on their first, second and third choice. It becomes even more interesting when we send tokens **every month** (or so) and allow the people to **vote directly on the bills that are being presented to their respective legislative bodies**, just for fun, equivalent to a poll. It becomes even more expansive when we have the faucet smart contract require **educational actions**, such as opening a link to information on these bills (summary and the full text) **to receive their votable time tokens**. 
+
+It seems that the only way to beat misinformation is with information. By enforcing the integrity of voter informedness according to known metrics, a solution may be developed where opinion can be trusted to be at least well-representative of the population's desires. 
 
 ## A Simple Example in web 2
 
@@ -198,6 +204,9 @@ The truth is, **all systems have some level of trust**, even if that's just in t
 
 While I'm going to lay out a possible solution to use biometrics in a "trustless" way that fits with web 3 ideals, personally I think it's a bad idea in general, and I won't be designing my Web 4 apps with it for quite some time, if ever, because I think social verification is more trustworthy for all stakeholders. 
 
+## Are Time Tokens needed?
+For a minimal system, there is no need for a token to track time. Any stored time point can be calculated in real time to determine the user's weight in curation or consensus forming. Any on-chain datastore would do, and there's even possibilities for manual input through photo-hashing pictures of a user's inked response on a printed paper. 
+
 ___
 # **2**
 ___
@@ -210,10 +219,11 @@ ___
 Instead of a private key generated alongside a public key, **a hash of quantized biometric data becomes your public key**, which is paired with your **actual flesh-and-blood-and-sound-and-movement-data, your private/secret key**, or as we call it "**biosecret**" which isn't stored on any server or blockchain. 
 
 ## Keys  
-1. **Biosecret**: A biosecret is a specific biometric expression that is quantized using cartesian grids into data points with a precision that makes it replicable for the individual in the future, but impossible for another person to duplicate, even an identical twin.
+1. **Biometric Key**: Digital identity keys generated static assessments of an individual's physical characteristics. (Fingerprint, Iris, Facial recognition)
 
+2. **Biokinetic Key**: Digital Identity keys generated is a specific biometric expression measured over time via movement. (Voice Recognition)
 
-2. **Biokey**: The biometric information that makes up a biosecret is hashed into a public biokey, making the original biometrics practically impossible to reconstruct for a biokey.
+3. **Biokey**: Any type of private key generated by an individual's measurable characteristics or expression. (Includes Biokinetic and Biometric)
 
 
 ## How this can go wrong
@@ -230,6 +240,9 @@ With a wallet storing your encrypted key, you will only need to preform your bio
 
 ## Why do we need this, again?
 Democratic systems certainly are being built without biometric verification, and will continue to be even after suitable biometric technology develops along the open source, client-side requirements. For now, **decentralized solutions** like [Civic](https://www.civic.com/), and centralized tech like [Facetec](https://www.facetec.com/FaceTec_3D_Face_Matching_Whitepaper.pdf) provide the necessary individuality at the cost of trust and requirement of citizenship. Additionally, **biometric data can be avoided entirely** by using a social verification platform like [BrightID](https://www.brightid.org/) or piggybacking a community like [Eden on EOS](https://edeneos.org/) that has a list of socially verified accounts on-chain. As different projects implement web 4 in their own ways, the ideas presented thus far will develop as flaws are found. And there's always the ability to use a whitelist, the most low-tech, high-trust, and simplest solution.
+
+## Integrations
+Solutions exist to allow any developer to prompt for a fingerprint scan or facial scan, even from the browser. [4] This makes integration of an already-accepted biokey type on a cellphone into any web3 application feasible. 
 
 ## Trust Issues
 The biggest issue with biometrics is the lack of trust the general population has (or should have) with giving up their biometric data, including the growing number of facial recognition softwares and databases. The lack of trust is almost always associated with an individual's **lack of clear consent**, and lack of understanding the technology itself. 
@@ -338,7 +351,7 @@ The democratic system described in this paper does not solve all problems, as th
 
 **Time Tokens** are implemented on any and all blockchains where developers see the value. These developers provide open-source instructions and tools to helps other developers incorporate time tokens into their applications. Services develop to allow any dapp to integrate a provider's time tokens. 
 
-**Provable individuality** for Time Tokens is up to each application and blockchain, and these application can choose to ignore this requirement, risking their systems' integrity. **Federated** (Facetec) and **decentralized** (Civic) options may be used, and so can social verification (BrightID).
+**Provable individuality** for Time Token issuance is up to each application and blockchain, and these application can choose to ignore this requirement, risking their systems' integrity. **Federated** (Facetec) and **decentralized** (Civic) options may be used, and so can social verification (BrightID), as well as simpler development libraries for common web development frameworks like Vue, Angular and React.
 
 **Information entropy** and **geosocial systems** are starting to be theorized, but not showing up. 
 
@@ -368,7 +381,7 @@ The democratic system described in this paper does not solve all problems, as th
 
 **Provable Identity** is now possible as suggested in this manifesto through the maturity of the biometric secrets. Standards are being created openly, or, it is decided that the way presented here is not needed as a better way is found. Or, biokeys are completely abandoned as a form of social verification is found that can replace it. 
 
-**Geosocial systems** are being used to run and govern communities which are not dependent on traditional representative government. Existing governments are adopting time tokens to get a better read on what legislation the people want. 
+**Geosocial systems** are being used to run and govern communities which are not dependent on traditional representative government. Existing municipalities are adopting time tokens to get a better read on what legislation the people want. 
 
 Organizations of all sizes are using time tokens to shift power to employees. 
 
@@ -417,9 +430,21 @@ ___
 [3] - Nishimura H., Kanoshima E., Kono K. (2019) Advancement in Science and Technology and Human Societies. In: Abe S., Ozawa M., Kawata Y. (eds) Science of Societal Safety. Trust (Interdisciplinary Perspectives), vol 2. Springer, Singapore. https://doi.org/10.1007/978-981-13-2775-9_2 (Specifically section 2.1.3) 
 web [link](https://link.springer.com/chapter/10.1007/978-981-13-2775-9_2)
 
+[4] - Face.io Integration Guide - Web [link](https://faceio.net/integration-guide)
+
 
 
 # Mini Changelog
+
+# version 1.0.0
+
+### Added
+- Information about the open-source integrations of biokeys in web2 and web3 development. 
+- Time Token code 
+
+### Changed
+- Title and other text moved towards "Democracy" wording
+- Redefining Biokeys as a conceptual category containing biokinetic + biometric keys, with room for other types
 
 ## version 0.1.0 
 
