@@ -5,7 +5,7 @@ douglas@cxc.world
 
 [![Mentioned in Awesome Web 4](https://awesome.re/mentioned-badge.svg)](https://github.com/dougbutner/awesome-web4)
 
-> [Support Development ☕️](https://gitcoin.co/grants/7024/provable-democracy)
+> [Support Development by HODLing the original Web4 Token, PURPLE ☕️](https://wax.alcor.exchange/swap/?input=WAX-eosio.token&output=PURPLE-purplepurple)
 
 ## About This Repo
 
