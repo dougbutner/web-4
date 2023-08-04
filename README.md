@@ -5,7 +5,7 @@ douglas@cxc.world
 
 [![Mentioned in Awesome Web 4](https://awesome.re/mentioned-badge.svg)](https://github.com/dougbutner/awesome-web4)
 
-> [Support Development by HODLing the original Web4 Token, PURPLE ☕️](https://wax.alcor.exchange/swap/?input=WAX-eosio.token&output=PURPLE-purplepurple)
+> [Learn about the first web4 system ⨻ Tetra](https://linktr.ee/tetra.earth)
 
 ## About This Repo
 
