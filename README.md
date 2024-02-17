@@ -332,7 +332,7 @@ When using stratified geodomains, such as geopolitically-based ones, Geodomains 
 
 If a geopolitically-based geodomain system allows geotribe members to declare their own associated location without proof, the member is incentivized to be honest, as they will receive the most benefit from having their opinion heard where it matters to them. 
 
-All "non-proof" systems should place restrictions on switching voluntarily-given geodomain association too often (such as once per 6 months) to prevent influencing foreign affairs. 
+Any implementation place restrictions on switching voluntarily-given geodomain association too often (such as once per 6 months) to prevent influencing foreign affairs. 
  
 
 # High-Fidelity Democracy 
@@ -341,7 +341,7 @@ By offering time tokens to the individual that correspond to each stratum we can
 
 For example, a person may be given 12 time tokens per month at each stratum to vote on the initiatives that they would like to see passed. They may vote all 12 tokens for an initiative they are most passionate about, or 1 token to 12 different initiatives (or 2 to 6 initiatives, etc). By collecting and counting these tokens, the governing body can **know exactly what their constituents want**, without the direct need to elect a representative who only estimates these desires. 
 
-The democratic system described in this paper does not solve all problems, as there are still issues of voter informedness, unseen actors, and more, but it is a skeleton to build a collaborative social system that are an **improvement to the representative governments** which were once as revolutionary as these ideas are. 
+The democratic system described in this paper does not seek to solve all problems. It is a skeleton to build an informed collaborative social system **closer to the true definition of democracy** than the nation I grew up in. 
 
 
 # Roadmap to Web 4 Reality
